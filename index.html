@@ -632,7 +632,8 @@ dari cara aku nulis pengalaman.</div>
     if (key) {
       status.textContent = '✅ Tersimpan';
       status.style.color = 'var(--green)';
-      input.value = key.slice(0, 12) + '••••••••••••';
+      input.value = '';
+      input.placeholder = key.slice(0, 14) + '••••••••••••••••••••';
     } else {
       status.textContent = '⚠️ Belum diisi';
       status.style.color = 'var(--orange-dark)';
@@ -778,4 +779,5 @@ Balas HANYA dengan JSON array, tidak ada teks lain:
 </script>
 </body>
 </html>
+
 
