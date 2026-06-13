@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GoGlobal AI — Threads Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --blue: #185FA5;
+      --blue-light: #E6F1FB;
+      --blue-mid: #0C447C;
+      --orange: #EF9F27;
+      --orange-light: #FAEEDA;
+      --orange-dark: #BA7517;
+      --green: #1D9E75;
+      --green-light: #E1F5EE;
+      --green-dark: #085041;
+      --bg: #F7F8FA;
+      --bg-card: #FFFFFF;
+      --bg-secondary: #F2F4F7;
+      --border: #E4E7EC;
+      --text: #111827;
+      --text-secondary: #6B7280;
+      --radius-sm: 8px;
+      --radius-md: 10px;
+      --radius-lg: 14px;
+      --shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* LAYOUT */
+    .layout { display: flex; min-height: 100vh; }
+
+    /* SIDEBAR */
+    .sidebar {
+      width: 220px;
+      background: var(--bg-card);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      padding: 1.25rem 0;
+      position: fixed;
+      top: 0; left: 0; bottom: 0;
+    }
+    .sidebar-logo {
+      display: flex; align-items: center; gap: 10px;
+      padding: 0 1.25rem 1.25rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 1rem;
+    }
+    .logo-icon {
+      width: 34px; height: 34px; border-radius: 9px;
+      background: var(--blue);
+      display: flex; align-items: center; justify-content: center;
+    }
+    .logo-icon i { color: #fff; font-size: 18px; }
+    .logo-text { font-size: 14px; font-weight: 600; color: var(--text); }
+    .logo-sub { font-size: 11px; color: var(--text-secondary); }
+
+    .sidebar-nav { padding: 0 0.75rem; flex: 1; }
+    .nav-label { font-size: 10px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.08em; padding: 0 0.5rem; margin: 0.75rem 0 0.35rem; }
+    .nav-item {
+      display: flex; align-items: center; gap: 10px;
+      padding: 8px 10px; border-radius: var(--radius-sm);
+      font-size: 13px; color: var(--text-secondary);
+      cursor: pointer; margin-bottom: 2px;
+      transition: all 0.15s;
+    }
+    .nav-item:hover { background: var(--bg-secondary); color: var(--text); }
+    .nav-item.active { background: var(--blue-light); color: var(--blue); font-weight: 500; }
+    .nav-item i { font-size: 17px; }
+
+    .sidebar-bottom {
+      padding: 0.75rem;
+      border-top: 1px solid var(--border);
+      margin-top: auto;
+    }
+    .status-badge {
+      display: flex; align-items: center; gap: 8px;
+      background: var(--green-light); border-radius: var(--radius-sm);
+      padding: 8px 10px;
+    }
+    .status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
+    .status-text { font-size: 12px; color: var(--green-dark); font-weight: 500; }
+
+    /* MAIN */
+    .main { margin-left: 220px; padding: 1.5rem; flex: 1; }
+
+    /* TOPBAR */
+    .topbar {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 1.5rem;
+    }
+    .topbar-title { font-size: 18px; font-weight: 600; color: var(--text); }
+    .topbar-sub { font-size: 13px; color: var(--text-secondary); margin-top: 2px; }
+    .topbar-right { display: flex; align-items: center; gap: 10px; }
+    .btn-primary {
+      background: var(--blue); color: #fff; border: none;
+      padding: 8px 16px; border-radius: var(--radius-sm);
+      font-size: 13px; font-weight: 500; cursor: pointer;
+      display: flex; align-items: center; gap: 6px;
+    }
+    .btn-primary i { font-size: 16px; }
+    .btn-secondary {
+      background: var(--bg-card); color: var(--text);
+      border: 1px solid var(--border);
+      padding: 8px 14px; border-radius: var(--radius-sm);
+      font-size: 13px; cursor: pointer;
+      display: flex; align-items: center; gap: 6px;
+    }
+
+    /* STATS */
+    .stats-grid {
+      display: grid; grid-template-columns: repeat(4, 1fr);
+      gap: 12px; margin-bottom: 1.25rem;
+    }
+    .stat-card {
+      background: var(--bg-card); border-radius: var(--radius-lg);
+      border: 1px solid var(--border); padding: 1rem 1.1rem;
+      box-shadow: var(--shadow);
+    }
+    .stat-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+    .stat-icon { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; }
+    .stat-icon.blue { background: var(--blue-light); }
+    .stat-icon.blue i { color: var(--blue); font-size: 16px; }
+    .stat-icon.green { background: var(--green-light); }
+    .stat-icon.green i { color: var(--green); font-size: 16px; }
+    .stat-icon.orange { background: var(--orange-light); }
+    .stat-icon.orange i { color: var(--orange-dark); font-size: 16px; }
+    .stat-trend { font-size: 11px; padding: 2px 7px; border-radius: 20px; }
+    .trend-up { background: var(--green-light); color: var(--green-dark); }
+    .trend-neutral { background: var(--bg-secondary); color: var(--text-secondary); }
+    .stat-value { font-size: 24px; font-weight: 600; color: var(--text); }
+    .stat-label { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
+
+    /* MAIN GRID */
+    .content-grid {
+      display: grid; grid-template-columns: 1fr 1.1fr;
+      gap: 1rem; margin-bottom: 1rem;
+    }
+    .card {
+      background: var(--bg-card); border-radius: var(--radius-lg);
+      border: 1px solid var(--border); padding: 1.1rem 1.25rem;
+      box-shadow: var(--shadow);
+    }
+    .card-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 1rem;
+    }
+    .card-title {
+      font-size: 14px; font-weight: 600; color: var(--text);
+      display: flex; align-items: center; gap: 8px;
+    }
+    .card-title i { font-size: 17px; color: var(--blue); }
+
+    /* FORM */
+    .form-group { margin-bottom: 10px; }
+    .form-label { font-size: 12px; color: var(--text-secondary); margin-bottom: 4px; display: block; }
+    .form-control {
+      width: 100%; font-size: 13px; padding: 8px 10px;
+      border-radius: var(--radius-sm); border: 1px solid var(--border);
+      background: var(--bg-secondary); color: var(--text);
+      font-family: 'Inter', sans-serif; outline: none;
+      transition: border-color 0.15s;
+    }
+    .form-control:focus { border-color: var(--blue); background: #fff; }
+    textarea.form-control { resize: none; height: 60px; line-height: 1.5; }
+    .form-hint { font-size: 11px; color: var(--text-secondary); margin-top: 3px; font-style: italic; }
+
+    /* TONE BUTTONS */
+    .tone-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+    .tone-btn {
+      padding: 7px 10px; border-radius: var(--radius-sm);
+      border: 1px solid var(--border); background: var(--bg-secondary);
+      color: var(--text-secondary); font-size: 12px; cursor: pointer;
+      text-align: center; transition: all 0.15s; font-family: 'Inter', sans-serif;
+    }
+    .tone-btn:hover { border-color: var(--blue); color: var(--blue); }
+    .tone-btn.active { border-color: var(--blue); background: var(--blue-light); color: var(--blue-mid); font-weight: 500; }
+
+    /* TEMPLATE PREVIEW */
+    .template-preview {
+      background: var(--bg-secondary); border-radius: var(--radius-sm);
+      padding: 10px 12px; margin: 10px 0;
+      border-left: 3px solid var(--orange);
+    }
+    .template-label { font-size: 10px; font-weight: 600; color: var(--orange-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px; }
+    .template-body { font-size: 12px; color: var(--text-secondary); line-height: 1.9; white-space: pre-line; }
+    .template-cta { font-size: 12px; color: var(--blue); font-weight: 600; margin-top: 4px; }
+
+    /* GENERATE BUTTON */
+    .btn-generate {
+      width: 100%; padding: 10px; border-radius: var(--radius-sm);
+      background: var(--blue); color: #fff; border: none;
+      font-size: 13px; font-weight: 600; cursor: pointer;
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      font-family: 'Inter', sans-serif; margin-top: 4px;
+      transition: background 0.15s;
+    }
+    .btn-generate:hover { background: var(--blue-mid); }
+    .btn-generate i { font-size: 17px; }
+
+    /* QUEUE */
+    .queue-list { display: flex; flex-direction: column; gap: 10px; max-height: 420px; overflow-y: auto; }
+    .queue-list::-webkit-scrollbar { width: 4px; }
+    .queue-list::-webkit-scrollbar-track { background: transparent; }
+    .queue-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+    .post-item {
+      background: var(--bg-secondary); border-radius: var(--radius-md);
+      padding: 10px 12px; border-left: 3px solid var(--blue);
+    }
+    .post-item.posted { border-left-color: var(--green); }
+    .post-item.pending { border-left-color: var(--orange); }
+
+    .post-meta { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+    .post-time { font-size: 11px; color: var(--text-secondary); display: flex; align-items: center; gap: 4px; }
+    .post-time i { font-size: 13px; }
+    .post-badge { font-size: 10px; padding: 2px 8px; border-radius: 20px; font-weight: 500; }
+    .badge-posted { background: var(--green-light); color: var(--green-dark); }
+    .badge-pending { background: var(--orange-light); color: var(--orange-dark); }
+    .badge-queue { background: var(--blue-light); color: var(--blue-mid); }
+
+    .post-text { font-size: 12px; color: var(--text); line-height: 1.85; white-space: pre-line; }
+    .post-cta { font-size: 12px; color: var(--blue); font-weight: 600; margin-top: 5px; }
+
+    .post-actions { display: flex; gap: 6px; margin-top: 8px; }
+    .btn-xs {
+      font-size: 11px; padding: 3px 10px; border-radius: 20px;
+      border: 1px solid var(--border); background: var(--bg-card);
+      color: var(--text-secondary); cursor: pointer;
+      display: flex; align-items: center; gap: 4px;
+      font-family: 'Inter', sans-serif; transition: all 0.15s;
+    }
+    .btn-xs:hover { border-color: var(--blue); color: var(--blue); }
+    .btn-xs i { font-size: 13px; }
+    .btn-xs.danger:hover { border-color: #EF4444; color: #EF4444; }
+
+    /* BOTTOM CARDS */
+    .bottom-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    .full-card {
+      background: var(--bg-card); border-radius: var(--radius-lg);
+      border: 1px solid var(--border); padding: 1.1rem 1.25rem;
+      box-shadow: var(--shadow); margin-bottom: 1rem;
+    }
+
+    .schedule-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 0.75rem; }
+    .time-slot {
+      background: var(--bg-secondary); border-radius: var(--radius-sm);
+      padding: 10px 12px; display: flex; align-items: center; justify-content: space-between;
+    }
+    .time-slot-info .time-label { font-size: 13px; font-weight: 500; color: var(--text); }
+    .time-slot-info .time-sub { font-size: 11px; color: var(--text-secondary); margin-top: 1px; }
+    .time-count { font-size: 22px; font-weight: 600; color: var(--blue); }
+
+    .analytics-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 0.75rem; }
+    .analytic-item {
+      display: flex; align-items: center; gap: 10px;
+      background: var(--bg-secondary); border-radius: var(--radius-sm); padding: 10px 12px;
+    }
+    .analytic-icon { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .analytic-val { font-size: 16px; font-weight: 600; color: var(--text); }
+    .analytic-lbl { font-size: 11px; color: var(--text-secondary); }
+
+    /* LOADING */
+    .loading-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(255,255,255,0.85); z-index: 100;
+      align-items: center; justify-content: center; flex-direction: column; gap: 12px;
+    }
+    .loading-overlay.show { display: flex; }
+    .spinner {
+      width: 36px; height: 36px; border: 3px solid var(--border);
+      border-top-color: var(--blue); border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .loading-text { font-size: 13px; color: var(--text-secondary); }
+
+    /* TOAST */
+    .toast {
+      position: fixed; bottom: 1.5rem; right: 1.5rem;
+      background: var(--text); color: #fff; padding: 10px 16px;
+      border-radius: var(--radius-sm); font-size: 13px;
+      transform: translateY(60px); opacity: 0;
+      transition: all 0.3s; z-index: 200;
+    }
+    .toast.show { transform: translateY(0); opacity: 1; }
+
+    @media (max-width: 1024px) {
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .content-grid { grid-template-columns: 1fr; }
+      .bottom-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 768px) {
+      .sidebar { display: none; }
+      .main { margin-left: 0; padding: 1rem; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="spinner"></div>
+  <div class="loading-text">Lagi bikin konten yang enak dibaca...</div>
+</div>
+<div class="toast" id="toast"></div>
+
+<div class="layout">
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-icon"><i class="ti ti-world-upload"></i></div>
+      <div>
+        <div class="logo-text">GoGlobal AI</div>
+        <div class="logo-sub">Threads Dashboard</div>
+      </div>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="nav-label">Menu</div>
+      <div class="nav-item active"><i class="ti ti-layout-dashboard"></i>Dashboard</div>
+      <div class="nav-item"><i class="ti ti-sparkles"></i>Generate konten</div>
+      <div class="nav-item"><i class="ti ti-layout-list"></i>Queue</div>
+      <div class="nav-item"><i class="ti ti-calendar"></i>Jadwal</div>
+      <div class="nav-label">Analitik</div>
+      <div class="nav-item"><i class="ti ti-chart-line"></i>Performa</div>
+      <div class="nav-item"><i class="ti ti-settings"></i>Pengaturan</div>
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="status-badge">
+        <div class="status-dot"></div>
+        <div class="status-text">Automation aktif</div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main">
+    <div class="topbar">
+      <div>
+        <div class="topbar-title">Threads Automation</div>
+        <div class="topbar-sub">GoGlobal AI · goglobalai.vercel.app</div>
+      </div>
+      <div class="topbar-right">
+        <button class="btn-secondary"><i class="ti ti-clock"></i>Jadwal cron</button>
+        <button class="btn-primary"><i class="ti ti-send"></i>Post sekarang</button>
+      </div>
+    </div>
+
+    <!-- STATS -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-top">
+          <div class="stat-icon blue"><i class="ti ti-file-text"></i></div>
+          <span class="stat-trend trend-up">+3 hari ini</span>
+        </div>
+        <div class="stat-value">8</div>
+        <div class="stat-label">Post hari ini · target 10</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-top">
+          <div class="stat-icon blue"><i class="ti ti-users"></i></div>
+          <span class="stat-trend trend-neutral">+0</span>
+        </div>
+        <div class="stat-value">18</div>
+        <div class="stat-label">Total followers</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-top">
+          <div class="stat-icon green"><i class="ti ti-eye"></i></div>
+          <span class="stat-trend trend-up">+12%</span>
+        </div>
+        <div class="stat-value">342</div>
+        <div class="stat-label">Impressions minggu ini</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-top">
+          <div class="stat-icon orange"><i class="ti ti-external-link"></i></div>
+          <span class="stat-trend trend-up">+5</span>
+        </div>
+        <div class="stat-value">12</div>
+        <div class="stat-label">Klik ke goglobal-ai.app</div>
+      </div>
+    </div>
+
+    <!-- CONTENT GRID -->
+    <div class="content-grid">
+      <!-- GENERATE FORM -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title"><i class="ti ti-sparkles"></i>Generate konten</div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Tipe konten</label>
+          <select class="form-control" id="contentType">
+            <option value="pain">Pain point & solusi</option>
+            <option value="tips">Tips karir global</option>
+            <option value="promo">Promo fitur Pro</option>
+            <option value="story">Kisah sukses</option>
+            <option value="hook">Hook & pertanyaan</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Negara / destinasi</label>
+          <input type="text" class="form-control" id="negara" placeholder="cth: Jepang, Kapal Pesiar, Remote, Australia + Korea..." />
+          <div class="form-hint">Bebas tulis — negara, sektor, atau kombinasi</div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Tone</label>
+          <div class="tone-grid">
+            <div class="tone-btn active" onclick="setTone(this)">Santai & ngobrol</div>
+            <div class="tone-btn" onclick="setTone(this)">Inspiratif</div>
+            <div class="tone-btn" onclick="setTone(this)">Edukatif</div>
+            <div class="tone-btn" onclick="setTone(this)">Humor ringan</div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Catatan tambahan (opsional)</label>
+          <textarea class="form-control" id="catatan" placeholder="cth: sudut pandang orang yang baru mau mulai, cerita teman yang udah buktiin, dll..."></textarea>
+        </div>
+
+        <div class="template-preview">
+          <div class="template-label">Format Threads · selalu pendek</div>
+          <div class="template-body">kalimat pembuka relatable.
+
+satu fakta / twist kecil.
+
+insight yang bikin mikir.</div>
+          <div class="template-cta">mau cerita?</div>
+        </div>
+
+        <button class="btn-generate" onclick="generatePosts()">
+          <i class="ti ti-bolt"></i>Generate 10 post
+        </button>
+      </div>
+
+      <!-- QUEUE -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title"><i class="ti ti-layout-list"></i>Queue hari ini</div>
+          <span style="font-size:11px;color:var(--text-secondary)" id="todayDate"></span>
+        </div>
+        <div class="queue-list" id="queueList">
+          <div class="post-item posted">
+            <div class="post-meta">
+              <span class="post-time"><i class="ti ti-clock"></i>06.00</span>
+              <span class="post-badge badge-posted">Terposting</span>
+            </div>
+            <div class="post-text">udah 5 tahun kerja keras.
+gaji naik tipis banget.
+
+temenku yang levelnya sama
+sekarang bawa pulang 4x lipat.
+
+bedanya cuma satu hal.</div>
+            <div class="post-cta">mau tau?</div>
+            <div class="post-actions">
+              <button class="btn-xs"><i class="ti ti-chart-bar"></i>Stats</button>
+              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
+            </div>
+          </div>
+
+          <div class="post-item posted">
+            <div class="post-meta">
+              <span class="post-time"><i class="ti ti-clock"></i>08.30</span>
+              <span class="post-badge badge-posted">Terposting</span>
+            </div>
+            <div class="post-text">temenku kerja di kapal pesiar
+8 bulan.
+
+balik bawa tabungan yang
+bikin aku melongo.
+
+dia bilang awalnya juga ragu.</div>
+            <div class="post-cta">aku ceritain ya?</div>
+            <div class="post-actions">
+              <button class="btn-xs"><i class="ti ti-chart-bar"></i>Stats</button>
+              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
+            </div>
+          </div>
+
+          <div class="post-item pending">
+            <div class="post-meta">
+              <span class="post-time"><i class="ti ti-clock"></i>12.00</span>
+              <span class="post-badge badge-pending">Menunggu</span>
+            </div>
+            <div class="post-text">banyak yang nanya ke aku
+gimana mulai kerja ke Jepang.
+
+jujur aku juga bingung waktu awal.
+
+tapi ada satu langkah pertama
+yang bikin semuanya lebih jelas.</div>
+            <div class="post-cta">mau aku share?</div>
+            <div class="post-actions">
+              <button class="btn-xs"><i class="ti ti-edit"></i>Edit</button>
+              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
+              <button class="btn-xs danger"><i class="ti ti-trash"></i>Hapus</button>
+            </div>
+          </div>
+
+          <div class="post-item pending">
+            <div class="post-meta">
+              <span class="post-time"><i class="ti ti-clock"></i>19.00</span>
+              <span class="post-badge badge-pending">Menunggu</span>
+            </div>
+            <div class="post-text">CV ku dulu ditolak terus.
+
+ngerasa udah bagus,
+tapi tetap ga dipanggil.
+
+ternyata ada yang salah
+dari cara aku nulis pengalaman.</div>
+            <div class="post-cta">pernah ngerasain juga?</div>
+            <div class="post-actions">
+              <button class="btn-xs"><i class="ti ti-edit"></i>Edit</button>
+              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
+              <button class="btn-xs danger"><i class="ti ti-trash"></i>Hapus</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- BOTTOM -->
+    <div class="bottom-grid">
+      <div class="full-card">
+        <div class="card-header">
+          <div class="card-title"><i class="ti ti-calendar"></i>Jadwal posting harian</div>
+        </div>
+        <div class="schedule-grid">
+          <div class="time-slot">
+            <div class="time-slot-info">
+              <div class="time-label">Pagi</div>
+              <div class="time-sub">06.00 — 09.00</div>
+            </div>
+            <div class="time-count">3</div>
+          </div>
+          <div class="time-slot">
+            <div class="time-slot-info">
+              <div class="time-label">Siang</div>
+              <div class="time-sub">11.00 — 13.00</div>
+            </div>
+            <div class="time-count">4</div>
+          </div>
+          <div class="time-slot">
+            <div class="time-slot-info">
+              <div class="time-label">Malam</div>
+              <div class="time-sub">19.00 — 21.00</div>
+            </div>
+            <div class="time-count">3</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="full-card">
+        <div class="card-header">
+          <div class="card-title"><i class="ti ti-chart-line"></i>Performa minggu ini</div>
+        </div>
+        <div class="analytics-grid">
+          <div class="analytic-item">
+            <div class="analytic-icon blue"><i class="ti ti-eye"></i></div>
+            <div>
+              <div class="analytic-val">342</div>
+              <div class="analytic-lbl">Impressions</div>
+            </div>
+          </div>
+          <div class="analytic-item">
+            <div class="analytic-icon green"><i class="ti ti-heart"></i></div>
+            <div>
+              <div class="analytic-val">47</div>
+              <div class="analytic-lbl">Likes</div>
+            </div>
+          </div>
+          <div class="analytic-item">
+            <div class="analytic-icon" style="background:var(--orange-light)"><i class="ti ti-message-circle" style="color:var(--orange-dark);font-size:16px"></i></div>
+            <div>
+              <div class="analytic-val">9</div>
+              <div class="analytic-lbl">Replies</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+  // Set today's date
+  const today = new Date();
+  document.getElementById('todayDate').textContent = today.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' });
+
+  // Tone selector
+  function setTone(el) {
+    document.querySelectorAll('.tone-btn').forEach(b => b.classList.remove('active'));
+    el.classList.add('active');
+  }
+
+  // Toast
+  function showToast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 2500);
+  }
+
+  // Copy post
+  function copyPost(btn) {
+    const item = btn.closest('.post-item');
+    const text = item.querySelector('.post-text').textContent.trim();
+    const cta = item.querySelector('.post-cta').textContent.trim();
+    navigator.clipboard.writeText(text + '\n\n' + cta).then(() => showToast('Post berhasil dicopy!'));
+  }
+
+  // Generate posts — Claude API
+  async function generatePosts() {
+    const type = document.getElementById('contentType').value;
+    const negara = document.getElementById('negara').value || 'umum';
+    const catatan = document.getElementById('catatan').value;
+    const tone = document.querySelector('.tone-btn.active').textContent;
+
+    const typeMap = {
+      pain: 'pain point dan solusi',
+      tips: 'tips karir global',
+      promo: 'promosi fitur Pro GoGlobal AI',
+      story: 'kisah sukses',
+      hook: 'hook dan pertanyaan penasaran'
+    };
+
+    const overlay = document.getElementById('loadingOverlay');
+    overlay.classList.add('show');
+
+    const prompt = `Kamu adalah content creator Threads untuk GoGlobal AI — app AI untuk orang Indonesia yang mau kerja di luar negeri.
+
+Buat 10 post Threads dalam Bahasa Indonesia dengan ketentuan:
+- Tipe konten: ${typeMap[type]}
+- Negara/destinasi fokus: ${negara}
+- Tone: ${tone}
+- Catatan: ${catatan || 'tidak ada'}
+
+Format WAJIB untuk setiap post:
+- Pendek: 3-5 baris saja
+- Jeda baris antar kalimat (seperti puisi pendek)
+- Bahasa sehari-hari, kayak ngobrol sama teman
+- JANGAN jualan keras atau pakai kata-kata menakutkan
+- Di akhir selalu ada CTA ngegantung 1 baris (cth: "mau cerita?", "pernah ngerasain juga?", "aku share ya?", "lanjut?")
+- CTA harus natural, bukan "klik link di bio"
+
+Tentang GoGlobal AI:
+- App PWA untuk orang Indonesia yang mau kerja ke luar negeri
+- Fitur gratis: Explore Countries, Ask GoGlobal AI, Visa Pathway, Kalkulator Gaji, Scam Detector
+- Fitur Pro (Rp 299.000 sekali bayar): CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap Generator
+- Negara tersedia: Jepang, Korea, Australia, Jerman, Kanada, Arab Saudi, UK, US, Kapal Pesiar, Remote/AI
+
+Balas HANYA dengan JSON array, tidak ada teks lain:
+[
+  {
+    "jam": "06.00",
+    "teks": "isi post dengan jeda baris",
+    "cta": "CTA ngegantung"
+  }
+]`;
+
+    try {
+      const res = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          model: 'claude-sonnet-4-6',
+          max_tokens: 1000,
+          messages: [{ role: 'user', content: prompt }]
+        })
+      });
+
+      const data = await res.json();
+      const raw = data.content[0].text;
+      const clean = raw.replace(/```json|```/g, '').trim();
+      const posts = JSON.parse(clean);
+
+      renderPosts(posts);
+      showToast('10 post berhasil digenerate!');
+    } catch(e) {
+      showToast('Gagal generate — cek console');
+      console.error(e);
+    } finally {
+      overlay.classList.remove('show');
+    }
+  }
+
+  // Render generated posts
+  function renderPosts(posts) {
+    const list = document.getElementById('queueList');
+    list.innerHTML = '';
+    const times = ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'];
+    posts.forEach((p, i) => {
+      const div = document.createElement('div');
+      div.className = 'post-item pending';
+      div.innerHTML = `
+        <div class="post-meta">
+          <span class="post-time"><i class="ti ti-clock"></i>${times[i] || p.jam}</span>
+          <span class="post-badge badge-queue">Siap post</span>
+        </div>
+        <div class="post-text">${p.teks}</div>
+        <div class="post-cta">${p.cta}</div>
+        <div class="post-actions">
+          <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
+          <button class="btn-xs danger"><i class="ti ti-trash"></i>Hapus</button>
+        </div>`;
+      list.appendChild(div);
+    });
+  }
+</script>
+</body>
+</html>
