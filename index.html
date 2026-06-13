@@ -4,328 +4,157 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>GoGlobal AI — Threads Dashboard</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-    :root {
-      --blue: #185FA5;
-      --blue-light: #E6F1FB;
-      --blue-mid: #0C447C;
-      --orange: #EF9F27;
-      --orange-light: #FAEEDA;
-      --orange-dark: #BA7517;
-      --green: #1D9E75;
-      --green-light: #E1F5EE;
-      --green-dark: #085041;
-      --bg: #F7F8FA;
-      --bg-card: #FFFFFF;
-      --bg-secondary: #F2F4F7;
-      --border: #E4E7EC;
-      --text: #111827;
-      --text-secondary: #6B7280;
-      --radius-sm: 8px;
-      --radius-md: 10px;
-      --radius-lg: 14px;
-      --shadow: 0 1px 4px rgba(0,0,0,0.07);
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{
+      --blue:#185FA5;--blue-light:#E6F1FB;--blue-mid:#0C447C;
+      --orange:#EF9F27;--orange-light:#FAEEDA;--orange-dark:#BA7517;
+      --green:#1D9E75;--green-light:#E1F5EE;--green-dark:#085041;
+      --bg:#F7F8FA;--card:#fff;--secondary:#F2F4F7;--border:#E4E7EC;
+      --text:#111827;--muted:#6B7280;
+      --r8:8px;--r10:10px;--r14:14px;
     }
-
-    body {
-      font-family: 'Inter', sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      min-height: 100vh;
-    }
-
-    /* LAYOUT */
-    .layout { display: flex; min-height: 100vh; }
+    body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+    .layout{display:flex;min-height:100vh}
 
     /* SIDEBAR */
-    .sidebar {
-      width: 220px;
-      background: var(--bg-card);
-      border-right: 1px solid var(--border);
-      display: flex;
-      flex-direction: column;
-      padding: 1.25rem 0;
-      position: fixed;
-      top: 0; left: 0; bottom: 0;
-    }
-    .sidebar-logo {
-      display: flex; align-items: center; gap: 10px;
-      padding: 0 1.25rem 1.25rem;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 1rem;
-    }
-    .logo-icon {
-      width: 34px; height: 34px; border-radius: 9px;
-      background: var(--blue);
-      display: flex; align-items: center; justify-content: center;
-    }
-    .logo-icon i { color: #fff; font-size: 18px; }
-    .logo-text { font-size: 14px; font-weight: 600; color: var(--text); }
-    .logo-sub { font-size: 11px; color: var(--text-secondary); }
-
-    .sidebar-nav { padding: 0 0.75rem; flex: 1; }
-    .nav-label { font-size: 10px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.08em; padding: 0 0.5rem; margin: 0.75rem 0 0.35rem; }
-    .nav-item {
-      display: flex; align-items: center; gap: 10px;
-      padding: 8px 10px; border-radius: var(--radius-sm);
-      font-size: 13px; color: var(--text-secondary);
-      cursor: pointer; margin-bottom: 2px;
-      transition: all 0.15s;
-    }
-    .nav-item:hover { background: var(--bg-secondary); color: var(--text); }
-    .nav-item.active { background: var(--blue-light); color: var(--blue); font-weight: 500; }
-    .nav-item i { font-size: 17px; }
-
-    .sidebar-bottom {
-      padding: 0.75rem;
-      border-top: 1px solid var(--border);
-      margin-top: auto;
-    }
-    .status-badge {
-      display: flex; align-items: center; gap: 8px;
-      background: var(--green-light); border-radius: var(--radius-sm);
-      padding: 8px 10px;
-    }
-    .status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
-    .status-text { font-size: 12px; color: var(--green-dark); font-weight: 500; }
+    .sidebar{width:220px;background:var(--card);border-right:1px solid var(--border);display:flex;flex-direction:column;padding:1.25rem 0;position:fixed;top:0;left:0;bottom:0}
+    .sidebar-logo{display:flex;align-items:center;gap:10px;padding:0 1.25rem 1.25rem;border-bottom:1px solid var(--border);margin-bottom:1rem}
+    .logo-icon{width:34px;height:34px;border-radius:9px;background:var(--blue);display:flex;align-items:center;justify-content:center}
+    .logo-icon i{color:#fff;font-size:18px}
+    .logo-name{font-size:14px;font-weight:600}
+    .logo-sub{font-size:11px;color:var(--muted)}
+    .sidebar-nav{padding:0 .75rem;flex:1}
+    .nav-label{font-size:10px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;padding:0 .5rem;margin:.75rem 0 .35rem}
+    .nav-item{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:var(--r8);font-size:13px;color:var(--muted);cursor:pointer;margin-bottom:2px}
+    .nav-item:hover{background:var(--secondary);color:var(--text)}
+    .nav-item.active{background:var(--blue-light);color:var(--blue);font-weight:500}
+    .nav-item i{font-size:17px}
+    .sidebar-bottom{padding:.75rem;border-top:1px solid var(--border)}
+    .status-badge{display:flex;align-items:center;gap:8px;background:var(--green-light);border-radius:var(--r8);padding:8px 10px}
+    .status-dot{width:7px;height:7px;border-radius:50%;background:var(--green)}
+    .status-text{font-size:12px;color:var(--green-dark);font-weight:500}
 
     /* MAIN */
-    .main { margin-left: 220px; padding: 1.5rem; flex: 1; }
-
-    /* TOPBAR */
-    .topbar {
-      display: flex; align-items: center; justify-content: space-between;
-      margin-bottom: 1.5rem;
-    }
-    .topbar-title { font-size: 18px; font-weight: 600; color: var(--text); }
-    .topbar-sub { font-size: 13px; color: var(--text-secondary); margin-top: 2px; }
-    .topbar-right { display: flex; align-items: center; gap: 10px; }
-    .btn-primary {
-      background: var(--blue); color: #fff; border: none;
-      padding: 8px 16px; border-radius: var(--radius-sm);
-      font-size: 13px; font-weight: 500; cursor: pointer;
-      display: flex; align-items: center; gap: 6px;
-    }
-    .btn-primary i { font-size: 16px; }
-    .btn-secondary {
-      background: var(--bg-card); color: var(--text);
-      border: 1px solid var(--border);
-      padding: 8px 14px; border-radius: var(--radius-sm);
-      font-size: 13px; cursor: pointer;
-      display: flex; align-items: center; gap: 6px;
-    }
+    .main{margin-left:220px;padding:1.5rem;flex:1}
+    .topbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.5rem}
+    .topbar-title{font-size:18px;font-weight:600}
+    .topbar-sub{font-size:13px;color:var(--muted);margin-top:2px}
+    .topbar-right{display:flex;gap:10px}
+    .btn-primary{background:var(--blue);color:#fff;border:none;padding:8px 16px;border-radius:var(--r8);font-size:13px;font-weight:500;cursor:pointer;display:flex;align-items:center;gap:6px;font-family:inherit}
+    .btn-secondary{background:var(--card);color:var(--text);border:1px solid var(--border);padding:8px 14px;border-radius:var(--r8);font-size:13px;cursor:pointer;display:flex;align-items:center;gap:6px;font-family:inherit}
 
     /* STATS */
-    .stats-grid {
-      display: grid; grid-template-columns: repeat(4, 1fr);
-      gap: 12px; margin-bottom: 1.25rem;
-    }
-    .stat-card {
-      background: var(--bg-card); border-radius: var(--radius-lg);
-      border: 1px solid var(--border); padding: 1rem 1.1rem;
-      box-shadow: var(--shadow);
-    }
-    .stat-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
-    .stat-icon { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; }
-    .stat-icon.blue { background: var(--blue-light); }
-    .stat-icon.blue i { color: var(--blue); font-size: 16px; }
-    .stat-icon.green { background: var(--green-light); }
-    .stat-icon.green i { color: var(--green); font-size: 16px; }
-    .stat-icon.orange { background: var(--orange-light); }
-    .stat-icon.orange i { color: var(--orange-dark); font-size: 16px; }
-    .stat-trend { font-size: 11px; padding: 2px 7px; border-radius: 20px; }
-    .trend-up { background: var(--green-light); color: var(--green-dark); }
-    .trend-neutral { background: var(--bg-secondary); color: var(--text-secondary); }
-    .stat-value { font-size: 24px; font-weight: 600; color: var(--text); }
-    .stat-label { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
+    .stats-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:1.25rem}
+    .stat-card{background:var(--card);border-radius:var(--r14);border:1px solid var(--border);padding:1rem 1.1rem;box-shadow:0 1px 4px rgba(0,0,0,.07)}
+    .stat-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+    .stat-icon{width:32px;height:32px;border-radius:8px;display:flex;align-items:center;justify-content:center}
+    .si-blue{background:var(--blue-light)} .si-blue i{color:var(--blue);font-size:16px}
+    .si-green{background:var(--green-light)} .si-green i{color:var(--green);font-size:16px}
+    .si-orange{background:var(--orange-light)} .si-orange i{color:var(--orange-dark);font-size:16px}
+    .trend{font-size:11px;padding:2px 7px;border-radius:20px}
+    .trend-up{background:var(--green-light);color:var(--green-dark)}
+    .trend-neutral{background:var(--secondary);color:var(--muted)}
+    .stat-value{font-size:24px;font-weight:600}
+    .stat-label{font-size:12px;color:var(--muted);margin-top:2px}
 
-    /* MAIN GRID */
-    .content-grid {
-      display: grid; grid-template-columns: 1fr 1.1fr;
-      gap: 1rem; margin-bottom: 1rem;
-    }
-    .card {
-      background: var(--bg-card); border-radius: var(--radius-lg);
-      border: 1px solid var(--border); padding: 1.1rem 1.25rem;
-      box-shadow: var(--shadow);
-    }
-    .card-header {
-      display: flex; align-items: center; justify-content: space-between;
-      margin-bottom: 1rem;
-    }
-    .card-title {
-      font-size: 14px; font-weight: 600; color: var(--text);
-      display: flex; align-items: center; gap: 8px;
-    }
-    .card-title i { font-size: 17px; color: var(--blue); }
+    /* CONTENT GRID */
+    .content-grid{display:grid;grid-template-columns:1fr 1.1fr;gap:1rem;margin-bottom:1rem}
+    .card{background:var(--card);border-radius:var(--r14);border:1px solid var(--border);padding:1.1rem 1.25rem;box-shadow:0 1px 4px rgba(0,0,0,.07)}
+    .card-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem}
+    .card-title{font-size:14px;font-weight:600;display:flex;align-items:center;gap:8px}
+    .card-title i{font-size:17px;color:var(--blue)}
 
     /* FORM */
-    .form-group { margin-bottom: 10px; }
-    .form-label { font-size: 12px; color: var(--text-secondary); margin-bottom: 4px; display: block; }
-    .form-control {
-      width: 100%; font-size: 13px; padding: 8px 10px;
-      border-radius: var(--radius-sm); border: 1px solid var(--border);
-      background: var(--bg-secondary); color: var(--text);
-      font-family: 'Inter', sans-serif; outline: none;
-      transition: border-color 0.15s;
-    }
-    .form-control:focus { border-color: var(--blue); background: #fff; }
-    textarea.form-control { resize: none; height: 60px; line-height: 1.5; }
-    .form-hint { font-size: 11px; color: var(--text-secondary); margin-top: 3px; font-style: italic; }
+    .fg{margin-bottom:10px}
+    .flabel{font-size:12px;color:var(--muted);margin-bottom:4px;display:flex;align-items:center;justify-content:space-between}
+    .fcontrol{width:100%;font-size:13px;padding:8px 10px;border-radius:var(--r8);border:1px solid var(--border);background:var(--secondary);color:var(--text);font-family:inherit;outline:none;transition:border-color .15s}
+    .fcontrol:focus{border-color:var(--blue);background:#fff}
+    textarea.fcontrol{resize:none;height:60px;line-height:1.5}
+    .fhint{font-size:11px;color:var(--muted);margin-top:3px;font-style:italic}
 
-    /* TONE BUTTONS */
-    .tone-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
-    .tone-btn {
-      padding: 7px 10px; border-radius: var(--radius-sm);
-      border: 1px solid var(--border); background: var(--bg-secondary);
-      color: var(--text-secondary); font-size: 12px; cursor: pointer;
-      text-align: center; transition: all 0.15s; font-family: 'Inter', sans-serif;
-    }
-    .tone-btn:hover { border-color: var(--blue); color: var(--blue); }
-    .tone-btn.active { border-color: var(--blue); background: var(--blue-light); color: var(--blue-mid); font-weight: 500; }
+    /* API KEY ROW */
+    .apikey-row{display:flex;gap:6px}
+    .apikey-row input{flex:1}
+    .btn-save{padding:8px 12px;border-radius:var(--r8);border:1px solid var(--border);background:var(--secondary);color:var(--text);font-size:12px;cursor:pointer;white-space:nowrap;font-family:inherit}
+    .api-status{font-size:11px}
 
-    /* TEMPLATE PREVIEW */
-    .template-preview {
-      background: var(--bg-secondary); border-radius: var(--radius-sm);
-      padding: 10px 12px; margin: 10px 0;
-      border-left: 3px solid var(--orange);
-    }
-    .template-label { font-size: 10px; font-weight: 600; color: var(--orange-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px; }
-    .template-body { font-size: 12px; color: var(--text-secondary); line-height: 1.9; white-space: pre-line; }
-    .template-cta { font-size: 12px; color: var(--blue); font-weight: 600; margin-top: 4px; }
+    /* TONE */
+    .tone-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+    .tone-btn{padding:7px 10px;border-radius:var(--r8);border:1px solid var(--border);background:var(--secondary);color:var(--muted);font-size:12px;cursor:pointer;text-align:center;font-family:inherit}
+    .tone-btn.active{border-color:var(--blue);background:var(--blue-light);color:var(--blue-mid);font-weight:500}
 
-    /* GENERATE BUTTON */
-    .btn-generate {
-      width: 100%; padding: 10px; border-radius: var(--radius-sm);
-      background: var(--blue); color: #fff; border: none;
-      font-size: 13px; font-weight: 600; cursor: pointer;
-      display: flex; align-items: center; justify-content: center; gap: 8px;
-      font-family: 'Inter', sans-serif; margin-top: 4px;
-      transition: background 0.15s;
-    }
-    .btn-generate:hover { background: var(--blue-mid); }
-    .btn-generate i { font-size: 17px; }
+    /* TEMPLATE */
+    .tpl{background:var(--secondary);border-radius:var(--r8);padding:10px 12px;margin:10px 0;border-left:3px solid var(--orange)}
+    .tpl-label{font-size:10px;font-weight:600;color:var(--orange-dark);text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px}
+    .tpl-body{font-size:12px;color:var(--muted);line-height:1.9;white-space:pre-line}
+    .tpl-cta{font-size:12px;color:var(--blue);font-weight:600;margin-top:4px}
+
+    .btn-generate{width:100%;padding:10px;border-radius:var(--r8);background:var(--blue);color:#fff;border:none;font-size:13px;font-weight:600;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;font-family:inherit;margin-top:4px}
+    .btn-generate:hover{background:var(--blue-mid)}
+    .btn-generate i{font-size:17px}
 
     /* QUEUE */
-    .queue-list { display: flex; flex-direction: column; gap: 10px; max-height: 420px; overflow-y: auto; }
-    .queue-list::-webkit-scrollbar { width: 4px; }
-    .queue-list::-webkit-scrollbar-track { background: transparent; }
-    .queue-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+    .queue-list{display:flex;flex-direction:column;gap:10px;max-height:450px;overflow-y:auto}
+    .post-item{background:var(--secondary);border-radius:var(--r10);padding:10px 12px;border-left:3px solid var(--blue)}
+    .post-item.posted{border-left-color:var(--green)}
+    .post-item.pending{border-left-color:var(--orange)}
+    .post-meta{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+    .post-time{font-size:11px;color:var(--muted);display:flex;align-items:center;gap:4px}
+    .post-time i{font-size:13px}
+    .post-badge{font-size:10px;padding:2px 8px;border-radius:20px;font-weight:500}
+    .b-posted{background:var(--green-light);color:var(--green-dark)}
+    .b-pending{background:var(--orange-light);color:var(--orange-dark)}
+    .b-queue{background:var(--blue-light);color:var(--blue-mid)}
+    .post-text{font-size:12px;color:var(--text);line-height:1.85;white-space:pre-line}
+    .post-cta{font-size:12px;color:var(--blue);font-weight:600;margin-top:5px}
+    .post-actions{display:flex;gap:6px;margin-top:8px}
+    .btn-xs{font-size:11px;padding:3px 10px;border-radius:20px;border:1px solid var(--border);background:var(--card);color:var(--muted);cursor:pointer;display:flex;align-items:center;gap:4px;font-family:inherit}
+    .btn-xs:hover{border-color:var(--blue);color:var(--blue)}
+    .btn-xs i{font-size:13px}
 
-    .post-item {
-      background: var(--bg-secondary); border-radius: var(--radius-md);
-      padding: 10px 12px; border-left: 3px solid var(--blue);
-    }
-    .post-item.posted { border-left-color: var(--green); }
-    .post-item.pending { border-left-color: var(--orange); }
+    /* BOTTOM */
+    .bottom-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+    .full-card{background:var(--card);border-radius:var(--r14);border:1px solid var(--border);padding:1.1rem 1.25rem;box-shadow:0 1px 4px rgba(0,0,0,.07);margin-bottom:1rem}
+    .sched-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:.75rem}
+    .time-slot{background:var(--secondary);border-radius:var(--r8);padding:10px 12px;display:flex;align-items:center;justify-content:space-between}
+    .time-name{font-size:13px;font-weight:500}
+    .time-sub{font-size:11px;color:var(--muted);margin-top:1px}
+    .time-count{font-size:22px;font-weight:600;color:var(--blue)}
+    .analytics-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:.75rem}
+    .analytic-item{display:flex;align-items:center;gap:10px;background:var(--secondary);border-radius:var(--r8);padding:10px 12px}
+    .a-icon{width:32px;height:32px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .a-val{font-size:16px;font-weight:600}
+    .a-lbl{font-size:11px;color:var(--muted)}
 
-    .post-meta { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
-    .post-time { font-size: 11px; color: var(--text-secondary); display: flex; align-items: center; gap: 4px; }
-    .post-time i { font-size: 13px; }
-    .post-badge { font-size: 10px; padding: 2px 8px; border-radius: 20px; font-weight: 500; }
-    .badge-posted { background: var(--green-light); color: var(--green-dark); }
-    .badge-pending { background: var(--orange-light); color: var(--orange-dark); }
-    .badge-queue { background: var(--blue-light); color: var(--blue-mid); }
+    /* OVERLAY & TOAST */
+    .overlay{display:none;position:fixed;inset:0;background:rgba(255,255,255,.85);z-index:100;align-items:center;justify-content:center;flex-direction:column;gap:12px}
+    .overlay.show{display:flex}
+    .spinner{width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--blue);border-radius:50%;animation:spin .7s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .overlay-text{font-size:13px;color:var(--muted)}
+    .toast{position:fixed;bottom:1.5rem;right:1.5rem;background:var(--text);color:#fff;padding:10px 16px;border-radius:var(--r8);font-size:13px;transform:translateY(60px);opacity:0;transition:all .3s;z-index:200}
+    .toast.show{transform:translateY(0);opacity:1}
 
-    .post-text { font-size: 12px; color: var(--text); line-height: 1.85; white-space: pre-line; }
-    .post-cta { font-size: 12px; color: var(--blue); font-weight: 600; margin-top: 5px; }
-
-    .post-actions { display: flex; gap: 6px; margin-top: 8px; }
-    .btn-xs {
-      font-size: 11px; padding: 3px 10px; border-radius: 20px;
-      border: 1px solid var(--border); background: var(--bg-card);
-      color: var(--text-secondary); cursor: pointer;
-      display: flex; align-items: center; gap: 4px;
-      font-family: 'Inter', sans-serif; transition: all 0.15s;
-    }
-    .btn-xs:hover { border-color: var(--blue); color: var(--blue); }
-    .btn-xs i { font-size: 13px; }
-    .btn-xs.danger:hover { border-color: #EF4444; color: #EF4444; }
-
-    /* BOTTOM CARDS */
-    .bottom-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
-    .full-card {
-      background: var(--bg-card); border-radius: var(--radius-lg);
-      border: 1px solid var(--border); padding: 1.1rem 1.25rem;
-      box-shadow: var(--shadow); margin-bottom: 1rem;
-    }
-
-    .schedule-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 0.75rem; }
-    .time-slot {
-      background: var(--bg-secondary); border-radius: var(--radius-sm);
-      padding: 10px 12px; display: flex; align-items: center; justify-content: space-between;
-    }
-    .time-slot-info .time-label { font-size: 13px; font-weight: 500; color: var(--text); }
-    .time-slot-info .time-sub { font-size: 11px; color: var(--text-secondary); margin-top: 1px; }
-    .time-count { font-size: 22px; font-weight: 600; color: var(--blue); }
-
-    .analytics-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 0.75rem; }
-    .analytic-item {
-      display: flex; align-items: center; gap: 10px;
-      background: var(--bg-secondary); border-radius: var(--radius-sm); padding: 10px 12px;
-    }
-    .analytic-icon { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-    .analytic-val { font-size: 16px; font-weight: 600; color: var(--text); }
-    .analytic-lbl { font-size: 11px; color: var(--text-secondary); }
-
-    /* LOADING */
-    .loading-overlay {
-      display: none; position: fixed; inset: 0;
-      background: rgba(255,255,255,0.85); z-index: 100;
-      align-items: center; justify-content: center; flex-direction: column; gap: 12px;
-    }
-    .loading-overlay.show { display: flex; }
-    .spinner {
-      width: 36px; height: 36px; border: 3px solid var(--border);
-      border-top-color: var(--blue); border-radius: 50%;
-      animation: spin 0.7s linear infinite;
-    }
-    @keyframes spin { to { transform: rotate(360deg); } }
-    .loading-text { font-size: 13px; color: var(--text-secondary); }
-
-    /* TOAST */
-    .toast {
-      position: fixed; bottom: 1.5rem; right: 1.5rem;
-      background: var(--text); color: #fff; padding: 10px 16px;
-      border-radius: var(--radius-sm); font-size: 13px;
-      transform: translateY(60px); opacity: 0;
-      transition: all 0.3s; z-index: 200;
-    }
-    .toast.show { transform: translateY(0); opacity: 1; }
-
-    @media (max-width: 1024px) {
-      .stats-grid { grid-template-columns: repeat(2, 1fr); }
-      .content-grid { grid-template-columns: 1fr; }
-      .bottom-grid { grid-template-columns: 1fr; }
-    }
-    @media (max-width: 768px) {
-      .sidebar { display: none; }
-      .main { margin-left: 0; padding: 1rem; }
-    }
+    @media(max-width:1024px){.stats-grid{grid-template-columns:repeat(2,1fr)}.content-grid,.bottom-grid{grid-template-columns:1fr}}
+    @media(max-width:768px){.sidebar{display:none}.main{margin-left:0;padding:1rem}}
   </style>
 </head>
 <body>
 
-<div class="loading-overlay" id="loadingOverlay">
+<div class="overlay" id="overlay">
   <div class="spinner"></div>
-  <div class="loading-text">Lagi bikin konten yang enak dibaca...</div>
+  <div class="overlay-text">Lagi bikin konten yang enak dibaca...</div>
 </div>
 <div class="toast" id="toast"></div>
 
 <div class="layout">
-  <!-- SIDEBAR -->
   <aside class="sidebar">
     <div class="sidebar-logo">
       <div class="logo-icon"><i class="ti ti-world-upload"></i></div>
-      <div>
-        <div class="logo-text">GoGlobal AI</div>
-        <div class="logo-sub">Threads Dashboard</div>
-      </div>
+      <div><div class="logo-name">GoGlobal AI</div><div class="logo-sub">Threads Dashboard</div></div>
     </div>
     <nav class="sidebar-nav">
       <div class="nav-label">Menu</div>
@@ -338,85 +167,54 @@
       <div class="nav-item"><i class="ti ti-settings"></i>Pengaturan</div>
     </nav>
     <div class="sidebar-bottom">
-      <div class="status-badge">
-        <div class="status-dot"></div>
-        <div class="status-text">Automation aktif</div>
-      </div>
+      <div class="status-badge"><div class="status-dot"></div><div class="status-text">Automation aktif</div></div>
     </div>
   </aside>
 
-  <!-- MAIN -->
   <main class="main">
     <div class="topbar">
-      <div>
-        <div class="topbar-title">Threads Automation</div>
-        <div class="topbar-sub">GoGlobal AI · goglobalai.vercel.app</div>
-      </div>
+      <div><div class="topbar-title">Threads Automation</div><div class="topbar-sub">GoGlobal AI · goglobalai.vercel.app</div></div>
       <div class="topbar-right">
         <button class="btn-secondary"><i class="ti ti-clock"></i>Jadwal cron</button>
         <button class="btn-primary"><i class="ti ti-send"></i>Post sekarang</button>
       </div>
     </div>
 
-    <!-- STATS -->
     <div class="stats-grid">
       <div class="stat-card">
-        <div class="stat-top">
-          <div class="stat-icon blue"><i class="ti ti-file-text"></i></div>
-          <span class="stat-trend trend-up">+3 hari ini</span>
-        </div>
-        <div class="stat-value">8</div>
-        <div class="stat-label">Post hari ini · target 10</div>
+        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-file-text"></i></div><span class="trend trend-up">+3 hari ini</span></div>
+        <div class="stat-value">8</div><div class="stat-label">Post hari ini · target 10</div>
       </div>
       <div class="stat-card">
-        <div class="stat-top">
-          <div class="stat-icon blue"><i class="ti ti-users"></i></div>
-          <span class="stat-trend trend-neutral">+0</span>
-        </div>
-        <div class="stat-value">18</div>
-        <div class="stat-label">Total followers</div>
+        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-users"></i></div><span class="trend trend-neutral">+0</span></div>
+        <div class="stat-value">18</div><div class="stat-label">Total followers</div>
       </div>
       <div class="stat-card">
-        <div class="stat-top">
-          <div class="stat-icon green"><i class="ti ti-eye"></i></div>
-          <span class="stat-trend trend-up">+12%</span>
-        </div>
-        <div class="stat-value">342</div>
-        <div class="stat-label">Impressions minggu ini</div>
+        <div class="stat-top"><div class="stat-icon si-green"><i class="ti ti-eye"></i></div><span class="trend trend-up">+12%</span></div>
+        <div class="stat-value">342</div><div class="stat-label">Impressions minggu ini</div>
       </div>
       <div class="stat-card">
-        <div class="stat-top">
-          <div class="stat-icon orange"><i class="ti ti-external-link"></i></div>
-          <span class="stat-trend trend-up">+5</span>
-        </div>
-        <div class="stat-value">12</div>
-        <div class="stat-label">Klik ke goglobal-ai.app</div>
+        <div class="stat-top"><div class="stat-icon si-orange"><i class="ti ti-external-link"></i></div><span class="trend trend-up">+5</span></div>
+        <div class="stat-value">12</div><div class="stat-label">Klik ke goglobal-ai.app</div>
       </div>
     </div>
 
-    <!-- CONTENT GRID -->
     <div class="content-grid">
-      <!-- GENERATE FORM -->
       <div class="card">
-        <div class="card-header">
-          <div class="card-title"><i class="ti ti-sparkles"></i>Generate konten</div>
-        </div>
+        <div class="card-header"><div class="card-title"><i class="ti ti-sparkles"></i>Generate konten</div></div>
 
-        <div class="form-group" id="apiKeyGroup">
-          <label class="form-label" style="display:flex;align-items:center;justify-content:space-between;">
-            <span>🔑 Anthropic API Key</span>
-            <span id="apiStatus" style="font-size:11px;"></span>
-          </label>
-          <div style="display:flex;gap:6px;">
-            <input type="password" class="form-control" id="apiKeyInput" placeholder="sk-ant-..." style="flex:1;" />
-            <button onclick="saveApiKey()" style="padding:8px 12px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--bg-secondary);color:var(--text);font-size:12px;cursor:pointer;white-space:nowrap;font-family:Inter,sans-serif;">Simpan</button>
+        <div class="fg">
+          <div class="flabel"><span>🔑 Anthropic API Key</span><span class="api-status" id="apiStatus"></span></div>
+          <div class="apikey-row">
+            <input type="password" class="fcontrol" id="apiKeyInput" placeholder="sk-ant-api03-..." />
+            <button class="btn-save" onclick="saveApiKey()">Simpan</button>
           </div>
-          <div class="form-hint">Disimpan di browser kamu saja, tidak dikirim ke mana-mana</div>
+          <div class="fhint">Tersimpan di browser kamu saja</div>
         </div>
 
-        <div class="form-group">
-          <label class="form-label">Tipe konten</label>
-          <select class="form-control" id="contentType">
+        <div class="fg">
+          <label class="flabel">Tipe konten</label>
+          <select class="fcontrol" id="contentType">
             <option value="pain">Pain point & solusi</option>
             <option value="tips">Tips karir global</option>
             <option value="promo">Promo fitur Pro</option>
@@ -425,14 +223,14 @@
           </select>
         </div>
 
-        <div class="form-group">
-          <label class="form-label">Negara / destinasi</label>
-          <input type="text" class="form-control" id="negara" placeholder="cth: Jepang, Kapal Pesiar, Remote, Australia + Korea..." />
-          <div class="form-hint">Bebas tulis — negara, sektor, atau kombinasi</div>
+        <div class="fg">
+          <label class="flabel">Negara / destinasi</label>
+          <input type="text" class="fcontrol" id="negara" placeholder="cth: Jepang, Kapal Pesiar, Remote, Australia..." />
+          <div class="fhint">Bebas tulis — negara, sektor, atau kombinasi</div>
         </div>
 
-        <div class="form-group">
-          <label class="form-label">Tone</label>
+        <div class="fg">
+          <label class="flabel">Tone</label>
           <div class="tone-grid">
             <div class="tone-btn active" onclick="setTone(this)">Santai & ngobrol</div>
             <div class="tone-btn" onclick="setTone(this)">Inspiratif</div>
@@ -441,19 +239,19 @@
           </div>
         </div>
 
-        <div class="form-group">
-          <label class="form-label">Catatan tambahan (opsional)</label>
-          <textarea class="form-control" id="catatan" placeholder="cth: sudut pandang orang yang baru mau mulai, cerita teman yang udah buktiin, dll..."></textarea>
+        <div class="fg">
+          <label class="flabel">Catatan tambahan (opsional)</label>
+          <textarea class="fcontrol" id="catatan" placeholder="cth: sudut pandang orang yang baru mau mulai..."></textarea>
         </div>
 
-        <div class="template-preview">
-          <div class="template-label">Format Threads · selalu pendek</div>
-          <div class="template-body">kalimat pembuka relatable.
+        <div class="tpl">
+          <div class="tpl-label">Format Threads · selalu pendek</div>
+          <div class="tpl-body">kalimat pembuka relatable.
 
 satu fakta / twist kecil.
 
 insight yang bikin mikir.</div>
-          <div class="template-cta">mau cerita?</div>
+          <div class="tpl-cta">mau cerita?</div>
         </div>
 
         <button class="btn-generate" onclick="generatePosts()">
@@ -461,18 +259,14 @@ insight yang bikin mikir.</div>
         </button>
       </div>
 
-      <!-- QUEUE -->
       <div class="card">
         <div class="card-header">
           <div class="card-title"><i class="ti ti-layout-list"></i>Queue hari ini</div>
-          <span style="font-size:11px;color:var(--text-secondary)" id="todayDate"></span>
+          <span style="font-size:11px;color:var(--muted)" id="todayDate"></span>
         </div>
         <div class="queue-list" id="queueList">
           <div class="post-item posted">
-            <div class="post-meta">
-              <span class="post-time"><i class="ti ti-clock"></i>06.00</span>
-              <span class="post-badge badge-posted">Terposting</span>
-            </div>
+            <div class="post-meta"><span class="post-time"><i class="ti ti-clock"></i>06.00</span><span class="post-badge b-posted">Terposting</span></div>
             <div class="post-text">udah 5 tahun kerja keras.
 gaji naik tipis banget.
 
@@ -482,16 +276,11 @@ sekarang bawa pulang 4x lipat.
 bedanya cuma satu hal.</div>
             <div class="post-cta">mau tau?</div>
             <div class="post-actions">
-              <button class="btn-xs"><i class="ti ti-chart-bar"></i>Stats</button>
               <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
             </div>
           </div>
-
           <div class="post-item posted">
-            <div class="post-meta">
-              <span class="post-time"><i class="ti ti-clock"></i>08.30</span>
-              <span class="post-badge badge-posted">Terposting</span>
-            </div>
+            <div class="post-meta"><span class="post-time"><i class="ti ti-clock"></i>08.30</span><span class="post-badge b-posted">Terposting</span></div>
             <div class="post-text">temenku kerja di kapal pesiar
 8 bulan.
 
@@ -501,16 +290,11 @@ bikin aku melongo.
 dia bilang awalnya juga ragu.</div>
             <div class="post-cta">aku ceritain ya?</div>
             <div class="post-actions">
-              <button class="btn-xs"><i class="ti ti-chart-bar"></i>Stats</button>
               <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
             </div>
           </div>
-
           <div class="post-item pending">
-            <div class="post-meta">
-              <span class="post-time"><i class="ti ti-clock"></i>12.00</span>
-              <span class="post-badge badge-pending">Menunggu</span>
-            </div>
+            <div class="post-meta"><span class="post-time"><i class="ti ti-clock"></i>12.00</span><span class="post-badge b-pending">Menunggu</span></div>
             <div class="post-text">banyak yang nanya ke aku
 gimana mulai kerja ke Jepang.
 
@@ -520,92 +304,29 @@ tapi ada satu langkah pertama
 yang bikin semuanya lebih jelas.</div>
             <div class="post-cta">mau aku share?</div>
             <div class="post-actions">
-              <button class="btn-xs"><i class="ti ti-edit"></i>Edit</button>
               <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
-              <button class="btn-xs danger"><i class="ti ti-trash"></i>Hapus</button>
-            </div>
-          </div>
-
-          <div class="post-item pending">
-            <div class="post-meta">
-              <span class="post-time"><i class="ti ti-clock"></i>19.00</span>
-              <span class="post-badge badge-pending">Menunggu</span>
-            </div>
-            <div class="post-text">CV ku dulu ditolak terus.
-
-ngerasa udah bagus,
-tapi tetap ga dipanggil.
-
-ternyata ada yang salah
-dari cara aku nulis pengalaman.</div>
-            <div class="post-cta">pernah ngerasain juga?</div>
-            <div class="post-actions">
-              <button class="btn-xs"><i class="ti ti-edit"></i>Edit</button>
-              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
-              <button class="btn-xs danger"><i class="ti ti-trash"></i>Hapus</button>
+              <button class="btn-xs"><i class="ti ti-trash"></i>Hapus</button>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- BOTTOM -->
     <div class="bottom-grid">
       <div class="full-card">
-        <div class="card-header">
-          <div class="card-title"><i class="ti ti-calendar"></i>Jadwal posting harian</div>
-        </div>
-        <div class="schedule-grid">
-          <div class="time-slot">
-            <div class="time-slot-info">
-              <div class="time-label">Pagi</div>
-              <div class="time-sub">06.00 — 09.00</div>
-            </div>
-            <div class="time-count">3</div>
-          </div>
-          <div class="time-slot">
-            <div class="time-slot-info">
-              <div class="time-label">Siang</div>
-              <div class="time-sub">11.00 — 13.00</div>
-            </div>
-            <div class="time-count">4</div>
-          </div>
-          <div class="time-slot">
-            <div class="time-slot-info">
-              <div class="time-label">Malam</div>
-              <div class="time-sub">19.00 — 21.00</div>
-            </div>
-            <div class="time-count">3</div>
-          </div>
+        <div class="card-header"><div class="card-title"><i class="ti ti-calendar"></i>Jadwal posting harian</div></div>
+        <div class="sched-grid">
+          <div class="time-slot"><div><div class="time-name">Pagi</div><div class="time-sub">06.00 — 09.00</div></div><div class="time-count">3</div></div>
+          <div class="time-slot"><div><div class="time-name">Siang</div><div class="time-sub">11.00 — 13.00</div></div><div class="time-count">4</div></div>
+          <div class="time-slot"><div><div class="time-name">Malam</div><div class="time-sub">19.00 — 21.00</div></div><div class="time-count">3</div></div>
         </div>
       </div>
-
       <div class="full-card">
-        <div class="card-header">
-          <div class="card-title"><i class="ti ti-chart-line"></i>Performa minggu ini</div>
-        </div>
+        <div class="card-header"><div class="card-title"><i class="ti ti-chart-line"></i>Performa minggu ini</div></div>
         <div class="analytics-grid">
-          <div class="analytic-item">
-            <div class="analytic-icon blue"><i class="ti ti-eye"></i></div>
-            <div>
-              <div class="analytic-val">342</div>
-              <div class="analytic-lbl">Impressions</div>
-            </div>
-          </div>
-          <div class="analytic-item">
-            <div class="analytic-icon green"><i class="ti ti-heart"></i></div>
-            <div>
-              <div class="analytic-val">47</div>
-              <div class="analytic-lbl">Likes</div>
-            </div>
-          </div>
-          <div class="analytic-item">
-            <div class="analytic-icon" style="background:var(--orange-light)"><i class="ti ti-message-circle" style="color:var(--orange-dark);font-size:16px"></i></div>
-            <div>
-              <div class="analytic-val">9</div>
-              <div class="analytic-lbl">Replies</div>
-            </div>
-          </div>
+          <div class="analytic-item"><div class="a-icon si-blue"><i class="ti ti-eye"></i></div><div><div class="a-val">342</div><div class="a-lbl">Impressions</div></div></div>
+          <div class="analytic-item"><div class="a-icon si-green"><i class="ti ti-heart"></i></div><div><div class="a-val">47</div><div class="a-lbl">Likes</div></div></div>
+          <div class="analytic-item"><div class="a-icon si-orange"><i class="ti ti-message-circle"></i></div><div><div class="a-val">9</div><div class="a-lbl">Replies</div></div></div>
         </div>
       </div>
     </div>
@@ -613,118 +334,97 @@ dari cara aku nulis pengalaman.</div>
 </div>
 
 <script>
-  // API Key management
-  function saveApiKey() {
-    const key = document.getElementById('apiKeyInput').value.trim();
-    if (!key.startsWith('sk-ant-')) {
-      showToast('API key tidak valid — harus mulai dengan sk-ant-');
-      return;
-    }
-    localStorage.setItem('anthropic_key', key);
-    updateApiStatus();
-    showToast('API key tersimpan!');
-  }
+  // INIT
+  document.getElementById('todayDate').textContent = new Date().toLocaleDateString('id-ID',{day:'numeric',month:'long',year:'numeric'});
+  loadApiKeyStatus();
 
-  function updateApiStatus() {
-    const key = localStorage.getItem('anthropic_key');
+  function loadApiKeyStatus() {
+    const key = localStorage.getItem('anthro_key');
     const status = document.getElementById('apiStatus');
-    const input = document.getElementById('apiKeyInput');
     if (key) {
       status.textContent = '✅ Tersimpan';
-      status.style.color = 'var(--green)';
-      input.value = '';
-      input.placeholder = key.slice(0, 14) + '••••••••••••••••••••';
+      status.style.color = '#1D9E75';
+      document.getElementById('apiKeyInput').placeholder = key.substring(0,16) + '••••••••••••••••••••';
+      document.getElementById('apiKeyInput').value = '';
     } else {
       status.textContent = '⚠️ Belum diisi';
-      status.style.color = 'var(--orange-dark)';
+      status.style.color = '#BA7517';
     }
   }
 
-  // Set today's date
-  const today = new Date();
-  document.getElementById('todayDate').textContent = today.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' });
-  updateApiStatus();
+  function saveApiKey() {
+    const input = document.getElementById('apiKeyInput');
+    const val = input.value.trim();
+    if (val.length < 20) {
+      showToast('API key terlalu pendek!');
+      return;
+    }
+    localStorage.setItem('anthro_key', val);
+    loadApiKeyStatus();
+    showToast('✅ API key tersimpan!');
+  }
 
-  // Tone selector
   function setTone(el) {
     document.querySelectorAll('.tone-btn').forEach(b => b.classList.remove('active'));
     el.classList.add('active');
   }
 
-  // Toast
   function showToast(msg) {
     const t = document.getElementById('toast');
     t.textContent = msg;
     t.classList.add('show');
-    setTimeout(() => t.classList.remove('show'), 2500);
+    setTimeout(() => t.classList.remove('show'), 3000);
   }
 
-  // Copy post
   function copyPost(btn) {
     const item = btn.closest('.post-item');
     const text = item.querySelector('.post-text').textContent.trim();
     const cta = item.querySelector('.post-cta').textContent.trim();
-    navigator.clipboard.writeText(text + '\n\n' + cta).then(() => showToast('Post berhasil dicopy!'));
+    navigator.clipboard.writeText(text + '\n\n' + cta).then(() => showToast('✅ Post dicopy!'));
   }
 
-  // Generate posts — Claude API
   async function generatePosts() {
+    const apiKey = localStorage.getItem('anthro_key');
+    if (!apiKey) {
+      showToast('⚠️ Masukkan API key dulu!');
+      document.getElementById('apiKeyInput').focus();
+      return;
+    }
+
+    const typeMap = {
+      pain:'pain point dan solusi', tips:'tips karir global',
+      promo:'promosi fitur Pro GoGlobal AI', story:'kisah sukses',
+      hook:'hook dan pertanyaan penasaran'
+    };
+
     const type = document.getElementById('contentType').value;
     const negara = document.getElementById('negara').value || 'umum';
     const catatan = document.getElementById('catatan').value;
     const tone = document.querySelector('.tone-btn.active').textContent;
 
-    const typeMap = {
-      pain: 'pain point dan solusi',
-      tips: 'tips karir global',
-      promo: 'promosi fitur Pro GoGlobal AI',
-      story: 'kisah sukses',
-      hook: 'hook dan pertanyaan penasaran'
-    };
+    const prompt = `Kamu content creator Threads untuk GoGlobal AI, app untuk orang Indonesia yang mau kerja di luar negeri.
 
-    const apiKey = localStorage.getItem('anthropic_key');
-    if (!apiKey) {
-      showToast('Masukkan API key dulu ya!');
-      document.getElementById('apiKeyInput').focus();
-      return;
-    }
-
-    const overlay = document.getElementById('loadingOverlay');
-    overlay.classList.add('show');
-
-    const prompt = `Kamu adalah content creator Threads untuk GoGlobal AI — app AI untuk orang Indonesia yang mau kerja di luar negeri.
-
-Buat 10 post Threads dalam Bahasa Indonesia dengan ketentuan:
-- Tipe konten: ${typeMap[type]}
-- Negara/destinasi fokus: ${negara}
+Buat 10 post Threads Bahasa Indonesia:
+- Tipe: ${typeMap[type]}
+- Negara/destinasi: ${negara}
 - Tone: ${tone}
-- Catatan: ${catatan || 'tidak ada'}
+- Catatan: ${catatan || '-'}
 
-Format WAJIB untuk setiap post:
-- Pendek: 3-5 baris saja
-- Jeda baris antar kalimat (seperti puisi pendek)
-- Bahasa sehari-hari, kayak ngobrol sama teman
-- JANGAN jualan keras atau pakai kata-kata menakutkan
-- Di akhir selalu ada CTA ngegantung 1 baris (cth: "mau cerita?", "pernah ngerasain juga?", "aku share ya?", "lanjut?")
-- CTA harus natural, bukan "klik link di bio"
+Format WAJIB tiap post (PENTING — ikuti persis):
+- 3-5 baris pendek
+- Bahasa santai seperti ngobrol sama teman
+- JANGAN pakai kata menakutkan atau terlalu jualan
+- Akhiri dengan CTA ngegantung natural (contoh: "mau cerita?", "pernah ngerasain?", "lanjut?")
 
-Tentang GoGlobal AI:
-- App PWA untuk orang Indonesia yang mau kerja ke luar negeri
-- Fitur gratis: Explore Countries, Ask GoGlobal AI, Visa Pathway, Kalkulator Gaji, Scam Detector
-- Fitur Pro (Rp 299.000 sekali bayar): CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap Generator
-- Negara tersedia: Jepang, Korea, Australia, Jerman, Kanada, Arab Saudi, UK, US, Kapal Pesiar, Remote/AI
+GoGlobal AI info: App PWA karir internasional. Gratis: Explore, Chat AI, Visa, Gaji, Scam Detector. Pro Rp299rb: CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap.
 
-Balas HANYA dengan JSON array, tidak ada teks lain:
-[
-  {
-    "jam": "06.00",
-    "teks": "isi post dengan jeda baris",
-    "cta": "CTA ngegantung"
-  }
-]`;
+BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newline asli:
+[{"jam":"06.00","teks":"baris1|baris2|baris3","cta":"mau cerita?"},{"jam":"07.30","teks":"...","cta":"..."}]`;
+
+    document.getElementById('overlay').classList.add('show');
 
     try {
-      const res = await fetch('https://api.anthropic.com/v1/messages', {
+      const response = await fetch('https://api.anthropic.com/v1/messages', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -734,44 +434,58 @@ Balas HANYA dengan JSON array, tidak ada teks lain:
         },
         body: JSON.stringify({
           model: 'claude-sonnet-4-6',
-          max_tokens: 1000,
+          max_tokens: 2000,
           messages: [{ role: 'user', content: prompt }]
         })
       });
 
-      const data = await res.json();
-      const raw = data.content[0].text;
-      const clean = raw.replace(/```json|```/g, '').trim();
-      const posts = JSON.parse(clean);
+      if (!response.ok) {
+        const err = await response.json();
+        throw new Error(err.error?.message || 'HTTP ' + response.status);
+      }
+
+      const data = await response.json();
+      const rawText = data.content[0].text;
+      console.log('Raw response:', rawText);
+
+      // Extract JSON array safely
+      const start = rawText.indexOf('[');
+      const end = rawText.lastIndexOf(']');
+      if (start === -1 || end === -1) throw new Error('Tidak ada JSON array di response');
+
+      const jsonStr = rawText.slice(start, end + 1);
+      const posts = JSON.parse(jsonStr);
 
       renderPosts(posts);
-      showToast('10 post berhasil digenerate!');
-    } catch(e) {
-      showToast('Gagal generate — cek console');
-      console.error(e);
+      showToast('✅ 10 post berhasil digenerate!');
+    } catch(err) {
+      console.error('Generate error:', err);
+      showToast('❌ ' + err.message.slice(0, 80));
     } finally {
-      overlay.classList.remove('show');
+      document.getElementById('overlay').classList.remove('show');
     }
   }
 
-  // Render generated posts
+  const times = ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'];
+
   function renderPosts(posts) {
     const list = document.getElementById('queueList');
     list.innerHTML = '';
-    const times = ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'];
     posts.forEach((p, i) => {
+      // Convert pipe separators to newlines for display
+      const displayText = (p.teks || '').replace(/\|/g, '\n');
       const div = document.createElement('div');
       div.className = 'post-item pending';
       div.innerHTML = `
         <div class="post-meta">
           <span class="post-time"><i class="ti ti-clock"></i>${times[i] || p.jam}</span>
-          <span class="post-badge badge-queue">Siap post</span>
+          <span class="post-badge b-queue">Siap post</span>
         </div>
-        <div class="post-text">${p.teks}</div>
-        <div class="post-cta">${p.cta}</div>
+        <div class="post-text">${displayText}</div>
+        <div class="post-cta">${p.cta || ''}</div>
         <div class="post-actions">
           <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
-          <button class="btn-xs danger"><i class="ti ti-trash"></i>Hapus</button>
+          <button class="btn-xs" onclick="this.closest('.post-item').remove()"><i class="ti ti-trash"></i>Hapus</button>
         </div>`;
       list.appendChild(div);
     });
@@ -779,5 +493,6 @@ Balas HANYA dengan JSON array, tidak ada teks lain:
 </script>
 </body>
 </html>
+
 
 
