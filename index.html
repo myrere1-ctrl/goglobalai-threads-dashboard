@@ -158,13 +158,13 @@
     </div>
     <nav class="sidebar-nav">
       <div class="nav-label">Menu</div>
-      <div class="nav-item active"><i class="ti ti-layout-dashboard"></i>Dashboard</div>
-      <div class="nav-item"><i class="ti ti-sparkles"></i>Generate konten</div>
-      <div class="nav-item"><i class="ti ti-layout-list"></i>Queue</div>
-      <div class="nav-item"><i class="ti ti-calendar"></i>Jadwal</div>
+      <div class="nav-item active" onclick="navTo(this,'top')"><i class="ti ti-layout-dashboard"></i>Dashboard</div>
+      <div class="nav-item" onclick="navTo(this,'sec-generate')"><i class="ti ti-sparkles"></i>Generate konten</div>
+      <div class="nav-item" onclick="navTo(this,'sec-queue')"><i class="ti ti-layout-list"></i>Queue</div>
+      <div class="nav-item" onclick="navTo(this,'sec-jadwal')"><i class="ti ti-calendar"></i>Jadwal</div>
       <div class="nav-label">Analitik</div>
-      <div class="nav-item"><i class="ti ti-chart-line"></i>Performa</div>
-      <div class="nav-item"><i class="ti ti-settings"></i>Pengaturan</div>
+      <div class="nav-item" onclick="navTo(this,'sec-performa')"><i class="ti ti-chart-line"></i>Performa</div>
+      <div class="nav-item" onclick="navTo(this,'sec-pengaturan')"><i class="ti ti-settings"></i>Pengaturan</div>
     </nav>
     <div class="sidebar-bottom">
       <div class="status-badge"><div class="status-dot"></div><div class="status-text">Automation aktif</div></div>
@@ -200,7 +200,7 @@
     </div>
 
     <div class="content-grid">
-      <div class="card">
+      <div class="card" id="sec-generate">
         <div class="card-header"><div class="card-title"><i class="ti ti-sparkles"></i>Generate konten</div></div>
 
         <div class="fg">
@@ -259,7 +259,7 @@ insight yang bikin mikir.</div>
         </button>
       </div>
 
-      <div class="card">
+      <div class="card" id="sec-queue">
         <div class="card-header">
           <div class="card-title"><i class="ti ti-layout-list"></i>Queue hari ini</div>
           <span style="font-size:11px;color:var(--muted)" id="todayDate"></span>
@@ -271,7 +271,7 @@ insight yang bikin mikir.</div>
     </div>
 
     <div class="bottom-grid">
-      <div class="full-card">
+      <div class="full-card" id="sec-jadwal">
         <div class="card-header"><div class="card-title"><i class="ti ti-calendar"></i>Jadwal posting harian</div></div>
         <div class="sched-grid">
           <div class="time-slot"><div><div class="time-name">Pagi</div><div class="time-sub">06.00 — 09.00</div></div><div class="time-count">3</div></div>
@@ -279,12 +279,35 @@ insight yang bikin mikir.</div>
           <div class="time-slot"><div><div class="time-name">Malam</div><div class="time-sub">19.00 — 21.00</div></div><div class="time-count">3</div></div>
         </div>
       </div>
-      <div class="full-card">
+      <div class="full-card" id="sec-performa">
         <div class="card-header"><div class="card-title"><i class="ti ti-chart-line"></i>Aktivitas bot</div></div>
         <div class="analytics-grid">
           <div class="analytic-item"><div class="a-icon si-blue"><i class="ti ti-file-text"></i></div><div><div class="a-val" id="analyticTotal">—</div><div class="a-lbl">Total post</div></div></div>
           <div class="analytic-item"><div class="a-icon si-green"><i class="ti ti-world"></i></div><div><div class="a-val" id="analyticCountry">—</div><div class="a-lbl">Top destinasi</div></div></div>
           <div class="analytic-item"><div class="a-icon si-orange"><i class="ti ti-message-circle"></i></div><div><div class="a-val" id="analyticType">—</div><div class="a-lbl">Top tipe konten</div></div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="full-card" id="sec-pengaturan">
+      <div class="card-header"><div class="card-title"><i class="ti ti-settings"></i>Pengaturan & Info</div></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;font-size:13px">
+        <div>
+          <div style="font-weight:600;margin-bottom:6px">🤖 Bot Info</div>
+          <div style="color:var(--muted);line-height:1.7">
+            Status: <span style="color:var(--green);font-weight:600">Aktif</span><br>
+            Model AI: claude-sonnet-4-6<br>
+            Target: Akun goglobal.ai<br>
+            Frekuensi: 10 post/hari (06.00 — 21.00 WIB)
+          </div>
+        </div>
+        <div>
+          <div style="font-weight:600;margin-bottom:6px">🔧 Kontrol Cepat</div>
+          <div style="display:flex;flex-direction:column;gap:6px">
+            <a href="https://github.com/myrere1-ctrl/goglobalai-threads-dashboard/actions" target="_blank" class="btn-secondary" style="text-decoration:none;justify-content:center"><i class="ti ti-list"></i>Lihat log GitHub Actions</a>
+            <a href="https://www.threads.net/@goglobal.ai" target="_blank" class="btn-secondary" style="text-decoration:none;justify-content:center"><i class="ti ti-brand-threads"></i>Buka akun Threads</a>
+            <a href="https://github.com/myrere1-ctrl/goglobalai-threads-dashboard/blob/main/data/posted-log.json" target="_blank" class="btn-secondary" style="text-decoration:none;justify-content:center"><i class="ti ti-database"></i>Lihat log JSON</a>
+          </div>
         </div>
       </div>
     </div>
@@ -582,6 +605,17 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     const item = btn.closest('.post-item');
     const text = item.querySelector('.post-text').innerText.trim();
     navigator.clipboard.writeText(text).then(() => showToast('✅ Post dicopy!'));
+  }
+
+  function navTo(el, target) {
+    document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+    el.classList.add('active');
+    if (target === 'top') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      const sec = document.getElementById(target);
+      if (sec) sec.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   }
 
   // Load on init + refresh every 60s
