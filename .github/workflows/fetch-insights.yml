@@ -1,0 +1,37 @@
+name: Fetch Threads Insights
+
+on:
+  schedule:
+    - cron: '15 * * * *'   # tiap jam, menit ke-15 (after posting completes)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch insights
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: node scripts/fetch-insights.mjs
+
+      - name: Commit insights data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/insights.json
+          if git diff --staged --quiet; then
+            echo "No insights changes"
+          else
+            git commit -m "data: update insights snapshot"
+            git push
+          fi

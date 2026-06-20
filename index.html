@@ -182,6 +182,25 @@
 
     <div class="stats-grid">
       <div class="stat-card">
+        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-users"></i></div><span class="trend trend-up" id="statFollowersTrend">—</span></div>
+        <div class="stat-value" id="statFollowers">—</div><div class="stat-label">Followers</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-top"><div class="stat-icon si-green"><i class="ti ti-eye"></i></div><span class="trend trend-up" id="statViewsTrend">—</span></div>
+        <div class="stat-value" id="statViews">—</div><div class="stat-label">Views (semua post)</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-top"><div class="stat-icon si-orange"><i class="ti ti-heart"></i></div><span class="trend trend-up" id="statEngagementTrend">—</span></div>
+        <div class="stat-value" id="statEngagement">—</div><div class="stat-label">Total engagement</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-chart-bar"></i></div><span class="trend trend-up" id="statRateTrend">—</span></div>
+        <div class="stat-value" id="statRate">—</div><div class="stat-label">Engagement rate</div>
+      </div>
+    </div>
+
+    <div class="stats-grid" style="margin-bottom:1rem">
+      <div class="stat-card">
         <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-file-text"></i></div><span class="trend trend-up" id="statTodayTrend">—</span></div>
         <div class="stat-value" id="statToday">—</div><div class="stat-label">Post hari ini · target 10</div>
       </div>
@@ -286,6 +305,16 @@ insight yang bikin mikir.</div>
           <div class="analytic-item"><div class="a-icon si-green"><i class="ti ti-world"></i></div><div><div class="a-val" id="analyticCountry">—</div><div class="a-lbl">Top destinasi</div></div></div>
           <div class="analytic-item"><div class="a-icon si-orange"><i class="ti ti-message-circle"></i></div><div><div class="a-val" id="analyticType">—</div><div class="a-lbl">Top tipe konten</div></div></div>
         </div>
+      </div>
+    </div>
+
+    <div class="full-card" id="sec-top-posts">
+      <div class="card-header">
+        <div class="card-title"><i class="ti ti-trophy"></i>Top performing posts</div>
+        <span style="font-size:11px;color:var(--muted)" id="insightsUpdated">—</span>
+      </div>
+      <div id="topPostsList" style="display:flex;flex-direction:column;gap:8px">
+        <div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Belum ada data engagement. Tunggu cron pertama (max 1 jam) atau setup permission insights dulu.</div>
       </div>
     </div>
 
@@ -513,6 +542,76 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     }
   }
 
+  function formatNumber(n) {
+    if (n == null) return '—';
+    if (n >= 1000000) return (n/1000000).toFixed(1) + 'M';
+    if (n >= 1000) return (n/1000).toFixed(1) + 'K';
+    return String(n);
+  }
+
+  function escapeHtml(s) {
+    return String(s || '').replace(/[&<>"']/g, c => ({
+      '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+    })[c]);
+  }
+
+  async function loadInsights() {
+    try {
+      const res = await fetch('./data/insights.json?t=' + Date.now());
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const ins = await res.json();
+      renderInsights(ins);
+    } catch(err) {
+      console.error('Failed to load insights:', err);
+    }
+  }
+
+  function renderInsights(ins) {
+    const s = ins.summary || {};
+
+    document.getElementById('statFollowers').textContent = formatNumber(s.followers_count);
+    document.getElementById('statFollowersTrend').textContent = ins.updated_at ? 'live' : 'belum ada';
+
+    document.getElementById('statViews').textContent = formatNumber(s.views);
+    document.getElementById('statViewsTrend').textContent = s.post_count ? `${s.post_count} post` : 'belum ada';
+
+    document.getElementById('statEngagement').textContent = formatNumber(s.engagement_total);
+    document.getElementById('statEngagementTrend').textContent =
+      `${formatNumber(s.likes)} ❤ · ${formatNumber(s.replies)} 💬`;
+
+    document.getElementById('statRate').textContent = (s.engagement_rate || 0).toFixed(2) + '%';
+    document.getElementById('statRateTrend').textContent = s.engagement_rate >= 3 ? 'bagus' : 'rendah';
+
+    if (ins.updated_at) {
+      const updated = new Date(ins.updated_at);
+      document.getElementById('insightsUpdated').textContent =
+        'Update: ' + fmtRelativeTime(ins.updated_at);
+    }
+
+    const topList = document.getElementById('topPostsList');
+    if (ins.top_posts?.length) {
+      topList.innerHTML = ins.top_posts.map((p, i) => {
+        const m = p.metrics || {};
+        return `
+          <div style="background:var(--secondary);border-radius:var(--r10);padding:10px 12px;border-left:3px solid var(--orange)">
+            <div style="display:flex;justify-content:space-between;align-items:start;gap:8px;margin-bottom:6px">
+              <div style="font-size:12px;font-weight:600;color:var(--orange-dark)">#${i+1} · Engagement ${p.engagement}</div>
+              ${p.permalink ? `<a href="${p.permalink}" target="_blank" style="font-size:11px;color:var(--blue)">Lihat post →</a>` : ''}
+            </div>
+            <div style="font-size:12px;color:var(--text);line-height:1.6;margin-bottom:6px">${escapeHtml(p.text)}${p.text?.length >= 120 ? '…' : ''}</div>
+            <div style="font-size:11px;color:var(--muted);display:flex;gap:12px;flex-wrap:wrap">
+              <span>👁 ${formatNumber(m.views)}</span>
+              <span>❤ ${formatNumber(m.likes)}</span>
+              <span>💬 ${formatNumber(m.replies)}</span>
+              <span>🔄 ${formatNumber(m.reposts)}</span>
+              <span>💭 ${formatNumber(m.quotes)}</span>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+  }
+
   function renderBotStats(log) {
     const { ymd } = nowWib();
     const todayPosts = log.filter(p => postIsWibDate(p.timestamp, ymd));
@@ -620,7 +719,9 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
 
   // Load on init + refresh every 60s
   loadBotData();
+  loadInsights();
   setInterval(loadBotData, 60000);
+  setInterval(loadInsights, 60000);
 
   // ============ END BOT LIVE DATA ============
 

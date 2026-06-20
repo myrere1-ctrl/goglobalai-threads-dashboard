@@ -67,3 +67,22 @@ export async function exchangeForLongLived({ token, appSecret }) {
     `${OAUTH}/access_token?grant_type=th_exchange_token&client_secret=${appSecret}&access_token=${token}`
   );
 }
+
+export async function getProfile({ userId, token }) {
+  const fields = 'id,username,name,threads_profile_picture_url,threads_biography';
+  return getJson(`${BASE}/${userId}?fields=${fields}&access_token=${token}`);
+}
+
+export async function getUserInsights({ userId, token, metric }) {
+  return getJson(`${BASE}/${userId}/threads_insights?metric=${metric}&access_token=${token}`);
+}
+
+export async function getMediaInsights({ mediaId, token }) {
+  const metric = 'views,likes,replies,reposts,quotes,shares';
+  return getJson(`${BASE}/${mediaId}/insights?metric=${metric}&access_token=${token}`);
+}
+
+export async function getUserThreads({ userId, token, limit = 25 }) {
+  const fields = 'id,media_type,text,permalink,timestamp';
+  return getJson(`${BASE}/${userId}/threads?fields=${fields}&limit=${limit}&access_token=${token}`);
+}
