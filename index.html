@@ -182,20 +182,20 @@
 
     <div class="stats-grid">
       <div class="stat-card">
-        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-file-text"></i></div><span class="trend trend-up">+3 hari ini</span></div>
-        <div class="stat-value">8</div><div class="stat-label">Post hari ini · target 10</div>
+        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-file-text"></i></div><span class="trend trend-up" id="statTodayTrend">—</span></div>
+        <div class="stat-value" id="statToday">—</div><div class="stat-label">Post hari ini · target 10</div>
       </div>
       <div class="stat-card">
-        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-users"></i></div><span class="trend trend-neutral">+0</span></div>
-        <div class="stat-value">18</div><div class="stat-label">Total followers</div>
+        <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-calendar-week"></i></div><span class="trend trend-neutral" id="statWeekTrend">—</span></div>
+        <div class="stat-value" id="statWeek">—</div><div class="stat-label">Post 7 hari terakhir</div>
       </div>
       <div class="stat-card">
-        <div class="stat-top"><div class="stat-icon si-green"><i class="ti ti-eye"></i></div><span class="trend trend-up">+12%</span></div>
-        <div class="stat-value">342</div><div class="stat-label">Impressions minggu ini</div>
+        <div class="stat-top"><div class="stat-icon si-green"><i class="ti ti-history"></i></div><span class="trend trend-up" id="statLastTrend">—</span></div>
+        <div class="stat-value" id="statLast">—</div><div class="stat-label">Post terakhir</div>
       </div>
       <div class="stat-card">
-        <div class="stat-top"><div class="stat-icon si-orange"><i class="ti ti-external-link"></i></div><span class="trend trend-up">+5</span></div>
-        <div class="stat-value">12</div><div class="stat-label">Klik ke goglobal-ai.app</div>
+        <div class="stat-top"><div class="stat-icon si-orange"><i class="ti ti-bolt"></i></div><span class="trend" id="statNextTrend">—</span></div>
+        <div class="stat-value" id="statNext">—</div><div class="stat-label">Post berikutnya</div>
       </div>
     </div>
 
@@ -265,49 +265,7 @@ insight yang bikin mikir.</div>
           <span style="font-size:11px;color:var(--muted)" id="todayDate"></span>
         </div>
         <div class="queue-list" id="queueList">
-          <div class="post-item posted">
-            <div class="post-meta"><span class="post-time"><i class="ti ti-clock"></i>06.00</span><span class="post-badge b-posted">Terposting</span></div>
-            <div class="post-text">udah 5 tahun kerja keras.
-gaji naik tipis banget.
-
-temenku yang levelnya sama
-sekarang bawa pulang 4x lipat.
-
-bedanya cuma satu hal.</div>
-            <div class="post-cta">mau tau?</div>
-            <div class="post-actions">
-              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
-            </div>
-          </div>
-          <div class="post-item posted">
-            <div class="post-meta"><span class="post-time"><i class="ti ti-clock"></i>08.30</span><span class="post-badge b-posted">Terposting</span></div>
-            <div class="post-text">temenku kerja di kapal pesiar
-8 bulan.
-
-balik bawa tabungan yang
-bikin aku melongo.
-
-dia bilang awalnya juga ragu.</div>
-            <div class="post-cta">aku ceritain ya?</div>
-            <div class="post-actions">
-              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
-            </div>
-          </div>
-          <div class="post-item pending">
-            <div class="post-meta"><span class="post-time"><i class="ti ti-clock"></i>12.00</span><span class="post-badge b-pending">Menunggu</span></div>
-            <div class="post-text">banyak yang nanya ke aku
-gimana mulai kerja ke Jepang.
-
-jujur aku juga bingung waktu awal.
-
-tapi ada satu langkah pertama
-yang bikin semuanya lebih jelas.</div>
-            <div class="post-cta">mau aku share?</div>
-            <div class="post-actions">
-              <button class="btn-xs" onclick="copyPost(this)"><i class="ti ti-copy"></i>Copy</button>
-              <button class="btn-xs"><i class="ti ti-trash"></i>Hapus</button>
-            </div>
-          </div>
+          <div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Memuat data bot...</div>
         </div>
       </div>
     </div>
@@ -322,11 +280,11 @@ yang bikin semuanya lebih jelas.</div>
         </div>
       </div>
       <div class="full-card">
-        <div class="card-header"><div class="card-title"><i class="ti ti-chart-line"></i>Performa minggu ini</div></div>
+        <div class="card-header"><div class="card-title"><i class="ti ti-chart-line"></i>Aktivitas bot</div></div>
         <div class="analytics-grid">
-          <div class="analytic-item"><div class="a-icon si-blue"><i class="ti ti-eye"></i></div><div><div class="a-val">342</div><div class="a-lbl">Impressions</div></div></div>
-          <div class="analytic-item"><div class="a-icon si-green"><i class="ti ti-heart"></i></div><div><div class="a-val">47</div><div class="a-lbl">Likes</div></div></div>
-          <div class="analytic-item"><div class="a-icon si-orange"><i class="ti ti-message-circle"></i></div><div><div class="a-val">9</div><div class="a-lbl">Replies</div></div></div>
+          <div class="analytic-item"><div class="a-icon si-blue"><i class="ti ti-file-text"></i></div><div><div class="a-val" id="analyticTotal">—</div><div class="a-lbl">Total post</div></div></div>
+          <div class="analytic-item"><div class="a-icon si-green"><i class="ti ti-world"></i></div><div><div class="a-val" id="analyticCountry">—</div><div class="a-lbl">Top destinasi</div></div></div>
+          <div class="analytic-item"><div class="a-icon si-orange"><i class="ti ti-message-circle"></i></div><div><div class="a-val" id="analyticType">—</div><div class="a-lbl">Top tipe konten</div></div></div>
         </div>
       </div>
     </div>
@@ -467,6 +425,170 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
   }
 
   const times = ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'];
+
+  // ============ BOT LIVE DATA ============
+
+  function nowWib() {
+    // Current time in Asia/Jakarta (WIB = UTC+7)
+    const fmt = new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Jakarta', year:'numeric', month:'2-digit', day:'2-digit',
+      hour:'2-digit', minute:'2-digit', second:'2-digit', hour12:false
+    });
+    const parts = Object.fromEntries(fmt.formatToParts(new Date()).map(p => [p.type, p.value]));
+    return {
+      ymd: `${parts.year}-${parts.month}-${parts.day}`,
+      hm: `${parts.hour}.${parts.minute}`,
+      hourMinutes: parseInt(parts.hour) * 60 + parseInt(parts.minute),
+    };
+  }
+
+  function postIsWibDate(timestamp, ymd) {
+    const d = new Date(timestamp);
+    const fmt = new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Jakarta', year:'numeric', month:'2-digit', day:'2-digit'
+    });
+    const parts = Object.fromEntries(fmt.formatToParts(d).map(p => [p.type, p.value]));
+    return `${parts.year}-${parts.month}-${parts.day}` === ymd;
+  }
+
+  function postIsWithinDays(timestamp, days) {
+    const now = Date.now();
+    return (now - new Date(timestamp).getTime()) <= days * 86400000;
+  }
+
+  function slotToMinutes(slotStr) {
+    const [h, m] = slotStr.split('.').map(Number);
+    return h * 60 + m;
+  }
+
+  function topCount(arr) {
+    if (!arr.length) return '—';
+    const counts = {};
+    arr.forEach(v => counts[v] = (counts[v] || 0) + 1);
+    return Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0];
+  }
+
+  function fmtRelativeTime(ts) {
+    const diffMin = (Date.now() - new Date(ts).getTime()) / 60000;
+    if (diffMin < 1) return 'baru saja';
+    if (diffMin < 60) return Math.floor(diffMin) + ' menit lalu';
+    if (diffMin < 1440) return Math.floor(diffMin / 60) + ' jam lalu';
+    return Math.floor(diffMin / 1440) + ' hari lalu';
+  }
+
+  async function loadBotData() {
+    try {
+      const res = await fetch('./data/posted-log.json?t=' + Date.now());
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const log = await res.json();
+      renderBotStats(log);
+      renderBotQueue(log);
+    } catch(err) {
+      console.error('Failed to load bot data:', err);
+      document.getElementById('queueList').innerHTML =
+        '<div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Belum ada data — bot belum pernah posting.</div>';
+    }
+  }
+
+  function renderBotStats(log) {
+    const { ymd } = nowWib();
+    const todayPosts = log.filter(p => postIsWibDate(p.timestamp, ymd));
+    const weekPosts = log.filter(p => postIsWithinDays(p.timestamp, 7));
+
+    document.getElementById('statToday').textContent = todayPosts.length;
+    document.getElementById('statTodayTrend').textContent = `${todayPosts.length}/10`;
+
+    document.getElementById('statWeek').textContent = weekPosts.length;
+    document.getElementById('statWeekTrend').textContent = `${(weekPosts.length / 7).toFixed(1)}/hari`;
+
+    if (log.length > 0) {
+      const last = log[log.length - 1];
+      document.getElementById('statLast').textContent = last.slotTimeWib || '—';
+      document.getElementById('statLastTrend').textContent = fmtRelativeTime(last.timestamp);
+    } else {
+      document.getElementById('statLast').textContent = '—';
+      document.getElementById('statLastTrend').textContent = 'belum ada';
+    }
+
+    // Next post slot
+    const { hourMinutes } = nowWib();
+    const nextSlot = times.find(t => slotToMinutes(t) > hourMinutes);
+    if (nextSlot) {
+      document.getElementById('statNext').textContent = nextSlot;
+      const diffMin = slotToMinutes(nextSlot) - hourMinutes;
+      document.getElementById('statNextTrend').textContent =
+        diffMin < 60 ? `${diffMin} mnt lagi` : `${Math.floor(diffMin/60)}j ${diffMin%60}m lagi`;
+      document.getElementById('statNextTrend').className = 'trend trend-up';
+    } else {
+      document.getElementById('statNext').textContent = '06.00';
+      document.getElementById('statNextTrend').textContent = 'besok';
+      document.getElementById('statNextTrend').className = 'trend trend-neutral';
+    }
+
+    // Bottom analytics
+    document.getElementById('analyticTotal').textContent = log.length;
+    document.getElementById('analyticCountry').textContent = topCount(log.map(p => p.country).filter(Boolean));
+    document.getElementById('analyticType').textContent = topCount(log.map(p => p.type).filter(Boolean));
+  }
+
+  function renderBotQueue(log) {
+    const { ymd, hourMinutes } = nowWib();
+    const todayPosts = log.filter(p => postIsWibDate(p.timestamp, ymd));
+    const list = document.getElementById('queueList');
+    list.innerHTML = '';
+
+    times.forEach((time, idx) => {
+      const posted = todayPosts.find(p => p.slot === idx);
+      const slotMin = slotToMinutes(time);
+      const isPast = slotMin <= hourMinutes;
+      const isUpcoming = !posted && !isPast;
+      const isMissed = !posted && isPast;
+
+      let cls = 'pending', badge = '', badgeText = '';
+      let bodyText = '', metaSub = '';
+
+      if (posted) {
+        cls = 'posted';
+        badge = 'b-posted';
+        badgeText = 'Terposting';
+        bodyText = posted.text || '';
+      } else if (isUpcoming) {
+        cls = 'pending';
+        badge = 'b-pending';
+        badgeText = 'Menunggu';
+        bodyText = `<span style="color:var(--muted);font-style:italic">Bot akan generate + post otomatis jam ${time} WIB</span>`;
+      } else if (isMissed) {
+        cls = 'pending';
+        badge = 'b-pending';
+        badgeText = 'Terlewat';
+        bodyText = `<span style="color:var(--muted);font-style:italic">Tidak terkirim (cek log GitHub Actions)</span>`;
+      }
+
+      const div = document.createElement('div');
+      div.className = 'post-item ' + cls;
+      div.innerHTML = `
+        <div class="post-meta">
+          <span class="post-time"><i class="ti ti-clock"></i>${time}</span>
+          <span class="post-badge ${badge}">${badgeText}</span>
+        </div>
+        <div class="post-text">${bodyText.replace(/\n/g, '<br>')}</div>
+        ${posted ? `<div class="post-actions"><button class="btn-xs" onclick="copyPostText(this)"><i class="ti ti-copy"></i>Copy</button></div>` : ''}
+      `;
+      list.appendChild(div);
+    });
+  }
+
+  function copyPostText(btn) {
+    const item = btn.closest('.post-item');
+    const text = item.querySelector('.post-text').innerText.trim();
+    navigator.clipboard.writeText(text).then(() => showToast('✅ Post dicopy!'));
+  }
+
+  // Load on init + refresh every 60s
+  loadBotData();
+  setInterval(loadBotData, 60000);
+
+  // ============ END BOT LIVE DATA ============
 
   function renderPosts(posts) {
     const list = document.getElementById('queueList');
