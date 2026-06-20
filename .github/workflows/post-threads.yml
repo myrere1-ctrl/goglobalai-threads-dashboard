@@ -1,0 +1,87 @@
+name: Post to Threads
+
+on:
+  schedule:
+    # Times below are UTC. WIB = UTC+7.
+    - cron: '0 23 * * *'    # slot 0 → 06.00 WIB
+    - cron: '30 0 * * *'    # slot 1 → 07.30 WIB
+    - cron: '0 2 * * *'     # slot 2 → 09.00 WIB
+    - cron: '30 3 * * *'    # slot 3 → 10.30 WIB
+    - cron: '0 5 * * *'     # slot 4 → 12.00 WIB
+    - cron: '30 6 * * *'    # slot 5 → 13.30 WIB
+    - cron: '0 8 * * *'     # slot 6 → 15.00 WIB
+    - cron: '0 10 * * *'    # slot 7 → 17.00 WIB
+    - cron: '0 12 * * *'    # slot 8 → 19.00 WIB
+    - cron: '0 14 * * *'    # slot 9 → 21.00 WIB
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'Slot index 0-9'
+        required: true
+        default: '0'
+      dry_run:
+        description: 'Generate only, do not post'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm ci --no-audit --no-fund
+        if: ${{ hashFiles('package-lock.json') != '' }}
+
+      - run: npm install --no-audit --no-fund
+        if: ${{ hashFiles('package-lock.json') == '' }}
+
+      - name: Resolve slot from cron
+        id: slot
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "slot=${{ inputs.slot }}" >> "$GITHUB_OUTPUT"
+            echo "dry=${{ inputs.dry_run == 'true' && '--dry-run' || '' }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          case "${{ github.event.schedule }}" in
+            "0 23 * * *")  echo "slot=0" >> "$GITHUB_OUTPUT" ;;
+            "30 0 * * *")  echo "slot=1" >> "$GITHUB_OUTPUT" ;;
+            "0 2 * * *")   echo "slot=2" >> "$GITHUB_OUTPUT" ;;
+            "30 3 * * *")  echo "slot=3" >> "$GITHUB_OUTPUT" ;;
+            "0 5 * * *")   echo "slot=4" >> "$GITHUB_OUTPUT" ;;
+            "30 6 * * *")  echo "slot=5" >> "$GITHUB_OUTPUT" ;;
+            "0 8 * * *")   echo "slot=6" >> "$GITHUB_OUTPUT" ;;
+            "0 10 * * *")  echo "slot=7" >> "$GITHUB_OUTPUT" ;;
+            "0 12 * * *")  echo "slot=8" >> "$GITHUB_OUTPUT" ;;
+            "0 14 * * *")  echo "slot=9" >> "$GITHUB_OUTPUT" ;;
+            *) echo "Unknown schedule" && exit 1 ;;
+          esac
+          echo "dry=" >> "$GITHUB_OUTPUT"
+
+      - name: Generate and post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: node scripts/generate-and-post.mjs --slot=${{ steps.slot.outputs.slot }} ${{ steps.slot.outputs.dry }}
+
+      - name: Commit posted log
+        if: ${{ steps.slot.outputs.dry == '' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/posted-log.json
+          if git diff --staged --quiet; then
+            echo "No log changes"
+          else
+            git commit -m "log: slot ${{ steps.slot.outputs.slot }} posted"
+            git push
+          fi

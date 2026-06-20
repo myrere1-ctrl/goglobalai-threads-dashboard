@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.env
+.env.local
+short_token.txt
+long_token.txt

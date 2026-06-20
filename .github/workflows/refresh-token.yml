@@ -1,0 +1,48 @@
+name: Refresh Threads Token
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'   # Monday 01.00 UTC = 08.00 WIB
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force refresh even if >14 days left'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm ci --no-audit --no-fund
+        if: ${{ hashFiles('package-lock.json') != '' }}
+
+      - run: npm install --no-audit --no-fund
+        if: ${{ hashFiles('package-lock.json') == '' }}
+
+      - name: Refresh token
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          GH_PAT_REPO_SECRETS: ${{ secrets.GH_PAT_REPO_SECRETS }}
+        run: node scripts/refresh-token.mjs ${{ inputs.force == 'true' && '--force' || '' }}
+
+      - name: Commit token metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/token-meta.json
+          if git diff --staged --quiet; then
+            echo "No metadata changes"
+          else
+            git commit -m "chore: refresh threads token metadata"
+            git push
+          fi

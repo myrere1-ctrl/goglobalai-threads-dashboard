@@ -1,0 +1,17 @@
+{
+  "name": "goglobal-threads-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "post": "node scripts/generate-and-post.mjs",
+    "post:dry": "node scripts/generate-and-post.mjs --slot=0 --dry-run",
+    "refresh": "node scripts/refresh-token.mjs"
+  },
+  "dependencies": {
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
