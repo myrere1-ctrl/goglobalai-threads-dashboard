@@ -173,10 +173,10 @@
 
   <main class="main">
     <div class="topbar">
-      <div><div class="topbar-title">Threads Automation</div><div class="topbar-sub">GoGlobal AI · goglobalai.vercel.app</div></div>
+      <div><div class="topbar-title">Threads Automation</div><div class="topbar-sub">GoGlobal AI · goglobal-ai.app</div></div>
       <div class="topbar-right">
-        <button class="btn-secondary"><i class="ti ti-clock"></i>Jadwal cron</button>
-        <button class="btn-primary"><i class="ti ti-send"></i>Post sekarang</button>
+        <a href="https://goglobal-ai.app" target="_blank" class="btn-secondary" style="text-decoration:none"><i class="ti ti-external-link"></i>goglobal-ai.app</a>
+        <a href="https://www.threads.net/@goglobal.ai" target="_blank" class="btn-primary" style="text-decoration:none"><i class="ti ti-brand-threads"></i>Lihat Threads</a>
       </div>
     </div>
 
@@ -305,6 +305,20 @@ insight yang bikin mikir.</div>
           <div class="analytic-item"><div class="a-icon si-green"><i class="ti ti-world"></i></div><div><div class="a-val" id="analyticCountry">—</div><div class="a-lbl">Top destinasi</div></div></div>
           <div class="analytic-item"><div class="a-icon si-orange"><i class="ti ti-message-circle"></i></div><div><div class="a-val" id="analyticType">—</div><div class="a-lbl">Top tipe konten</div></div></div>
         </div>
+      </div>
+    </div>
+
+    <div class="full-card" id="sec-pattern" style="background:linear-gradient(135deg,#FAEEDA 0%,#FFF 60%)">
+      <div class="card-header">
+        <div class="card-title"><i class="ti ti-target"></i>Pola post yang menang 🎯</div>
+        <span style="font-size:11px;color:var(--muted)">Analisa dari Top 5 post engagement tertinggi</span>
+      </div>
+      <div id="patternBox" style="font-size:13px;color:var(--text);line-height:1.7">
+        <div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Belum cukup data — perlu minimal 5 post dengan engagement.</div>
+      </div>
+      <div style="margin-top:14px;padding-top:14px;border-top:1px solid var(--border);background:var(--blue-light);border-radius:var(--r10);padding:12px">
+        <div style="font-size:12px;font-weight:600;color:var(--blue-mid);margin-bottom:4px">🎯 Goal: Curiosity → goglobal-ai.app → Buyer</div>
+        <div style="font-size:11px;color:var(--muted);line-height:1.7">Post yang trigger curiosity = potensi orang klik bio &rarr; <a href="https://goglobal-ai.app" target="_blank" style="color:var(--blue);font-weight:600">goglobal-ai.app</a>. Reply tinggi = sinyal kuat (orang invested).</div>
       </div>
     </div>
 
@@ -533,6 +547,7 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
       const res = await fetch('./data/posted-log.json?t=' + Date.now());
       if (!res.ok) throw new Error('HTTP ' + res.status);
       const log = await res.json();
+      cachedLog = log;
       renderBotStats(log);
       renderBotQueue(log);
     } catch(err) {
@@ -555,15 +570,71 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     })[c]);
   }
 
+  let cachedLog = [];
+
   async function loadInsights() {
     try {
       const res = await fetch('./data/insights.json?t=' + Date.now());
       if (!res.ok) throw new Error('HTTP ' + res.status);
       const ins = await res.json();
       renderInsights(ins);
+      renderPattern(ins);
     } catch(err) {
       console.error('Failed to load insights:', err);
     }
+  }
+
+  function enrichTopPosts(topPosts, log) {
+    return topPosts.map(p => {
+      const match = log.find(l => l.threadId === p.id);
+      return {
+        ...p,
+        country: match?.country || null,
+        tone: match?.tone || null,
+        type: match?.type || null,
+        slotTimeWib: match?.slotTimeWib || null,
+      };
+    });
+  }
+
+  function topPattern(items) {
+    if (!items.length) return null;
+    const counts = {};
+    items.forEach(v => { if (v) counts[v] = (counts[v] || 0) + 1; });
+    const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+    return sorted[0] ? { value: sorted[0][0], count: sorted[0][1], total: items.filter(Boolean).length } : null;
+  }
+
+  function renderPattern(ins) {
+    const box = document.getElementById('patternBox');
+    const top = ins.top_posts || [];
+    if (top.length < 3) {
+      box.innerHTML = `<div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Perlu minimal 3 post dengan engagement (saat ini ${top.length}).<br>Tunggu bot post lebih banyak ya.</div>`;
+      return;
+    }
+    const enriched = enrichTopPosts(top, cachedLog);
+    const topCountry = topPattern(enriched.map(p => p.country));
+    const topTone = topPattern(enriched.map(p => p.tone));
+    const topType = topPattern(enriched.map(p => p.type));
+    const totalReplies = enriched.reduce((s, p) => s + (p.metrics?.replies || 0), 0);
+    const totalViews = enriched.reduce((s, p) => s + (p.metrics?.views || 0), 0);
+    const replyRate = totalViews > 0 ? (totalReplies / totalViews * 100).toFixed(2) : '0';
+
+    const fmtPattern = (label, p) => p
+      ? `<div style="background:#fff;border:1px solid var(--border);border-radius:var(--r10);padding:10px 12px"><div style="font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">${label}</div><div style="font-size:15px;font-weight:600;color:var(--orange-dark)">${escapeHtml(p.value)}</div><div style="font-size:11px;color:var(--muted)">${p.count}/${p.total} top posts</div></div>`
+      : `<div style="background:#fff;border:1px solid var(--border);border-radius:var(--r10);padding:10px 12px;opacity:.5"><div style="font-size:11px;color:var(--muted)">${label}</div><div style="font-size:13px">—</div></div>`;
+
+    box.innerHTML = `
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:12px">
+        ${fmtPattern('🌏 Negara menang', topCountry)}
+        ${fmtPattern('🎨 Tone menang', topTone)}
+        ${fmtPattern('📝 Tipe konten menang', topType)}
+      </div>
+      <div style="background:var(--green-light);border-radius:var(--r10);padding:10px 12px;font-size:12px;color:var(--green-dark);line-height:1.6">
+        💡 <strong>Reply rate top posts: ${replyRate}%</strong> · ${totalReplies} replies dari ${totalViews} views.
+        ${parseFloat(replyRate) > 1 ? 'Reply tinggi = orang invested, kemungkinan klik bio besar.' : 'Reply masih rendah — coba CTA yang lebih ngajak interaksi.'}
+      </div>
+    `;
   }
 
   function renderInsights(ins) {
@@ -580,7 +651,10 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
       `${formatNumber(s.likes)} ❤ · ${formatNumber(s.replies)} 💬`;
 
     document.getElementById('statRate').textContent = (s.engagement_rate || 0).toFixed(2) + '%';
-    document.getElementById('statRateTrend').textContent = s.engagement_rate >= 3 ? 'bagus' : 'rendah';
+    // Threads: <1% rendah, 1-3% normal, 3-6% bagus, >6% viral
+    const r = s.engagement_rate || 0;
+    const rateLabel = r < 1 ? 'rendah' : r < 3 ? 'normal' : r < 6 ? 'bagus' : 'viral 🔥';
+    document.getElementById('statRateTrend').textContent = rateLabel;
 
     if (ins.updated_at) {
       const updated = new Date(ins.updated_at);
@@ -590,14 +664,20 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
 
     const topList = document.getElementById('topPostsList');
     if (ins.top_posts?.length) {
-      topList.innerHTML = ins.top_posts.map((p, i) => {
+      const enriched = enrichTopPosts(ins.top_posts, cachedLog);
+      topList.innerHTML = enriched.map((p, i) => {
         const m = p.metrics || {};
+        const tags = [];
+        if (p.country) tags.push(`<span style="background:var(--blue-light);color:var(--blue-mid);padding:2px 8px;border-radius:10px;font-size:10px;font-weight:600">🌏 ${escapeHtml(p.country)}</span>`);
+        if (p.tone) tags.push(`<span style="background:var(--orange-light);color:var(--orange-dark);padding:2px 8px;border-radius:10px;font-size:10px;font-weight:600">🎨 ${escapeHtml(p.tone)}</span>`);
+        if (p.type) tags.push(`<span style="background:var(--green-light);color:var(--green-dark);padding:2px 8px;border-radius:10px;font-size:10px;font-weight:600">📝 ${escapeHtml(p.type)}</span>`);
         return `
           <div style="background:var(--secondary);border-radius:var(--r10);padding:10px 12px;border-left:3px solid var(--orange)">
             <div style="display:flex;justify-content:space-between;align-items:start;gap:8px;margin-bottom:6px">
               <div style="font-size:12px;font-weight:600;color:var(--orange-dark)">#${i+1} · Engagement ${p.engagement}</div>
               ${p.permalink ? `<a href="${p.permalink}" target="_blank" style="font-size:11px;color:var(--blue)">Lihat post →</a>` : ''}
             </div>
+            ${tags.length ? `<div style="display:flex;gap:4px;flex-wrap:wrap;margin-bottom:6px">${tags.join('')}</div>` : ''}
             <div style="font-size:12px;color:var(--text);line-height:1.6;margin-bottom:6px">${escapeHtml(p.text)}${p.text?.length >= 120 ? '…' : ''}</div>
             <div style="font-size:11px;color:var(--muted);display:flex;gap:12px;flex-wrap:wrap">
               <span>👁 ${formatNumber(m.views)}</span>
