@@ -1,17 +1,249 @@
 {
-  "updated_at": "2026-06-20T10:41:22.281Z",
-  "profile": null,
+  "updated_at": "2026-06-20T12:59:21.516Z",
+  "profile": {
+    "username": "goglobal.ai",
+    "name": "Go Global AI",
+    "biography": "Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agent Penyalur Kerja)\n+61480746292 🇸🇭 (whatsapp)",
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=okAGkEuj8soQ7kNvwGrCSGn&_nc_oc=AdpGbcolIKzEe9E0WK-QlTRddSl9eOkX51wiHAXYdmmIYyawjFXsfBLO3ex-4Ibf6-M&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=if-3peeuWxwGF_GwjSipng&_nc_tpa=Q5bMBQFtoV1EAdn12m57Y94MeRl1cFrBDgG9LLZvMr6xlXhF5-cAkK2GwxffV9_C9i4gUwbVGtaPn9Cy2w&oh=00_Af8se-iE7CL3ndGdJpDBspHg2JyLZZQY6VHN40a1MDP59A&oe=6A3C7775"
+  },
   "summary": {
-    "followers_count": null,
-    "views": 0,
-    "likes": 0,
-    "replies": 0,
+    "followers_count": 55,
+    "views": 166,
+    "likes": 2,
+    "replies": 2,
     "reposts": 0,
     "quotes": 0,
-    "engagement_total": 0,
-    "engagement_rate": 0,
-    "post_count": 0
+    "engagement_total": 40,
+    "engagement_rate": 2.04,
+    "post_count": 25
   },
-  "top_posts": [],
-  "recent_posts": []
+  "top_posts": [
+    {
+      "id": "17862671259602277",
+      "text": "Australia beda cerita sih\nBahasa Inggris dibutuhin, tapi gak harus fasih kayak presenter berita\nFarm working visa itu ny",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZv9PwgmTcm",
+      "timestamp": "2026-06-19T01:39:02+0000",
+      "metrics": {
+        "views": 683,
+        "likes": 0,
+        "replies": 9,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
+      "id": "18118455163840097",
+      "text": "Kerja di Jepang itu cocok banget buat yang gak mau ribet bahasa Inggris\nDi sana yang penting kerja keras, tepat waktu, d",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZv9GlNGR_F",
+      "timestamp": "2026-06-19T01:37:47+0000",
+      "metrics": {
+        "views": 277,
+        "likes": 0,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "17943461397230823",
+      "text": "Ada yang suami istri kerja bareng, ada yang sudah umur 40 tahun lebih pria atau wanita , karena kerja di perkebunan Aust",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZwGKCMmX1T",
+      "timestamp": "2026-06-19T02:56:54+0000",
+      "metrics": {
+        "views": 269,
+        "likes": 0,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 4
+    },
+    {
+      "id": "17896749840472214",
+      "text": "katanya kerja di Australia tanpa pengalaman itu mustahil.\neh tapi temenku yang baru lulus malah udah di Sydney sekarang ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZyf4dOmWaa",
+      "timestamp": "2026-06-20T01:20:10+0000",
+      "metrics": {
+        "views": 270,
+        "likes": 0,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18115232404662731",
+      "text": "Udah riset sendiri soal kerja di mining Australia sampe mata sepet? 😪\nInformasinya berserakan, nggak tau mana yang upda",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZuXWnuGUX2",
+      "timestamp": "2026-06-18T10:48:41+0000",
+      "metrics": {
+        "views": 83,
+        "likes": 0,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18112245460747055",
+      "text": "CV kamu udah siap belum?\njadi kamu lagi galau milih Australia atau Canada?\ndua-duanya bagus, tapi buat yang belum punya ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZzvZOuGTdZ",
+      "timestamp": "2026-06-20T12:54:57+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18079475270284415",
+      "text": "ada yang tau bedanya WHV Australia sama working permit Canada?\nkarena kalau salah pilih, bisa nyesel setaun penuh di san",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZzvRo1maBr",
+      "timestamp": "2026-06-20T12:53:55+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18046862831619268",
+      "text": "teman kantor lama aku sekarang lagi panen strawberry di Queensland 🍓\ndia bilang 'gak butuh pengalaman, yang penting mau",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZzexDjmViY",
+      "timestamp": "2026-06-20T10:29:39+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17912751201221107",
+      "text": "Jerman itu bukan cuma soal teknik dan mesin ya 🇩🇪\nBanyak banget profesi yang lagi dicari di sana — dari perawat, chef,",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZzaLkelm-c",
+      "timestamp": "2026-06-20T09:50:08+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18105142007051560",
+      "text": "Kerja di Jepang itu bukan cuma soal bisa bahasa Jepang ya 👀\nYang sering bikin orang gagal di interview justru soal *man",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZzFtzBlgJS",
+      "timestamp": "2026-06-20T06:51:18+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17914999140204123",
+      "text": "myth: harus pengalaman 5 tahun buat kerja di luar negeri.\nreality: ada jalur lain yang orang Indonesia jarang tau 👀\nAus",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZy96luGR8F",
+      "timestamp": "2026-06-20T05:42:36+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18458139652112413",
+      "text": "jujur deh, siapa yang pernah ngebandingin gaji Australia vs Canada?\nkarena selisihnya bisa bikin kamu garuk-garuk kepala",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZy3OfNmem8",
+      "timestamp": "2026-06-20T04:44:09+0000",
+      "metrics": {
+        "views": 70,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17990622572813167",
+      "text": "Canada itu dingin cuacanya, tapi katanya orangnya hangat banget 🥶❤️\nnah kalau soal nerima pekerja tanpa pengalaman...\na",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZy3ImTmXf0",
+      "timestamp": "2026-06-20T04:43:21+0000",
+      "metrics": {
+        "views": 25,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17896749840472214",
+      "text": "katanya kerja di Australia tanpa pengalaman itu mustahil.\neh tapi temenku yang baru lulus malah udah di Sydney sekarang ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZyf4dOmWaa",
+      "timestamp": "2026-06-20T01:20:10+0000",
+      "metrics": {
+        "views": 270,
+        "likes": 0,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18127641694620618",
+      "text": "Australia vs Canada buat yang belum punya pengalaman kerja...\ndua-duanya bilang 'welcome!' tapi syaratnya beda banget 😅",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZyXPzwAQcP",
+      "timestamp": "2026-06-20T00:04:43+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    }
+  ]
 }
