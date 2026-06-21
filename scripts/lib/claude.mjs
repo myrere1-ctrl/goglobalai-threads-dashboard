@@ -33,8 +33,43 @@ Format WAJIB:
 
 GoGlobal AI info: App PWA karir internasional. Gratis: Explore, Chat AI, Visa, Gaji, Scam Detector. Pro Rp299rb: CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap.
 
-BALAS HANYA JSON VALID, tanpa markdown fence. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newline asli:
-{"teks":"baris1|baris2|baris3","cta":"mau cerita?"}`;
+PENTING - format output WAJIB persis seperti ini (pakai tag, BUKAN JSON):
+<teks>baris1|baris2|baris3</teks>
+<cta>mau cerita?</cta>
+
+Gunakan pipe | untuk jeda baris dalam teks. JANGAN pakai newline asli di dalam teks. JANGAN pakai quote dobel. JANGAN tulis apapun di luar tag.`;
+}
+
+function extractField(raw, tag) {
+  const re = new RegExp(`<${tag}>([\\s\\S]*?)</${tag}>`, 'i');
+  const m = raw.match(re);
+  return m ? m[1].trim() : null;
+}
+
+function parseResponse(raw) {
+  // Strategy 1: XML-style tags (preferred new format)
+  let teks = extractField(raw, 'teks');
+  let cta = extractField(raw, 'cta');
+  if (teks && cta) return { teks, cta };
+
+  // Strategy 2: JSON parse (fallback for old format)
+  const start = raw.indexOf('{');
+  const end = raw.lastIndexOf('}');
+  if (start !== -1 && end !== -1) {
+    try {
+      const parsed = JSON.parse(raw.slice(start, end + 1));
+      if (parsed.teks && parsed.cta) return { teks: parsed.teks, cta: parsed.cta };
+    } catch {}
+  }
+
+  // Strategy 3: Regex from JSON-like text (handle unescaped quotes)
+  const teksMatch = raw.match(/"teks"\s*:\s*"([\s\S]*?)"\s*,\s*"cta"/);
+  const ctaMatch = raw.match(/"cta"\s*:\s*"([\s\S]*?)"\s*[},]/);
+  if (teksMatch && ctaMatch) {
+    return { teks: teksMatch[1], cta: ctaMatch[1] };
+  }
+
+  throw new Error('Cannot parse response: ' + raw.slice(0, 500));
 }
 
 export async function generatePost({ apiKey, type, country, tone, note }) {
@@ -60,16 +95,11 @@ export async function generatePost({ apiKey, type, country, tone, note }) {
   }
 
   const raw = data.content?.[0]?.text || '';
-  const start = raw.indexOf('{');
-  const end = raw.lastIndexOf('}');
-  if (start === -1 || end === -1) throw new Error('No JSON object in response: ' + raw);
-
-  const parsed = JSON.parse(raw.slice(start, end + 1));
-  if (!parsed.teks || !parsed.cta) throw new Error('Missing teks/cta: ' + raw);
-
+  const { teks, cta } = parseResponse(raw);
+  const text = teks.replace(/\|/g, '\n');
   return {
-    text: parsed.teks.replace(/\|/g, '\n'),
-    cta: parsed.cta,
-    full: `${parsed.teks.replace(/\|/g, '\n')}\n\n${parsed.cta}`,
+    text,
+    cta,
+    full: `${text}\n\n${cta}`,
   };
 }
