@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-21T07:07:46.606Z",
+  "updated_at": "2026-06-21T10:47:00.670Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agent Penyalur Kerja)\n+61480746292 🇸🇭 (whatsapp)",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=okAGkEuj8soQ7kNvwGpirYZ&_nc_oc=Adqm7K6-ztO1cdE2c2mA7voLhyoTAVFRltg7OE6kJx8c9HKYcQmqs-FlYRXz9qS5XXc&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=R4fMDKdOpOjccKZPmIu3_Q&_nc_tpa=Q5bMBQGcjAxkjyI2JhecK9mGqvJTZdrnndidHT_aYg0ODzt0t47Vddvr7CgL6AVHZDBSYH_AZEH7mY7ERw&oh=00_Af8xVYh0SbYfSf48tRR3I9ooeKTFnWKQG8OklmFm5GxJnQ&oe=6A3D5875"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=okAGkEuj8soQ7kNvwG1WDUv&_nc_oc=Adoq9lDYpLzIa5kUI5v97tFqQRrGlHT0p4KQlLNs-n3CNQcbVMAyg8Lax3qe1n3KYAM&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=dQKyeXZG6WbU-Lpc9z43Ew&_nc_tpa=Q5bMBQG6HNITpmQRAAIr2-guZUSMOKvdezdBVqzOGYcG5dpY2800SbNdFkjX7BObz3ST6Bv1v-PTStmOEA&oh=00_Af_E0gzdMozH-XvJB_jh536s0RWmC_UQe1jNuBkgyP3ySw&oe=6A3D90B5"
   },
   "summary": {
     "followers_count": 55,
-    "views": 0,
+    "views": 62,
     "likes": 0,
-    "replies": 0,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
-    "engagement_total": 17,
-    "engagement_rate": 2.8,
+    "engagement_total": 16,
+    "engagement_rate": 2.4,
     "post_count": 25
   },
   "top_posts": [
@@ -24,7 +24,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZyf4dOmWaa",
       "timestamp": "2026-06-20T01:20:10+0000",
       "metrics": {
-        "views": 282,
+        "views": 284,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -96,12 +96,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18147973108508147",
+      "text": "Banyak yang mau kerja di Jerman tapi bingung mulai dari mana 😅\nVisa kerja, bahasa, pengakuan ijazah... numpuk banget ra",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZ2FC6dEU0s",
+      "timestamp": "2026-06-21T10:43:09+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17991895709809052",
       "text": "Mau kerja di Korea tapi bingung mulai dari mana 😅\nVisa apa, gaji berapa, perusahaannya beneran apa enggak\nNah GoGlobal ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ1sCoNEfQE",
       "timestamp": "2026-06-21T07:04:40+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -116,7 +131,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ1rfIfFSq0",
       "timestamp": "2026-06-21T06:59:49+0000",
       "metrics": {
-        "views": 0,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -131,7 +146,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ1qTPTmfcQ",
       "timestamp": "2026-06-21T06:48:55+0000",
       "metrics": {
-        "views": 0,
+        "views": 33,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -146,7 +161,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ1qN61GWwb",
       "timestamp": "2026-06-21T06:48:12+0000",
       "metrics": {
-        "views": 0,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -161,7 +176,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ1grCXDnKZ",
       "timestamp": "2026-06-21T05:25:21+0000",
       "metrics": {
-        "views": 2,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -176,7 +191,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ1abjFGTKT",
       "timestamp": "2026-06-21T04:30:15+0000",
       "metrics": {
-        "views": 15,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -222,21 +237,6 @@
       "timestamp": "2026-06-20T15:45:40+0000",
       "metrics": {
         "views": 5,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18083968256156168",
-      "text": "Kerja di Jepang itu bukan cuma soal bisa bahasa Jepang, lho 🇯🇵\nBanyak perusahaan sekarang nyari orang dengan skill tek",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DZz5WtSFCSa",
-      "timestamp": "2026-06-20T14:22:32+0000",
-      "metrics": {
-        "views": 7,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
