@@ -1,25 +1,20 @@
-name: Post to Threads (manual)
-
-# NOTE: scheduled posting di-handle oleh catchup-post.yml (lebih reliable).
-# Workflow ini cuma untuk testing manual.
+name: Catchup Post
 
 on:
+  schedule:
+    - cron: '*/15 * * * *'   # tiap 15 menit, cek slot mana yang miss
   workflow_dispatch:
-    inputs:
-      slot:
-        description: 'Slot index 0-9'
-        required: true
-        default: '0'
-      dry_run:
-        description: 'Generate only, do not post'
-        required: false
-        default: 'false'
+
+# Hindari race condition: cuma 1 catchup jalan bersamaan
+concurrency:
+  group: catchup-post
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  post:
+  catchup:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,23 +23,25 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate and post
+      - name: Pull latest log (avoid stale state)
+        run: git pull --rebase
+
+      - name: Catchup post if needed
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-        run: node scripts/generate-and-post.mjs --slot=${{ inputs.slot }} ${{ inputs.dry_run == 'true' && '--dry-run' || '' }}
+        run: node scripts/catchup-post.mjs
 
       - name: Commit posted log
-        if: ${{ inputs.dry_run != 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/posted-log.json
           if git diff --staged --quiet; then
-            echo "No log changes"
+            echo "No new posts (nothing to commit)"
           else
-            git commit -m "log: manual slot ${{ inputs.slot }} posted"
+            git commit -m "log: catchup post"
             git pull --rebase
             git push
           fi

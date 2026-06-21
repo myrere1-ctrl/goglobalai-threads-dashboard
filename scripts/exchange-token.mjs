@@ -21,15 +21,22 @@ const shortRes = await fetch('https://graph.threads.net/oauth/access_token', {
   method: 'POST',
   body: params,
 });
-const short = await shortRes.json();
-if (!shortRes.ok || !short.access_token) {
-  throw new Error('Short token failed: ' + JSON.stringify(short));
+const shortRaw = await shortRes.text();
+if (!shortRes.ok) {
+  throw new Error('Short token failed: ' + shortRaw);
 }
+const userIdMatch = shortRaw.match(/"user_id"\s*:\s*(\d+)/);
+const tokenMatch = shortRaw.match(/"access_token"\s*:\s*"([^"]+)"/);
+if (!userIdMatch || !tokenMatch) {
+  throw new Error('Could not parse short token response: ' + shortRaw);
+}
+const userId = userIdMatch[1];
+const shortToken = tokenMatch[1];
 
-console.log('short_token user_id:', short.user_id);
+console.log('short_token user_id:', userId);
 
 const long = await exchangeForLongLived({
-  token: short.access_token,
+  token: shortToken,
   appSecret,
 });
 
@@ -39,4 +46,4 @@ console.log('Expires in days:', Math.floor(long.expires_in / 86400));
 console.log('---');
 console.log('Set these GitHub Secrets:');
 console.log('  THREADS_ACCESS_TOKEN =', long.access_token);
-console.log('  THREADS_USER_ID =', short.user_id);
+console.log('  THREADS_USER_ID =', userId);
