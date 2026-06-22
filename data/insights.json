@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-21T23:45:01.427Z",
+  "updated_at": "2026-06-22T05:31:13.083Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agent Penyalur Kerja)\n+61480746292 🇸🇭 (whatsapp)",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=okAGkEuj8soQ7kNvwHr6njs&_nc_oc=AdqUOkNM57qiL6igv995bJaaTwLihjICOJEjcCvxm7OYZvyCU3YAIQkKTIwJxtq7lWE&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=04ryJPnyL6Q4nEodwyk9fQ&_nc_tpa=Q5bMBQHeskGvBLJ75C_R5tu2_8x_eFEJBzZJGHw35tBNu8XmEqYgsNUgmGs6_sGbixZMgvftLL6IjcsGAQ&oh=00_Af_5LtSlVB4m5nvlDIp5S9o4EHfk0t8NoRypU9KaQZS5nQ&oe=6A3E3975"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=okAGkEuj8soQ7kNvwE9xjU1&_nc_oc=AdoC7U6Gfi4NoLLWrQK3NttmpKgCQU2PHTsdUOXjPzWxrP0tIXC20r62D6jUvH3jgGE&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=R8VVWS0kobCXtuo2MTNooA&_nc_tpa=Q5bMBQHg0LdR0ouH5HjZI4b3PE0Dvn9BGdGlW6h_bHfi1JL7-NN-kcP0YGbL1SXBCj7bDbQj3shlpwkpfA&oh=00_Af_C_OmcYY2MWpQc7pxY5awga5FY_JS7_bUZgddWpAw6Dg&oe=6A3EA9F5"
   },
   "summary": {
     "followers_count": 55,
-    "views": 131,
+    "views": 164,
     "likes": 1,
     "replies": 8,
     "reposts": 0,
     "quotes": 0,
-    "engagement_total": 10,
-    "engagement_rate": 2.87,
+    "engagement_total": 9,
+    "engagement_rate": 2.64,
     "post_count": 25
   },
   "top_posts": [
@@ -24,7 +24,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ3corRAcF-",
       "timestamp": "2026-06-21T23:28:00+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -96,12 +96,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18070080401375162",
+      "text": "kerja remote buat perusahaan luar negeri itu bukan cuma soal skill\nyang sering bikin gagal justru hal simpel kayak zona ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZ3vEOfGsdd",
+      "timestamp": "2026-06-22T02:09:35+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18124204468663010",
       "text": "Kerja di mining site Australia itu roster-an, biasanya 2 minggu masuk 1 minggu libur.\nKedengarannya enak, tapi persiapan",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ3corRAcF-",
       "timestamp": "2026-06-21T23:28:00+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -116,7 +131,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ3cjN8gdzW",
       "timestamp": "2026-06-21T23:27:15+0000",
       "metrics": {
-        "views": 0,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -222,21 +237,6 @@
       "timestamp": "2026-06-21T06:59:49+0000",
       "metrics": {
         "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17940341688057705",
-      "text": "Dapet info lowongan mining di Australia dari teman teman...\nGajinya gede, benefit keren, fly-in fly-out pula.\nTapi pas m",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DZ1qTPTmfcQ",
-      "timestamp": "2026-06-21T06:48:55+0000",
-      "metrics": {
-        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
