@@ -16,7 +16,60 @@ export const TONE_LABEL = {
   humor: 'Humor ringan',
 };
 
-export function buildPrompt({ type, country, tone, note }) {
+// Random angle injection — biar tiap post sudut pandang/struktur beda, bukan template seragam
+const ANGLES = [
+  {
+    name: 'story_alumni',
+    instruction:
+      'Mulai dengan cerita SINGKAT alumni/teman/seseorang yang spesifik (sebut profesi/umur, tapi tanpa nama). Format: "[Profesi/umur] yang... [pengalaman spesifik]". Akhiri dengan twist atau insight tak terduga.',
+  },
+  {
+    name: 'myth_busting',
+    instruction:
+      'Mulai dengan kalimat "katanya..." atau "myth:" yang debunk anggapan umum. Lalu kasih reality yang lebih nuanced. Hindari kata "padahal" yang sudah klise.',
+  },
+  {
+    name: 'hook_question',
+    instruction:
+      'Buka dengan PERTANYAAN spesifik yang langsung relate ke target audience (misal: "pernah kepikiran gak..."). Jangan general — harus specific scenario.',
+  },
+  {
+    name: 'stat_surprising',
+    instruction:
+      'Mulai dengan ANGKA atau fakta mengejutkan (boleh estimasi realistis, misal: "70% pekerja Indonesia di sana sebelumnya ga punya pengalaman..."). Lalu jelaskan implikasinya.',
+  },
+  {
+    name: 'personal_anecdote',
+    instruction:
+      'Tulis sebagai sudut pandang ORANG PERTAMA ("gue", "aku"). Cerita pengalaman pribadi terkait topik. Casual, vulnerable, jujur — bukan polished.',
+  },
+  {
+    name: 'controversial_take',
+    instruction:
+      'Mulai dengan opini yang sedikit kontroversial atau counter-intuitive ("sebenernya...", "honest opinion..."). Bukan toxic, tapi yang bikin orang berhenti scroll dan mikir.',
+  },
+  {
+    name: 'mini_list',
+    instruction:
+      'Format: 1-2 baris intro, lalu list 2-3 poin singkat (pakai pipe | sebagai pemisah baris, bisa pakai "•" atau "—" di depan poin). Akhiri dengan kesimpulan/observasi.',
+  },
+  {
+    name: 'comparison',
+    instruction:
+      'Bandingkan 2 hal: misalnya "X vs Y" atau "dulu vs sekarang" atau "ekspektasi vs realita". Singkat dan tajam.',
+  },
+  {
+    name: 'observation_quirky',
+    instruction:
+      'Observasi tentang detail kecil yang menarik dari topik (kebiasaan, budaya, hal yang ga-obvious). Bikin orang nodding "iya juga ya".',
+  },
+];
+
+function pickAngle() {
+  return ANGLES[Math.floor(Math.random() * ANGLES.length)];
+}
+
+export function buildPrompt({ type, country, tone, note, angle = pickAngle() }) {
   return `Kamu content creator Threads untuk GoGlobal AI, app untuk orang Indonesia yang mau kerja di luar negeri.
 
 Buat 1 post Threads Bahasa Indonesia:
@@ -25,13 +78,17 @@ Buat 1 post Threads Bahasa Indonesia:
 - Tone: ${TONE_LABEL[tone] || tone}
 - Catatan: ${note || '-'}
 
-Format WAJIB:
-- 3-5 baris pendek
-- Bahasa santai seperti ngobrol sama teman
-- JANGAN pakai kata menakutkan atau terlalu jualan
-- Akhiri dengan CTA ngegantung natural (contoh: "mau cerita?", "pernah ngerasain?", "lanjut?")
+ANGLE WAJIB (ini paling penting — jangan default ke formula umum):
+**${angle.name}** — ${angle.instruction}
 
-GoGlobal AI info: App PWA karir internasional. Gratis: Explore, Chat AI, Visa, Gaji, Scam Detector. Pro Rp299rb: CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap.
+Format:
+- 3-5 baris pendek (bisa lebih kalau format list)
+- Bahasa santai seperti ngobrol sama teman
+- JANGAN pakai pembukaan klise seperti "Banyak yang...", "Tau gak...", "Pernah ga..."
+- JANGAN pakai kata menakutkan atau terlalu jualan
+- Akhiri dengan CTA ngegantung natural (variasi: "mau cerita?", "pernah ngerasain?", "lanjut?", "ada yang relate?", "gimana menurut lo?", "share dong pengalaman lo?")
+
+GoGlobal AI info: App PWA karir internasional. Gratis: Explore, Chat AI, Visa, Gaji, Scam Detector. Pro Rp299rb: CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap. SEBUTKAN brand HANYA jika natural fit (tidak forced).
 
 PENTING - format output WAJIB persis seperti ini (pakai tag, BUKAN JSON):
 <teks>baris1|baris2|baris3</teks>
@@ -73,7 +130,8 @@ function parseResponse(raw) {
 }
 
 export async function generatePost({ apiKey, type, country, tone, note }) {
-  const prompt = buildPrompt({ type, country, tone, note });
+  const angle = pickAngle();
+  const prompt = buildPrompt({ type, country, tone, note, angle });
 
   const res = await fetch(ANTHROPIC_URL, {
     method: 'POST',
@@ -85,6 +143,7 @@ export async function generatePost({ apiKey, type, country, tone, note }) {
     body: JSON.stringify({
       model: MODEL,
       max_tokens: 400,
+      temperature: 1.0,
       messages: [{ role: 'user', content: prompt }],
     }),
   });
@@ -100,6 +159,7 @@ export async function generatePost({ apiKey, type, country, tone, note }) {
   return {
     text,
     cta,
+    angle: angle.name,
     full: `${text}\n\n${cta}`,
   };
 }

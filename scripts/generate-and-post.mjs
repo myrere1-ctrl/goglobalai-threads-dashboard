@@ -86,6 +86,7 @@ async function main() {
     type: choice.type,
     country: choice.country,
     tone: choice.tone,
+    angle: post.angle,
     text: post.full,
     threadId,
   });
