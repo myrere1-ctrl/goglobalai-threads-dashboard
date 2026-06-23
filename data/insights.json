@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-23T16:41:51.511Z",
+  "updated_at": "2026-06-23T19:19:45.030Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Bantu Kamu Yang Mau Kerja Di Luar Negri\n+61480746292 🇸🇭 (whatsapp)\nCerita Aku, Dia dan Mungkin Kamu 😉",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=TXwdDcSXZf0Q7kNvwEwyCZj&_nc_oc=AdoJ8_bgxMAPPsi9Ub7po2OPWE7W9u4QbL53bDXAwm4gKOGhBx-3ZlfzQmUjRrpR05o&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4_i8UhlaK3IxCt0-WaIZIw&_nc_tpa=Q5bMBQHYiide6m0B25X6jF1oFz9_90sk5MSnNYBDZzGtGLGN2lMHFY-lAOhvC1Xfrh0IbI1aboANe2DGDA&oh=00_Af_XInldqPm--Fom5VEhGCO0xidD_t5GECGDA_UxNOCKmQ&oe=6A40A435"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=TXwdDcSXZf0Q7kNvwG9ewkC&_nc_oc=AdpClutG-qEQG2K7y_BvZf5uwxL8ifCG5fblL3xRibRRQiKxj6-uJ-q_ca1rwzo_nAw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mHHirYG_P6YY1EagGRbtmg&_nc_tpa=Q5bMBQEUvbYk_wnOZy_jzL8UFlokV6xZRh8ptaFTLsHxyElHlCa6w2kM51g1hpGN6jYJYFwhcU4-eajkxA&oh=00_Af-iZGiTI58Blqrkygdqj9FqIyI53fG96m9gbEDr5AQ9tg&oe=6A40A435"
   },
   "summary": {
     "followers_count": 55,
-    "views": 198,
-    "likes": 1,
+    "views": 245,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "engagement_total": 2,
-    "engagement_rate": 0.58,
+    "engagement_rate": 0.52,
     "post_count": 25
   },
   "top_posts": [
@@ -49,12 +49,27 @@
       "engagement": 1
     },
     {
+      "id": "17961597702133552",
+      "text": "Dulu: kerja 8 jam di kantor, gaji 5 juta, habis buat transport sama makan siang.\nSekarang: kerja dari kamar, gaji $1.200",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZ763aUlS7T",
+      "timestamp": "2026-06-23T17:09:39+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17958534453140174",
       "text": "Kerja di luar negeri itu bukan cuma soal gaji gede.\nAda yang ninggalin karir bagus di sini karena satu alasan sederhana:",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ7NBFPGQZo",
       "timestamp": "2026-06-23T10:28:29+0000",
       "metrics": {
-        "views": 35,
+        "views": 36,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -77,14 +92,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18123271144674091",
-      "text": "Jujur, yang paling sering bikin gagal kerja di luar negeri bukan bahasa.\nBukan ijazah. Bukan modal.\nTapi CV yang nggak '",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DZ60PvpmVEz",
-      "timestamp": "2026-06-23T06:52:02+0000",
+      "id": "17961597702133552",
+      "text": "Dulu: kerja 8 jam di kantor, gaji 5 juta, habis buat transport sama makan siang.\nSekarang: kerja dari kamar, gaji $1.200",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DZ763aUlS7T",
+      "timestamp": "2026-06-23T17:09:39+0000",
       "metrics": {
-        "views": 18,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -92,9 +109,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18594168598047298",
       "text": "GoGlobal AI itu sebenernya app yang bisa dipake buat riset kerja di luar negeri.\nBisa tanya soal visa, cek gaji, sampe d",
@@ -116,7 +131,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ7NBFPGQZo",
       "timestamp": "2026-06-23T10:28:29+0000",
       "metrics": {
-        "views": 35,
+        "views": 36,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -161,7 +176,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ6t5RPFl34",
       "timestamp": "2026-06-23T05:57:04+0000",
       "metrics": {
-        "views": 42,
+        "views": 53,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -176,7 +191,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DZ6q0QCGfqi",
       "timestamp": "2026-06-23T05:29:38+0000",
       "metrics": {
-        "views": 35,
+        "views": 38,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -222,21 +237,6 @@
       "timestamp": "2026-06-23T00:37:34+0000",
       "metrics": {
         "views": 12,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18127865617623326",
-      "text": "Korea itu bukan cuma buat yang jago bahasa Korea lho.\nAda program kerja di sana yang terbuka buat lulusan SMA.\nAkomodasi",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DZ6JONUGdLa",
-      "timestamp": "2026-06-23T00:36:05+0000",
-      "metrics": {
-        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
