@@ -1,52 +1,67 @@
 {
-  "updated_at": "2026-06-28T00:14:39.840Z",
+  "updated_at": "2026-06-28T04:55:08.582Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agen Tenaga Kerja)\n+61480746292 🇸🇭 (whatsapp)\nCerita Aku, Dia & Next Kamu ya ? 😉",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=o02Vz7NyXVMQ7kNvwFKp7Cq&_nc_oc=AdoDSzsSeBJaTIakF_Xts33djczQ-MtzbVLPGU1NCEvMCgkxqvcnNr-SKg59zFVwYbk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KhM-sb3T7qbjuAWEYFNL_Q&_nc_tpa=Q5bMBQFcEcBeGbfPXb07jLk28tC2pa6UVGBlJi1vcp-klYXoXm5cnfUXjUVwlbc48uTi-sycns2KiBd9DQ&oh=00_Af887lzLFJ1YYZfvmLS_rlWjEifb8X7mk-YSHFuvGNQusg&oe=6A462275"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=o02Vz7NyXVMQ7kNvwGd1IyT&_nc_oc=AdocB_WmCjqids4ZROe_M0PnA5swBoLSAiX69r9nsYZM75rVeyHczdtDx2AZnA18cf4&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DwuPj6xvRr3EuECHI3j4ig&_nc_tpa=Q5bMBQGBZZ3JWe4hYF-5xS4rXy4TZg6CW2OrZrCSKBb_9jKmUYIzNppdA75OtxNqoGH4MY5X9igdzUULbg&oh=00_Af-OhgSVOV0GbD64NqLe6_KiNd-9F4fHs0AwBh_YjTD3rA&oe=6A4692F5"
   },
   "summary": {
-    "followers_count": 75,
-    "views": 1186,
-    "likes": 23,
-    "replies": 9,
-    "reposts": 0,
+    "followers_count": 79,
+    "views": 3611,
+    "likes": 64,
+    "replies": 31,
+    "reposts": 1,
     "quotes": 0,
-    "engagement_total": 12,
-    "engagement_rate": 0.72,
+    "engagement_total": 44,
+    "engagement_rate": 1.22,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17960276160069886",
-      "text": "Kalau ada app yang bisa jawab pertanyaan kamu soal kerja di luar negeri — visa, gaji, cara interview — tapi gratis...\nKa",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaFkStnGU1x",
-      "timestamp": "2026-06-27T11:04:16+0000",
-      "metrics": {
-        "views": 336,
-        "likes": 1,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 3
-      },
-      "engagement": 5
-    },
     {
       "id": "18383316373204113",
       "text": "BREAKING News: Australia lagi buka lebar banget buat tenaga kerja muda dari Indonesia 🇦🇺\nSektor kesehatan, IT, konstru",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaG4txAgbhF",
       "timestamp": "2026-06-27T23:21:58+0000",
       "metrics": {
-        "views": 206,
-        "likes": 0,
-        "replies": 1,
+        "views": 1556,
+        "likes": 2,
+        "replies": 21,
         "reposts": 0,
+        "quotes": 0,
+        "shares": 5
+      },
+      "engagement": 23
+    },
+    {
+      "id": "18094311374022711",
+      "text": "Yang jurusan keperawatan dengerin dulu nih 🩺\nAustralia lagi krisis perawat parah banget, sampe pemerintahnya bikin jalu",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaHRh91mSVc",
+      "timestamp": "2026-06-28T02:58:49+0000",
+      "metrics": {
+        "views": 477,
+        "likes": 0,
+        "replies": 8,
+        "reposts": 2,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 10
+    },
+    {
+      "id": "17960276160069886",
+      "text": "Kalau ada app yang bisa jawab pertanyaan kamu soal kerja di luar negeri — visa, gaji, cara interview — tapi gratis...\nKa",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaFkStnGU1x",
+      "timestamp": "2026-06-27T11:04:16+0000",
+      "metrics": {
+        "views": 387,
+        "likes": 1,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 4
+      },
+      "engagement": 5
     },
     {
       "id": "17921357526167676",
@@ -54,7 +69,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaGM3g-oPSy",
       "timestamp": "2026-06-27T16:59:21+0000",
       "metrics": {
-        "views": 24,
+        "views": 34,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -69,24 +84,9 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaF-j7kFipk",
       "timestamp": "2026-06-27T14:54:21+0000",
       "metrics": {
-        "views": 74,
+        "views": 83,
         "likes": 0,
         "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18093711899617435",
-      "text": "Hal yang paling bikin orang Indonesia takut melamar kerja ke luar negeri:\nTakut kena tipu.\nDan jujur, wajar banget — kas",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaFBtIeGW0s",
-      "timestamp": "2026-06-27T06:02:03+0000",
-      "metrics": {
-        "views": 256,
-        "likes": 1,
-        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -96,12 +96,42 @@
   ],
   "recent_posts": [
     {
+      "id": "17895092166505493",
+      "text": "Ngomongin visa, ini yang bikin banyak orang takut duluan padahal sebenernya gak seserem itu 😅\nAustralia punya Skilled N",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaHd-ZWGZAU",
+      "timestamp": "2026-06-28T04:47:33+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18094311374022711",
+      "text": "Yang jurusan keperawatan dengerin dulu nih 🩺\nAustralia lagi krisis perawat parah banget, sampe pemerintahnya bikin jalu",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaHRh91mSVc",
+      "timestamp": "2026-06-28T02:58:49+0000",
+      "metrics": {
+        "views": 477,
+        "likes": 0,
+        "replies": 8,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
+    },
+    {
       "id": "18096124313126896",
       "text": "Orang Eropa tuh anehnya malah suka kalau kamu bilang \"aku ga tau\" di interview.\nDi sini jujur soal batas kemampuan itu d",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaG61kNCaG6",
       "timestamp": "2026-06-27T23:41:03+0000",
       "metrics": {
-        "views": 3,
+        "views": 54,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -116,7 +146,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaG40jtgZ3f",
       "timestamp": "2026-06-27T23:22:54+0000",
       "metrics": {
-        "views": 4,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -131,14 +161,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaG4txAgbhF",
       "timestamp": "2026-06-27T23:21:58+0000",
       "metrics": {
-        "views": 206,
-        "likes": 0,
-        "replies": 1,
+        "views": 1556,
+        "likes": 2,
+        "replies": 21,
         "reposts": 0,
         "quotes": 0,
-        "shares": 0
+        "shares": 5
       },
-      "engagement": 1
+      "engagement": 23
     },
     {
       "id": "17921357526167676",
@@ -146,7 +176,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaGM3g-oPSy",
       "timestamp": "2026-06-27T16:59:21+0000",
       "metrics": {
-        "views": 24,
+        "views": 34,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -161,7 +191,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaGFxcdlF1N",
       "timestamp": "2026-06-27T15:57:21+0000",
       "metrics": {
-        "views": 31,
+        "views": 43,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -176,7 +206,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaF-j7kFipk",
       "timestamp": "2026-06-27T14:54:21+0000",
       "metrics": {
-        "views": 74,
+        "views": 83,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -191,12 +221,12 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaFkStnGU1x",
       "timestamp": "2026-06-27T11:04:16+0000",
       "metrics": {
-        "views": 336,
+        "views": 387,
         "likes": 1,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
-        "shares": 3
+        "shares": 4
       },
       "engagement": 5
     },
@@ -206,37 +236,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaFjO4pGYXD",
       "timestamp": "2026-06-27T10:55:01+0000",
       "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18116711248655388",
-      "text": "Pertanyaan yang jarang ada yang jawab dengan jujur:\n'Realistisnya, berapa lama sih persiapan kerja ke luar negeri?'\nBuka",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaFjKjlmZll",
-      "timestamp": "2026-06-27T10:54:25+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18098493514898266",
-      "text": "Gue nggak akan bilang 'kerja di luar negeri itu gampang'.\nKarena nggak gampang, dan siapapun yang bilang gampang mungkin",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaFZUxEmei7",
-      "timestamp": "2026-06-27T09:28:26+0000",
-      "metrics": {
-        "views": 61,
+        "views": 13,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
