@@ -1,8 +1,9 @@
 name: Catchup Post
 
+# Trigger via external cron (cron-job.org) — GitHub's built-in schedule
+# unreliable (throttled 1-2h vs requested 15min). External cron guarantees
+# 15-min ticks. Ref: cron-job.org job "GoGlobal Threads Catchup".
 on:
-  schedule:
-    - cron: '*/15 * * * *'   # tiap 15 menit, cek slot mana yang miss
   workflow_dispatch:
 
 # Hindari race condition: cuma 1 catchup jalan bersamaan
