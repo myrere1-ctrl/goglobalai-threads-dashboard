@@ -9,29 +9,23 @@ const SLOTS_WIB = [
 
 const LOG_PATH = path.resolve('data/posted-log.json');
 
-function wibParts(date = new Date()) {
-  const fmt = new Intl.DateTimeFormat('en-CA', {
-    timeZone: 'Asia/Jakarta',
-    year: '2-digit', month: '2-digit', day: '2-digit',
-    hour: '2-digit', minute: '2-digit', hour12: false,
-  });
-  const parts = Object.fromEntries(fmt.formatToParts(date).map(p => [p.type, p.value]));
-  return parts;
+const WIB_OFFSET_MS = 7 * 60 * 60 * 1000;
+
+function toWib(date = new Date()) {
+  return new Date(date.getTime() + WIB_OFFSET_MS);
 }
 
 function nowWibYmd() {
-  const p = wibParts();
-  return `${p.year}-${p.month}-${p.day}`;
+  return toWib().toISOString().slice(0, 10);
 }
 
 function nowWibMinutes() {
-  const p = wibParts();
-  return parseInt(p.hour) * 60 + parseInt(p.minute);
+  const w = toWib();
+  return w.getUTCHours() * 60 + w.getUTCMinutes();
 }
 
 function timestampToWibYmd(ts) {
-  const p = wibParts(new Date(ts));
-  return `${p.year}-${p.month}-${p.day}`;
+  return toWib(new Date(ts)).toISOString().slice(0, 10);
 }
 
 function slotToMinutes(s) {
