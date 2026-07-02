@@ -62,6 +62,11 @@ async function main() {
     })
   );
 
+  console.log('Fetching profile views (curiosity metric)...');
+  const profileViewsRaw = await safe(() =>
+    getUserInsights({ userId, token, metric: 'profile_views' })
+  );
+
   console.log('Fetching recent threads...');
   const threadsRaw = await safe(() => getUserThreads({ userId, token, limit: 25 }));
   const recentMedia = threadsRaw?.data || [];
@@ -91,6 +96,7 @@ async function main() {
 
   const lifetime = reduceUserInsights(lifetimeRaw);
   const windowed = reduceUserInsights(windowedRaw);
+  const profileViewsData = reduceUserInsights(profileViewsRaw);
 
   const totalViews = posts.reduce((s, p) => s + (p.metrics.views || 0), 0);
   const totalLikes = posts.reduce((s, p) => s + (p.metrics.likes || 0), 0);
@@ -117,8 +123,15 @@ async function main() {
       replies: windowed.replies ?? totalReplies,
       reposts: windowed.reposts ?? totalReposts,
       quotes: windowed.quotes ?? totalQuotes,
+      profile_views: profileViewsData.profile_views ?? null,
       engagement_total: totalEngagement,
       engagement_rate: Number(engagementRate.toFixed(2)),
+      curiosity_score:
+        profileViewsData.profile_views != null && (windowed.views ?? totalViews) > 0
+          ? Number(
+              ((profileViewsData.profile_views / (windowed.views ?? totalViews)) * 100).toFixed(2)
+            )
+          : null,
       post_count: posts.length,
     },
     top_posts: posts.slice(0, 5),

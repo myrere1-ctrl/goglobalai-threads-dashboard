@@ -87,6 +87,8 @@ async function main() {
     country: choice.country,
     tone: choice.tone,
     angle: post.angle,
+    body: post.text,
+    cta: post.cta,
     text: post.full,
     threadId,
   });

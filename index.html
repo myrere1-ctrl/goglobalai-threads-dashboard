@@ -164,6 +164,8 @@
       <div class="nav-item" onclick="navTo(this,'sec-jadwal')"><i class="ti ti-calendar"></i>Jadwal</div>
       <div class="nav-label">Analitik</div>
       <div class="nav-item" onclick="navTo(this,'sec-performa')"><i class="ti ti-chart-line"></i>Performa</div>
+      <div class="nav-item" onclick="navTo(this,'sec-curiosity')"><i class="ti ti-target"></i>Curiosity</div>
+      <div class="nav-item" onclick="navTo(this,'sec-cta')"><i class="ti ti-message-question"></i>CTA Analysis</div>
       <div class="nav-item" onclick="navTo(this,'sec-pengaturan')"><i class="ti ti-settings"></i>Pengaturan</div>
     </nav>
     <div class="sidebar-bottom">
@@ -319,6 +321,43 @@ insight yang bikin mikir.</div>
       <div style="margin-top:14px;padding-top:14px;border-top:1px solid var(--border);background:var(--blue-light);border-radius:var(--r10);padding:12px">
         <div style="font-size:12px;font-weight:600;color:var(--blue-mid);margin-bottom:4px">🎯 Goal: Curiosity → goglobal-ai.app → Buyer</div>
         <div style="font-size:11px;color:var(--muted);line-height:1.7">Post yang trigger curiosity = potensi orang klik bio &rarr; <a href="https://goglobal-ai.app" target="_blank" style="color:var(--blue);font-weight:600">goglobal-ai.app</a>. Reply tinggi = sinyal kuat (orang invested).</div>
+      </div>
+    </div>
+
+    <div class="full-card" id="sec-curiosity" style="background:linear-gradient(135deg,#E6F1FB 0%,#FFF 60%)">
+      <div class="card-header">
+        <div class="card-title"><i class="ti ti-target"></i>Curiosity Score 👁</div>
+        <span style="font-size:11px;color:var(--muted)">Seberapa penasaran audience sama profile</span>
+      </div>
+      <div style="display:grid;grid-template-columns:1.2fr 2fr;gap:14px;align-items:center">
+        <div style="text-align:center;background:#fff;border-radius:var(--r14);padding:16px;border:1px solid var(--border)">
+          <div style="font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">CURIOSITY SCORE</div>
+          <div style="font-size:36px;font-weight:600;color:var(--blue);line-height:1" id="curiosityScore">—</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:6px" id="curiosityLabel">—</div>
+        </div>
+        <div style="font-size:12px;color:var(--text);line-height:1.7">
+          <div style="margin-bottom:6px"><strong>Rumus</strong>: Profile Views ÷ Post Views × 100%</div>
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:4px 10px;font-size:11px;color:var(--muted)">
+            <span>▪️ &gt; 5%</span><span>VIRAL — hook super kuat, orang aktif kepo</span>
+            <span>▪️ 2-5%</span><span>BAGUS — konten trigger curiosity konsisten</span>
+            <span>▪️ 0.5-2%</span><span>NORMAL — audience pasif, konten OK</span>
+            <span>▪️ &lt; 0.5%</span><span>WEAK — hook lemah, orang scroll doang</span>
+          </div>
+          <div style="margin-top:10px;font-size:11px;color:var(--muted)"><strong id="curiosityDelta">—</strong></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="full-card" id="sec-cta" style="background:linear-gradient(135deg,#E1F5EE 0%,#FFF 60%)">
+      <div class="card-header">
+        <div class="card-title"><i class="ti ti-message-question"></i>CTA Analysis 💬</div>
+        <span style="font-size:11px;color:var(--muted)">Kata penutup yang paling bikin orang bales</span>
+      </div>
+      <div id="ctaAnalysisBox">
+        <div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Belum cukup data — perlu minimal 5 post dengan CTA di log.</div>
+      </div>
+      <div style="margin-top:12px;padding-top:12px;border-top:1px solid var(--border);font-size:11px;color:var(--muted);line-height:1.6">
+        💡 CTA yang bekerja: <strong>terbuka</strong> (pertanyaan opini), <strong>relatable</strong> (share pengalaman), atau <strong>controversial</strong> (opini nyeleneh). CTA tertutup (yes/no) biasanya underperform.
       </div>
     </div>
 
@@ -579,9 +618,127 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
       const ins = await res.json();
       renderInsights(ins);
       renderPattern(ins);
+      renderCuriosity(ins);
+      renderCtaAnalysis(ins);
     } catch(err) {
       console.error('Failed to load insights:', err);
     }
+  }
+
+  function renderCuriosity(ins) {
+    const el = document.getElementById('curiosityScore');
+    const label = document.getElementById('curiosityLabel');
+    const delta = document.getElementById('curiosityDelta');
+    const cs = ins.summary?.curiosity_score;
+    const pv = ins.summary?.profile_views;
+    const vw = ins.summary?.views;
+
+    if (cs == null) {
+      el.textContent = '—';
+      label.textContent = 'butuh profile_views permission';
+      delta.textContent = 'Setup permission threads_manage_insights + tunggu cron insight berikutnya';
+      return;
+    }
+
+    el.textContent = cs + '%';
+    const rating = cs >= 5 ? 'VIRAL 🔥' : cs >= 2 ? 'BAGUS ✨' : cs >= 0.5 ? 'NORMAL 👌' : 'WEAK 😪';
+    label.textContent = rating;
+    delta.textContent = `${formatNumber(pv)} profile views dari ${formatNumber(vw)} post views.`;
+
+    // Color code
+    const color = cs >= 5 ? 'var(--green)' : cs >= 2 ? 'var(--blue)' : cs >= 0.5 ? 'var(--orange-dark)' : 'var(--muted)';
+    el.style.color = color;
+  }
+
+  function normalizeCta(cta) {
+    if (!cta) return '';
+    return cta.trim().toLowerCase().replace(/[?!.,;:]+$/g, '').replace(/\s+/g, ' ');
+  }
+
+  function extractCta(entry) {
+    if (entry.cta) return entry.cta.trim();
+    // Fallback: last non-empty line after "\n\n"
+    const t = entry.text || '';
+    const parts = t.split(/\n\n+/);
+    const last = parts[parts.length - 1] || '';
+    const lines = last.split(/\n/).filter(l => l.trim());
+    return lines[lines.length - 1] || '';
+  }
+
+  function renderCtaAnalysis(ins) {
+    const box = document.getElementById('ctaAnalysisBox');
+    const log = cachedLog || [];
+    const topPosts = ins.top_posts || [];
+    const recentPosts = ins.recent_posts || [];
+
+    // Merge insights posts with log entries by threadId → get CTA + metrics
+    const allInsightsPosts = [...topPosts, ...recentPosts];
+    const seen = new Set();
+    const enriched = [];
+    for (const p of allInsightsPosts) {
+      if (seen.has(p.id)) continue;
+      seen.add(p.id);
+      const logEntry = log.find(l => l.threadId === p.id);
+      if (!logEntry) continue;
+      const cta = extractCta(logEntry);
+      if (!cta) continue;
+      enriched.push({
+        cta,
+        normalized: normalizeCta(cta),
+        views: p.metrics?.views || 0,
+        replies: p.metrics?.replies || 0,
+        engagement: p.engagement || 0,
+      });
+    }
+
+    if (enriched.length < 3) {
+      box.innerHTML = `<div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Perlu minimal 3 post dengan CTA + engagement data (saat ini ${enriched.length}). Tunggu beberapa post lagi.</div>`;
+      return;
+    }
+
+    // Group by normalized CTA
+    const groups = {};
+    for (const e of enriched) {
+      const key = e.normalized;
+      if (!groups[key]) groups[key] = { display: e.cta, count: 0, views: 0, replies: 0, engagement: 0 };
+      groups[key].count += 1;
+      groups[key].views += e.views;
+      groups[key].replies += e.replies;
+      groups[key].engagement += e.engagement;
+    }
+
+    // Compute rates + sort
+    const ranked = Object.values(groups).map(g => ({
+      ...g,
+      avgViews: g.count > 0 ? g.views / g.count : 0,
+      avgReplies: g.count > 0 ? g.replies / g.count : 0,
+      replyRate: g.views > 0 ? (g.replies / g.views * 100) : 0,
+    })).sort((a, b) => b.replyRate - a.replyRate);
+
+    const rows = ranked.slice(0, 8).map((g, i) => {
+      const rateColor = g.replyRate >= 1 ? 'var(--green-dark)' : g.replyRate >= 0.5 ? 'var(--orange-dark)' : 'var(--muted)';
+      const rateBg = g.replyRate >= 1 ? 'var(--green-light)' : g.replyRate >= 0.5 ? 'var(--orange-light)' : 'var(--secondary)';
+      return `
+        <div style="display:grid;grid-template-columns:24px 1fr 60px 60px 80px;gap:8px;align-items:center;padding:8px 10px;background:#fff;border:1px solid var(--border);border-radius:var(--r10);font-size:12px">
+          <div style="text-align:center;font-weight:600;color:${i === 0 ? 'var(--green-dark)' : 'var(--muted)'}">#${i+1}</div>
+          <div style="font-style:italic;color:var(--text)">"${escapeHtml(g.display)}"</div>
+          <div style="text-align:right;color:var(--muted)">${g.count}× dipakai</div>
+          <div style="text-align:right;color:var(--muted)">${formatNumber(Math.round(g.avgReplies))} ⌀reply</div>
+          <div style="text-align:center;padding:2px 6px;border-radius:10px;background:${rateBg};color:${rateColor};font-weight:600">${g.replyRate.toFixed(2)}%</div>
+        </div>
+      `;
+    }).join('');
+
+    const bestCta = ranked[0];
+    box.innerHTML = `
+      <div style="display:grid;grid-template-columns:24px 1fr 60px 60px 80px;gap:8px;padding:4px 10px;font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-weight:600">
+        <div></div><div>CTA</div><div style="text-align:right">Frek.</div><div style="text-align:right">Avg</div><div style="text-align:center">Reply Rate</div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:6px">${rows}</div>
+      <div style="margin-top:10px;padding:10px 12px;background:var(--blue-light);border-radius:var(--r10);font-size:12px;color:var(--blue-mid);line-height:1.6">
+        🏆 <strong>Juara CTA: "${escapeHtml(bestCta.display)}"</strong> — reply rate ${bestCta.replyRate.toFixed(2)}%. Dari ${enriched.length} post yang dianalisa.
+      </div>
+    `;
   }
 
   function enrichTopPosts(topPosts, log) {
