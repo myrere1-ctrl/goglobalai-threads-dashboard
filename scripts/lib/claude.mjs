@@ -87,6 +87,7 @@ Format:
 - JANGAN pakai pembukaan klise seperti "Banyak yang...", "Tau gak...", "Pernah ga..."
 - JANGAN pakai kata menakutkan atau terlalu jualan
 - Akhiri dengan CTA ngegantung natural (variasi: "mau cerita?", "pernah ngerasain?", "lanjut?", "ada yang relate?", "gimana menurut lo?", "share dong pengalaman lo?")
+- BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter (Threads limit 500, buffer 50). Jangan overshoot. Kalau ide panjang, potong. Punchy > verbose.
 
 GoGlobal AI info: App PWA karir internasional. Gratis: Explore, Chat AI, Visa, Gaji, Scam Detector. Pro Rp299rb: CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap. SEBUTKAN brand HANYA jika natural fit (tidak forced).
 
@@ -129,10 +130,10 @@ function parseResponse(raw) {
   throw new Error('Cannot parse response: ' + raw.slice(0, 500));
 }
 
-export async function generatePost({ apiKey, type, country, tone, note }) {
-  const angle = pickAngle();
-  const prompt = buildPrompt({ type, country, tone, note, angle });
+const THREADS_LIMIT = 500;
+const MAX_RETRIES = 3;
 
+async function callClaude({ apiKey, prompt }) {
   const res = await fetch(ANTHROPIC_URL, {
     method: 'POST',
     headers: {
@@ -147,19 +148,37 @@ export async function generatePost({ apiKey, type, country, tone, note }) {
       messages: [{ role: 'user', content: prompt }],
     }),
   });
-
   const data = await res.json();
-  if (!res.ok) {
-    throw new Error(`Anthropic ${res.status}: ${JSON.stringify(data)}`);
+  if (!res.ok) throw new Error(`Anthropic ${res.status}: ${JSON.stringify(data)}`);
+  return data.content?.[0]?.text || '';
+}
+
+export async function generatePost({ apiKey, type, country, tone, note }) {
+  const angle = pickAngle();
+  let lastFull = '';
+  let attempt = 0;
+
+  while (attempt < MAX_RETRIES) {
+    attempt++;
+    const shortenNote = attempt > 1
+      ? `${note ? note + ' ' : ''}[RETRY ${attempt}: post sebelumnya ${lastFull.length} karakter — LEBIH PENDEK, max 400 total]`
+      : note;
+    const prompt = buildPrompt({ type, country, tone, note: shortenNote, angle });
+    const raw = await callClaude({ apiKey, prompt });
+    const { teks, cta } = parseResponse(raw);
+    const text = teks.replace(/\|/g, '\n');
+    const full = `${text}\n\n${cta}`;
+    lastFull = full;
+
+    if (full.length <= THREADS_LIMIT) {
+      if (attempt > 1) console.log(`Retry ${attempt} succeeded (${full.length} chars)`);
+      return { text, cta, angle: angle.name, full };
+    }
+    console.log(`Attempt ${attempt}: post too long (${full.length} chars > ${THREADS_LIMIT}), retrying...`);
   }
 
-  const raw = data.content?.[0]?.text || '';
-  const { teks, cta } = parseResponse(raw);
-  const text = teks.replace(/\|/g, '\n');
-  return {
-    text,
-    cta,
-    angle: angle.name,
-    full: `${text}\n\n${cta}`,
-  };
+  // Fallback: truncate hard
+  console.warn(`All ${MAX_RETRIES} retries exceeded limit. Hard truncating.`);
+  const truncated = lastFull.slice(0, THREADS_LIMIT - 3) + '...';
+  return { text: truncated, cta: '', angle: angle.name, full: truncated };
 }
