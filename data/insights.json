@@ -1,54 +1,39 @@
 {
-  "updated_at": "2026-07-03T04:57:31.090Z",
+  "updated_at": "2026-07-03T08:28:17.803Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri (GRATIS)\n(Bukan Agen Tenaga Kerja)\n+61480746292 🇸🇭 (whatsapp)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=z4isKOQZK6gQ7kNvwGtexF9&_nc_oc=AdrdV5CDS99TwHgUl_vDxG1TGZEnTk62SKh7kxDyhZz_vD_uxG5TjxP7Wnx7bLlAiPc&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qKVo_H_FFY-_EEuWbCLWyw&_nc_tpa=Q5bMBQEXnTzWBynYeCon8t_l5vp3Vbn-hDSKQnT3L4t57_t4hVdyI6zLIyTbpsavNjYDUgzUEhDb24LS3g&oh=00_AQB5lAv_fejHEfMR5v8_aj_V9ZQDLI4feqJc3Li9qhXdKw&oe=6A4D2A75"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=z4isKOQZK6gQ7kNvwGrTIOb&_nc_oc=AdpEjjhw2iYtii8y-wSAMfX6ardnSBKR0nSy_eOXgPiH3eY8nkxk8I9n9A-z8yfYPfQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=W9y-rAvlMYv3fRE3yAAV5Q&_nc_tpa=Q5bMBQEDIc5TjTSiOHpDuFHvGd66CywctKuufZ-VpFmsTiiP-GukP1RPVWsanpIpFXgUuHNK-dabk_BrDA&oh=00_AQDky4_j7GBJCj5S70MiyjztkvpKf-VQmSK3p3tBhcDgWQ&oe=6A4D2A75"
   },
   "summary": {
-    "followers_count": 166,
-    "views": 2559,
-    "likes": 33,
-    "replies": 10,
-    "reposts": 2,
+    "followers_count": 173,
+    "views": 1047,
+    "likes": 18,
+    "replies": 4,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 128,
-    "engagement_rate": 2.97,
+    "engagement_total": 129,
+    "engagement_rate": 2.4,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17979990111045555",
-      "text": "Orang Eropa itu anehnya justru lebih respek sama kamu kalau kamu bilang \"tidak\" dengan tegas.\nDi sini (Indonesia), nolak",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaPRThujmmY",
-      "timestamp": "2026-07-01T05:31:18+0000",
-      "metrics": {
-        "views": 1134,
-        "likes": 49,
-        "replies": 11,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 61
-    },
     {
       "id": "17870956929545632",
       "text": "Kerja informal di Australia itu contohnya: petani buah, cleaning, hospitality.\nNggak butuh degree, tapi butuh visa yang ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaTvS3ygQgC",
       "timestamp": "2026-07-02T23:09:47+0000",
       "metrics": {
-        "views": 1385,
-        "likes": 23,
-        "replies": 9,
-        "reposts": 0,
+        "views": 3246,
+        "likes": 66,
+        "replies": 24,
+        "reposts": 3,
         "quotes": 0,
-        "shares": 7
+        "shares": 10
       },
-      "engagement": 32
+      "engagement": 93
     },
     {
       "id": "18021524528685116",
@@ -56,14 +41,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaT4kc5IB9t",
       "timestamp": "2026-07-03T00:31:22+0000",
       "metrics": {
-        "views": 358,
-        "likes": 7,
+        "views": 398,
+        "likes": 8,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 8
     },
     {
       "id": "17973151644115297",
@@ -71,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaQlZbmnA7w",
       "timestamp": "2026-07-01T17:46:07+0000",
       "metrics": {
-        "views": 227,
+        "views": 228,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +79,76 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "18079376651261335",
+      "text": "Kerja di kapal pesiar itu unik banget — kamu tinggal di tempat kerja, tapi tempat kerjanya lagi berlayar di tengah laut.",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaPie2CFq00",
+      "timestamp": "2026-07-01T08:01:23+0000",
+      "metrics": {
+        "views": 105,
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
     }
   ],
   "recent_posts": [
+    {
+      "id": "17889412059582788",
+      "text": "Udah apply remote job luar negeri berkali-kali, tapi gak ada yang reply?\nBukan karena lo gak qualified — tapi CV lo mung",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaUsEzfoMgI",
+      "timestamp": "2026-07-03T08:01:26+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17945607918210481",
+      "text": "Katanya kerja di Australia itu gampang, tinggal dateng langsung dapat job.\nReality-nya: tanpa dokumen yang bener dan ski",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaUhxhuHEiZ",
+      "timestamp": "2026-07-03T06:31:25+0000",
+      "metrics": {
+        "views": 92,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18104791406516656",
+      "text": "Kerja di kapal pesiar itu uniknya: kamu bisa keliling 10 negara dalam sebulan, tapi CV kamu cuma tulis \"hospitality staf",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaUXelyoGSe",
+      "timestamp": "2026-07-03T05:01:27+0000",
+      "metrics": {
+        "views": 211,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17997092753973387",
       "text": "Di Jepang, diam itu tanda setuju — tapi di kantor, diam juga bisa berarti kamu salah dan ga ada yang berani bilang.\nOran",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaUNK4mIL2F",
       "timestamp": "2026-07-03T03:31:23+0000",
       "metrics": {
-        "views": 12,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaUC39AlFN6",
       "timestamp": "2026-07-03T02:01:24+0000",
       "metrics": {
-        "views": 34,
+        "views": 43,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,14 +178,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaT4kc5IB9t",
       "timestamp": "2026-07-03T00:31:22+0000",
       "metrics": {
-        "views": 358,
-        "likes": 7,
+        "views": 398,
+        "likes": 8,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 8
     },
     {
       "id": "17998941476976732",
@@ -148,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaTv88jm-96",
       "timestamp": "2026-07-02T23:16:04+0000",
       "metrics": {
-        "views": 16,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 1,
@@ -163,14 +208,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaTvS3ygQgC",
       "timestamp": "2026-07-02T23:09:47+0000",
       "metrics": {
-        "views": 1385,
-        "likes": 23,
-        "replies": 9,
-        "reposts": 0,
+        "views": 3246,
+        "likes": 66,
+        "replies": 24,
+        "reposts": 3,
         "quotes": 0,
-        "shares": 7
+        "shares": 10
       },
-      "engagement": 32
+      "engagement": 93
     },
     {
       "id": "17884047393667196",
@@ -178,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaTvQUCAUM0",
       "timestamp": "2026-07-02T23:09:26+0000",
       "metrics": {
-        "views": 10,
+        "views": 18,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -193,52 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaSweQalC2i",
       "timestamp": "2026-07-02T14:01:22+0000",
       "metrics": {
-        "views": 18,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18094872587626391",
-      "text": "https://goglobal-ai.app/blog/5-kesalahan-fatal-apply-jepang",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaSkzLNGQaA",
-      "timestamp": "2026-07-02T12:18:50+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18039472496803633",
-      "text": "Lagi scroll lowongan kerja di Korea tapi CV lo masih format Indonesia banget — section-nya beda, urutannya beda, bahkan ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaSkbbCnAMQ",
-      "timestamp": "2026-07-02T12:16:08+0000",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17972569740116414",
-      "text": "Myth: kerja remote = bebas, santai, bisa dari mana aja, gampang dapet kerja 😎\nReality: dapet kerjanya yang susah — CV l",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaSVAmHmzkj",
-      "timestamp": "2026-07-02T10:01:24+0000",
-      "metrics": {
-        "views": 16,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
