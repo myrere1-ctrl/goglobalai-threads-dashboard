@@ -1,54 +1,39 @@
 {
-  "updated_at": "2026-07-04T23:15:24.611Z",
+  "updated_at": "2026-07-05T04:20:25.051Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri (GRATIS)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=z4isKOQZK6gQ7kNvwHZ23hj&_nc_oc=AdpyvKl6Avu4PxKtBxnhl6vuE5WqA1BO1ufhbz0gdFyU0Z3RZXgiCygvnmloX6yiSxw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=6Th-p7n6u4WwrZHHZN_dlQ&_nc_tpa=Q5bMBQG5cGrLWgTu7my-qIn1bcgTdbbR61hB7aJqptA3Bf85oMW7v2D2z4wy8_u-W2mr67CTmGICJ7ksTg&oh=00_AQAGCpLm2B207KwXWMAiV7_-dVQDny96eXGWf0wxBHoHLQ&oe=6A4F5CF5"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=z4isKOQZK6gQ7kNvwGSaTq_&_nc_oc=Adocxd7MMlRgn3w-gzMWWPY1pyWdaG0O9HcCWL3OoAVT_KThY3l6JtzYjMYzhDgo76Q&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IPfipy4HQt3wjVmtviPjog&_nc_tpa=Q5bMBQEb71GG9f6HpVVS6D0u1_tiM1OxCmyoCY3I-bLLS6bzkxg8f-HJm8vbSW1yrVIxF-xxfQRqv0yFkQ&oh=00_AQCrGn6-llhcWrArz6tWG5SU7tRPSDnOKLMkLyCLLCmmWQ&oe=6A4F9535"
   },
   "summary": {
     "followers_count": 183,
-    "views": 2765,
-    "likes": 28,
-    "replies": 5,
+    "views": 3245,
+    "likes": 35,
+    "replies": 7,
     "reposts": 3,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 323,
-    "engagement_rate": 2.23,
+    "engagement_total": 81,
+    "engagement_rate": 2.36,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17870956929545632",
-      "text": "Kerja informal di Australia itu contohnya: petani buah, cleaning, hospitality.\nNggak butuh degree, tapi butuh visa yang ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaTvS3ygQgC",
-      "timestamp": "2026-07-02T23:09:47+0000",
-      "metrics": {
-        "views": 11366,
-        "likes": 192,
-        "replies": 44,
-        "reposts": 14,
-        "quotes": 0,
-        "shares": 23
-      },
-      "engagement": 250
-    },
     {
       "id": "17928311859128394",
       "text": "Myth: kerja di kapal pesiar itu kayak liburan gratis sambil dibayar 🛳️\nReality: lo kerja 10-12 jam/hari, 7 hari semingg",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaWx-AdCAG1",
       "timestamp": "2026-07-04T03:31:27+0000",
       "metrics": {
-        "views": 1051,
-        "likes": 24,
-        "replies": 9,
+        "views": 1218,
+        "likes": 27,
+        "replies": 11,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 34
+      "engagement": 39
     },
     {
       "id": "18021524528685116",
@@ -71,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaXQ3szlnjk",
       "timestamp": "2026-07-04T08:01:25+0000",
       "metrics": {
-        "views": 180,
+        "views": 189,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +79,46 @@
         "shares": 0
       },
       "engagement": 9
+    },
+    {
+      "id": "17891485740561747",
+      "text": "Udah dapet offer kerja di Jepang, tapi bingung soal 職務経歴書 vs resume biasa?\nDua dokumen ini beda fungsinya — resume buat ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaWnqjLFpJt",
+      "timestamp": "2026-07-04T02:01:23+0000",
+      "metrics": {
+        "views": 91,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 3
     }
   ],
   "recent_posts": [
     {
-      "id": "17873582082683996",
-      "text": "Honest opinion: skill teknis lo bukan yang paling nentuin sukses di Kanada.\nYang lebih matter? Cara lo communicate dan b",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaY33qCASRV",
-      "timestamp": "2026-07-04T23:01:27+0000",
+      "id": "18108788971958514",
+      "text": "Myth: kerja di Australia itu gampang, tinggal modal bahasa Inggris aja.\nReality: bahasa Inggris lo bagus, tapi aksen Aus",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaZWwSoG4wY",
+      "timestamp": "2026-07-05T03:31:19+0000",
       "metrics": {
-        "views": 0,
+        "views": 5,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18346874437173067",
+      "text": "Udah lolos interview kapal pesiar tapi bingung CV-nya harus format apa?\nBanyak orang gugur bukan karena kurang pengalama",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaZMdg8jq3q",
+      "timestamp": "2026-07-05T02:01:22+0000",
+      "metrics": {
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -113,12 +128,42 @@
       "engagement": 0
     },
     {
+      "id": "18380422954202622",
+      "text": "Ekspektasi kerja di Jepang: gaji besar, hidup tertata, karir naik.\nRealita tanpa persiapan: visa ditolak, CV gak sesuai ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaZCJ2YoOL1",
+      "timestamp": "2026-07-05T00:31:19+0000",
+      "metrics": {
+        "views": 98,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17873582082683996",
+      "text": "Honest opinion: skill teknis lo bukan yang paling nentuin sukses di Kanada.\nYang lebih matter? Cara lo communicate dan b",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaY33qCASRV",
+      "timestamp": "2026-07-04T23:01:27+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18069786032395561",
       "text": "Dulu gue nolak tawaran kerja di Belanda karena takut bahasa Inggris gue kurang bagus.\nPadahal si recruiter udah bilang: ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaX6EqbkRaZ",
       "timestamp": "2026-07-04T14:01:28+0000",
       "metrics": {
-        "views": 11,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaXsWKoEQbl",
       "timestamp": "2026-07-04T12:01:31+0000",
       "metrics": {
-        "views": 76,
+        "views": 77,
         "likes": 1,
         "replies": 0,
         "reposts": 1,
@@ -148,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaXenUsIOuE",
       "timestamp": "2026-07-04T10:01:31+0000",
       "metrics": {
-        "views": 36,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaXQ3szlnjk",
       "timestamp": "2026-07-04T08:01:25+0000",
       "metrics": {
-        "views": 180,
+        "views": 189,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaW8RkYkWUW",
       "timestamp": "2026-07-04T05:01:27+0000",
       "metrics": {
-        "views": 107,
+        "views": 109,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17896297962488250",
-      "text": "Kerja di Jepang yang gajinya lebih kecil dari negara2 maju lainnya tapi Visa nya mahal , jadi .. Aneh ga sih 🤔\n\nUpdate ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaW2vn7mXXt",
-      "timestamp": "2026-07-04T04:12:36+0000",
-      "metrics": {
-        "views": 60,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "17928311859128394",
-      "text": "Myth: kerja di kapal pesiar itu kayak liburan gratis sambil dibayar 🛳️\nReality: lo kerja 10-12 jam/hari, 7 hari semingg",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaWx-AdCAG1",
-      "timestamp": "2026-07-04T03:31:27+0000",
-      "metrics": {
-        "views": 1051,
-        "likes": 24,
-        "replies": 9,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 34
-    },
-    {
-      "id": "17891485740561747",
-      "text": "Udah dapet offer kerja di Jepang, tapi bingung soal 職務経歴書 vs resume biasa?\nDua dokumen ini beda fungsinya — resume buat ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaWnqjLFpJt",
-      "timestamp": "2026-07-04T02:01:23+0000",
-      "metrics": {
-        "views": 89,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 3
     }
   ]
 }
