@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-09T21:44:27.073Z",
+  "updated_at": "2026-07-09T23:36:40.634Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri (GRATIS)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwGsVYQ-&_nc_oc=AdpZJFnA-KGBiBDFbrAxRjD065CchvcE-G-F-f85Hwsa6Dbg7tp-LE575como4jKXfA&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YDnz5bxT9mRpGvIWJgethA&_nc_tpa=Q5bMBQFAQ-3sEEUy6O2O0zF_KUZzWYDmrN2Koh6n2FUQ81A7r35JtHVoWNkM6JpTMGVfJemaJFx7tjFduQ&oh=00_AQAbROLuFiz_Nqg2WQA2VQ_l0UXSnrVxMhtA8ukXfCt1WA&oe=6A55F475"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwHvObH9&_nc_oc=AdrkrwpFmKcPyAN6-koUsgX3N-izQQ6ZIdOSdpF2uJ5NhW-Ebq6bE78mhSs0kfpy9sk&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lpO4B_iIybU2eLOoGb3HMg&_nc_tpa=Q5bMBQHPBOE-WFmqZ3B2eH5h8uVBtr9NPX0M-CQttaKutlrRQdeXayEJLtotiGV3sb8fWiHq8XQazWjPjA&oh=00_AQB4OvWiWPu8jNjHf3EwtcvKuWH9LhbEy15nXRzq2G3MUA&oe=6A55F475"
   },
   "summary": {
     "followers_count": 216,
-    "views": 664,
+    "views": 707,
     "likes": 13,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 126,
-    "engagement_rate": 1.94,
+    "engagement_total": 106,
+    "engagement_rate": 1.84,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -51,21 +51,6 @@
       "engagement": 26
     },
     {
-      "id": "18104730098118006",
-      "text": "Ekspektasi: kerja di Eropa itu susah banget masuknya.\nRealita: Dani, 27 tahun, dapet kontrak kerja di Belanda dalam 4 bu",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dae_SCEoM4I",
-      "timestamp": "2026-07-07T08:01:39+0000",
-      "metrics": {
-        "views": 741,
-        "likes": 16,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 20
-    },
-    {
       "id": "17886486249663575",
       "text": "Di Australia, bilang \"How are you?\" itu bukan nanya kondisi lo.\nItu cuma pengganti \"halo\".\nJawab jujur soal hidup lo? Me",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dah_jNBnA0u",
@@ -94,9 +79,39 @@
         "shares": 0
       },
       "engagement": 10
+    },
+    {
+      "id": "18061144694745909",
+      "text": "Dulu gue ngirim 30+ lamaran ke Australia, nggak ada yang nyangkut.\nTernyata CV gue terlalu \"Indonesia banget\" — format, ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DakWnV6G7gt",
+      "timestamp": "2026-07-09T10:01:45+0000",
+      "metrics": {
+        "views": 182,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     }
   ],
   "recent_posts": [
+    {
+      "id": "18106621316077744",
+      "text": "Kerja remote itu unik — CV-nya beda banget sama kerja kantoran biasa.\nRecruiter global nyari kata kunci kayak \"async com",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dalv3Skjjmk",
+      "timestamp": "2026-07-09T23:01:37+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18052288568610339",
       "text": "Ngelamar kerja ke Korea tanpa persiapan vs pakai CV Builder + Interview AI:\nYang pertama: nunggu kabar, gak ada feedback",
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DakWnV6G7gt",
       "timestamp": "2026-07-09T10:01:45+0000",
       "metrics": {
-        "views": 181,
+        "views": 182,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DajfrB2jX-R",
       "timestamp": "2026-07-09T02:01:39+0000",
       "metrics": {
-        "views": 61,
+        "views": 62,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18113298571933979",
-      "text": "Barista 26 tahun asal Bandung iseng apply kerja di Melbourne — gak nyangka gajinya 3x lipat di sini.\nBukan karena skill-",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DajLFHDkZyB",
-      "timestamp": "2026-07-08T23:01:44+0000",
-      "metrics": {
-        "views": 229,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
