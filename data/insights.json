@@ -1,62 +1,32 @@
 {
-  "updated_at": "2026-07-09T08:45:02.784Z",
+  "updated_at": "2026-07-09T12:16:08.591Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri (GRATIS)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwHCphbb&_nc_oc=Adp1rm24QjpnjCXOnRZ2o82cozlYV7mXwzvdm8IPWJhb-IFjwOTOzyLgj9L5HEvwxLQ&_nc_zt=24&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LqzBHc-RdqAf0fG_Wnj9MQ&_nc_tpa=Q5bMBQFkhDBZziF3dmV7LAbKhbdINtMm23svSas3Hq7X0I1goeBwyQ9O4k37VIJgOB_pRLFRz8XKxsI5Jg&oh=00_AQCdm3JDTtHeC6p0wW8gH-qY8afHTZY3N8cGB74VGbL8pw&oe=6A554BB5"
+    "picture": "https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwF4qblt&_nc_oc=Adril5d4nZU0OdM0NztIiFIFK76BUVi9CI1E8GSL_UZJlkizxHbW-PhNCH1197TzGzc&_nc_zt=24&_nc_ht=scontent-hkg1-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e2mRqrUSPlYBxzEfre9pxg&_nc_tpa=Q5bMBQHoko9Y9Q5mHguy3XERPGXmVh1-q8wrXFFcgj3S09l0Q2QycxTk6ysxRWRTXS1rvbIxZZ2hYgpM2w&oh=00_AQBJhZDOMZka1tnssemQ2MNNJ1NdjxYr4r101pNVnMLmQA&oe=6A554BB5"
   },
   "summary": {
     "followers_count": 215,
-    "views": 104,
-    "likes": 3,
+    "views": 335,
+    "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 350,
-    "engagement_rate": 2.84,
+    "engagement_total": 126,
+    "engagement_rate": 1.91,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18060889160720461",
-      "text": "Adit, 28 tahun, sekarang kerja sebagai software engineer di Munich.\nKatanya 3 hal yang bikin dia bisa nembus Jerman:\n• J",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Daeqrr5FTj9",
-      "timestamp": "2026-07-07T05:01:39+0000",
-      "metrics": {
-        "views": 3961,
-        "likes": 106,
-        "replies": 11,
-        "reposts": 3,
-        "quotes": 0,
-        "shares": 26
-      },
-      "engagement": 120
-    },
-    {
-      "id": "17883173676607102",
-      "text": "Tahun lalu gue nganggur 8 bulan, ngirim CV ke mana-mana ga ada yang nyangkut.\nIseng apply ke perusahaan di Seoul, modal ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaegXWhjdps",
-      "timestamp": "2026-07-07T03:31:30+0000",
-      "metrics": {
-        "views": 1973,
-        "likes": 101,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 2
-      },
-      "engagement": 109
-    },
     {
       "id": "18095558039209771",
       "text": "Kerja di kapal pesiar itu unik banget:\n• Tidur di laut 🌊, bangun di negara baru\n• Teman kerja dari 30+ negara\n• Bosan? ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dahxz4KFojb",
       "timestamp": "2026-07-08T10:01:39+0000",
       "metrics": {
-        "views": 1433,
+        "views": 1463,
         "likes": 28,
         "replies": 6,
         "reposts": 0,
@@ -71,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DahFK2NDkAl",
       "timestamp": "2026-07-08T03:31:36+0000",
       "metrics": {
-        "views": 1471,
+        "views": 1473,
         "likes": 20,
         "replies": 6,
         "reposts": 0,
@@ -94,16 +64,76 @@
         "shares": 0
       },
       "engagement": 20
+    },
+    {
+      "id": "17886486249663575",
+      "text": "Di Australia, bilang \"How are you?\" itu bukan nanya kondisi lo.\nItu cuma pengganti \"halo\".\nJawab jujur soal hidup lo? Me",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dah_jNBnA0u",
+      "timestamp": "2026-07-08T12:01:43+0000",
+      "metrics": {
+        "views": 520,
+        "likes": 5,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 12
+    },
+    {
+      "id": "17947669863229059",
+      "text": "Chef 29 tahun ini nolak gaji Rp18 juta di Jakarta.\nDia malah milih kerja di dapur restoran Korea dengan gaji awal yang l",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dag63mbFRXP",
+      "timestamp": "2026-07-08T02:01:34+0000",
+      "metrics": {
+        "views": 292,
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
     }
   ],
   "recent_posts": [
+    {
+      "id": "18125295022736639",
+      "text": "UI designer 29 tahun apply 40+ remote job, nggak ada yang nyangkut.\nTernyata CV-nya udah bagus — tapi cover letter-nya g",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DakkVIGoDDF",
+      "timestamp": "2026-07-09T12:01:37+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18061144694745909",
+      "text": "Dulu gue ngirim 30+ lamaran ke Australia, nggak ada yang nyangkut.\nTernyata CV gue terlalu \"Indonesia banget\" — format, ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DakWnV6G7gt",
+      "timestamp": "2026-07-09T10:01:45+0000",
+      "metrics": {
+        "views": 79,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18121138517507422",
       "text": "Kerja di kapal pesiar itu kompetitif — ribuan pelamar, satu posisi.\nFitur Pro GoGlobal AI bisa bantu lo siap dari awal:\n",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DakI4oKlluM",
       "timestamp": "2026-07-09T08:01:46+0000",
       "metrics": {
-        "views": 15,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,14 +148,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daj-kngljSj",
       "timestamp": "2026-07-09T06:31:39+0000",
       "metrics": {
-        "views": 45,
-        "likes": 0,
+        "views": 52,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "17984090703043269",
@@ -163,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DajfrB2jX-R",
       "timestamp": "2026-07-09T02:01:39+0000",
       "metrics": {
-        "views": 45,
+        "views": 48,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -193,14 +223,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DajLFHDkZyB",
       "timestamp": "2026-07-08T23:01:44+0000",
       "metrics": {
-        "views": 184,
-        "likes": 1,
+        "views": 200,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18108840371054377",
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17886486249663575",
-      "text": "Di Australia, bilang \"How are you?\" itu bukan nanya kondisi lo.\nItu cuma pengganti \"halo\".\nJawab jujur soal hidup lo? Me",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dah_jNBnA0u",
-      "timestamp": "2026-07-08T12:01:43+0000",
-      "metrics": {
-        "views": 480,
-        "likes": 4,
-        "replies": 7,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 11
-    },
-    {
-      "id": "18095558039209771",
-      "text": "Kerja di kapal pesiar itu unik banget:\n• Tidur di laut 🌊, bangun di negara baru\n• Teman kerja dari 30+ negara\n• Bosan? ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dahxz4KFojb",
-      "timestamp": "2026-07-08T10:01:39+0000",
-      "metrics": {
-        "views": 1433,
-        "likes": 28,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 3
-      },
-      "engagement": 34
     }
   ]
 }
