@@ -1,64 +1,34 @@
 {
-  "updated_at": "2026-07-11T00:09:11.991Z",
+  "updated_at": "2026-07-11T03:42:37.990Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwGLWSnD&_nc_oc=AdrEq-B5PwYH6uPo_Yn_0z562xlyYv7Ym8ZSADrmzntWiuSfIUonsACsUvaf5ncXIZo&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yfqE_FVSutHwakfw3qnsOA&_nc_tpa=Q5bMBQFVRpIony47qWJfzLAf1zMRSkkZTScGqgtsVATSRyMuIvvRZHoSoCh5ND8yXQi8VIGeUzc414EvnA&oh=00_AQA2mtaXQePKgUMTjQsWjJcbgXqzyEP6P2CwnUYZ8m_n6w&oe=6A5745F5"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwF1HPhT&_nc_oc=AdqyzhiOlVnT-TAVb_khCkvWHE6f_AL9V3OkH5xU-kbX5DUg9HgiqVvqA34Miy5kEWw&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lSJy3hsy_s4TuSgYK_v_cg&_nc_tpa=Q5bMBQG5MZ5srAvrR1Gpttjn_QL33zG7uWiTa5R1yN2JwT0S_qffbC7TjYXVa-vquX8eMfr6CTEaiFMr9Q&oh=00_AQCM2I03aTY8BwJ5646yasCOYst37FQ9AGWW7Y8Wx42eCQ&oe=6A577E35"
   },
   "summary": {
     "followers_count": 219,
-    "views": 688,
+    "views": 832,
     "likes": 8,
-    "replies": 0,
+    "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 80,
-    "engagement_rate": 2.04,
+    "engagement_total": 35,
+    "engagement_rate": 1.76,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18095558039209771",
-      "text": "Kerja di kapal pesiar itu unik banget:\n• Tidur di laut 🌊, bangun di negara baru\n• Teman kerja dari 30+ negara\n• Bosan? ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dahxz4KFojb",
-      "timestamp": "2026-07-08T10:01:39+0000",
-      "metrics": {
-        "views": 1469,
-        "likes": 28,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 3
-      },
-      "engagement": 34
-    },
     {
       "id": "18097966160587248",
       "text": "75% orang Indonesia yang kerja di Jerman mulai tanpa bisa bahasa Jerman sama sekali.\nTapi mereka tetap lolos — karena ta",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dal6JNwHMYw",
       "timestamp": "2026-07-10T00:31:27+0000",
       "metrics": {
-        "views": 292,
+        "views": 300,
         "likes": 6,
         "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 12
-    },
-    {
-      "id": "17886486249663575",
-      "text": "Di Australia, bilang \"How are you?\" itu bukan nanya kondisi lo.\nItu cuma pengganti \"halo\".\nJawab jujur soal hidup lo? Me",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dah_jNBnA0u",
-      "timestamp": "2026-07-08T12:01:43+0000",
-      "metrics": {
-        "views": 525,
-        "likes": 5,
-        "replies": 7,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -86,24 +56,99 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DanW3scIAhD",
       "timestamp": "2026-07-10T14:01:44+0000",
       "metrics": {
-        "views": 158,
-        "likes": 3,
+        "views": 173,
+        "likes": 4,
         "replies": 0,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
+    },
+    {
+      "id": "18461125723115819",
+      "text": "Insinyur mesin, 28 tahun, apply kerja ke Jerman 3 kali — ditolak semua.\nBukan karena kurang skill, tapi CV-nya gak sesua",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DajfrB2jX-R",
+      "timestamp": "2026-07-09T02:01:39+0000",
+      "metrics": {
+        "views": 65,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 4
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18113298571933979",
+      "text": "Barista 26 tahun asal Bandung iseng apply kerja di Melbourne — gak nyangka gajinya 3x lipat di sini.\nBukan karena skill-",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DajLFHDkZyB",
+      "timestamp": "2026-07-08T23:01:44+0000",
+      "metrics": {
+        "views": 232,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18088574078637750",
+      "text": "Kerja di Jepang itu beda banget kulturnya — ini yang perlu lo tahu:\n• Datang tepat waktu = datang telat. Usahain 5-10 me",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaozibcoIp4",
+      "timestamp": "2026-07-11T03:31:27+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18114416360478738",
+      "text": "Kerja di Eropa itu bukan cuma soal skill — ada 3 hal yang sering bikin kandidat Indonesia keok:\n• CV format Europass waj",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaopQfyIHqq",
+      "timestamp": "2026-07-11T02:01:37+0000",
+      "metrics": {
+        "views": 54,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18113363873304672",
+      "text": "Honest opinion: bahasa Inggris bukan hambatan terbesar buat kerja di Kanada.\nYang lebih sering jadi masalah? Kita nggak ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Daoe8zcj3s7",
+      "timestamp": "2026-07-11T00:31:35+0000",
+      "metrics": {
+        "views": 44,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18106683476014761",
       "text": "80% orang yang kerja di Korea bilang bingung soal kontrak kerja — bahasa Korea, format beda, isi susah dipahami.\nAkibatn",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaoUqFnig8H",
       "timestamp": "2026-07-10T23:01:42+0000",
       "metrics": {
-        "views": 61,
+        "views": 76,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,14 +163,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DanW3scIAhD",
       "timestamp": "2026-07-10T14:01:44+0000",
       "metrics": {
-        "views": 158,
-        "likes": 3,
+        "views": 173,
+        "likes": 4,
         "replies": 0,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "18121404337756047",
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DanJIuoFOrc",
       "timestamp": "2026-07-10T12:01:41+0000",
       "metrics": {
-        "views": 76,
+        "views": 77,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18145452550549010",
-      "text": "Udah semangat apply kerja di Eropa, eh pas bikin CV malah bingung — format Europass itu isinya apa aja sih sebenernya? \ud83d",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DamOvMgFnob",
-      "timestamp": "2026-07-10T03:31:24+0000",
-      "metrics": {
-        "views": 35,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18068761229464281",
-      "text": "Kerja di Kanada itu bukan cuma soal dapat visa — banyak yang lolos visa tapi stuck di sini:\n• CV gak sesuai standar ATS ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DamEcsVFC16",
-      "timestamp": "2026-07-10T02:01:29+0000",
-      "metrics": {
-        "views": 56,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18097966160587248",
-      "text": "75% orang Indonesia yang kerja di Jerman mulai tanpa bisa bahasa Jerman sama sekali.\nTapi mereka tetap lolos — karena ta",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dal6JNwHMYw",
-      "timestamp": "2026-07-10T00:31:27+0000",
-      "metrics": {
-        "views": 292,
-        "likes": 6,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 12
     }
   ]
 }
