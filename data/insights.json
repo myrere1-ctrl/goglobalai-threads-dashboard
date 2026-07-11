@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-07-11T06:26:17.374Z",
+  "updated_at": "2026-07-11T08:59:19.048Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwHVj6BH&_nc_oc=Adqm0TzzT1kln25-dPc8zCQbyBS7jCPbjsX8nI1DCZ7H3EOyviDjF9bGYRHdsY7TKSA&_nc_zt=24&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QOVsbV7AlXsvFSdm15UfgA&_nc_tpa=Q5bMBQFevfurz8e-v1Uu2eTF3LuHVwjkz9p3W7lIdRMJiyXAgl4z__TN6Dscj5vVIpo8kRKwBLD0pUr_Hg&oh=00_AQBAfZlIsk-uzSSbREDqft3Wy0P6gvzk9uMDI4I7apVwRQ&oe=6A57B675"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwEK-eQ1&_nc_oc=Adqpw6etggadgg9AZVRaySUCHwaxWw40Um05-9jfqBwm2503I9QbvIvjf9yhvUsEu7k&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9A6wPZZwwPi4xHgkVEMxcA&_nc_tpa=Q5bMBQGeB68EonqVwxfQNGvKh2Atyf_jxUS_aj_ck3ZepUgx4Qw_LswNE_e9KJKkCzyv3TFNU6To0ipfbw&oh=00_AQBpWX1h2-aitsKJNgdDcpjOvyTM3V9MT5PAM4owkD_rbw&oe=6A57EEB5"
   },
   "summary": {
-    "followers_count": 219,
-    "views": 1346,
-    "likes": 17,
+    "followers_count": 221,
+    "views": 659,
+    "likes": 10,
     "replies": 3,
-    "reposts": 1,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 46,
-    "engagement_rate": 1.88,
+    "engagement_total": 68,
+    "engagement_rate": 2.32,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18139065262512034",
+      "text": "80% kru kapal pesiar yang lolos seleksi pertama kali — modal bahasa Inggris seadanya.\nYang dinilai lebih: attitude, seny",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dao9213EVpd",
+      "timestamp": "2026-07-11T05:01:37+0000",
+      "metrics": {
+        "views": 763,
+        "likes": 18,
+        "replies": 10,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 3
+      },
+      "engagement": 28
+    },
     {
       "id": "18097966160587248",
       "text": "75% orang Indonesia yang kerja di Jerman mulai tanpa bisa bahasa Jerman sama sekali.\nTapi mereka tetap lolos — karena ta",
@@ -56,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaozibcoIp4",
       "timestamp": "2026-07-11T03:31:27+0000",
       "metrics": {
-        "views": 209,
+        "views": 262,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -66,27 +81,12 @@
       "engagement": 6
     },
     {
-      "id": "18139065262512034",
-      "text": "80% kru kapal pesiar yang lolos seleksi pertama kali — modal bahasa Inggris seadanya.\nYang dinilai lebih: attitude, seny",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dao9213EVpd",
-      "timestamp": "2026-07-11T05:01:37+0000",
-      "metrics": {
-        "views": 230,
-        "likes": 3,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
       "id": "17987939756834120",
       "text": "Dulu gue kira pindah ke Jerman itu cuma soal semangat dan nekad.\nTernyata gue stuck berminggu-minggu cuma buat ngerti An",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DanW3scIAhD",
       "timestamp": "2026-07-10T14:01:44+0000",
       "metrics": {
-        "views": 182,
+        "views": 186,
         "likes": 4,
         "replies": 0,
         "reposts": 1,
@@ -98,19 +98,79 @@
   ],
   "recent_posts": [
     {
+      "id": "18099009509121803",
+      "text": "Cek scam lowongan kerja, buat cv,  latihan interview, biaya hidup dan tips and dll di goglobal-ai.app langsung",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DapVCXzDpq4",
+      "timestamp": "2026-07-11T08:26:13+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17955455199173281",
+      "text": "Honest opinion: CV \"remote-ready\" yang kebanyakan orang bikin itu justru terlalu generik.\nRecruiter global gak butuh tau",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DapSc5rke6I",
+      "timestamp": "2026-07-11T08:01:34+0000",
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17967663191935613",
+      "text": "Belajar IELTS bareng goglobal-ai yuks, ini salah satu bonus untuk Pro. Bahasa Jerman, Bahasa Jepang & Bahasa Korea Dasar",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DapIbrvmTF3",
+      "timestamp": "2026-07-11T06:33:29+0000",
+      "metrics": {
+        "views": 54,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18018446918890131",
+      "text": "Skill lo di Indonesia dihargai segitu-segitu aja, tapi di Australia bisa 3x lipatnya — pernah kepikiran kenapa?\nDi sana,",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DapIJ0ZHJYJ",
+      "timestamp": "2026-07-11T06:31:35+0000",
+      "metrics": {
+        "views": 145,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18139065262512034",
       "text": "80% kru kapal pesiar yang lolos seleksi pertama kali — modal bahasa Inggris seadanya.\nYang dinilai lebih: attitude, seny",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dao9213EVpd",
       "timestamp": "2026-07-11T05:01:37+0000",
       "metrics": {
-        "views": 230,
-        "likes": 3,
-        "replies": 2,
+        "views": 763,
+        "likes": 18,
+        "replies": 10,
         "reposts": 0,
         "quotes": 0,
-        "shares": 0
+        "shares": 3
       },
-      "engagement": 5
+      "engagement": 28
     },
     {
       "id": "18088574078637750",
@@ -118,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaozibcoIp4",
       "timestamp": "2026-07-11T03:31:27+0000",
       "metrics": {
-        "views": 209,
+        "views": 262,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaopQfyIHqq",
       "timestamp": "2026-07-11T02:01:37+0000",
       "metrics": {
-        "views": 65,
+        "views": 72,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daoe8zcj3s7",
       "timestamp": "2026-07-11T00:31:35+0000",
       "metrics": {
-        "views": 53,
+        "views": 58,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaoUqFnig8H",
       "timestamp": "2026-07-10T23:01:42+0000",
       "metrics": {
-        "views": 79,
+        "views": 84,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DanW3scIAhD",
       "timestamp": "2026-07-10T14:01:44+0000",
       "metrics": {
-        "views": 182,
+        "views": 186,
         "likes": 4,
         "replies": 0,
         "reposts": 1,
@@ -186,66 +246,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18121404337756047",
-      "text": "Guru les privat, 26 tahun, udah 2 tahun ngajuin visa kerja Korea — ditolak terus.\nTernyata bukan karena kualifikasinya k",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DanJIuoFOrc",
-      "timestamp": "2026-07-10T12:01:41+0000",
-      "metrics": {
-        "views": 82,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18097118399186041",
-      "text": "Kerja remote sambil rebahan di rumah — kedengarannya sempurna.\nSampai klien luar negeri nanya gaji ekspektasi dan lo jaw",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dam7ZdwoAG1",
-      "timestamp": "2026-07-10T10:01:38+0000",
-      "metrics": {
-        "views": 27,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18120066688763660",
-      "text": "Honest opinion: skill lo udah cukup buat kerja di Australia.\nYang sering jadi masalah bukan kemampuan, tapi CV-nya gak d",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DamtqBFoIgk",
-      "timestamp": "2026-07-10T08:01:35+0000",
-      "metrics": {
-        "views": 67,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17937573099278930",
-      "text": "Udah ngirim puluhan lamaran kapal pesiar tapi gak ada yang nyangkut — padahal kualifikasi lo udah oke?\nSeringnya bukan s",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DamjWmREZI-",
-      "timestamp": "2026-07-10T06:31:32+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
