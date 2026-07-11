@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-10T22:15:35.581Z",
+  "updated_at": "2026-07-11T00:09:11.991Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-sin6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwGDwB5r&_nc_oc=AdqHNBQNa0Xb6aiMW23820fz2P8T9cYaRMGuLC66HUzsRoHQuF1pBnBzqtsKoMDppGw&_nc_zt=24&_nc_ht=scontent-sin6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JxXoXajhGMMqgK3sx7AEgg&_nc_tpa=Q5bMBQFPY56XTMXHIcoG1edfaT9RaOT9d6n61vJ-iG8hB4b-YGYieiXSkXBaGIjmvr065DhrdhOBwBJIpw&oh=00_AQA6M111_IM7JrGHZ8BrpPoKqo8GLTaXGHVVM5vsST9LQA&oe=6A5745F5"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=lUS7gLC6ww4Q7kNvwGLWSnD&_nc_oc=AdrEq-B5PwYH6uPo_Yn_0z562xlyYv7Ym8ZSADrmzntWiuSfIUonsACsUvaf5ncXIZo&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yfqE_FVSutHwakfw3qnsOA&_nc_tpa=Q5bMBQFVRpIony47qWJfzLAf1zMRSkkZTScGqgtsVATSRyMuIvvRZHoSoCh5ND8yXQi8VIGeUzc414EvnA&oh=00_AQA2mtaXQePKgUMTjQsWjJcbgXqzyEP6P2CwnUYZ8m_n6w&oe=6A5745F5"
   },
   "summary": {
     "followers_count": 219,
-    "views": 605,
-    "likes": 6,
+    "views": 688,
+    "likes": 8,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 79,
-    "engagement_rate": 1.98,
+    "engagement_total": 80,
+    "engagement_rate": 2.04,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,6 +36,21 @@
       "engagement": 34
     },
     {
+      "id": "18097966160587248",
+      "text": "75% orang Indonesia yang kerja di Jerman mulai tanpa bisa bahasa Jerman sama sekali.\nTapi mereka tetap lolos — karena ta",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dal6JNwHMYw",
+      "timestamp": "2026-07-10T00:31:27+0000",
+      "metrics": {
+        "views": 292,
+        "likes": 6,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 12
+    },
+    {
       "id": "17886486249663575",
       "text": "Di Australia, bilang \"How are you?\" itu bukan nanya kondisi lo.\nItu cuma pengganti \"halo\".\nJawab jujur soal hidup lo? Me",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dah_jNBnA0u",
@@ -49,21 +64,6 @@
         "shares": 0
       },
       "engagement": 12
-    },
-    {
-      "id": "18097966160587248",
-      "text": "75% orang Indonesia yang kerja di Jerman mulai tanpa bisa bahasa Jerman sama sekali.\nTapi mereka tetap lolos — karena ta",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dal6JNwHMYw",
-      "timestamp": "2026-07-10T00:31:27+0000",
-      "metrics": {
-        "views": 278,
-        "likes": 5,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 11
     },
     {
       "id": "18061144694745909",
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DanW3scIAhD",
       "timestamp": "2026-07-10T14:01:44+0000",
       "metrics": {
-        "views": 157,
+        "views": 158,
         "likes": 3,
         "replies": 0,
         "reposts": 1,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18106683476014761",
+      "text": "80% orang yang kerja di Korea bilang bingung soal kontrak kerja — bahasa Korea, format beda, isi susah dipahami.\nAkibatn",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaoUqFnig8H",
+      "timestamp": "2026-07-10T23:01:42+0000",
+      "metrics": {
+        "views": 61,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17987939756834120",
       "text": "Dulu gue kira pindah ke Jerman itu cuma soal semangat dan nekad.\nTernyata gue stuck berminggu-minggu cuma buat ngerti An",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DanW3scIAhD",
       "timestamp": "2026-07-10T14:01:44+0000",
       "metrics": {
-        "views": 157,
+        "views": 158,
         "likes": 3,
         "replies": 0,
         "reposts": 1,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DamtqBFoIgk",
       "timestamp": "2026-07-10T08:01:35+0000",
       "metrics": {
-        "views": 65,
+        "views": 66,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DamEcsVFC16",
       "timestamp": "2026-07-10T02:01:29+0000",
       "metrics": {
-        "views": 54,
+        "views": 56,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -223,29 +238,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dal6JNwHMYw",
       "timestamp": "2026-07-10T00:31:27+0000",
       "metrics": {
-        "views": 278,
-        "likes": 5,
+        "views": 292,
+        "likes": 6,
         "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 11
-    },
-    {
-      "id": "18106621316077744",
-      "text": "Kerja remote itu unik — CV-nya beda banget sama kerja kantoran biasa.\nRecruiter global nyari kata kunci kayak \"async com",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dalv3Skjjmk",
-      "timestamp": "2026-07-09T23:01:37+0000",
-      "metrics": {
-        "views": 121,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
+      "engagement": 12
     }
   ]
 }
