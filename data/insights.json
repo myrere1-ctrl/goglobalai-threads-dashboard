@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-12T13:55:59.910Z",
+  "updated_at": "2026-07-12T15:15:53.150Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BZU0TQ_WyKcQ7kNvwESI9Rk&_nc_oc=AdoneO2ngl6TyxIvEyMYe1f-829Jdpo0RhD8HtY3raPFLq6FrA7yGLx3BA959zrXSok&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0D_1Nn0Xi17Bm0HRMD4v3Q&_nc_tpa=Q5bMBQHF8iF3yG2KZ9Hsq7XnQZry6-w-pj7USQby4wDQjt_whyjcSsNQV9kmmyHq8Tu1pbkzUQLde_4CaQ&oh=00_AQBYgfD2W0pbyMYUbErESDp9XlF9tQleBzPfT_m_O3BNUg&oe=6A597875"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BZU0TQ_WyKcQ7kNvwHYIiDH&_nc_oc=AdqDZTYjGs8qJKCUg4HDE677K3WWsRZmj_JN0IO-_R64joBV95bdWN-SSGhQ_aS6Aco&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=s3lmYSQ7zaxHmKkFAtPuow&_nc_tpa=Q5bMBQHaumwHFkJigpo9Iyv0GAASiVC-1GyDx3Y4AcsaVrSPviuQTRVzb9zFqViTBnFzAKTyCXuxiD_pWw&oh=00_AQBbegonReRxwq3uX1Z111k66QszO4LY9_lToHQ_c_LP5w&oe=6A597875"
   },
   "summary": {
-    "followers_count": 230,
-    "views": 1691,
-    "likes": 31,
-    "replies": 8,
+    "followers_count": 229,
+    "views": 2090,
+    "likes": 44,
+    "replies": 9,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 204,
-    "engagement_rate": 2.48,
+    "engagement_total": 218,
+    "engagement_rate": 2.55,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dao9213EVpd",
       "timestamp": "2026-07-11T05:01:37+0000",
       "metrics": {
-        "views": 4552,
+        "views": 4571,
         "likes": 92,
         "replies": 29,
         "reposts": 1,
@@ -41,14 +41,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daq5dTlGkNf",
       "timestamp": "2026-07-11T23:01:40+0000",
       "metrics": {
-        "views": 916,
-        "likes": 35,
+        "views": 1062,
+        "likes": 45,
         "replies": 6,
         "reposts": 1,
         "quotes": 0,
         "shares": 5
       },
-      "engagement": 42
+      "engagement": 52
     },
     {
       "id": "18088574078637750",
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaozibcoIp4",
       "timestamp": "2026-07-11T03:31:27+0000",
       "metrics": {
-        "views": 534,
+        "views": 539,
         "likes": 11,
         "replies": 0,
         "reposts": 1,
@@ -71,14 +71,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasSuZgmzcp",
       "timestamp": "2026-07-12T12:01:41+0000",
       "metrics": {
-        "views": 207,
-        "likes": 1,
-        "replies": 6,
+        "views": 306,
+        "likes": 2,
+        "replies": 7,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 9
     },
     {
       "id": "17987939756834120",
@@ -98,19 +98,34 @@
   ],
   "recent_posts": [
     {
+      "id": "18150621457507513",
+      "text": "87% orang yang akhirnya kerja di Eropa bilang hambatan terbesar bukan skill — tapi ga tau harus mulai dari mana.\nVisa, C",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DasgdF-lhAd",
+      "timestamp": "2026-07-12T14:01:40+0000",
+      "metrics": {
+        "views": 88,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18055113380772384",
       "text": "Udah dapet job offer di Kanada, tapi bingung gajinya cukup apa nggak buat hidup di sana?\nBiaya hidup Toronto sama Vancou",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasSuZgmzcp",
       "timestamp": "2026-07-12T12:01:41+0000",
       "metrics": {
-        "views": 207,
-        "likes": 1,
-        "replies": 6,
+        "views": 306,
+        "likes": 2,
+        "replies": 7,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 9
     },
     {
       "id": "18243174448307919",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasE_jim1ai",
       "timestamp": "2026-07-12T10:01:42+0000",
       "metrics": {
-        "views": 61,
+        "views": 69,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dar3QStFkCT",
       "timestamp": "2026-07-12T08:01:38+0000",
       "metrics": {
-        "views": 54,
+        "views": 56,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dars8BPER69",
       "timestamp": "2026-07-12T06:31:29+0000",
       "metrics": {
-        "views": 100,
+        "views": 103,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DarisOvlXsp",
       "timestamp": "2026-07-12T05:01:57+0000",
       "metrics": {
-        "views": 133,
+        "views": 136,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DarYVhYjpCP",
       "timestamp": "2026-07-12T03:31:28+0000",
       "metrics": {
-        "views": 54,
+        "views": 56,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DarODXKIPTj",
       "timestamp": "2026-07-12T02:01:38+0000",
       "metrics": {
-        "views": 124,
+        "views": 129,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DarDvShDmO0",
       "timestamp": "2026-07-12T00:31:29+0000",
       "metrics": {
-        "views": 26,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -223,29 +238,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daq5dTlGkNf",
       "timestamp": "2026-07-11T23:01:40+0000",
       "metrics": {
-        "views": 916,
-        "likes": 35,
+        "views": 1062,
+        "likes": 45,
         "replies": 6,
         "reposts": 1,
         "quotes": 0,
         "shares": 5
       },
-      "engagement": 42
-    },
-    {
-      "id": "18020005751890038",
-      "text": "80% pekerja Indonesia di Kanada yang berhasil dapat kerja dalam 6 bulan pertama punya satu kesamaan: mereka nggak nunggu",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dap7qH9m60d",
-      "timestamp": "2026-07-11T14:01:39+0000",
-      "metrics": {
-        "views": 211,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
+      "engagement": 52
     }
   ]
 }
