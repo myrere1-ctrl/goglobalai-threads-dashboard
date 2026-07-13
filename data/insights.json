@@ -1,47 +1,32 @@
 {
-  "updated_at": "2026-07-13T07:37:14.226Z",
+  "updated_at": "2026-07-13T11:28:30.142Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BZU0TQ_WyKcQ7kNvwExGM-A&_nc_oc=Adqc-PWcUKMy-l1y2o5LRAHLWJmK79IofZPXIbjVMVsonL3mqGDMc_tRIJRF4URBtZM&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Ph3SSgK7yEe6vD8bETBtsQ&_nc_tpa=Q5bMBQH0pDQq0ZpnsAjCxvmRy5SMCc4kEWe1gBstfuDRFIrNIra434Y3LVAtQ68EP54Og693nejU7DzdVg&oh=00_AQBzCSq-JDr_pdRdK4Ypgx1bsFEma4-7pUzqPDQw6ySWPg&oe=6A5A5975"
+    "picture": "https://scontent-sin6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BZU0TQ_WyKcQ7kNvwF2XMUY&_nc_oc=Adoc3Z89tidGX2-LKJuEpPOZP5uI1hV-hQytmg2XPxREHy4D8BuLxvRXigBYemrzlTA&_nc_zt=24&_nc_ht=scontent-sin6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KY914mxFkaSRW8jGrPP6og&_nc_tpa=Q5bMBQF9L5nCq0AFMfaBUsSc3ZmcHCNqi18jhmsmeykNs30N7WLGhHjooPVWITby02kM7gheka3NHaG7cg&oh=00_AQAr6j6At5gMXJo63rkXhUlJvFIPqTSFQfjsyYMbI-2Juw&oe=6A5A91B5"
   },
   "summary": {
-    "followers_count": 232,
-    "views": 98,
-    "likes": 3,
-    "replies": 1,
+    "followers_count": 233,
+    "views": 1214,
+    "likes": 18,
+    "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 267,
-    "engagement_rate": 2.49,
+    "engagement_total": 154,
+    "engagement_rate": 2.34,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18139065262512034",
-      "text": "80% kru kapal pesiar yang lolos seleksi pertama kali — modal bahasa Inggris seadanya.\nYang dinilai lebih: attitude, seny",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dao9213EVpd",
-      "timestamp": "2026-07-11T05:01:37+0000",
-      "metrics": {
-        "views": 4638,
-        "likes": 92,
-        "replies": 29,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 5
-      },
-      "engagement": 122
-    },
     {
       "id": "18601286278025959",
       "text": "Insinyur sipil, 29 tahun, kirim lamaran ke Jerman tanpa bisa bahasa Jerman sama sekali.\nDia keterima. Ternyata perusahaa",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daq5dTlGkNf",
       "timestamp": "2026-07-11T23:01:40+0000",
       "metrics": {
-        "views": 1563,
+        "views": 1616,
         "likes": 62,
         "replies": 6,
         "reposts": 1,
@@ -56,14 +41,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daty2V4Dku_",
       "timestamp": "2026-07-13T02:01:39+0000",
       "metrics": {
-        "views": 815,
-        "likes": 13,
-        "replies": 7,
+        "views": 1330,
+        "likes": 27,
+        "replies": 10,
         "reposts": 0,
         "quotes": 0,
-        "shares": 1
+        "shares": 2
       },
-      "engagement": 20
+      "engagement": 37
     },
     {
       "id": "18019862615854122",
@@ -71,46 +56,91 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DatoiDkIEUE",
       "timestamp": "2026-07-13T00:31:29+0000",
       "metrics": {
-        "views": 368,
-        "likes": 13,
+        "views": 482,
+        "likes": 14,
         "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 16
+      "engagement": 17
     },
     {
-      "id": "18088574078637750",
-      "text": "Kerja di Jepang itu beda banget kulturnya — ini yang perlu lo tahu:\n• Datang tepat waktu = datang telat. Usahain 5-10 me",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DaozibcoIp4",
-      "timestamp": "2026-07-11T03:31:27+0000",
+      "id": "18055113380772384",
+      "text": "Udah dapet job offer di Kanada, tapi bingung gajinya cukup apa nggak buat hidup di sana?\nBiaya hidup Toronto sama Vancou",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DasSuZgmzcp",
+      "timestamp": "2026-07-12T12:01:41+0000",
       "metrics": {
-        "views": 554,
-        "likes": 11,
-        "replies": 0,
-        "reposts": 1,
+        "views": 866,
+        "likes": 2,
+        "replies": 8,
+        "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 12
-    }
-  ],
-  "recent_posts": [
+      "engagement": 10
+    },
     {
       "id": "18109955290953245",
       "text": "80% pekerja Indonesia yang berhasil kerja di Korea mulai dari nol — tanpa bisa bahasa Korea sama sekali.\nYang bikin mere",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DauRvRClrV_",
       "timestamp": "2026-07-13T06:31:32+0000",
       "metrics": {
-        "views": 78,
-        "likes": 3,
+        "views": 180,
+        "likes": 5,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 5
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18382747897207138",
+      "text": "Honest opinion: bahasa Inggris lo gak harus sempurna buat kerja di Kanada.\nYang lebih penting itu confidence ngomong, bu",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Daupxt1lK7s",
+      "timestamp": "2026-07-13T10:01:35+0000",
+      "metrics": {
+        "views": 26,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17925822054146269",
+      "text": "Kerja di Jerman ekspektasi: langsung dapet kerja karena shortage tenaga kerja.\nRealita: prosesnya bisa 6–12 bulan, mulai",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DaucDO2lWu4",
+      "timestamp": "2026-07-13T08:01:39+0000",
+      "metrics": {
+        "views": 161,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18109955290953245",
+      "text": "80% pekerja Indonesia yang berhasil kerja di Korea mulai dari nol — tanpa bisa bahasa Korea sama sekali.\nYang bikin mere",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DauRvRClrV_",
+      "timestamp": "2026-07-13T06:31:32+0000",
+      "metrics": {
+        "views": 180,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
     },
     {
       "id": "18105104441031370",
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DauHcaTkbKm",
       "timestamp": "2026-07-13T05:01:35+0000",
       "metrics": {
-        "views": 28,
+        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,14 +163,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dat9I5cERfd",
       "timestamp": "2026-07-13T03:31:32+0000",
       "metrics": {
-        "views": 113,
+        "views": 134,
         "likes": 0,
-        "replies": 0,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "18089241272398810",
@@ -148,14 +178,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daty2V4Dku_",
       "timestamp": "2026-07-13T02:01:39+0000",
       "metrics": {
-        "views": 815,
-        "likes": 13,
-        "replies": 7,
+        "views": 1330,
+        "likes": 27,
+        "replies": 10,
         "reposts": 0,
         "quotes": 0,
-        "shares": 1
+        "shares": 2
       },
-      "engagement": 20
+      "engagement": 37
     },
     {
       "id": "18019862615854122",
@@ -163,14 +193,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DatoiDkIEUE",
       "timestamp": "2026-07-13T00:31:29+0000",
       "metrics": {
-        "views": 368,
-        "likes": 13,
+        "views": 482,
+        "likes": 14,
         "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 16
+      "engagement": 17
     },
     {
       "id": "18097889531223110",
@@ -178,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DateQRjgSy9",
       "timestamp": "2026-07-12T23:01:41+0000",
       "metrics": {
-        "views": 133,
+        "views": 136,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasgdF-lhAd",
       "timestamp": "2026-07-12T14:01:40+0000",
       "metrics": {
-        "views": 128,
+        "views": 130,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -208,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasSuZgmzcp",
       "timestamp": "2026-07-12T12:01:41+0000",
       "metrics": {
-        "views": 836,
+        "views": 866,
         "likes": 2,
         "replies": 8,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 10
-    },
-    {
-      "id": "18243174448307919",
-      "text": "Udah siap ngelamar kerja ke Jerman, tapi pas liat persyaratan CV-nya... kok beda banget sama format Indonesia? 😅\nDi Jer",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DasE_jim1ai",
-      "timestamp": "2026-07-12T10:01:42+0000",
-      "metrics": {
-        "views": 75,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17901388308318973",
-      "text": "Guru les privat umur 27 yang lolos kerja di Seoul — sempat nolak tawaran kerja karena takut gajinya kena potongan aneh-a",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dar3QStFkCT",
-      "timestamp": "2026-07-12T08:01:38+0000",
-      "metrics": {
-        "views": 64,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
