@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-13T00:11:12.335Z",
+  "updated_at": "2026-07-13T04:00:36.921Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BZU0TQ_WyKcQ7kNvwG6214c&_nc_oc=AdqOSH-_RlqkU8qBxZqUJJcRo8stP1_ECm4k9XNAhdN6BcZJP3er9RDlU9GXFM8rxIY&_nc_zt=24&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=osNnruBqPSosr8F2rGkqcg&_nc_tpa=Q5bMBQF0zrKvoN3F2KuTBrG83EqiwuYR8IOX_REKMcqOHyv-nnQMSLsMSCleTk9KlFs1h3bUEg-XKk8DEQ&oh=00_AQB-3sRGkc5rAtIx7ua5PkxsBFEozOfW5bO13zTMzUxNJQ&oe=6A59E8F5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BZU0TQ_WyKcQ7kNvwEZN69k&_nc_oc=AdrgSbaQ9NN877r7eBRe6zdvpGqIREltQdc4VMz_bezWxJ6_pQ7pt0tGA4XpWVBfHZA&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=EYvY_iP8zRBi0Wlgkwt5qA&_nc_tpa=Q5bMBQEgCcD2OXQysqMLwzhOmRav6tqcTIeRU2UVV2Iqzu0VPdvWDs8rNitWKhSdgIHN3MOn8wvnTTB6wg&oh=00_AQCOGHm1V-_05Rli3Yd42rHFKWdITOQIhStrUbpc5MU-Zw&oe=6A5A2135"
   },
   "summary": {
     "followers_count": 230,
-    "views": 3034,
-    "likes": 62,
-    "replies": 10,
+    "views": 3898,
+    "likes": 73,
+    "replies": 13,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 237,
-    "engagement_rate": 2.51,
+    "engagement_total": 249,
+    "engagement_rate": 2.53,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dao9213EVpd",
       "timestamp": "2026-07-11T05:01:37+0000",
       "metrics": {
-        "views": 4621,
+        "views": 4632,
         "likes": 92,
         "replies": 29,
         "reposts": 1,
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Daq5dTlGkNf",
       "timestamp": "2026-07-11T23:01:40+0000",
       "metrics": {
-        "views": 1483,
+        "views": 1527,
         "likes": 62,
         "replies": 6,
         "reposts": 1,
@@ -51,12 +51,27 @@
       "engagement": 69
     },
     {
+      "id": "18019862615854122",
+      "text": "Ekspektasi kerja di Jepang: disiplin, gaji oke, hidup rapi.\nRealita: iya semua bener — tapi kamu juga dituntut baca suas",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DatoiDkIEUE",
+      "timestamp": "2026-07-13T00:31:29+0000",
+      "metrics": {
+        "views": 180,
+        "likes": 12,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
+    },
+    {
       "id": "18088574078637750",
       "text": "Kerja di Jepang itu beda banget kulturnya — ini yang perlu lo tahu:\n• Datang tepat waktu = datang telat. Usahain 5-10 me",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DaozibcoIp4",
       "timestamp": "2026-07-11T03:31:27+0000",
       "metrics": {
-        "views": 546,
+        "views": 553,
         "likes": 11,
         "replies": 0,
         "reposts": 1,
@@ -71,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasSuZgmzcp",
       "timestamp": "2026-07-12T12:01:41+0000",
       "metrics": {
-        "views": 600,
+        "views": 719,
         "likes": 2,
         "replies": 8,
         "reposts": 0,
@@ -79,31 +94,61 @@
         "shares": 0
       },
       "engagement": 10
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18109850378068256",
+      "text": "Honest opinion: CV kamu yang \"terlalu rapi\" justru bikin recruiter Australia skip.\nDi sana, mereka lebih suka CV yang st",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dat9I5cERfd",
+      "timestamp": "2026-07-13T03:31:32+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
-      "id": "17987939756834120",
-      "text": "Dulu gue kira pindah ke Jerman itu cuma soal semangat dan nekad.\nTernyata gue stuck berminggu-minggu cuma buat ngerti An",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DanW3scIAhD",
-      "timestamp": "2026-07-10T14:01:44+0000",
+      "id": "18089241272398810",
+      "text": "80% crew kapal pesiar yang lolos seleksi pertama kali bukan dari jurusan pariwisata.\nModalnya? Bahasa Inggris aktif + 1 ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Daty2V4Dku_",
+      "timestamp": "2026-07-13T02:01:39+0000",
       "metrics": {
-        "views": 209,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 1,
+        "views": 389,
+        "likes": 5,
+        "replies": 2,
+        "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
       "engagement": 7
-    }
-  ],
-  "recent_posts": [
+    },
+    {
+      "id": "18019862615854122",
+      "text": "Ekspektasi kerja di Jepang: disiplin, gaji oke, hidup rapi.\nRealita: iya semua bener — tapi kamu juga dituntut baca suas",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DatoiDkIEUE",
+      "timestamp": "2026-07-13T00:31:29+0000",
+      "metrics": {
+        "views": 180,
+        "likes": 12,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
+    },
     {
       "id": "18097889531223110",
       "text": "Ekspektasi kerja di Kanada: langsung dapat job sesuai jurusan, gaji gede, hidup enak.\nRealita: CV-mu ga dimengerti ATS l",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DateQRjgSy9",
       "timestamp": "2026-07-12T23:01:41+0000",
       "metrics": {
-        "views": 94,
+        "views": 122,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasgdF-lhAd",
       "timestamp": "2026-07-12T14:01:40+0000",
       "metrics": {
-        "views": 120,
+        "views": 121,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasSuZgmzcp",
       "timestamp": "2026-07-12T12:01:41+0000",
       "metrics": {
-        "views": 600,
+        "views": 719,
         "likes": 2,
         "replies": 8,
         "reposts": 0,
@@ -148,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DasE_jim1ai",
       "timestamp": "2026-07-12T10:01:42+0000",
       "metrics": {
-        "views": 73,
+        "views": 74,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dar3QStFkCT",
       "timestamp": "2026-07-12T08:01:38+0000",
       "metrics": {
-        "views": 59,
+        "views": 63,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dars8BPER69",
       "timestamp": "2026-07-12T06:31:29+0000",
       "metrics": {
-        "views": 105,
+        "views": 107,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -193,52 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DarisOvlXsp",
       "timestamp": "2026-07-12T05:01:57+0000",
       "metrics": {
-        "views": 141,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18158974327467429",
-      "text": "Kerja di kapal pesiar kelihatannya seru — keliling dunia dibayar.\nTapi pas apply, kontraknya aja udah bikin pusing, apal",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DarYVhYjpCP",
-      "timestamp": "2026-07-12T03:31:28+0000",
-      "metrics": {
-        "views": 58,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17961920490135990",
-      "text": "Dulu gue pikir bisa kerja di Jepang cukup modal skill doang.\nTernyata yang bikin gue hampir gagal bukan kemampuan — tapi",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DarODXKIPTj",
-      "timestamp": "2026-07-12T02:01:38+0000",
-      "metrics": {
-        "views": 132,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17947996446228748",
-      "text": "Guru SD 29 tahun itu nangis pas tau lamarannya ke sekolah internasional di Belanda ditolak bukan karena kualifikasi — ta",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DarDvShDmO0",
-      "timestamp": "2026-07-12T00:31:29+0000",
-      "metrics": {
-        "views": 29,
+        "views": 143,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
