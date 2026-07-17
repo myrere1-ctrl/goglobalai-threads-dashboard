@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-17T22:06:22.463Z",
+  "updated_at": "2026-07-17T23:08:31.162Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwFu-wt-&_nc_oc=Adr4DYK2lv06b2eJn46raX6urLP_LlLkR07PLUN_eq6gQLR7GY-HvSIEANwzTKo_iqk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eOGZm9HTJcuthj_BfFEC6Q&_nc_tpa=Q5bMBQEBGGIGHNpBW5tscl_sA0Bah8r0Ts2G6b8OLYoSzBB07q_FT--HLsuhN68PMZUGpNcX3efYam03rw&oh=00_AQDlp7ObkSG7ElHTbMScZsMrbdbtjQ-Fd9J1LzNpykcUvg&oe=6A608075"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwGUIhfD&_nc_oc=Adpv87cNAiV-vr4DN92HEmm3VBMdfoh15gZifXOmV8j2utgmW0-IrrMQK3bS3g6LFK0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ME3SoqsgACK0ONnwMA7Cnw&_nc_tpa=Q5bMBQHX1p9gixNl2BUNqgTitzVB_DK6SgmADrdwYdCowuqfNHHBhim4duzSvDD6XjF9sQubUNmVembm6w&oh=00_AQA1jypV8NnAVGZUfYRdHkjzlXuS2Yf3rdHXIqfF3ZCWJg&oe=6A608075"
   },
   "summary": {
     "followers_count": 274,
-    "views": 751,
+    "views": 759,
     "likes": 10,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 58,
-    "engagement_rate": 1.55,
+    "engagement_total": 56,
+    "engagement_rate": 1.57,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,6 +98,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17979174750102777",
+      "text": "Honest opinion: kerja remote buat perusahaan luar itu bukan soal skill — kebanyakan gagal di step paling awal.\nCV lo kel",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Da6WMwMn4gm",
+      "timestamp": "2026-07-17T23:01:26+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18097582349263996",
       "text": "Di Korea, nama jabatan lo di CV itu dinilai serius banget — bahwa \"staff\" dan \"officer\" beda kelas di mata HR sana.\nBany",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da5YZ1vGyHm",
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da4k4_ylpRb",
       "timestamp": "2026-07-17T06:31:18+0000",
       "metrics": {
-        "views": 95,
+        "views": 96,
         "likes": 1,
         "replies": 0,
         "reposts": 1,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18001247063778545",
-      "text": "Dulu gue ngirim CV ke 12 perusahaan di Australia, nggak ada yang bales.\nTernyata format CV gue sama sekali nggak sesuai ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Da3xZ_SASRp",
-      "timestamp": "2026-07-16T23:01:26+0000",
-      "metrics": {
-        "views": 180,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
