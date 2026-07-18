@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-18T21:06:24.969Z",
+  "updated_at": "2026-07-18T22:07:24.561Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwHMMb_Q&_nc_oc=AdrlrTXQwGUNSddj7WjF4prSHxwMFKfJauuaflcm2nffAGVnsmRWL8ozS7Q8UYW2pf4&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_El3bCdhF8b3YP8_5aZMQg&_nc_tpa=Q5bMBQEOevJM_sfD-6aUtAil3X90nvwr3oq1J41fqgKsVN3BaxaO9Wjo8b4QBwNARBnmXdrIdFErH7cSZg&oh=00_AQDGnMxy2Z8VnBVZP7ncOLioCeE5k4RTwDXA6roDOwY55A&oe=6A61D1F5"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwEmBSHy&_nc_oc=AdqdO1driSO75_fV4Oz30rvhkDjf7MZbHqnwpGAEypjRoz_SjSji5wXooDa59mVyuiY&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9hXmFl5s2bH5Uy1Qc8dB6A&_nc_tpa=Q5bMBQHbJdrxYKZm8ZbGPpXzb45JGeXMi2C4WQuMVt78tWfzOYA0Asbccli_E82KokXXbrYpfgJNjWOq7w&oh=00_AQAiENsLTWNVK8vqpd6xvh5ep_AV8jOQYfAKU_WUbvvkag&oe=6A61D1F5"
   },
   "summary": {
     "followers_count": 275,
-    "views": 650,
-    "likes": 8,
+    "views": 672,
+    "likes": 9,
     "replies": 4,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 63,
-    "engagement_rate": 1.94,
+    "engagement_total": 65,
+    "engagement_rate": 1.99,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da6ge_bnZ4I",
       "timestamp": "2026-07-18T00:31:17+0000",
       "metrics": {
-        "views": 582,
-        "likes": 13,
+        "views": 591,
+        "likes": 14,
         "replies": 4,
         "reposts": 2,
         "quotes": 0,
         "shares": 3
       },
-      "engagement": 19
+      "engagement": 20
     },
     {
       "id": "18012431942729071",
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da61FREIBcV",
       "timestamp": "2026-07-18T03:31:17+0000",
       "metrics": {
-        "views": 276,
+        "views": 279,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -103,14 +103,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da79MfdFhgD",
       "timestamp": "2026-07-18T14:01:25+0000",
       "metrics": {
-        "views": 139,
-        "likes": 1,
+        "views": 142,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18108602956963513",
@@ -208,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da61FREIBcV",
       "timestamp": "2026-07-18T03:31:17+0000",
       "metrics": {
-        "views": 276,
+        "views": 279,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -238,14 +238,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da6ge_bnZ4I",
       "timestamp": "2026-07-18T00:31:17+0000",
       "metrics": {
-        "views": 582,
-        "likes": 13,
+        "views": 591,
+        "likes": 14,
         "replies": 4,
         "reposts": 2,
         "quotes": 0,
         "shares": 3
       },
-      "engagement": 19
+      "engagement": 20
     }
   ]
 }
