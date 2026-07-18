@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-18T06:18:32.241Z",
+  "updated_at": "2026-07-18T08:58:20.374Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwFr5Z_r&_nc_oc=AdpWQWj34GTvStcZZLAv9YKjl2nBlv34ta_3dY4b1VJaEGJlz-S5I9qEgd9Se6kvRV4&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=o22GE2-ZtW-mVWmTFPLG4g&_nc_tpa=Q5bMBQHWsy3gEwlTh5Ee4s5Us-F04vVejXG7GZs3QuczCGV4tF9Se4bDuqSHpFLVNlXhRhnhoFGv4Mv3DQ&oh=00_AQAhpVZEtjsMH1TYS19wxcczYyNOLlyLE8Fy8Lgwy2nOGg&oe=6A60F0F5"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwEh8EYg&_nc_oc=AdonOTEchhy6og5nkTz2Fto2Kld9JBZ2chIWDJGzGmQdr1T8h5tfrTRLrdvG8u05N6I&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oNb7AbBD7Yl3Ss12PNTqfw&_nc_tpa=Q5bMBQEiU-ykZO6_f2la1oqKfq3AKBNh26ecG9UzCFfTkjfsvGHRrFIOgGJotxkg7N0s4YeW9S9rbcBAbA&oh=00_AQAQfYgEbhMVnIhbujNieq1yLlE-A8DvogkiLuP_MOVUjQ&oe=6A612935"
   },
   "summary": {
     "followers_count": 275,
-    "views": 1589,
-    "likes": 26,
-    "replies": 1,
-    "reposts": 2,
+    "views": 101,
+    "likes": 1,
+    "replies": 4,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 69,
-    "engagement_rate": 1.78,
+    "engagement_total": 75,
+    "engagement_rate": 1.93,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,12 +36,27 @@
       "engagement": 16
     },
     {
+      "id": "17889800211405982",
+      "text": "Dulu gue kira Jerman itu butuh German sempurna buat bisa kerja di sana.\nTernyata salah besar — banyak perusahaan tech di",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Da6ge_bnZ4I",
+      "timestamp": "2026-07-18T00:31:17+0000",
+      "metrics": {
+        "views": 424,
+        "likes": 7,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 2
+      },
+      "engagement": 12
+    },
+    {
       "id": "18012431942729071",
       "text": "Dulu gue apply kapal pesiar cuma modal nekat, CV asal jadi, bahasa Inggris pas-pasan.\nDitolak 3 kali berturut-turut, ga ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da4vNGyFq8V",
       "timestamp": "2026-07-17T08:01:26+0000",
       "metrics": {
-        "views": 318,
+        "views": 325,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -51,19 +66,19 @@
       "engagement": 9
     },
     {
-      "id": "17889800211405982",
-      "text": "Dulu gue kira Jerman itu butuh German sempurna buat bisa kerja di sana.\nTernyata salah besar — banyak perusahaan tech di",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Da6ge_bnZ4I",
-      "timestamp": "2026-07-18T00:31:17+0000",
+      "id": "18067966754461892",
+      "text": "Kerja di Eropa itu beda vibes-nya:\n• CV harus 1-2 halaman, bukan 5 lembar riwayat hidup kayak skripsi\n• Interview sering",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Da61FREIBcV",
+      "timestamp": "2026-07-18T03:31:17+0000",
       "metrics": {
-        "views": 352,
+        "views": 237,
         "likes": 7,
         "replies": 0,
-        "reposts": 1,
+        "reposts": 0,
         "quotes": 0,
-        "shares": 2
+        "shares": 0
       },
-      "engagement": 8
+      "engagement": 7
     },
     {
       "id": "17991150317822793",
@@ -79,31 +94,46 @@
         "shares": 0
       },
       "engagement": 7
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18067966754461892",
-      "text": "Kerja di Eropa itu beda vibes-nya:\n• CV harus 1-2 halaman, bukan 5 lembar riwayat hidup kayak skripsi\n• Interview sering",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Da61FREIBcV",
-      "timestamp": "2026-07-18T03:31:17+0000",
+      "id": "18160459639481371",
+      "text": "Di Australia, referral dari rekan kerja jauh lebih kuat dari CV sempurna.\nBanyak posisi bahkan ga dipublish — diisi lewa",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Da7T-1BlnzQ",
+      "timestamp": "2026-07-18T08:01:17+0000",
       "metrics": {
-        "views": 215,
-        "likes": 6,
+        "views": 19,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
+    {
+      "id": "18386854144201861",
+      "text": "Honest opinion: kerja di kapal pesiar itu bukan pelarian — itu akselerasi karir.\nDalam 1 tahun, lo bisa punya pengalaman",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Da7JsMIIGkU",
+      "timestamp": "2026-07-18T06:31:21+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18601573894010002",
       "text": "Myth: kerja di Jepang itu butuh Bahasa Jepang yang sempurna dulu.\nFaktanya banyak perusahaan di Tokyo sekarang punya tim",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da6_YXMoIh4",
       "timestamp": "2026-07-18T05:01:15+0000",
       "metrics": {
-        "views": 43,
+        "views": 61,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da62yQRm1V2",
       "timestamp": "2026-07-18T03:46:09+0000",
       "metrics": {
-        "views": 76,
+        "views": 85,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -133,14 +163,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da61FREIBcV",
       "timestamp": "2026-07-18T03:31:17+0000",
       "metrics": {
-        "views": 215,
-        "likes": 6,
+        "views": 237,
+        "likes": 7,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 7
     },
     {
       "id": "18107600966094475",
@@ -163,14 +193,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da6ge_bnZ4I",
       "timestamp": "2026-07-18T00:31:17+0000",
       "metrics": {
-        "views": 352,
+        "views": 424,
         "likes": 7,
-        "replies": 0,
+        "replies": 4,
         "reposts": 1,
         "quotes": 0,
         "shares": 2
       },
-      "engagement": 8
+      "engagement": 12
     },
     {
       "id": "17979174750102777",
@@ -208,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da5Kq3mIM2q",
       "timestamp": "2026-07-17T12:01:25+0000",
       "metrics": {
-        "views": 44,
+        "views": 45,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18211032700351952",
-      "text": "1 dari 3 orang Indonesia yang kerja di Australia awalnya ditolak visa bukan karena kualifikasi — tapi karena dokumen yan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Da487sgIA2V",
-      "timestamp": "2026-07-17T10:01:24+0000",
-      "metrics": {
-        "views": 91,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18012431942729071",
-      "text": "Dulu gue apply kapal pesiar cuma modal nekat, CV asal jadi, bahasa Inggris pas-pasan.\nDitolak 3 kali berturut-turut, ga ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Da4vNGyFq8V",
-      "timestamp": "2026-07-17T08:01:26+0000",
-      "metrics": {
-        "views": 318,
-        "likes": 9,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 9
     }
   ]
 }
