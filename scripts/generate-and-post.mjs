@@ -8,7 +8,23 @@ const SLOTS = [
   '13.30', '15.00', '17.00', '19.00', '21.00',
 ];
 
-const COUNTRIES = ['Jepang', 'Kapal Pesiar', 'Australia', 'Remote', 'Korea', 'Jerman', 'Kanada', 'Eropa'];
+const COUNTRIES = [
+  'Jepang', 'Kapal Pesiar', 'Australia', 'Remote', 'Korea', 'Jerman', 'Kanada', 'Eropa',
+  'Belanda', 'Polandia', 'Irlandia', 'Kazakhstan',
+];
+
+// Grounding konteks per negara (biar AI ga ngarang, terutama negara niche).
+// Cuma diisi untuk negara yang perlu grounding; sisanya AI sudah punya konteks cukup.
+const COUNTRY_CONTEXT = {
+  Belanda:
+    'Peluang WNI di Belanda: tech/IT (banyak perusahaan pakai bahasa Inggris, ga wajib bahasa Belanda), healthcare/perawat, hospitality, logistik pelabuhan Rotterdam. Highly Skilled Migrant visa populer. Work-life balance bagus.',
+  Polandia:
+    'Peluang WNI di Polandia: manufaktur, logistik/warehouse, konstruksi, IT outsourcing. Gerbang masuk EU dengan biaya hidup lebih murah dari Eropa Barat. Work permit + visa Type D. Banyak pekerja Asia Tenggara di sana.',
+  Irlandia:
+    'Peluang WNI di Irlandia: tech (HQ Google/Meta/LinkedIn di Dublin), healthcare/perawat, pharma, hospitality. Full bahasa Inggris. Critical Skills Employment Permit untuk skilled worker. Komunitas internasional besar.',
+  Kazakhstan:
+    'Peluang WNI di Kazakhstan (BUKAN cuma mining): konstruksi & infrastruktur di Almaty/Astana, oil & gas technician, skilled professional. Gaji kisaran Rp11-48jt tergantung sektor. Work permit via sponsor employer (kuota tenaga asing). Tantangan: bahasa Rusia/Kazakh, cuaca ekstrem musim dingin.',
+};
 
 const DAILY_TYPES = ['pain', 'tips', 'story', 'hook', 'promo', 'pain', 'tips'];
 
@@ -32,11 +48,13 @@ function pickContent({ slot }) {
   const now = new Date();
   const dayIndex = Math.floor(now.getTime() / 86400000);
   const dow = now.getUTCDay();
+  const country = COUNTRIES[(dayIndex + slot) % COUNTRIES.length];
   return {
     type: DAILY_TYPES[dow],
-    country: COUNTRIES[(dayIndex + slot) % COUNTRIES.length],
+    country,
     tone: TONES[slot % TONES.length],
     note: '',
+    countryContext: COUNTRY_CONTEXT[country] || '',
   };
 }
 

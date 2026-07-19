@@ -69,7 +69,10 @@ function pickAngle() {
   return ANGLES[Math.floor(Math.random() * ANGLES.length)];
 }
 
-export function buildPrompt({ type, country, tone, note, angle = pickAngle() }) {
+export function buildPrompt({ type, country, tone, note, countryContext = '', angle = pickAngle() }) {
+  const contextBlock = countryContext
+    ? `\nKONTEKS NEGARA (grounding — HANYA pakai fakta dari sini soal ${country}, JANGAN ngarang di luar ini):\n${countryContext}\n`
+    : '';
   return `Kamu content creator Threads untuk GoGlobal AI, app untuk orang Indonesia yang mau kerja di luar negeri.
 
 Buat 1 post Threads Bahasa Indonesia:
@@ -77,6 +80,7 @@ Buat 1 post Threads Bahasa Indonesia:
 - Negara/destinasi: ${country}
 - Tone: ${TONE_LABEL[tone] || tone}
 - Catatan: ${note || '-'}
+${contextBlock}
 
 ANGLE WAJIB (ini paling penting — jangan default ke formula umum):
 **${angle.name}** — ${angle.instruction}
@@ -153,7 +157,7 @@ async function callClaude({ apiKey, prompt }) {
   return data.content?.[0]?.text || '';
 }
 
-export async function generatePost({ apiKey, type, country, tone, note }) {
+export async function generatePost({ apiKey, type, country, tone, note, countryContext = '' }) {
   const angle = pickAngle();
   let lastFull = '';
   let attempt = 0;
@@ -163,7 +167,7 @@ export async function generatePost({ apiKey, type, country, tone, note }) {
     const shortenNote = attempt > 1
       ? `${note ? note + ' ' : ''}[RETRY ${attempt}: post sebelumnya ${lastFull.length} karakter — LEBIH PENDEK, max 400 total]`
       : note;
-    const prompt = buildPrompt({ type, country, tone, note: shortenNote, angle });
+    const prompt = buildPrompt({ type, country, tone, note: shortenNote, countryContext, angle });
     const raw = await callClaude({ apiKey, prompt });
     const { teks, cta } = parseResponse(raw);
     const text = teks.replace(/\|/g, '\n');
