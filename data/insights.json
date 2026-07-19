@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-19T06:42:57.984Z",
+  "updated_at": "2026-07-19T09:16:24.647Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwHYdDMA&_nc_oc=AdqcsfcPX1Cuw3n1dI_z0xZDm6YwP6hHYmUJiKJJHo-IgAF2kGGDMT-nKQteWl-fT94&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vfINakqJ-4m6tgI90T4Lbw&_nc_tpa=Q5bMBQEWAR4FCALDYfdLxJCnalC8SNeEt9lIPcsapner1DzqP1lDeobKsOca7Leq40o-2QWMLdOEhSHn8w&oh=00_AQBz1_glh-aoelydMdmAmZgHnB3pqT9rsJG5QbxilMvFPA&oe=6A624275"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=giholyEz3fsQ7kNvwEuIQcE&_nc_oc=AdoRLbYw0pO5AfGQ0n47GcGSYGd8ZRPOydNXsm2FuD2Nhh2bi6AlfsoDTAWjfUOa3Y0&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nBhzJ1AsZFyMBiaRwiHnEQ&_nc_tpa=Q5bMBQEkG3W299IjUNX61kz2gom-BIuBnq7fXgs-LFBR4s3ZLq_mwWy17M0NE4ZlGKXNlS8Y3xkPRMEudQ&oh=00_AQCvAMY5GioB72rEfoQNuIVqA7SWEz26bCAuVgHWHS5u0g&oe=6A627AB5"
   },
   "summary": {
     "followers_count": 275,
-    "views": 1253,
-    "likes": 17,
-    "replies": 4,
-    "reposts": 2,
+    "views": 48,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 58,
-    "engagement_rate": 2.05,
+    "engagement_rate": 2.06,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da9Z4LQDkCZ",
       "timestamp": "2026-07-19T03:31:17+0000",
       "metrics": {
-        "views": 210,
+        "views": 222,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17898774756514914",
+      "text": "Myth: kerja remote = bebas, bisa dari mana aja, gaji dolar.\nReality-nya? Banyak perusahaan luar tetap require domisili n",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Da94xzAGyKn",
+      "timestamp": "2026-07-19T08:01:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17972715195084383",
       "text": "Kepikiran gak sih, udah niat banget mau kerja di Australia — tapi bingung mulai dari mana?\nVisa yang mana, gaji yang waj",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da9ueJBlrFR",
       "timestamp": "2026-07-19T06:31:13+0000",
       "metrics": {
-        "views": 0,
+        "views": 35,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da9kLXLgI_D",
       "timestamp": "2026-07-19T05:01:16+0000",
       "metrics": {
-        "views": 5,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da9Z4LQDkCZ",
       "timestamp": "2026-07-19T03:31:17+0000",
       "metrics": {
-        "views": 210,
+        "views": 222,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da9PlZ-IL54",
       "timestamp": "2026-07-19T02:01:20+0000",
       "metrics": {
-        "views": 171,
+        "views": 185,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18160459639481371",
-      "text": "Di Australia, referral dari rekan kerja jauh lebih kuat dari CV sempurna.\nBanyak posisi bahkan ga dipublish — diisi lewa",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Da7T-1BlnzQ",
-      "timestamp": "2026-07-18T08:01:17+0000",
-      "metrics": {
-        "views": 50,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
