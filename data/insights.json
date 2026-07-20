@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-20T11:12:36.859Z",
+  "updated_at": "2026-07-20T13:18:09.044Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwGLmWBC&_nc_oc=AdoMmwZLNHFTDQWKcFJ4tSze-_w_cIeCwDRWy9jGEC9e2efkos94VD5Q53gRLiY0G7w&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IeQYpQotnMblEH006ke1NQ&_nc_tpa=Q5bMBQGwzcOde4mu2U4TLGdOBC4rNlj6k1myh8jjol25yWcjz_9kKOIbwaP997sZScMwSYSp18zc-uZLgQ&oh=00_AQD2dOCp91Evjn4V7_i2aAYycozCuZO4_6fgqGBc1HUZyw&oe=6A63CC35"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwEM29c6&_nc_oc=Adr0mlDAFOgpAav2eIIBfwxiFhQ06Wj4fPX66c2DA-niKovNCq6vm_7rahIZRxdqm-0&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IemBzDAizY-gL4uc7_GjCA&_nc_tpa=Q5bMBQFACdeQrgzCU4XUHksP-itGjaLyVfs4tsTgSbNYq7Fd_b1nTN3FbjSMKeuvwjV-_otqbKwFxOaaPQ&oh=00_AQCuo0iRk85_9hW7hubt3xoveAXXGLmmoRUrxCpex73d6A&oe=6A640475"
   },
   "summary": {
-    "followers_count": 277,
-    "views": 1047,
-    "likes": 25,
-    "replies": 3,
+    "followers_count": 278,
+    "views": 2327,
+    "likes": 36,
+    "replies": 7,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 54,
-    "engagement_rate": 2.12,
+    "engagement_total": 73,
+    "engagement_rate": 2.05,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbAdknCm536",
       "timestamp": "2026-07-20T08:01:17+0000",
       "metrics": {
-        "views": 649,
-        "likes": 17,
-        "replies": 2,
+        "views": 1006,
+        "likes": 19,
+        "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 19
+      "engagement": 24
     },
     {
       "id": "17998970840977028",
@@ -41,14 +41,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbArTikIHjw",
       "timestamp": "2026-07-20T10:01:16+0000",
       "metrics": {
-        "views": 221,
-        "likes": 6,
-        "replies": 1,
+        "views": 897,
+        "likes": 18,
+        "replies": 4,
         "reposts": 1,
         "quotes": 0,
-        "shares": 2
+        "shares": 3
       },
-      "engagement": 8
+      "engagement": 23
     },
     {
       "id": "18122079097773996",
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbATQdnFa1w",
       "timestamp": "2026-07-20T06:31:09+0000",
       "metrics": {
-        "views": 156,
+        "views": 161,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da9Z4LQDkCZ",
       "timestamp": "2026-07-19T03:31:17+0000",
       "metrics": {
-        "views": 270,
+        "views": 271,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da9PlZ-IL54",
       "timestamp": "2026-07-19T02:01:20+0000",
       "metrics": {
-        "views": 212,
+        "views": 213,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -98,19 +98,34 @@
   ],
   "recent_posts": [
     {
+      "id": "18225735553324010",
+      "text": "Ekspektasi kerja di Irlandia: pasti susah bersaing sama kandidat lokal.\nRealita: Dublin itu hub global — Google, Meta, L",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbA5C5bm6rv",
+      "timestamp": "2026-07-20T12:01:21+0000",
+      "metrics": {
+        "views": 25,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17998970840977028",
       "text": "Polandia itu underrated banget buat WNI yang mau nyobain Eropa.\nBiaya hidup lebih murah, tapi tetep dalam EU. Masuknya p",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbArTikIHjw",
       "timestamp": "2026-07-20T10:01:16+0000",
       "metrics": {
-        "views": 221,
-        "likes": 6,
-        "replies": 1,
+        "views": 897,
+        "likes": 18,
+        "replies": 4,
         "reposts": 1,
         "quotes": 0,
-        "shares": 2
+        "shares": 3
       },
-      "engagement": 8
+      "engagement": 23
     },
     {
       "id": "18071318336440390",
@@ -118,14 +133,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbAdknCm536",
       "timestamp": "2026-07-20T08:01:17+0000",
       "metrics": {
-        "views": 649,
-        "likes": 17,
-        "replies": 2,
+        "views": 1006,
+        "likes": 19,
+        "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 19
+      "engagement": 24
     },
     {
       "id": "18122079097773996",
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbATQdnFa1w",
       "timestamp": "2026-07-20T06:31:09+0000",
       "metrics": {
-        "views": 156,
+        "views": 161,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbAJDifnO-I",
       "timestamp": "2026-07-20T05:02:00+0000",
       "metrics": {
-        "views": 103,
+        "views": 110,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da_-rJpoHaH",
       "timestamp": "2026-07-20T03:31:23+0000",
       "metrics": {
-        "views": 84,
+        "views": 87,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da_0YJ8Ghdh",
       "timestamp": "2026-07-20T02:01:19+0000",
       "metrics": {
-        "views": 36,
+        "views": 41,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da_qFowkXji",
       "timestamp": "2026-07-20T00:31:24+0000",
       "metrics": {
-        "views": 20,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da_fxX1mBN4",
       "timestamp": "2026-07-19T23:01:15+0000",
       "metrics": {
-        "views": 26,
+        "views": 27,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -223,22 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Da-h-0NlRJG",
       "timestamp": "2026-07-19T14:01:20+0000",
       "metrics": {
-        "views": 71,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17981978169020528",
-      "text": "Honest opinion: bukan bahasa Jerman yang jadi penghalang utama kerja di Jerman.\nYang paling sering bikin stuck itu malah",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Da-UQDxjcbB",
-      "timestamp": "2026-07-19T12:01:21+0000",
-      "metrics": {
-        "views": 25,
+        "views": 72,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
