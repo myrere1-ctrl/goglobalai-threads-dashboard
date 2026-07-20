@@ -26,7 +26,7 @@ const ANGLES = [
   {
     name: 'myth_busting',
     instruction:
-      'Mulai dengan kalimat "katanya..." atau "myth:" yang debunk anggapan umum. Lalu kasih reality yang lebih nuanced. Hindari kata "padahal" yang sudah klise.',
+      'Mulai dengan "katanya..." atau "myth:" yang debunk anggapan tentang PROSES/PENGALAMAN (cara nyiapin diri, mindset), BUKAN klaim fakta absolut soal kondisi pasar kerja terkini. HINDARI klaim time-sensitive yang gampang dibantah (mis. "100% pakai bahasa Inggris", "gampang masuknya"). Kalau nyebut fakta, kasih nuance + konteks. Reality-nya boleh mengarah ke "yang bikin beda itu PERSIAPAN kamu".',
   },
   {
     name: 'hook_question',
@@ -73,7 +73,11 @@ export function buildPrompt({ type, country, tone, note, countryContext = '', an
   const contextBlock = countryContext
     ? `\nKONTEKS NEGARA (grounding — HANYA pakai fakta dari sini soal ${country}, JANGAN ngarang di luar ini):\n${countryContext}\n`
     : '';
-  return `Kamu content creator Threads untuk GoGlobal AI, app untuk orang Indonesia yang mau kerja di luar negeri.
+  return `Kamu content creator Threads untuk GoGlobal AI.
+
+POSITIONING PENTING (baca dulu):
+GoGlobal AI itu APP/TOOL yang bantu orang Indonesia NYIAPIN DIRI buat kerja di luar negeri (bikin CV lolos standar sana, latihan interview, cek gaji real, cek visa, deteksi scam lowongan). GoGlobal AI BUKAN agen penyalur kerja — TIDAK nyalurin lowongan.
+Konten harus bikin orang mikir "aku harus NYIAPIN DIRI", BUKAN "mana lowongannya, salurin aku". HINDARI framing "ada lowongan X gaji Y" yang bikin orang ngira kamu penyalur kerja. Fokus ke PERSIAPAN, skill gap, dan cara bikin diri layak — bukan janji kerjaan.
 
 Buat 1 post Threads Bahasa Indonesia:
 - Tipe: ${TYPE_LABEL[type] || type}
@@ -90,10 +94,11 @@ Format:
 - Bahasa santai seperti ngobrol sama teman
 - JANGAN pakai pembukaan klise seperti "Banyak yang...", "Tau gak...", "Pernah ga..."
 - JANGAN pakai kata menakutkan atau terlalu jualan
+- HINDARI klaim fakta absolut yang time-sensitive (mis. "100% pakai bahasa Inggris", "gampang masuk", "pasti diterima"). Kalau nyebut fakta, kasih nuance/konteks — jangan hitam-putih yang gampang dibantah.
 - Akhiri dengan CTA ngegantung natural (variasi: "mau cerita?", "pernah ngerasain?", "lanjut?", "ada yang relate?", "gimana menurut lo?", "share dong pengalaman lo?")
 - BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter (Threads limit 500, buffer 50). Jangan overshoot. Kalau ide panjang, potong. Punchy > verbose.
 
-GoGlobal AI info: App PWA karir internasional. Gratis: Explore, Chat AI, Visa, Gaji, Scam Detector. Pro Rp299rb: CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap. SEBUTKAN brand HANYA jika natural fit (tidak forced).
+JANGAN sebut nama brand "GoGlobal AI" dan JANGAN taruh link apapun di post ini. Link + CTA ke app ditaruh di REPLY terpisah (otomatis). Post ini murni VALUE/cerita/insight biar reach-nya maksimal.
 
 PENTING - format output WAJIB persis seperti ini (pakai tag, BUKAN JSON):
 <teks>baris1|baris2|baris3</teks>

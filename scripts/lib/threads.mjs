@@ -22,12 +22,14 @@ async function getJson(url) {
   return body;
 }
 
-export async function createContainer({ userId, token, text }) {
-  return postForm(`${BASE}/${userId}/threads`, {
+export async function createContainer({ userId, token, text, replyToId }) {
+  const params = {
     media_type: 'TEXT',
     text,
     access_token: token,
-  });
+  };
+  if (replyToId) params.reply_to_id = replyToId;
+  return postForm(`${BASE}/${userId}/threads`, params);
 }
 
 export async function publishContainer({ userId, token, creationId }) {
@@ -49,6 +51,23 @@ export async function postThread({ userId, token, text, waitMs = 30000 }) {
     creationId: container.id,
   });
   if (!published.id) throw new Error('No published id: ' + JSON.stringify(published));
+  return published.id;
+}
+
+// Balas ke thread yang sudah dipublish (buat naruh CTA + link di reply,
+// biar post utama tetap bersih dari link = reach lebih tinggi).
+export async function postReply({ userId, token, text, replyToId, waitMs = 30000 }) {
+  const container = await createContainer({ userId, token, text, replyToId });
+  if (!container.id) throw new Error('No reply container id: ' + JSON.stringify(container));
+
+  await new Promise((r) => setTimeout(r, waitMs));
+
+  const published = await publishContainer({
+    userId,
+    token,
+    creationId: container.id,
+  });
+  if (!published.id) throw new Error('No reply published id: ' + JSON.stringify(published));
   return published.id;
 }
 
