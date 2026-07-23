@@ -1,47 +1,32 @@
 {
-  "updated_at": "2026-07-22T22:16:04.971Z",
+  "updated_at": "2026-07-23T00:13:10.821Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya? Dulu&Sekarang",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwFW7-lT&_nc_oc=AdrVbtrfZerOuCCa1WaIHG-kt5Y6JAbh0oCTvp4Q41seoVD4QZzv4hfFMGgJKXtXNj0&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ByQg5KE9iiVW-6EDaSJAbA&_nc_tpa=Q5bMBQGrWiVEwwu6FtsjJO85WkLOBe3eHj6CMDC9_8dLzs_2mQWjoY_WIfp-lUmqB2YXGDbxBpBd1PiPdQ&oh=00_AQCsQ2A_ObKI_4R43zxLjzrEF-_UVwJtC4QIVYpe0eOYFA&oe=6A6717F5"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwEcc378&_nc_oc=AdofboNwjOs9ghyz30FWMMdXZrrtWxNqD3uWRt4VtjBcpMvQRs2bbXxHfsMhOAin8HI&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=cF7Fhab2-FrwEj7Yxn56ZA&_nc_tpa=Q5bMBQE00g5RsAlctdCQJLqnr1m91e0HNx-gHztNOg1sqF40Zi089PUjyzySYq5w-NLrI9FG0CmYnISnMA&oh=00_AQBmxlO4XC_YppTJcvs3Ey5pHrQ6Cd7IS8vHxrMt8w9vJg&oe=6A6717F5"
   },
   "summary": {
     "followers_count": 287,
-    "views": 614,
+    "views": 650,
     "likes": 0,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 345,
-    "engagement_rate": 3.37,
+    "engagement_total": 72,
+    "engagement_rate": 2.38,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17998970840977028",
-      "text": "Polandia itu underrated banget buat WNI yang mau nyobain Eropa.\nBiaya hidup lebih murah, tapi tetep dalam EU. Masuknya p",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbArTikIHjw",
-      "timestamp": "2026-07-20T10:01:16+0000",
-      "metrics": {
-        "views": 7228,
-        "likes": 235,
-        "replies": 31,
-        "reposts": 8,
-        "quotes": 0,
-        "shares": 16
-      },
-      "engagement": 274
-    },
     {
       "id": "18106417487034976",
       "text": "Pernah niat apply kerja di Kanada tapi nyerah duluan waktu liat syaratnya — \"skill assessment\", \"Express Entry\", LinkedI",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbCVbO6kT7Q",
       "timestamp": "2026-07-21T01:28:35+0000",
       "metrics": {
-        "views": 214,
+        "views": 215,
         "likes": 9,
         "replies": 3,
         "reposts": 0,
@@ -94,16 +79,46 @@
         "shares": 0
       },
       "engagement": 8
+    },
+    {
+      "id": "17870375718566051",
+      "text": "Perawat 29 tahun yang CV-nya rapi banget — eh ditolak Express Entry Kanada karena format CV-nya masih gaya Indonesia 😭\n",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbFIPfhkYlq",
+      "timestamp": "2026-07-22T03:31:06+0000",
+      "metrics": {
+        "views": 83,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "17948014602233579",
+      "text": "Operator pabrik 28 tahun yang baru balik dari Korea bilang sesuatu yang bikin gue kaget:\n\"Gue gagal 2x bukan karena skil",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbHOJlKFRhv",
+      "timestamp": "2026-07-22T23:01:12+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17961536892151660",
       "text": "Ekspektasi kerja di Korea: tinggal daftar, langsung berangkat.\nRealitanya: ada ujian bahasa Korea dulu (EPS-TOPIK), doku",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbGQWoOlbif",
       "timestamp": "2026-07-22T14:01:13+0000",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbGCoAeHEOE",
       "timestamp": "2026-07-22T12:01:16+0000",
       "metrics": {
-        "views": 61,
+        "views": 62,
         "likes": 0,
         "replies": 1,
         "reposts": 1,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbFSjVPkUcK",
       "timestamp": "2026-07-22T05:01:11+0000",
       "metrics": {
-        "views": 52,
+        "views": 54,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18122594050751959",
-      "text": "Di Australia, CV yang \"biasa aja\" buat standar Indonesia bisa langsung dibuang tanpa dibaca.\nBukan karena skill lo kuran",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbEzpIkGap1",
-      "timestamp": "2026-07-22T00:31:06+0000",
-      "metrics": {
-        "views": 71,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
