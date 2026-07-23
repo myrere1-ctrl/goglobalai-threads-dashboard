@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-23T03:47:27.853Z",
+  "updated_at": "2026-07-23T06:40:02.386Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya? Dulu&Sekarang",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwFZx9l8&_nc_oc=AdpQumfx_M3IpGAvqwbhXiOxYvTDYSr1Bj0lDrxsag03DeXRJCT-9aNr9A1Jv-TPkqc&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nA5m-4FW5uv3qu4AyK2BNg&_nc_tpa=Q5bMBQH_dloIXeDGD7tBAOU_8gnsmcXBNzh-kgLVNIMS0r2_h2YJKnDbPB8WO4mC1SyIGbkosFSswAlYvA&oh=00_AQAjrdDPE5T2x0eslhu3vyDXORWdciwioIDnsxqP-icXmA&oe=6A675035"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwHtyr4Q&_nc_oc=Ado3I7ar4I6g2ApsikJ8KPt75ulsrNrfmvpXKdJDfM8Er_19zhtarUkjF3jSIG4PH3k&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KmopQrvYsovGQWJWUJp09w&_nc_tpa=Q5bMBQHAEYptd8uGotmO2Jvq2979Ok9dO_xZ6uXr_N7MPzHXnszmBQ7yWvm0fQ1bCaow-6TjpSJVS1Jtgw&oh=00_AQA1Q1DQyi_yJJ6YKspGV9iqxeu-GlYoJ0qw4Nmpf6LPRw&oe=6A678875"
   },
   "summary": {
     "followers_count": 287,
-    "views": 719,
+    "views": 811,
     "likes": 1,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 64,
-    "engagement_rate": 2.87,
+    "engagement_total": 66,
+    "engagement_rate": 2.96,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18072103496703270",
+      "text": "Hal yang jarang disadari soal kerja remote bergaji USD:\nCV kamu harus \"bisa dibaca\" algoritma hiring tools yang mereka p",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbIBowGFp7i",
+      "timestamp": "2026-07-23T06:31:05+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18124968904775883",
+      "text": "Guru Bahasa Inggris, 27 tahun, ngirim lamaran ke program exchange di AS udah 3x.\nDitolak terus — bukan karena kemampuann",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbH3Wp-IBl0",
+      "timestamp": "2026-07-23T05:01:15+0000",
+      "metrics": {
+        "views": 11,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18079768412303686",
       "text": "Perawat 29 tahun yang CV-nya ditolak 7 kali di NHS — ternyata bukan soal skillnya kurang.\nFormat CV-nya masih ala Indone",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbHtCiMEdd8",
       "timestamp": "2026-07-23T03:31:07+0000",
       "metrics": {
-        "views": 0,
+        "views": 33,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbHivodDpxr",
       "timestamp": "2026-07-23T02:01:10+0000",
       "metrics": {
-        "views": 9,
+        "views": 12,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbHYcKkj_cc",
       "timestamp": "2026-07-23T00:31:07+0000",
       "metrics": {
-        "views": 12,
+        "views": 16,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbGCoAeHEOE",
       "timestamp": "2026-07-22T12:01:16+0000",
       "metrics": {
-        "views": 65,
+        "views": 66,
         "likes": 0,
         "replies": 1,
         "reposts": 1,
@@ -193,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbF05SuoAQn",
       "timestamp": "2026-07-22T10:01:18+0000",
       "metrics": {
-        "views": 87,
+        "views": 91,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -208,37 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbFnKdsj_5K",
       "timestamp": "2026-07-22T08:01:18+0000",
       "metrics": {
-        "views": 54,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18414993148149812",
-      "text": "Mahasiswi 23 tahun jurusan pertanian yang ngerasa biasa aja — ternyata lolos program J-1 ke Amerika.\nBukan karena nilai ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbFc3ZOGxgE",
-      "timestamp": "2026-07-22T06:31:18+0000",
-      "metrics": {
-        "views": 86,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18090339410546428",
-      "text": "Kepikiran gak, gimana rasanya kerja di UK tapi CV lo masih format Indonesia banget?\nDi sana recruiter lihat CV dalam hit",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbFSjVPkUcK",
-      "timestamp": "2026-07-22T05:01:11+0000",
-      "metrics": {
-        "views": 54,
+        "views": 55,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
