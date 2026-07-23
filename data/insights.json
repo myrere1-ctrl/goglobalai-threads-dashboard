@@ -1,40 +1,25 @@
 {
-  "updated_at": "2026-07-23T06:40:02.386Z",
+  "updated_at": "2026-07-23T09:35:59.062Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya? Dulu&Sekarang",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwHtyr4Q&_nc_oc=Ado3I7ar4I6g2ApsikJ8KPt75ulsrNrfmvpXKdJDfM8Er_19zhtarUkjF3jSIG4PH3k&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KmopQrvYsovGQWJWUJp09w&_nc_tpa=Q5bMBQHAEYptd8uGotmO2Jvq2979Ok9dO_xZ6uXr_N7MPzHXnszmBQ7yWvm0fQ1bCaow-6TjpSJVS1Jtgw&oh=00_AQA1Q1DQyi_yJJ6YKspGV9iqxeu-GlYoJ0qw4Nmpf6LPRw&oe=6A678875"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=27GHU0KqLnAQ7kNvwEDHrNV&_nc_oc=Adr4TsH7cWH_nmyg9VulxbIJyq3aXLhdO2lrlNzxqxfZElyWo4G4u3Y0Sa3q9kFbTdM&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8G6z9qdF0NbcKftFNg_djg&_nc_tpa=Q5bMBQEVjxDkhLlVk3B611AVFPd0T0Fh2-n-m1bWtdFXOyqh-Tidotg_0NMffT027p1ZaKeqZCUtj0um1w&oh=00_AQBNT5W9w1yVIQloGF4eM6Ih84pDvb5nDcsqvspE3Bmwhg&oe=6A67C0B5"
   },
   "summary": {
     "followers_count": 287,
-    "views": 811,
+    "views": 97,
     "likes": 1,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 66,
-    "engagement_rate": 2.96,
+    "engagement_total": 58,
+    "engagement_rate": 2.76,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18106417487034976",
-      "text": "Pernah niat apply kerja di Kanada tapi nyerah duluan waktu liat syaratnya — \"skill assessment\", \"Express Entry\", LinkedI",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbCVbO6kT7Q",
-      "timestamp": "2026-07-21T01:28:35+0000",
-      "metrics": {
-        "views": 215,
-        "likes": 9,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 12
-    },
     {
       "id": "18099029002973113",
       "text": "90% orang yang akhirnya kerja di Kanada... awalnya CV-nya ditolak terus.\nBukan karena ga kompeten — tapi format CV-nya m",
@@ -94,16 +79,46 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18142351618528731",
+      "text": "Dari 10 pelamar kapal pesiar, sekitar 7 gagal bukan karena kurang pengalaman — tapi CV dan interview-nya ga nyampe stand",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbIL8hFFnPz",
+      "timestamp": "2026-07-23T08:01:11+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "18142351618528731",
+      "text": "Dari 10 pelamar kapal pesiar, sekitar 7 gagal bukan karena kurang pengalaman — tapi CV dan interview-nya ga nyampe stand",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbIL8hFFnPz",
+      "timestamp": "2026-07-23T08:01:11+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "18072103496703270",
       "text": "Hal yang jarang disadari soal kerja remote bergaji USD:\nCV kamu harus \"bisa dibaca\" algoritma hiring tools yang mereka p",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbIBowGFp7i",
       "timestamp": "2026-07-23T06:31:05+0000",
       "metrics": {
-        "views": 0,
+        "views": 21,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbH3Wp-IBl0",
       "timestamp": "2026-07-23T05:01:15+0000",
       "metrics": {
-        "views": 11,
+        "views": 24,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,13 +149,13 @@
       "timestamp": "2026-07-23T03:31:07+0000",
       "metrics": {
         "views": 33,
-        "likes": 0,
+        "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "17942941260056266",
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbHivodDpxr",
       "timestamp": "2026-07-23T02:01:10+0000",
       "metrics": {
-        "views": 12,
+        "views": 13,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbHYcKkj_cc",
       "timestamp": "2026-07-23T00:31:07+0000",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbGQWoOlbif",
       "timestamp": "2026-07-22T14:01:13+0000",
       "metrics": {
-        "views": 18,
+        "views": 20,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbGCoAeHEOE",
       "timestamp": "2026-07-22T12:01:16+0000",
       "metrics": {
-        "views": 66,
+        "views": 75,
         "likes": 0,
         "replies": 1,
         "reposts": 1,
@@ -223,22 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbF05SuoAQn",
       "timestamp": "2026-07-22T10:01:18+0000",
       "metrics": {
-        "views": 91,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18106090271032669",
-      "text": "Dulu gue kira kerja remote dari Indonesia itu cuma mitos.\nSampai gue sadar masalahnya bukan di peluangnya — tapi di CV g",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbFnKdsj_5K",
-      "timestamp": "2026-07-22T08:01:18+0000",
-      "metrics": {
-        "views": 55,
+        "views": 92,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
