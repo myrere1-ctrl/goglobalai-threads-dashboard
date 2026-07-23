@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-23T22:14:31.529Z",
+  "updated_at": "2026-07-23T23:14:05.326Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya? Dulu&Sekarang",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwE33sDu&_nc_oc=Ado0Kki5ddekXAKdwwrt3dPZemiO8_rqraJM0YErysBTkUDNtq6LKii4bSxz-iMtm4E&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8xePABfFMRERJg5bRNWUWg&_nc_tpa=Q5bMBQHFxA8Dqty-YjLh7uejjRL0KGZRFZORk3fJSUPzoknYqvn7aXMpDAHNk-LBgh5NGXRfXa3eDPmJcQ&oh=00_AQBI-CvFf2W9XIXd4dRSh87mMPOL2hAKWDqUHmR-gEPJCg&oe=6A686975"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwG6qGdM&_nc_oc=AdpIed08qfQ4fGwWEHI2zyLg3p1DQoVyH6iIKYVuXt5Gf93U6a8J6vDMuKVWrnIADy0&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TxXyjNluBCgQPq8SFsodPA&_nc_tpa=Q5bMBQFz5SnIh6NxCmdKh_r3QK5vPMcRKo2LLEXLnjFWMifQGD8Fasz7k4hldpLBiPmoIl4bhxJuRYCTWg&oh=00_AQCQsxacwETCgudar22f8JnoB_qH7P8WJ2jT5_rDobLK7A&oe=6A686975"
   },
   "summary": {
     "followers_count": 287,
-    "views": 1586,
-    "likes": 14,
+    "views": 1453,
+    "likes": 13,
     "replies": 26,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 42,
-    "engagement_rate": 2.65,
+    "engagement_total": 41,
+    "engagement_rate": 2.82,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbI1KdYFijQ",
       "timestamp": "2026-07-23T14:01:21+0000",
       "metrics": {
-        "views": 124,
+        "views": 128,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18056679578776142",
+      "text": "CV format Indonesia kalau dikirim ke perusahaan Australia — peluang diabaikan sebelum sempat dibaca.\nBukan soal pengalam",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbJy8uBAUOb",
+      "timestamp": "2026-07-23T23:01:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18072992159405837",
       "text": "Rata-rata CV orang Indonesia yang apply ke Australia... langsung tenggelam di tahap screening pertama.\nBukan karena kura",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbI1KdYFijQ",
       "timestamp": "2026-07-23T14:01:21+0000",
       "metrics": {
-        "views": 124,
+        "views": 128,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17948014602233579",
-      "text": "Operator pabrik 28 tahun yang baru balik dari Korea bilang sesuatu yang bikin gue kaget:\n\"Gue gagal 2x bukan karena skil",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbHOJlKFRhv",
-      "timestamp": "2026-07-22T23:01:12+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
