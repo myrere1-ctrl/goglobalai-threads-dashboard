@@ -1,40 +1,25 @@
 {
-  "updated_at": "2026-07-24T11:55:57.095Z",
+  "updated_at": "2026-07-24T14:12:51.711Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya? Dulu&Sekarang",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwFk9Zdq&_nc_oc=Adqj1oREJzc-EllA0mMU32PDoaXkpOIykzDFVZAFhqjizVGbbkYXNdGHa4RMuOhDB9M&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vdUePNc7MGtEW8dmz4zilw&_nc_tpa=Q5bMBQEm62Jj6fafqKmRwU8uI1pcpPq6-ScxJjSv-JvSGRDmXviOov8P0eFsANTLnT4Sd3ZIOzhvC98W1w&oh=00_AQDsJ2A23g8nFjkUviiQKFSyxn7Q458P76PwV5CTNg0PoA&oe=6A691235"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwFT_p1o&_nc_oc=Adrf0scQ21wxuaOg7l9BapocT97I5YiEuKf6C2i7daMHz_oV56stSHTsxdHFXH4ajGw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vXO0JGC-smpxtNx2NRfAyg&_nc_tpa=Q5bMBQEUDkiSLYTxH1BjDmnDQIKzmEJtWE5mAvNWQFsp-SoJWJuFGK388zHta_SAQEeoEQZNcC2XyHoUnw&oh=00_AQDiFsdb63xzDf0DihoFlye9Xq-GEYQeXP2C4iFsQYDvAQ&oe=6A694A75"
   },
   "summary": {
     "followers_count": 287,
-    "views": 1131,
-    "likes": 11,
+    "views": 1028,
+    "likes": 9,
     "replies": 25,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 38,
-    "engagement_rate": 3.36,
+    "engagement_total": 36,
+    "engagement_rate": 3.5,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17870375718566051",
-      "text": "Perawat 29 tahun yang CV-nya rapi banget — eh ditolak Express Entry Kanada karena format CV-nya masih gaya Indonesia 😭\n",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbFIPfhkYlq",
-      "timestamp": "2026-07-22T03:31:06+0000",
-      "metrics": {
-        "views": 84,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
     {
       "id": "18072992159405837",
       "text": "Rata-rata CV orang Indonesia yang apply ke Australia... langsung tenggelam di tahap screening pertama.\nBukan karena kura",
@@ -64,6 +49,21 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "18114596926902893",
+      "text": "Jujur, banyak orang gagal ke Jerman bukan karena kurang skill — tapi karena nganggep skill aja cukup.\nDi sana, ijazah lo",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbLZ9GGFI4O",
+      "timestamp": "2026-07-24T14:01:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "17992205294821253",
@@ -98,12 +98,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18114596926902893",
+      "text": "Jujur, banyak orang gagal ke Jerman bukan karena kurang skill — tapi karena nganggep skill aja cukup.\nDi sana, ijazah lo",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbLZ9GGFI4O",
+      "timestamp": "2026-07-24T14:01:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18020119211773252",
+      "text": "Mau kerja di Australia tapi ngerasa belum siap? Biasanya nyangkut di 3 hal ini:\n• CV — format-nya beda sama Indonesia, d",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbLMOiRm09Q",
+      "timestamp": "2026-07-24T12:01:22+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18152486098500702",
       "text": "90% pelamar EPS-TOPIK gagal bukan karena ga kompeten — tapi karena nganggep ujian bahasa Korea itu gampang.\nPadahal EPS-",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbK-f95myQU",
       "timestamp": "2026-07-24T10:01:24+0000",
       "metrics": {
-        "views": 45,
+        "views": 59,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -209,36 +239,6 @@
       "timestamp": "2026-07-23T23:01:14+0000",
       "metrics": {
         "views": 40,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18072992159405837",
-      "text": "Rata-rata CV orang Indonesia yang apply ke Australia... langsung tenggelam di tahap screening pertama.\nBukan karena kura",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbI1KdYFijQ",
-      "timestamp": "2026-07-23T14:01:21+0000",
-      "metrics": {
-        "views": 145,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18013448549876528",
-      "text": "Jalur EPS-TOPIK ke Korea itu bukan soal lucky draw — yang lolos rata-rata udah nyiapin diri berbulan-bulan sebelum dafta",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbInb8llpq-",
-      "timestamp": "2026-07-23T12:01:24+0000",
-      "metrics": {
-        "views": 29,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
