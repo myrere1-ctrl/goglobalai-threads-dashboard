@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-07-25T12:09:33.165Z",
+  "updated_at": "2026-07-25T15:19:23.446Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwGUckHh&_nc_oc=Adq6KkenLnK0qFXHBF59kUNMclmhDXAHVdAIllp3j4RF-IbZ1KR694Ou2Hf_7tw2JKU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=wQOJ5Krfn2JKSCn9rYkNbw&_nc_tpa=Q5bMBQEpi4zc5T1qzDS-tN75GtFpaLROm9L0Nob4WTipPDI2N2K3Gh9vu49ryhqk4oLzsJ0NwPTb9cf0zQ&oh=00_AQAZf71CO_pPHGPgl5VKwcgw3i3zazi4g1ly1XzIqan1ag&oe=6A6A63B5"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwEsO4fB&_nc_oc=AdoaD1iXa3ovYBKlVyo13Kr4Zyg51Cruqa-YP_RdChtipNrshw26Jpg9eg1D2MXIgEU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AllBPT0o4g4olDR-TDhAWg&_nc_tpa=Q5bMBQFdAObyTsVLT1bcaWIwsWuGa4n_sMVEIQt4eAh9gwRh-j73XQei9t6TFUptIfgvjCXQd9QU6GXLMw&oh=00_AQA_YUhiSFVW4OYcMQB-z-24CcH1fAy-eVC_wvA9Wv-PSw&oe=6A6A9BF5"
   },
   "summary": {
     "followers_count": 287,
-    "views": 105,
-    "likes": 3,
+    "views": 294,
+    "likes": 8,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 42,
-    "engagement_rate": 4.75,
+    "engagement_total": 48,
+    "engagement_rate": 4.85,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18109580512994886",
+      "text": "Express Entry ke Kanada punya sistem poin — dan banyak pelamar gagal bukan karena kurang pengalaman, tapi karena dokumen",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
+      "timestamp": "2026-07-25T14:01:13+0000",
+      "metrics": {
+        "views": 58,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
     {
       "id": "17977472508104399",
       "text": "Honest opinion: banyak orang gagal ke UK bukan karena kurang rezeki, tapi karena ngirim CV \"Indonesia banget\" ke employe",
@@ -36,12 +51,27 @@
       "engagement": 5
     },
     {
+      "id": "17903474364310698",
+      "text": "Mau kerja di Jerman? Ada 3 hal yang sering bikin WNI stuck:\n• Bahasa Jerman — kebanyakan lowongan butuh minimal B1-B2\n• ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbNxABRoEK1",
+      "timestamp": "2026-07-25T12:01:10+0000",
+      "metrics": {
+        "views": 68,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18051983219623928",
       "text": "Myth: \"CV-ku udah bagus, paling tinggal kirim ke Australia aja.\"\nReality: format CV Australia beda jauh sama CV Indonesi",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbNjYMCoDKC",
       "timestamp": "2026-07-25T10:02:09+0000",
       "metrics": {
-        "views": 27,
+        "views": 31,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -64,53 +94,38 @@
         "shares": 0
       },
       "engagement": 3
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18142351618528731",
-      "text": "Dari 10 pelamar kapal pesiar, sekitar 7 gagal bukan karena kurang pengalaman — tapi CV dan interview-nya ga nyampe stand",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbIL8hFFnPz",
-      "timestamp": "2026-07-23T08:01:11+0000",
+      "id": "18109580512994886",
+      "text": "Express Entry ke Kanada punya sistem poin — dan banyak pelamar gagal bukan karena kurang pengalaman, tapi karena dokumen",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
+      "timestamp": "2026-07-25T14:01:13+0000",
       "metrics": {
-        "views": 66,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17887523238601277",
-      "text": "Hampir 60% orang yang berhasil kerja di Jepang mulai dari nol — tanpa pengalaman internasional sebelumnya.\nYang bikin me",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbNLON9IJL4",
-      "timestamp": "2026-07-25T06:31:04+0000",
-      "metrics": {
-        "views": 38,
-        "likes": 1,
+        "views": 58,
+        "likes": 4,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 5
+    },
     {
       "id": "17903474364310698",
       "text": "Mau kerja di Jerman? Ada 3 hal yang sering bikin WNI stuck:\n• Bahasa Jerman — kebanyakan lowongan butuh minimal B1-B2\n• ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbNxABRoEK1",
       "timestamp": "2026-07-25T12:01:10+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
+        "views": 68,
+        "likes": 2,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 3
     },
     {
       "id": "18051983219623928",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbNjYMCoDKC",
       "timestamp": "2026-07-25T10:02:09+0000",
       "metrics": {
-        "views": 27,
+        "views": 31,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbNLON9IJL4",
       "timestamp": "2026-07-25T06:31:04+0000",
       "metrics": {
-        "views": 38,
+        "views": 39,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbMsVPplnif",
       "timestamp": "2026-07-25T02:01:09+0000",
       "metrics": {
-        "views": 15,
+        "views": 16,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-07-24T23:01:16+0000",
       "metrics": {
         "views": 53,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18114596926902893",
-      "text": "Jujur, banyak orang gagal ke Jerman bukan karena kurang skill — tapi karena nganggep skill aja cukup.\nDi sana, ijazah lo",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbLZ9GGFI4O",
-      "timestamp": "2026-07-24T14:01:18+0000",
-      "metrics": {
-        "views": 71,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
