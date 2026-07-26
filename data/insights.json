@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-26T13:56:03.785Z",
+  "updated_at": "2026-07-26T15:28:48.051Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwE8h0Jf&_nc_oc=AdrtY3gYEDpSbvSDqGh4cUnxbOkmbGhhAfK0Bhn5-d30icwQgYgQCVJqOMsFywSlX-s&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=j6uYJcQfCuYVYysQzpY0pQ&_nc_tpa=Q5bMBQHSdMMcoGzEd39FRESuUAjAeFoRr7ZOHnR9aylnDC3NAodoCP7L4EJBOkTDMvonR2DfoxTajfABfg&oh=00_AQDzjO7lTTgJ1wTgUO3wHdzNz_M7UK1ziJdGHeg8UoYLZg&oe=6A6BED75"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwHHXi_J&_nc_oc=AdqUi6N_L4zFfztBuoYctMzkyZbuewHJqjK_L4YMP7U1d4WyEKFX-nVaxLsmz2Nkoy0&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Ych38UlRd5lmWkdvSfbkrw&_nc_tpa=Q5bMBQEjUIKMbyBdLNNYVemQgJzWD45g99fudlUNj1rtcAlbA2UGQRBnHB_SBanR5z5ocMPRPe2eYChRYQ&oh=00_AQCYsSK6QDYax1iQfavSmzDwHzAFscUFiDFcn5UuVvu6lA&oe=6A6BED75"
   },
   "summary": {
     "followers_count": 289,
-    "views": 249,
+    "views": 299,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 48,
-    "engagement_rate": 4.63,
+    "engagement_total": 47,
+    "engagement_rate": 4.4,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
       "timestamp": "2026-07-25T14:01:13+0000",
       "metrics": {
-        "views": 127,
+        "views": 129,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbPwBStHNou",
       "timestamp": "2026-07-26T06:31:05+0000",
       "metrics": {
-        "views": 33,
+        "views": 35,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17988228972007929",
+      "text": "Perawat 29 tahun, sudah 3x apply ke NHS UK — selalu kandas di tahap pertama.\nBukan karena nggak kompeten. Tapi CV-nya ma",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbQjhspm3_d",
+      "timestamp": "2026-07-26T14:01:10+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17869701954573538",
       "text": "Honest opinion: banyak yang gagal tembus Express Entry Kanada bukan karena kurang pintar — tapi karena CV-nya masih gaya",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbQV0FplhmR",
       "timestamp": "2026-07-26T12:01:20+0000",
       "metrics": {
-        "views": 38,
+        "views": 44,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbQIFA-G81W",
       "timestamp": "2026-07-26T10:01:18+0000",
       "metrics": {
-        "views": 23,
+        "views": 24,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbP6VYem6xj",
       "timestamp": "2026-07-26T08:01:12+0000",
       "metrics": {
-        "views": 32,
+        "views": 33,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbPwBStHNou",
       "timestamp": "2026-07-26T06:31:05+0000",
       "metrics": {
-        "views": 33,
+        "views": 35,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbPluyYG3SG",
       "timestamp": "2026-07-26T05:01:10+0000",
       "metrics": {
-        "views": 61,
+        "views": 64,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18109580512994886",
-      "text": "Express Entry ke Kanada punya sistem poin — dan banyak pelamar gagal bukan karena kurang pengalaman, tapi karena dokumen",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
-      "timestamp": "2026-07-25T14:01:13+0000",
-      "metrics": {
-        "views": 127,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
