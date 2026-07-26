@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-26T22:13:50.545Z",
+  "updated_at": "2026-07-26T23:14:22.552Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwHfIkme&_nc_oc=Adp24h-serf7Mi2YJT7XYvCHJsfXEdwgFE7ZYquVcL4ChXK-Q-8BfCcwBCHPo2F3Dj0&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=iZyNSB1a3ZBFw0wwtV9DrA&_nc_tpa=Q5bMBQHxvQTWj5tBSRsgET579kRARIfnVAvJI-u4eCJggDCPT8ddbb30-P-1HH5xzoumZ_B1JXQW6sCZkw&oh=00_AQC5pBjVf10uxaEXp8KbrlHPmePJ5FQWlU9mmS0yv0Fv1w&oe=6A6C5DF5"
+    "picture": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwECJDgl&_nc_oc=Ado6BPXp1u4JRPCumiJkmblBR4loKdSharkwQYBxhqag4Ovmq20UijbXtQcnqYNDtRg&_nc_zt=24&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0HhdE3LA5QIvR-LHrAt54Q&_nc_tpa=Q5bMBQGpThFFg5EXg2qfGOx6C5w7ZnqdApuf8IHiBNOaWjT70oE_T_3ni5AjFjzLXGLdqdmaXx59U4J8GA&oh=00_AQAk6zwe55lX0m_VmZOocS8-5oRgKnMunp0vtzY4IsOmXA&oe=6A6C5DF5"
   },
   "summary": {
     "followers_count": 289,
@@ -15,7 +15,7 @@
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 47,
-    "engagement_rate": 4.21,
+    "engagement_rate": 4.3,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18107724374101270",
+      "text": "Pernah kirim lamaran ke UK, tapi nggak ada kabar sama sekali — padahal CV-nya udah dibuat semaksimal mungkin?\nKemungkina",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbRhU5llJz4",
+      "timestamp": "2026-07-26T23:01:10+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17988228972007929",
       "text": "Perawat 29 tahun, sudah 3x apply ke NHS UK — selalu kandas di tahap pertama.\nBukan karena nggak kompeten. Tapi CV-nya ma",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18181477006398483",
-      "text": "Myth: kalau mau kerja di Kanada, tinggal kirim CV biasa terus tunggu dipanggil.\nReality-nya, sistem seleksi di sana kaya",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbO8iW3GnJg",
-      "timestamp": "2026-07-25T23:01:13+0000",
-      "metrics": {
-        "views": 56,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
