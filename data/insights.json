@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-26T00:14:54.872Z",
+  "updated_at": "2026-07-26T03:59:44.344Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwFwNBkc&_nc_oc=AdqD9DlCf0QkGuv6guW14J27zbr77x2KBVb6WZcwkPCiS_l3Iox9DuXwP8dUxK3rPIs&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-rmCnLjbcTUns4kFnYEzxw&_nc_tpa=Q5bMBQFHB6l1DqI5vivt_C-aEjSTUYXA9eKSYAtc3R7BwC851-G4xryWyJL5Cgyawi21xIDQrmYyzTojHA&oh=00_AQBCaWUbqLMiUL0HioQf6C3-_3Y6bHGIjYmSpXcNYlm3wg&oe=6A6B0C75"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uzRTTC6iit8Q7kNvwGO9FfE&_nc_oc=Ado6Ze3zVzoneet8om6Hw-Aex1PPC1SCnAI2Fzf89oqCVv2vth_1ZN20WtHnyIvsayg&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=WpVuEcg-6TRnXH1EO926Mg&_nc_tpa=Q5bMBQFFTkiLF5LvFk4iZScsaz54W0wTede3ZovhL4M6jLzgxg9libbMyg_3mXEQiGmQluAf3xgIpqc7nQ&oh=00_AQCdTRr4L0ucCOQhXa3Wan-OALOwNA6iIDgm4mSIZr-OHQ&oe=6A6B44B5"
   },
   "summary": {
     "followers_count": 287,
-    "views": 450,
-    "likes": 10,
+    "views": 583,
+    "likes": 11,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 49,
-    "engagement_rate": 4.52,
+    "engagement_total": 48,
+    "engagement_rate": 4.74,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
       "timestamp": "2026-07-25T14:01:13+0000",
       "metrics": {
-        "views": 115,
+        "views": 116,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbNxABRoEK1",
       "timestamp": "2026-07-25T12:01:10+0000",
       "metrics": {
-        "views": 79,
+        "views": 82,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18073776155369486",
+      "text": "Ekspektasi: langsung daftar kapal pesiar, langsung diterima, langsung keliling dunia.\nRealita: CV-nya ditolak sebelum se",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbPbaj3IDkL",
+      "timestamp": "2026-07-26T03:31:02+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18109978292066762",
+      "text": "Pernah kepikiran gak, skill digital yang lo punya sehari-hari itu sebenernya bisa dibayar dalam USD?\nBanyak role remote ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbPRIQSjiXm",
+      "timestamp": "2026-07-26T02:01:09+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18132057982551061",
+      "text": "9 dari 10 lamaran WNI ke Amerika ditolak bukan karena kurang pintar — tapi karena dokumennya ga memenuhi standar sponsor",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbPG0V-GzLX",
+      "timestamp": "2026-07-26T00:31:04+0000",
+      "metrics": {
+        "views": 50,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18181477006398483",
       "text": "Myth: kalau mau kerja di Kanada, tinggal kirim CV biasa terus tunggu dipanggil.\nReality-nya, sistem seleksi di sana kaya",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbO8iW3GnJg",
       "timestamp": "2026-07-25T23:01:13+0000",
       "metrics": {
-        "views": 45,
+        "views": 53,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
       "timestamp": "2026-07-25T14:01:13+0000",
       "metrics": {
-        "views": 115,
+        "views": 116,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbNxABRoEK1",
       "timestamp": "2026-07-25T12:01:10+0000",
       "metrics": {
-        "views": 79,
+        "views": 82,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18109392329047717",
-      "text": "Graphic designer 28 tahun yang CV-nya udah bagus... tapi bingung kenapa lamarannya ke klien remote luar negeri gak perna",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbM2oKAIMKB",
-      "timestamp": "2026-07-25T03:31:06+0000",
-      "metrics": {
-        "views": 21,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18108233546094812",
-      "text": "Dulu gue pikir modal semangat doang cukup buat ngelamar kerja ke Amerika.\nTernyata yang pertama disaring itu dokumen — C",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbMsVPplnif",
-      "timestamp": "2026-07-25T02:01:09+0000",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17977472508104399",
-      "text": "Honest opinion: banyak orang gagal ke UK bukan karena kurang rezeki, tapi karena ngirim CV \"Indonesia banget\" ke employe",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbMiB1HmEln",
-      "timestamp": "2026-07-25T00:31:07+0000",
-      "metrics": {
-        "views": 60,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
