@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-26T11:37:00.952Z",
+  "updated_at": "2026-07-26T13:56:03.785Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwFzsOA1&_nc_oc=AdqMt6yCwVy3RueUecYuagz3ecRtIQe1KjrpGEs2jqdHvcmU6ZAa3TrBKFH_sKlrfQ0&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=C8H4y0KWR2sktjZq22L7IQ&_nc_tpa=Q5bMBQGl_0xuveqih9shrvDn0H5JMwFSxIVCQ_gplD51922ESf3NcEAQiilJjPu6ohH8ixYbm1fTAAOd8Q&oh=00_AQBFUjAuUEgbFp5hhneaGXzoqreS9xUzgCgsrd2PzUplFA&oe=6A6BB535"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwE8h0Jf&_nc_oc=AdrtY3gYEDpSbvSDqGh4cUnxbOkmbGhhAfK0Bhn5-d30icwQgYgQCVJqOMsFywSlX-s&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=j6uYJcQfCuYVYysQzpY0pQ&_nc_tpa=Q5bMBQHSdMMcoGzEd39FRESuUAjAeFoRr7ZOHnR9aylnDC3NAodoCP7L4EJBOkTDMvonR2DfoxTajfABfg&oh=00_AQDzjO7lTTgJ1wTgUO3wHdzNz_M7UK1ziJdGHeg8UoYLZg&oe=6A6BED75"
   },
   "summary": {
     "followers_count": 289,
-    "views": 172,
+    "views": 249,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 49,
-    "engagement_rate": 4.89,
+    "engagement_total": 48,
+    "engagement_rate": 4.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
       "timestamp": "2026-07-25T14:01:13+0000",
       "metrics": {
-        "views": 124,
+        "views": 127,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbPwBStHNou",
       "timestamp": "2026-07-26T06:31:05+0000",
       "metrics": {
-        "views": 31,
+        "views": 33,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17869701954573538",
+      "text": "Honest opinion: banyak yang gagal tembus Express Entry Kanada bukan karena kurang pintar — tapi karena CV-nya masih gaya",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbQV0FplhmR",
+      "timestamp": "2026-07-26T12:01:20+0000",
+      "metrics": {
+        "views": 38,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18445924819191468",
       "text": "Udah belajar Bahasa Jerman 2 tahun, tapi giliran mau apply kerja ke sana — bingung ijazah diakui apa nggak?\nIni yang ser",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbQIFA-G81W",
       "timestamp": "2026-07-26T10:01:18+0000",
       "metrics": {
-        "views": 10,
+        "views": 23,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbP6VYem6xj",
       "timestamp": "2026-07-26T08:01:12+0000",
       "metrics": {
-        "views": 30,
+        "views": 32,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbPwBStHNou",
       "timestamp": "2026-07-26T06:31:05+0000",
       "metrics": {
-        "views": 31,
+        "views": 33,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbPluyYG3SG",
       "timestamp": "2026-07-26T05:01:10+0000",
       "metrics": {
-        "views": 59,
+        "views": 61,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -223,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbN-vRcmzJo",
       "timestamp": "2026-07-25T14:01:13+0000",
       "metrics": {
-        "views": 124,
+        "views": 127,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "17903474364310698",
-      "text": "Mau kerja di Jerman? Ada 3 hal yang sering bikin WNI stuck:\n• Bahasa Jerman — kebanyakan lowongan butuh minimal B1-B2\n• ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbNxABRoEK1",
-      "timestamp": "2026-07-25T12:01:10+0000",
-      "metrics": {
-        "views": 101,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
