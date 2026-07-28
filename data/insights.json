@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-28T12:13:36.602Z",
+  "updated_at": "2026-07-28T14:40:38.887Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwGQF8dm&_nc_oc=Adp9z_rDQUXiOLBN5Nqh6B6cUK7vU-6L2VDijPgO4IzRUdmXxjf7X7G1R5lzKo796co&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=aayrtVFDTzTD-h0hI6kekg&_nc_tpa=Q5bMBQH2XkavXW3P1ocl580hkVZHideN_T5xVBdS-8chuhFswuygSNL90n4XfajELFeXhpHm-VzfP_5mxg&oh=00_AQDUSNIGH0YyUp65sGZ-JfUwtua8VNibFyzN1k0SSE0Q8A&oe=6A6E5835"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=_pER5nApm2sQ7kNvwFgJh7y&_nc_oc=AdoSXpLx6mRIHItLF7CiMKIrj3z1Gr4NkYWDETi5-YHSJy9Mr5lZSxV7H1TWkzUD--I&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ZC2Px9DxHsBAxDjYFecq9w&_nc_tpa=Q5bMBQHXMJnRXrWJdt4-TQouOhmmc6LywO5heBVM0EGXkbYEXiAq96Kg2T_RZ3IZmVWpq7_5xo9SnlZgsg&oh=00_AQBUab_OmLq4AymKU6j89GW9E_LnG2XQN8uK4oZtLyUOBw&oe=6A6E9075"
   },
   "summary": {
     "followers_count": 289,
-    "views": 201,
-    "likes": 0,
+    "views": 314,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 36,
-    "engagement_rate": 3,
+    "engagement_total": 38,
+    "engagement_rate": 3.14,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18018360509909437",
+      "text": "Honest opinion: banyak orang gagal ke Amerika bukan karena kurang pintar, tapi karena dokumennya nggak siap.\nVisa J-1 it",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbVfZ3Hja_A",
+      "timestamp": "2026-07-28T12:01:21+0000",
+      "metrics": {
+        "views": 53,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "17963601189140950",
@@ -79,31 +94,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18200167207369245",
-      "text": "Pernah kepikiran kerja di AS tapi langsung down duluan karena ngerasa dokumennya ribet banget?\nVisa J1 atau H-2A itu mem",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbUGHr5j0Qd",
-      "timestamp": "2026-07-27T23:01:10+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
     {
-      "id": "18018360509909437",
-      "text": "Honest opinion: banyak orang gagal ke Amerika bukan karena kurang pintar, tapi karena dokumennya nggak siap.\nVisa J-1 it",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbVfZ3Hja_A",
-      "timestamp": "2026-07-28T12:01:21+0000",
+      "id": "18111114898778395",
+      "text": "Dulu: kerja kantoran, gaji rupiah, ngerasa stuck.\nSekarang: kerja dari kamar, dibayar USD, klien luar negeri.\nYang berub",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbVtIiplKCn",
+      "timestamp": "2026-07-28T14:01:19+0000",
       "metrics": {
-        "views": 0,
+        "views": 16,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -113,12 +113,27 @@
       "engagement": 1
     },
     {
+      "id": "18018360509909437",
+      "text": "Honest opinion: banyak orang gagal ke Amerika bukan karena kurang pintar, tapi karena dokumennya nggak siap.\nVisa J-1 it",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbVfZ3Hja_A",
+      "timestamp": "2026-07-28T12:01:21+0000",
+      "metrics": {
+        "views": 53,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18186632509397830",
       "text": "90% orang yang akhirnya kerja di UK bilang hal yang sama:\n\"CVku dulu nggak nyambung sama standar mereka sama sekali.\"\nBu",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbVRqAvGz35",
       "timestamp": "2026-07-28T10:01:13+0000",
       "metrics": {
-        "views": 21,
+        "views": 29,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbVD7bmGzZT",
       "timestamp": "2026-07-28T08:01:16+0000",
       "metrics": {
-        "views": 34,
+        "views": 36,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbUvVeVkb0Z",
       "timestamp": "2026-07-28T05:01:19+0000",
       "metrics": {
-        "views": 28,
+        "views": 29,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18138536050498158",
-      "text": "Dulu gue kira punya keinginan kerja di Amerika itu udah cukup.\nTernyata... nggak. Sama sekali.\nPas gue cek syarat visa J",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbTIVfdHOZE",
-      "timestamp": "2026-07-27T14:01:19+0000",
-      "metrics": {
-        "views": 76,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
