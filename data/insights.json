@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-30T03:28:18.496Z",
+  "updated_at": "2026-07-30T06:41:07.059Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WIQoktdLovYQ7kNvwEgh9YK&_nc_oc=AdpVdotpmCeiEYdcBCEGGoplH20W_NhkCXp_RFeAZPJ0siTIUqeXmsVSeQxbMNyyPNs&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2yIxQwrl2pB4d1NLqTWVSg&_nc_tpa=Q5bMBQGy1F1IuL9i3za88ncubKsa43R21L0i5VM30E_e5X63NBvWaxju6fr4oEN-caoINDTRzyhkLwpJnA&oh=00_AQEh7Wuu9yVuBHrOdNRDin3BnIu7Sl4tDBm9OQKO0-xACQ&oe=6A708AB5"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WIQoktdLovYQ7kNvwGEpRZ4&_nc_oc=AdoMGpx-rFZqreD-1BsAwpPaUu_y8y9vOCaRhhItcNIGq325yevOGWWDns17DLHATW8&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DEElQ5bDCh7a3eaNkhZVRQ&_nc_tpa=Q5bMBQEA23-maUr0uW2Cg2Rj96k5GdT28__x8ARNrSOT35o0aBROspL8QHUKT1KN8JESyZ8cIatG8xbUeQ&oh=00_AQGuUHdNkIPzjnELwe-32rmHqhH040U5tIEyRHbE3P10sA&oe=6A70C2F5"
   },
   "summary": {
     "followers_count": 293,
-    "views": 830,
-    "likes": 8,
+    "views": 942,
+    "likes": 10,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 42,
-    "engagement_rate": 2.41,
+    "engagement_rate": 2.51,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbYEL8AFuIz",
       "timestamp": "2026-07-29T12:01:15+0000",
       "metrics": {
-        "views": 159,
+        "views": 164,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "18096530474020064",
+      "text": "80% lowongan di Jerman butuh ijazah yang diakui dulu sebelum bisa melamar.\nBukan soal susah atau gampang — tapi kalau do",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbZumablolz",
+      "timestamp": "2026-07-30T03:31:05+0000",
+      "metrics": {
+        "views": 32,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18185919577402585",
@@ -79,14 +94,46 @@
         "shares": 0
       },
       "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18152102128505294",
+      "text": "Perawat 29 tahun, sudah 3x apply ke NHS UK — selalu gagal di tahap dokumen.\nBukan karena kurang kompeten. Tapi CV-nya ma",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbaDNhYIHzI",
+      "timestamp": "2026-07-30T06:31:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
-      "id": "18018360509909437",
-      "text": "Honest opinion: banyak orang gagal ke Amerika bukan karena kurang pintar, tapi karena dokumennya nggak siap.\nVisa J-1 it",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbVfZ3Hja_A",
-      "timestamp": "2026-07-28T12:01:21+0000",
+      "id": "18109596626073314",
+      "text": "CV kamu udah pernah ditolak recruiter Kanada, tapi kamu ga tau salahnya di mana?\nSistem Express Entry itu ketat — mereka",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbZ46RwkQXR",
+      "timestamp": "2026-07-30T05:01:11+0000",
       "metrics": {
-        "views": 76,
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18096530474020064",
+      "text": "80% lowongan di Jerman butuh ijazah yang diakui dulu sebelum bisa melamar.\nBukan soal susah atau gampang — tapi kalau do",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbZumablolz",
+      "timestamp": "2026-07-30T03:31:05+0000",
+      "metrics": {
+        "views": 32,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -94,16 +141,14 @@
         "shares": 0
       },
       "engagement": 3
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18149520550519527",
       "text": "Myth: \"CV Indonesia tinggal ditranslate ke Inggris, beres.\" \n Kenyataannya, format CV Australia beda — cara nulis experi",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbZkUxUCLY-",
       "timestamp": "2026-07-30T02:01:22+0000",
       "metrics": {
-        "views": 9,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbZZ_4ZiYqM",
       "timestamp": "2026-07-30T00:31:04+0000",
       "metrics": {
-        "views": 17,
+        "views": 22,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbZPtfNGuZ1",
       "timestamp": "2026-07-29T23:01:11+0000",
       "metrics": {
-        "views": 32,
+        "views": 35,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbYR6NdFFUe",
       "timestamp": "2026-07-29T14:01:09+0000",
       "metrics": {
-        "views": 77,
+        "views": 79,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbYEL8AFuIz",
       "timestamp": "2026-07-29T12:01:15+0000",
       "metrics": {
-        "views": 159,
+        "views": 164,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18140615233493752",
-      "text": "Kanada nggak cuma soal \"mau kerja di sana\" — tapi seberapa siap kamu kelihatan di mata rekruter sana.\n• CV gaya Indonesi",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbXeaK0IP6p",
-      "timestamp": "2026-07-29T06:31:08+0000",
-      "metrics": {
-        "views": 82,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18135554995596826",
-      "text": "Di Jerman, rekruter lebih lihat apakah ijazahmu *diakui* dulu sebelum ngomongin gaji.\nBukan soal lulusan mana — tapi apa",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbXUHkdDE1S",
-      "timestamp": "2026-07-29T05:01:13+0000",
-      "metrics": {
-        "views": 109,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17901057270551620",
-      "text": "GoGlobal-AI Buat test layihan IELTS and Toefl untuk support Kamu Yang ingin kerja di luar negri GRATIS SELAMANYA Untuk P",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbXKJqzmeb8",
-      "timestamp": "2026-07-29T03:33:34+0000",
-      "metrics": {
-        "views": 112,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
