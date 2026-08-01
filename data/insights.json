@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-01T06:41:56.663Z",
+  "updated_at": "2026-08-01T09:20:46.784Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WIQoktdLovYQ7kNvwGkc_bd&_nc_oc=AdpI35MvJvZGK3OmYjXefyjjnscm5IzAhRM-Grl5hRYcrg1UhxEKPEhRgTNsxI0bbzs&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=V6KWethwyAE3rfaKfqgsnQ&_nc_tpa=Q5bMBQFFART0hUR3A056RjF-aaluTP6ZwGm5309tmDRNPUBwcPE_SMHv1A-QmJFIOqNBg-f-wFxn38OMBQ&oh=00_AQEcKReIg0JMuBWCwM0VyYc8u_sjLfp-SLrtdgKYV_oFeg&oe=6A7365F5"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WIQoktdLovYQ7kNvwEVCkvI&_nc_oc=AdqdXpG_WJZL9CF062BCbHvoV2HdRE5v3B8e9HfLPWGt34ip5AUvPqFQ8kiDcr9BT9E&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BIO3squJVHw7UeBAOXup-w&_nc_tpa=Q5bMBQHzmBd_WXIK0foJKTcHzgQStOh2buNLXMSy5vcGkEJKVechYYpIQUponmXeV1-Pu-Rv8dqdpFAcAA&oh=00_AQEPDTd4pLdK4xuBJ_lphduR_d6_poan_92Lbl7p0Zwojw&oe=6A739E35"
   },
   "summary": {
     "followers_count": 295,
-    "views": 1027,
-    "likes": 7,
-    "replies": 1,
-    "reposts": 1,
+    "views": 125,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 53,
-    "engagement_rate": 3.08,
+    "engagement_total": 55,
+    "engagement_rate": 3,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbcJHYIm8sq",
       "timestamp": "2026-07-31T02:01:16+0000",
       "metrics": {
-        "views": 285,
+        "views": 288,
         "likes": 10,
         "replies": 1,
         "reposts": 0,
@@ -34,6 +34,21 @@
         "shares": 2
       },
       "engagement": 11
+    },
+    {
+      "id": "18010106153745393",
+      "text": "Perawat 29 tahun asal Surabaya pindah ke Jerman lewat program Ausbildung — bukan karena CV-nya sempurna, tapi karena dia",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbejmLtlq5F",
+      "timestamp": "2026-08-01T00:31:08+0000",
+      "metrics": {
+        "views": 160,
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 3
+      },
+      "engagement": 5
     },
     {
       "id": "18152102128505294",
@@ -66,27 +81,12 @@
       "engagement": 4
     },
     {
-      "id": "18010106153745393",
-      "text": "Perawat 29 tahun asal Surabaya pindah ke Jerman lewat program Ausbildung — bukan karena CV-nya sempurna, tapi karena dia",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbejmLtlq5F",
-      "timestamp": "2026-08-01T00:31:08+0000",
-      "metrics": {
-        "views": 128,
-        "likes": 1,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 2
-      },
-      "engagement": 3
-    },
-    {
       "id": "17978189901098677",
       "text": "90% jalur kerja ke Korea via EPS-TOPIK itu gugur bukan karena ga kompeten — tapi karena ga lulus ujian bahasanya.\nBayang",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbeZUJlH2F6",
       "timestamp": "2026-07-31T23:01:18+0000",
       "metrics": {
-        "views": 115,
+        "views": 126,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17865429804649477",
+      "text": "Dulu gue ngirim lamaran ke kapal pesiar, ngerasa CV gue udah oke.\nEh, ternyata format CV internasional beda banget sama ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbfXGscFqaF",
+      "timestamp": "2026-08-01T08:01:13+0000",
+      "metrics": {
+        "views": 44,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18048186650602114",
       "text": "Kerja remote dari Indonesia tapi dibayar USD — kedengarannya simpel, tapi yang sering kelewat adalah: rekruternya ga per",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbfMyzKkVUO",
       "timestamp": "2026-08-01T06:31:08+0000",
       "metrics": {
-        "views": 0,
+        "views": 8,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbfCgX5FSbL",
       "timestamp": "2026-08-01T05:01:13+0000",
       "metrics": {
-        "views": 81,
+        "views": 100,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbe4MSbG70t",
       "timestamp": "2026-08-01T03:31:06+0000",
       "metrics": {
-        "views": 38,
+        "views": 43,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbet5ZIESuj",
       "timestamp": "2026-08-01T02:01:09+0000",
       "metrics": {
-        "views": 35,
+        "views": 36,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,14 +178,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbejmLtlq5F",
       "timestamp": "2026-08-01T00:31:08+0000",
       "metrics": {
-        "views": 128,
-        "likes": 1,
+        "views": 160,
+        "likes": 3,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
-        "shares": 2
+        "shares": 3
       },
-      "engagement": 3
+      "engagement": 5
     },
     {
       "id": "17978189901098677",
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbeZUJlH2F6",
       "timestamp": "2026-07-31T23:01:18+0000",
       "metrics": {
-        "views": 115,
+        "views": 126,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbdNxk9ldpT",
       "timestamp": "2026-07-31T12:01:14+0000",
       "metrics": {
-        "views": 222,
+        "views": 233,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18141222583560807",
-      "text": "Myth: kerja remote itu tinggal daftar, gampang masuk.\nRealitanya? Saingannya global — orang dari puluhan negara ngelamar",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbcyUQeIAZB",
-      "timestamp": "2026-07-31T08:01:18+0000",
-      "metrics": {
-        "views": 13,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
