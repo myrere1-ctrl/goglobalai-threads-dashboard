@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-03T21:30:00.841Z",
+  "updated_at": "2026-08-03T23:18:51.789Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=JIiDy8yz3zEQ7kNvwGoujf3&_nc_oc=Ado6XY7xKk03xzI1CZFe9GfiGIqBvX6UWXRzna9tDb1TtE2qwkaU6ROdl4Hf9xE24UA&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1unr2leBP40ZD5smI5HQCQ&_nc_tpa=Q5bMBQH0hcugIbVECtkZN2tJIbkk1HV_tYK6w8iiRG93VGz9kbEJvfu8aGRKZaR9Kbg8r9TUdBMI8e7hFw&oh=00_AQHMjA8_raUxVuYojX2Vhj-wKNTfUjraPb3gV7Ap1hUHdw&oe=6A76E9F5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=JIiDy8yz3zEQ7kNvwGHjzNM&_nc_oc=AdrHNFmSI3z3liIzQjD-j5Xi_6UrUQJlMyKDMGPaM3RQL9fo6DidM_2J6GPo5ZBvHZw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ZHIx1Yrb1BXg-4-WaadHsw&_nc_tpa=Q5bMBQFltTekVoKiPrvXn6cNOxtMzLpiCsb1muzaUW7ZwrJMUj3_IaSAWxFqblT8k3jj4NDmcVdr7fFQBA&oh=00_AQGavpNAP_uTqy6TUpvYNUBYiMJN610J0bDZL8G0t7w8jg&oe=6A76E9F5"
   },
   "summary": {
     "followers_count": 295,
-    "views": 1325,
+    "views": 1336,
     "likes": 18,
     "replies": 3,
     "reposts": 1,
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbkMGVIkdWs",
       "timestamp": "2026-08-03T05:01:15+0000",
       "metrics": {
-        "views": 543,
+        "views": 556,
         "likes": 6,
         "replies": 3,
         "reposts": 0,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbk8KSXoNAs",
       "timestamp": "2026-08-03T12:01:14+0000",
       "metrics": {
-        "views": 286,
+        "views": 289,
         "likes": 3,
         "replies": 2,
         "reposts": 0,
@@ -98,6 +98,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17986547733042505",
+      "text": "CV Indonesia vs CV gaya Kanada itu beda banget.\nDi sini kita sering masukin foto, data pribadi, bahkan hobi.\nDi Kanada, ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbmHsZMD-oW",
+      "timestamp": "2026-08-03T23:01:15+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18054420005790382",
       "text": "Dulu gue kira kerja di Kanada itu soal nasib.\nTernyata salah besar — mereka punya sistem Express Entry yang poin-poinnya",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DblJ5iXG8Qy",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbk8KSXoNAs",
       "timestamp": "2026-08-03T12:01:14+0000",
       "metrics": {
-        "views": 286,
+        "views": 289,
         "likes": 3,
         "replies": 2,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbkMGVIkdWs",
       "timestamp": "2026-08-03T05:01:15+0000",
       "metrics": {
-        "views": 543,
+        "views": 556,
         "likes": 6,
         "replies": 3,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-08-03T00:31:05+0000",
       "metrics": {
         "views": 18,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18115856147301812",
-      "text": "90% penolakan lamaran kerja ke Jerman terjadi bukan karena skill — tapi karena format CV yang salah dan ijazah belum dia",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbji6_Yn6Xr",
-      "timestamp": "2026-08-02T23:01:27+0000",
-      "metrics": {
-        "views": 14,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
