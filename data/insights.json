@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-03T00:13:22.177Z",
+  "updated_at": "2026-08-03T03:57:09.170Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=JIiDy8yz3zEQ7kNvwF4p4Kk&_nc_oc=AdreysitlexKX4lr_U6Oey4zAqxvzeVLUrCuUBOjwMFoKOcQrwkJRwpKbVNA5YJj7Vg&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PqJy5I2W1aG87aO1hj7PFA&_nc_tpa=Q5bMBQHExOBjO_d1ooxDbifCOUeV_US3pWwpvxq2cUXV539i5DOIa36Oc5r3V10eRVE5thgh25VxHeaOpA&oh=00_AQFji82Nf6eZuWeT21mB5IKD6XJkH0_bqcfwOOGU8NJIwg&oe=6A759875"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=JIiDy8yz3zEQ7kNvwFQge4h&_nc_oc=Adp4OdJV4S-G_6xZdlwBDMsf-Xrxh0qxxl5LJTGSbfB31I3ddNtSAHZNsKLGaFWiaCw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=71jMxAhGRdHtHVyfgm0r7A&_nc_tpa=Q5bMBQFPfrIcEu487xABSQQOn8SsTLx9AgSWuUS0HybJEBMSZgSPVQJmhpCnh8uHJVmFNeiWFxsN2RRhCQ&oh=00_AQE5jT9WS2aATY-QsGULgRWYjUvCN_tSWzx9NsOfxRDj-w&oe=6A75D0B5"
   },
   "summary": {
     "followers_count": 295,
-    "views": 686,
+    "views": 797,
     "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 48,
-    "engagement_rate": 2.18,
+    "engagement_rate": 2.42,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbfk17xlr9Z",
       "timestamp": "2026-08-01T10:01:16+0000",
       "metrics": {
-        "views": 150,
+        "views": 151,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbilGZuoAwr",
       "timestamp": "2026-08-02T14:01:14+0000",
       "metrics": {
-        "views": 112,
+        "views": 125,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18073403471700839",
+      "text": "Honest opinion: kerja remote gaji USD itu bukan soal lucky — tapi soal keliatan layak di mata recruiter luar.\nCV format ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbkByQYmw_B",
+      "timestamp": "2026-08-03T03:31:12+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18000807758978893",
+      "text": "Honest opinion: banyak orang gagal lolos kerja ke Amerika bukan karena kurang pintar — tapi karena dokumennya nggak ngom",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbj3fj1EcZn",
+      "timestamp": "2026-08-03T02:01:12+0000",
+      "metrics": {
+        "views": 42,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17941988118068601",
+      "text": "Myth: kerja di UK itu butuh pengalaman internasional dulu.\nReality-nya, yang sering bikin kandidat gugur bukan kurang pe",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbjtLbekTtf",
+      "timestamp": "2026-08-03T00:31:05+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18115856147301812",
       "text": "90% penolakan lamaran kerja ke Jerman terjadi bukan karena skill — tapi karena format CV yang salah dan ijazah belum dia",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbji6_Yn6Xr",
       "timestamp": "2026-08-02T23:01:27+0000",
       "metrics": {
-        "views": 9,
+        "views": 13,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbilGZuoAwr",
       "timestamp": "2026-08-02T14:01:14+0000",
       "metrics": {
-        "views": 112,
+        "views": 125,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbiJoBPm7F0",
       "timestamp": "2026-08-02T10:01:09+0000",
       "metrics": {
-        "views": 50,
+        "views": 53,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbh753dG2-s",
       "timestamp": "2026-08-02T08:01:16+0000",
       "metrics": {
-        "views": 58,
+        "views": 60,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18153382414478285",
-      "text": "Seorang fresh grad 23 tahun ngelamar program J1 ke AS, ditolak bukan karena skill — tapi karena CV-nya terlalu \"Indonesi",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbhc_OfjVxl",
-      "timestamp": "2026-08-02T03:31:06+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17907079584283484",
-      "text": "Myth: kerja di UK itu gampang asal bahasa Inggrisnya oke.\nKenyataannya, bahasa Inggris itu syarat minimum — bukan nilai ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbhSsWYEQE6",
-      "timestamp": "2026-08-02T02:01:09+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18091818101102427",
-      "text": "Dulu gue kira kendala terbesar kerja di Kanada itu soal visa.\nTernyata bukan. Kendala gue adalah — CV gue gak nyambung s",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbhIYlqGc9J",
-      "timestamp": "2026-08-02T00:31:05+0000",
-      "metrics": {
-        "views": 107,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
