@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-06T06:45:43.619Z",
+  "updated_at": "2026-08-06T09:58:10.819Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fErRWdrPaOcQ7kNvwHzRz8v&_nc_oc=AdpFloXUt5h5wP0Ua_KS_QpiSpCVFg_YH2hRWSvOzikRuY8U3heSVFFXi86GBy0yo4o&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yTLBHFUZWjtDGqAMcfo6Xw&_nc_tpa=Q5bMBQFod1vketkjFKk_9vQBdabR2U33UT8MsP1f9VVdeMsdD75WHP2g4Uk6bOEpPpSkkGXXaayftV8fcw&oh=00_AQG_Ip06VWN_WCeOqRYnK-aYnX3EWrhvVoK_mWfdej-hIg&oe=6A79FD75"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fErRWdrPaOcQ7kNvwFZd2F5&_nc_oc=Adpzfka2p3fWK6S3C_E0Pc1emVk_ydg6Ti3PV1NFEA0IdO2B1_SD2hyqT0euwFe5_dA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hZBvBn499_0K2KYWObdoHg&_nc_tpa=Q5bMBQHTDyAOMH6aDgoGcNRYsc228VPYNuRSzFAiLo_l79EoiqVUew0lQz-H3C33j7GDLuy6jdH1b5fziw&oh=00_AQEwASqgnipkZQi-pjLxlC0XGcmRorr35p39KDeT0O3PgA&oe=6A7A35B5"
   },
   "summary": {
     "followers_count": 297,
-    "views": 1293,
-    "likes": 14,
-    "replies": 1,
-    "reposts": 0,
+    "views": 238,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 61,
-    "engagement_rate": 2.46,
+    "engagement_total": 65,
+    "engagement_rate": 2.41,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -66,27 +66,27 @@
       "engagement": 6
     },
     {
+      "id": "18089808395393719",
+      "text": "Software engineer 29 tahun ini udah 2x apply Express Entry Kanada — selalu stuck di skill assessment.\nBukan karena kuran",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbsPFcTCJPf",
+      "timestamp": "2026-08-06T08:01:19+0000",
+      "metrics": {
+        "views": 154,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "18025290575682035",
       "text": "Dulu gue kira CV Indonesia tinggal ditranslate ke Bahasa Inggris, selesai.\nTernyata Jepang punya format sendiri — rireki",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbrl4GRiYHo",
       "timestamp": "2026-08-06T02:01:11+0000",
       "metrics": {
-        "views": 135,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18105511787136888",
-      "text": "Dulu gue pikir ke Jerman itu tinggal modal ijazah S1 dan semangat.\nTernyata... ijazah gue harus diakui dulu di sana, pro",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbpqRnNlpcv",
-      "timestamp": "2026-08-05T08:01:08+0000",
-      "metrics": {
-        "views": 130,
+        "views": 149,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18089808395393719",
+      "text": "Software engineer 29 tahun ini udah 2x apply Express Entry Kanada — selalu stuck di skill assessment.\nBukan karena kuran",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbsPFcTCJPf",
+      "timestamp": "2026-08-06T08:01:19+0000",
+      "metrics": {
+        "views": 154,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "18092876819562273",
       "text": "Myth: ke Jerman itu harus jago bahasa Inggris dulu, baru mikir bahasa Jerman.\nReality-nya? justru yang niat belajar baha",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbsEw7jFXTm",
       "timestamp": "2026-08-06T06:31:05+0000",
       "metrics": {
-        "views": 0,
+        "views": 63,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbr6fbvm5j6",
       "timestamp": "2026-08-06T05:01:19+0000",
       "metrics": {
-        "views": 80,
+        "views": 81,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbrwKlwEbYk",
       "timestamp": "2026-08-06T03:31:07+0000",
       "metrics": {
-        "views": 19,
+        "views": 21,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbrl4GRiYHo",
       "timestamp": "2026-08-06T02:01:11+0000",
       "metrics": {
-        "views": 135,
+        "views": 149,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbrRR7flqrr",
       "timestamp": "2026-08-05T23:01:12+0000",
       "metrics": {
-        "views": 64,
+        "views": 66,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-08-05T12:01:25+0000",
       "metrics": {
         "views": 23,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18097768184343121",
-      "text": "Iseng scroll job posting Kanada, trus nemu gaji Rp26-109jt/bulan — reaksi lo apa?\nLangsung semangat? Atau malah bingung ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbp4B6zFmHH",
-      "timestamp": "2026-08-05T10:01:21+0000",
-      "metrics": {
-        "views": 51,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
