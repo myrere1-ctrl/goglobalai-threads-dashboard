@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-07T00:15:36.415Z",
+  "updated_at": "2026-08-07T04:03:33.314Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fErRWdrPaOcQ7kNvwHFkKd9&_nc_oc=AdrixtZL6Eb6tM98IOSN41acRkxZKoMAxYX65DgmF6ueXUGXDuyPwCH6XNXb5mXnzSg&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5wAcKwrjcnIBAPmVU2P50g&_nc_tpa=Q5bMBQF-LQIaLWY1iSN7kdNUK9ZJ5c4Zh2-2bARojEjhivnEDthykXcV-Iabh3vPEdyjyoaQBDZpHczTtA&oh=00_AQHBvkZU1_oeEOzPyldT8ZrKHCwDbFEV7YX5bi3Ca0aZiA&oe=6A7ADE75"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fErRWdrPaOcQ7kNvwFnw1i0&_nc_oc=Adpox4zzAo1Q7ADtIUreAGo3m8J8Iba029416t-0F4l5v5zSy6PfS0LnOF3wJKZYCpc&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OkxdiyqCOINeqK-OXk_2Zw&_nc_tpa=Q5bMBQFJzP6A_dL9VJzvP_PBglldTiqOPnwcaQQI8GyZCGw-83hoFezQW2rezVJ158tBR_nCEl9NYWhiiw&oh=00_AQFcz4MC5--PR__uqXRU1qq6r0xgx6JpDi0usyfRjRdaUQ&oe=6A7B16B5"
   },
   "summary": {
     "followers_count": 297,
-    "views": 581,
+    "views": 683,
     "likes": 3,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 53,
-    "engagement_rate": 2.26,
+    "engagement_rate": 2.35,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbsPFcTCJPf",
       "timestamp": "2026-08-06T08:01:19+0000",
       "metrics": {
-        "views": 228,
+        "views": 234,
         "likes": 3,
         "replies": 1,
         "reposts": 1,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbrl4GRiYHo",
       "timestamp": "2026-08-06T02:01:11+0000",
       "metrics": {
-        "views": 207,
+        "views": 213,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18044585645657594",
+      "text": "Dulu gue ngirim CV ke perusahaan Australia dengan format yang biasa gue pakai di sini.\nGa ada kabar. Sama sekali.\nBelaka",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbuU9cbm-mg",
+      "timestamp": "2026-08-07T03:31:06+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18151598770450678",
+      "text": "Operator pabrik 29 tahun yang udah 3x daftar EPS-TOPIK — selalu gagal di bagian tes bahasa.\nBukan karena nggak kerja ker",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbuKrColL1B",
+      "timestamp": "2026-08-07T02:01:12+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18334882591282027",
+      "text": "Ngirim CV ke Jepang vs ngirim CV ke Indonesia — beda banget formatnya.\nDi Jepang ada yang namanya rirekisho, formatnya s",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbuAW36oLL1",
+      "timestamp": "2026-08-07T00:31:03+0000",
+      "metrics": {
+        "views": 46,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18089070260428782",
       "text": "CV kamu vs CV orang yang udah dapat remote job — bedanya bukan di pengalaman.\nBiasanya di cara ngepackage-nya.\nPortfolio",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbt2EsZjWPO",
       "timestamp": "2026-08-06T23:01:12+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbsPFcTCJPf",
       "timestamp": "2026-08-06T08:01:19+0000",
       "metrics": {
-        "views": 228,
+        "views": 234,
         "likes": 3,
         "replies": 1,
         "reposts": 1,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18129125344643178",
-      "text": "Operator mesin 29 tahun yang udah 3x ikut ujian EPS-TOPIK akhirnya nemu hal krusial:\nternyata dokumennya yang salah form",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbrwKlwEbYk",
-      "timestamp": "2026-08-06T03:31:07+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18025290575682035",
-      "text": "Dulu gue kira CV Indonesia tinggal ditranslate ke Bahasa Inggris, selesai.\nTernyata Jepang punya format sendiri — rireki",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbrl4GRiYHo",
-      "timestamp": "2026-08-06T02:01:11+0000",
-      "metrics": {
-        "views": 207,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18170030986439770",
-      "text": "Kerja di kapal pesiar itu bukan cuma soal nekat — persiapannya nyata.\n• CV harus lolos standar internasional\n• Interview",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbrbj4mGujm",
-      "timestamp": "2026-08-06T00:31:03+0000",
-      "metrics": {
-        "views": 68,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
