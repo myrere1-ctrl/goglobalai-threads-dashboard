@@ -1,47 +1,32 @@
 {
-  "updated_at": "2026-08-07T04:03:33.314Z",
+  "updated_at": "2026-08-07T05:50:27.457Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fErRWdrPaOcQ7kNvwFnw1i0&_nc_oc=Adpox4zzAo1Q7ADtIUreAGo3m8J8Iba029416t-0F4l5v5zSy6PfS0LnOF3wJKZYCpc&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OkxdiyqCOINeqK-OXk_2Zw&_nc_tpa=Q5bMBQFJzP6A_dL9VJzvP_PBglldTiqOPnwcaQQI8GyZCGw-83hoFezQW2rezVJ158tBR_nCEl9NYWhiiw&oh=00_AQFcz4MC5--PR__uqXRU1qq6r0xgx6JpDi0usyfRjRdaUQ&oe=6A7B16B5"
+    "picture": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=fErRWdrPaOcQ7kNvwE7DpNl&_nc_oc=AdpxHS6D1nNizOfx8Osy0JporMvnf9RnAbirB45Y0u_qasiWrbABAC8zU2nKNkFa_SA&_nc_zt=24&_nc_ht=scontent-fra5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=wCT1qwUCetntkVCvRVZzFw&_nc_tpa=Q5bMBQEls2EMG6jw_JmjonHa27fVD-w1KnLi_2EXYj80pDdTXGSs5xQ0viOsAN5_gO63cI4c9QLX1q_FpA&oh=00_AQGIabsFwlvL4nUaKTRwr_Fzwijys2pkKR9QmY8IS7JVtw&oe=6A7B4EF5"
   },
   "summary": {
     "followers_count": 297,
-    "views": 683,
-    "likes": 3,
+    "views": 765,
+    "likes": 5,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 53,
-    "engagement_rate": 2.35,
+    "engagement_total": 37,
+    "engagement_rate": 2.34,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18334803373284500",
-      "text": "Buat / perbaiki otomatis CV Builder di hp bisa nulis bisa pake pdf bisa pakai image. CV contoh yang pernah di buat disin",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DboxgEPgRFv",
-      "timestamp": "2026-08-04T23:45:19+0000",
-      "metrics": {
-        "views": 734,
-        "likes": 15,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 12
-      },
-      "engagement": 19
-    },
     {
       "id": "18089808395393719",
       "text": "Software engineer 29 tahun ini udah 2x apply Express Entry Kanada — selalu stuck di skill assessment.\nBukan karena kuran",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbsPFcTCJPf",
       "timestamp": "2026-08-06T08:01:19+0000",
       "metrics": {
-        "views": 234,
+        "views": 236,
         "likes": 3,
         "replies": 1,
         "reposts": 1,
@@ -49,6 +34,21 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "18052123127582976",
+      "text": "Myth: ke Jerman harus jago bahasa Inggris dulu baru bisa maju.\nRealitanya, banyak sektor di sana justru minta bahasa Jer",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbufR9BkQRj",
+      "timestamp": "2026-08-07T05:01:17+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18025290575682035",
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18052123127582976",
+      "text": "Myth: ke Jerman harus jago bahasa Inggris dulu baru bisa maju.\nRealitanya, banyak sektor di sana justru minta bahasa Jer",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DbufR9BkQRj",
+      "timestamp": "2026-08-07T05:01:17+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18044585645657594",
       "text": "Dulu gue ngirim CV ke perusahaan Australia dengan format yang biasa gue pakai di sini.\nGa ada kabar. Sama sekali.\nBelaka",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbuU9cbm-mg",
       "timestamp": "2026-08-07T03:31:06+0000",
       "metrics": {
-        "views": 6,
+        "views": 35,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbuKrColL1B",
       "timestamp": "2026-08-07T02:01:12+0000",
       "metrics": {
-        "views": 6,
+        "views": 11,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbuAW36oLL1",
       "timestamp": "2026-08-07T00:31:03+0000",
       "metrics": {
-        "views": 46,
+        "views": 50,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbsPFcTCJPf",
       "timestamp": "2026-08-06T08:01:19+0000",
       "metrics": {
-        "views": 234,
+        "views": 236,
         "likes": 3,
         "replies": 1,
         "reposts": 1,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18066792497753569",
-      "text": "Elektrikalis 34 tahun, 8 tahun kerja di proyek dalam negeri, CV-nya bagus banget versi Indonesia.\nPas dia apply ke Austr",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbr6fbvm5j6",
-      "timestamp": "2026-08-06T05:01:19+0000",
-      "metrics": {
-        "views": 82,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
