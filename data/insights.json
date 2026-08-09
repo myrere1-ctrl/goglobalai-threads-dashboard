@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-09T07:15:35.027Z",
+  "updated_at": "2026-08-09T09:01:57.106Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=1heQQ_5PipcQ7kNvwFKmkUM&_nc_oc=Adr4frNGLSNvqyFEFzLBDqXXSNDgev7dUJ4gQ9zUtA5WMowROP2VQHynzOq11zIJZa8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FvNME0n5eegEPl3EIEVmKA&_nc_tpa=Q5bMBQI1kTlW6yrBV-EQY5Ho0dtdL2PeWZDz9I7ibPoutRG-iu44hKuCN8GGx_wjnXWKTT0lCBQpM_qYUA&oh=00_AQEEEzQP7zVe2-pgd6pXwCqQY1G0TcSWpgVIpWWf2w6yRw&oe=6A7DF1F5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=1heQQ_5PipcQ7kNvwFtJE-E&_nc_oc=AdqFgYJpOf3zF5zcARm-BYQfrwiEz-QHyFuNjxRffQ0s0ducM1EvAQumuYWa4jimZG4&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4SgYLIvbii-58X_LRgE3Og&_nc_tpa=Q5bMBQKskDl_mOOhNSX56ZC5szOmR_nGhjh2NCcvp-nknunBtT8HKM7kFFnK9RdV1lpYGP4KhxIwxWmleQ&oh=00_AQFJJbvUjN7bolCY9H5of7Nk_FD3ds7falE5j4alExIRTw&oe=6A7E2A35"
   },
   "summary": {
     "followers_count": 297,
-    "views": 0,
-    "likes": 0,
+    "views": 118,
+    "likes": 1,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 46,
-    "engagement_rate": 3.27,
+    "engagement_total": 48,
+    "engagement_rate": 3.2,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,12 +26,12 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbze-vKGWxt",
       "timestamp": "2026-08-09T03:34:19+0000",
       "metrics": {
-        "views": 363,
+        "views": 406,
         "likes": 10,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
-        "shares": 5
+        "shares": 6
       },
       "engagement": 10
     },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbw5weBICbn",
       "timestamp": "2026-08-08T03:31:07+0000",
       "metrics": {
-        "views": 210,
+        "views": 216,
         "likes": 5,
         "replies": 3,
         "reposts": 0,
@@ -49,6 +49,21 @@
         "shares": 0
       },
       "engagement": 8
+    },
+    {
+      "id": "18220178089332465",
+      "text": "Niat kerja di UK tapi ngerasa belum siap? Wajar — standar di sana lumayan ketat.\n • CV harus sesuai format UK, bukan for",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbzo2gUDnvM",
+      "timestamp": "2026-08-09T05:01:07+0000",
+      "metrics": {
+        "views": 37,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "17988187281009662",
@@ -79,31 +94,31 @@
         "shares": 0
       },
       "engagement": 3
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18101378543623638",
-      "text": "Udah belajar Bahasa Jepang bertahun-tahun, tapi nggak tau cara nulis CV-nya yang bener — pernah ada di posisi ini?\nDi Je",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dby_qFpGs_N",
-      "timestamp": "2026-08-08T23:01:09+0000",
+      "id": "18089490323452794",
+      "text": "Honest opinion: banyak orang udah LAYAK kerja remote gaji USD, tapi nggak pernah kepikiran karena CV-nya masih gaya loka",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbz9dAuGz21",
+      "timestamp": "2026-08-09T08:01:08+0000",
       "metrics": {
-        "views": 43,
-        "likes": 1,
+        "views": 26,
+        "likes": 0,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
     {
       "id": "18122330671831076",
       "text": "Pernah niat apply kerja ke Amerika tapi bingung mulai dari mana?\nBukan cuma soal bahasa Inggris — dokumen, visa kayak J1",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbzzKBtIAZX",
       "timestamp": "2026-08-09T06:31:10+0000",
       "metrics": {
-        "views": 34,
+        "views": 53,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,14 +133,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbzo2gUDnvM",
       "timestamp": "2026-08-09T05:01:07+0000",
       "metrics": {
-        "views": 28,
-        "likes": 0,
+        "views": 37,
+        "likes": 1,
         "replies": 1,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 3
     },
     {
       "id": "18133190227617037",
@@ -133,12 +148,12 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbze-vKGWxt",
       "timestamp": "2026-08-09T03:34:19+0000",
       "metrics": {
-        "views": 363,
+        "views": 406,
         "likes": 10,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
-        "shares": 5
+        "shares": 6
       },
       "engagement": 10
     },
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbzURIwm--9",
       "timestamp": "2026-08-09T02:01:15+0000",
       "metrics": {
-        "views": 84,
+        "views": 86,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dby_qFpGs_N",
       "timestamp": "2026-08-08T23:01:09+0000",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbyB4RIFkry",
       "timestamp": "2026-08-08T14:01:19+0000",
       "metrics": {
-        "views": 29,
+        "views": 30,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-08-08T12:01:18+0000",
       "metrics": {
         "views": 25,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18144956629557856",
-      "text": "Myth: kerja remote itu tinggal daftar, terus gaji USD masuk rekening 🤣\nRealitanya? CV kamu masih nulis \"bertanggung jaw",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbxmY3SlWUu",
-      "timestamp": "2026-08-08T10:01:06+0000",
-      "metrics": {
-        "views": 44,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
