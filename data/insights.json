@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-10T13:43:34.930Z",
+  "updated_at": "2026-08-10T15:16:28.051Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=VmQrl7qdAOUQ7kNvwGvnix2&_nc_oc=AdoPn4Mgo-fbcYXDHl471v53ZynEAH3qyK-rZfzFeoOs2_AN2xUOh9dttKrDeuuSp5A&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SLzKoqTiKWonQepzpmlDTg&_nc_tpa=Q5bMBQIZsmIn3MWXXA75bpKIEfCVxWUj-gBThCgvjuaymKP9amFEWWCffm0HFzljoLyURkTuVxjyZovtkg&oh=00_AQH17fbxD8euiGTEphVxuGRa4M11ohJE8nTP41QUX1NhsA&oe=6A7FB3F5"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=VmQrl7qdAOUQ7kNvwFAjM2Q&_nc_oc=Adr9zTXPERFo6Tdxg9OtwnubhawGOz84Y4r6q_bIFiSuZYfvCDpCfAxDcZqE7RwkLDo&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Oy0S_CokdaoTIKhu7ilQ1g&_nc_tpa=Q5bMBQKl2TsBCS5wUbcV3F6qkbMXn_nzVN5SRYdSbEots0P86DdDnz4Vi5DHEpVTx-6AE-NKl_vEgBp5jQ&oh=00_AQGeUgNLHCMIGaM5OoI5XMJYgtT4D_YOJf3rbMzv_Spk-w&oe=6A7FB3F5"
   },
   "summary": {
     "followers_count": 298,
-    "views": 532,
-    "likes": 6,
+    "views": 640,
+    "likes": 8,
     "replies": 0,
-    "reposts": 1,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 63,
-    "engagement_rate": 2.98,
+    "engagement_total": 66,
+    "engagement_rate": 3.06,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbze-vKGWxt",
       "timestamp": "2026-08-09T03:34:19+0000",
       "metrics": {
-        "views": 589,
+        "views": 591,
         "likes": 16,
         "replies": 0,
         "reposts": 0,
@@ -41,14 +41,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db2v_dnoP3x",
       "timestamp": "2026-08-10T10:01:14+0000",
       "metrics": {
-        "views": 207,
-        "likes": 6,
+        "views": 225,
+        "likes": 7,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 8
     },
     {
       "id": "17898444987482903",
@@ -56,14 +56,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db1uv4oEY9D",
       "timestamp": "2026-08-10T00:31:06+0000",
       "metrics": {
-        "views": 168,
-        "likes": 3,
+        "views": 186,
+        "likes": 5,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 5
+      "engagement": 7
     },
     {
       "id": "18094391600613428",
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db0Y67hldoI",
       "timestamp": "2026-08-09T12:01:09+0000",
       "metrics": {
-        "views": 218,
+        "views": 220,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18606803935039854",
+      "text": "Honest opinion: banyak orang gagal tembus pasar kerja Australia bukan karena kurang skill — tapi karena CV-nya masih for",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db3LdSNIOrq",
+      "timestamp": "2026-08-10T14:01:14+0000",
+      "metrics": {
+        "views": 32,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18348313741168142",
       "text": "Ekspektasi kerja di Korea: tinggal daftar, langsung jalan.\nRealita: ada ujian bahasa Korea dulu (EPS-TOPIK), dokumen har",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db29uP6ETnd",
       "timestamp": "2026-08-10T12:01:13+0000",
       "metrics": {
-        "views": 23,
+        "views": 30,
         "likes": 0,
         "replies": 1,
         "reposts": 1,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db23mDgGfkR",
       "timestamp": "2026-08-10T11:07:07+0000",
       "metrics": {
-        "views": 6,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,14 +148,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db2v_dnoP3x",
       "timestamp": "2026-08-10T10:01:14+0000",
       "metrics": {
-        "views": 207,
-        "likes": 6,
+        "views": 225,
+        "likes": 7,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 8
     },
     {
       "id": "17989579409842150",
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db2X8QbnI7a",
       "timestamp": "2026-08-10T06:31:04+0000",
       "metrics": {
-        "views": 63,
+        "views": 66,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -223,29 +238,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db1uv4oEY9D",
       "timestamp": "2026-08-10T00:31:06+0000",
       "metrics": {
-        "views": 168,
-        "likes": 3,
+        "views": 186,
+        "likes": 5,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 5
-    },
-    {
-      "id": "18149448556508923",
-      "text": "Dulu gue kira mau kerja di Korea tinggal daftar aja.\nEh ternyata ada ujian bahasa Korea dulu — namanya EPS-TOPIK.\nGue ga",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db1kdIkIIH6",
-      "timestamp": "2026-08-09T23:01:11+0000",
-      "metrics": {
-        "views": 47,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
+      "engagement": 7
     }
   ]
 }
