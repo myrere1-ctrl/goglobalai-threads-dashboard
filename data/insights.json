@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-10T10:35:55.793Z",
+  "updated_at": "2026-08-10T11:58:59.160Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=1heQQ_5PipcQ7kNvwGPhF45&_nc_oc=AdrangMEBijPP_emREperYsRuHWu4Vh3Vf5SRpVrOmOUTbQNqPZ815p6VS9GZrKCEpQ&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7NNCWGnbA1_H5XYLu1-7vQ&_nc_tpa=Q5bMBQLn0bJB9L1vz2T-qehnuP54MKhBFeSj1_oxfyQMy4WhTMw8mw08ItIoFsbNziOOoQFzDdKdEkqavw&oh=00_AQG3hELTa6R4WprRnlSUQkJx4iM-U4OjtLWnlCEdoU_d4A&oe=6A7F7BB5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=VmQrl7qdAOUQ7kNvwEjwRiM&_nc_oc=AdoQujS5Ukd2ggbpg_ZFQ81BPNLpPEF6M9yY5Q-XKvDDaurm0N4hXep7owCleSHyQZM&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mABw8KuKf3bNZpr8leNiug&_nc_tpa=Q5bMBQIfmFSFjV3OuTg333g_Xz3tyZ_ILb_C-Si3LdRwYaHJs81-vtTY-IHpAiSM9Gf35Fu2IkzugpFC2A&oh=00_AQFIFbPzs-wUyiYdhhcOV3Ij7JoZVgDWWgSHMPOOLoWE3w&oe=6A7F7BB5"
   },
   "summary": {
     "followers_count": 298,
-    "views": 239,
-    "likes": 0,
+    "views": 423,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 59,
-    "engagement_rate": 3.08,
+    "engagement_total": 61,
+    "engagement_rate": 2.95,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,12 +36,27 @@
       "engagement": 16
     },
     {
+      "id": "18095376242572484",
+      "text": "Kerja di Jepang itu bukan soal nekat — ada sistem-nya banget 😅\nYang sering kelewat sebelum apply:\n• JLPT: level tergant",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db2v_dnoP3x",
+      "timestamp": "2026-08-10T10:01:14+0000",
+      "metrics": {
+        "views": 163,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
       "id": "17898444987482903",
       "text": "Program Ausbildung di Jerman itu unik banget — kamu dibayar sambil belajar keahlian selama 2-3 tahun.\nTapi yang bikin ba",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db1uv4oEY9D",
       "timestamp": "2026-08-10T00:31:06+0000",
       "metrics": {
-        "views": 147,
+        "views": 154,
         "likes": 3,
         "replies": 2,
         "reposts": 0,
@@ -56,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db0Y67hldoI",
       "timestamp": "2026-08-09T12:01:09+0000",
       "metrics": {
-        "views": 201,
+        "views": 212,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -79,6 +94,23 @@
         "shares": 1
       },
       "engagement": 4
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18143471860542870",
+      "text": "REmote Jobs link .",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db23mDgGfkR",
+      "timestamp": "2026-08-10T11:07:07+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18095376242572484",
@@ -86,31 +118,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db2v_dnoP3x",
       "timestamp": "2026-08-10T10:01:14+0000",
       "metrics": {
-        "views": 19,
-        "likes": 2,
+        "views": 163,
+        "likes": 5,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18095376242572484",
-      "text": "Kerja di Jepang itu bukan soal nekat — ada sistem-nya banget 😅\nYang sering kelewat sebelum apply:\n• JLPT: level tergant",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db2v_dnoP3x",
-      "timestamp": "2026-08-10T10:01:14+0000",
-      "metrics": {
-        "views": 19,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
+      "engagement": 6
     },
     {
       "id": "17989579409842150",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db2iRQ2G3in",
       "timestamp": "2026-08-10T08:01:20+0000",
       "metrics": {
-        "views": 33,
+        "views": 36,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db2Np57kbog",
       "timestamp": "2026-08-10T05:01:10+0000",
       "metrics": {
-        "views": 22,
+        "views": 23,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db2DWsPERNC",
       "timestamp": "2026-08-10T03:31:11+0000",
       "metrics": {
-        "views": 47,
+        "views": 48,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db15DSAkTtI",
       "timestamp": "2026-08-10T02:01:09+0000",
       "metrics": {
-        "views": 23,
+        "views": 24,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db1uv4oEY9D",
       "timestamp": "2026-08-10T00:31:06+0000",
       "metrics": {
-        "views": 147,
+        "views": 154,
         "likes": 3,
         "replies": 2,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db1kdIkIIH6",
       "timestamp": "2026-08-09T23:01:11+0000",
       "metrics": {
-        "views": 46,
+        "views": 47,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18094391600613428",
-      "text": "Perawat 28 tahun ini kirim lamaran ke Jepang 3 kali, ditolak semua.\nPadahal pengalamannya solid. Ternyata salah satu mas",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db0Y67hldoI",
-      "timestamp": "2026-08-09T12:01:09+0000",
-      "metrics": {
-        "views": 201,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
