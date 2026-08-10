@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-09T23:46:08.020Z",
+  "updated_at": "2026-08-10T02:34:07.646Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=1heQQ_5PipcQ7kNvwG5-E_6&_nc_oc=Adpf9JIeTm9oCN2zPicQVwAtYkOUHUAUeO4UUqGzlDPyYJgxABhUHVBIeg3cfpRowlQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xESXRQXstHJA6gBsH_OeJA&_nc_tpa=Q5bMBQLophZoneHBQGgl4pOIOC_oBJnuVoxwMXS-G4WGbvT6ag0cJ15gAuIkMV_A499zytyvRlkPDSozaw&oh=00_AQEb5ILeKQjIbQ8Wd2LWrY7VR2qIybjOFaLEmijDoHPbPQ&oe=6A7ED2F5"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=1heQQ_5PipcQ7kNvwF_bcC-&_nc_oc=AdryKyalVRlfLbQlKtOJHryLZYL3Z72BYd3iawyVMyAjU8W3ALN-vNo-N2SDXytn8yc&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BeIjxmBG_0pg9lGP1qBLLQ&_nc_tpa=Q5bMBQLJM01Ti3yTSpWwXmdVi-Gw44ZxOLamWoOEddQt-8P0kpJdtP-0RX841Gh9g1PdNqMMWnGcOVpBkQ&oh=00_AQHLiVIsG6YAszQ_4alWxF6tfpc_1xBY8x5BO9H5Wm7q9Q&oe=6A7F0B35"
   },
   "summary": {
     "followers_count": 298,
-    "views": 786,
-    "likes": 15,
-    "replies": 0,
+    "views": 917,
+    "likes": 19,
+    "replies": 1,
     "reposts": 1,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 59,
-    "engagement_rate": 3.1,
+    "engagement_total": 62,
+    "engagement_rate": 3.38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dbze-vKGWxt",
       "timestamp": "2026-08-09T03:34:19+0000",
       "metrics": {
-        "views": 557,
-        "likes": 15,
+        "views": 576,
+        "likes": 16,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
-        "shares": 8
+        "shares": 9
       },
-      "engagement": 15
+      "engagement": 16
     },
     {
       "id": "18131690641626458",
@@ -51,12 +51,27 @@
       "engagement": 8
     },
     {
+      "id": "17898444987482903",
+      "text": "Program Ausbildung di Jerman itu unik banget — kamu dibayar sambil belajar keahlian selama 2-3 tahun.\nTapi yang bikin ba",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db1uv4oEY9D",
+      "timestamp": "2026-08-10T00:31:06+0000",
+      "metrics": {
+        "views": 45,
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 5
+    },
+    {
       "id": "18094391600613428",
       "text": "Perawat 28 tahun ini kirim lamaran ke Jepang 3 kali, ditolak semua.\nPadahal pengalamannya solid. Ternyata salah satu mas",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db0Y67hldoI",
       "timestamp": "2026-08-09T12:01:09+0000",
       "metrics": {
-        "views": 155,
+        "views": 163,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -71,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DbzURIwm--9",
       "timestamp": "2026-08-09T02:01:15+0000",
       "metrics": {
-        "views": 133,
+        "views": 134,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -79,31 +94,46 @@
         "shares": 1
       },
       "engagement": 4
-    },
-    {
-      "id": "18220178089332465",
-      "text": "Niat kerja di UK tapi ngerasa belum siap? Wajar — standar di sana lumayan ketat.\n • CV harus sesuai format UK, bukan for",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbzo2gUDnvM",
-      "timestamp": "2026-08-09T05:01:07+0000",
-      "metrics": {
-        "views": 55,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "18111811883061195",
+      "text": "CV kamu di Indonesia vs CV gaya Kanada — beda banget formatnya.\nDi sini kita biasa nulis foto, umur, status pernikahan.\n",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db15DSAkTtI",
+      "timestamp": "2026-08-10T02:01:09+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17898444987482903",
+      "text": "Program Ausbildung di Jerman itu unik banget — kamu dibayar sambil belajar keahlian selama 2-3 tahun.\nTapi yang bikin ba",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db1uv4oEY9D",
+      "timestamp": "2026-08-10T00:31:06+0000",
+      "metrics": {
+        "views": 45,
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 5
+    },
     {
       "id": "18149448556508923",
       "text": "Dulu gue kira mau kerja di Korea tinggal daftar aja.\nEh ternyata ada ujian bahasa Korea dulu — namanya EPS-TOPIK.\nGue ga",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db1kdIkIIH6",
       "timestamp": "2026-08-09T23:01:11+0000",
       "metrics": {
-        "views": 21,
+        "views": 43,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db0Y67hldoI",
       "timestamp": "2026-08-09T12:01:09+0000",
       "metrics": {
-        "views": 155,
+        "views": 163,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18133190227617037",
-      "text": "IELTS & TOEFL Free. Yang pernah daftar Free tolsnya bisa cek emailnya . GoGlobal AI kasih free Pro Plan + Akses awal unt",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dbze-vKGWxt",
-      "timestamp": "2026-08-09T03:34:19+0000",
-      "metrics": {
-        "views": 557,
-        "likes": 15,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 8
-      },
-      "engagement": 15
-    },
-    {
-      "id": "18013160915940543",
-      "text": "CV kamu bagus — tapi Kanada punya \"gaya baca\" tersendiri.\nDi sana recruiter sering cek format, bukan cuma isi.\nSkill ass",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DbzejMDESEX",
-      "timestamp": "2026-08-09T03:31:05+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
