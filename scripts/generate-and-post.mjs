@@ -3,9 +3,9 @@ import path from 'node:path';
 import { generatePost } from './lib/claude.mjs';
 import { postThread, postReply, verifyToken } from './lib/threads.mjs';
 
+// 6 post/hari, fokus sore–malam (prime-time engagement).
 const SLOTS = [
-  '06.00', '07.30', '09.00', '10.30', '12.00',
-  '13.30', '15.00', '17.00', '19.00', '21.00',
+  '10.00', '12.00', '15.00', '18.00', '20.00', '21.30',
 ];
 
 // Rotasi auto — fokus 9 destinasi utama app. Arab Saudi, Belanda, Polandia,
@@ -23,13 +23,13 @@ const COUNTRY_CONTEXT = {
   Korea:
     'Peluang WNI di Korea: 8 jenis pekerjaan, gaji Rp26-68jt/bln, banyak via jalur EPS-TOPIK (butuh lulus ujian bahasa Korea). Persiapan bahasa + dokumen krusial.',
   Australia:
-    'Peluang WNI di Australia: 9+ jenis pekerjaan, gaji Rp28-140jt/bln, termasuk mining FIFO. Butuh bahasa Inggris + sertifikasi diakui + CV format Australia.',
+    'Peluang WNI di Australia: 9+ jenis pekerjaan, gaji Rp28-140jt/bln, termasuk mining FIFO. Butuh bahasa Inggris + sertifikasi diakui + CV format Australia. UPDATE WHV (Work & Holiday subclass 462): sejak 1 Juli 2026 biaya visa grant pertama naik dari $670 ke $840. Sistem BALLOT untuk Indonesia SUDAH DISETUJUI (diumumkan 15 Juli 2026) TAPI BELUM AKTIF — saat ini masih kuota 5.000/th + SDUWHV; ballot AKAN diberlakukan (masih disiapkan, belum ada tanggal). JANGAN klaim ballot sudah berlaku sekarang.',
   Jerman:
     'Peluang WNI di Jerman: 9 jenis pekerjaan, gaji Rp13-112jt/bln, ada program Ausbildung (kerja sambil belajar). Bahasa Jerman + pengakuan ijazah penting.',
   Kanada:
     'Peluang WNI di Kanada: 9 jenis pekerjaan, gaji Rp26-109jt/bln. Sistem Express Entry, butuh skill assessment + CV/LinkedIn gaya Kanada.',
   'United Kingdom':
-    'Peluang WNI di UK: 5 jenis pekerjaan, gaji Rp36-120jt/bln. Skilled Worker visa (butuh sponsor employer). Full bahasa Inggris. Sektor: healthcare (NHS), hospitality, tech, care worker.',
+    'Peluang WNI di UK: 5 jenis pekerjaan, gaji Rp36-120jt/bln. Skilled Worker visa (butuh sponsor employer). PENTING (update, berlaku sejak 8 Jan 2026): syarat Bahasa Inggris NAIK dari B1 ke B2 (CEFR, upper-intermediate) untuk pelamar baru dari luar UK. Sektor: healthcare (NHS), hospitality, tech, care worker. Cocok diarahkan ke cek skor Inggris gratis di score.goglobal-ai.app.',
   'Amerika Serikat':
     'Peluang WNI di Amerika Serikat: 4 jenis pekerjaan, via visa J1 (exchange/internship) & H-2A (seasonal agriculture). Kompetitif, butuh sponsor + dokumen kuat + bahasa Inggris.',
   Remote:
@@ -44,13 +44,20 @@ const TONES = ['santai', 'inspiratif', 'edukatif', 'humor'];
 
 // CTA reply pool — ditaruh di REPLY (bukan post utama) biar post utama bersih dari link = reach tinggi.
 // Positioning: TOOL buat nyiapin diri, bukan agen kerja. {country} diisi otomatis.
+// 2 tool: score.goglobal-ai.app (cek skor Inggris IELTS/TOEFL/CEFR GRATIS selamanya)
+// + goglobal-ai.app (gaji real, visa, CV Builder, Scam Detector, Interview AI).
+// Mix seimbang, score tool menonjol karena relevan buat hampir semua destinasi.
 const CTA_REPLIES = [
-  'btw semua tools buat nyiapin diri ke {country} (cek gaji real, visa, CV, deteksi scam) ada di goglobal-ai.app — gratis buat mulai 🌏',
-  'aku riset {country} + 14 negara lain lewat goglobal-ai.app. ada Kalkulator Gaji & Scam Detector gratis, cek aja 👆',
-  'kalau CV kamu masih format Indonesia, coba upgrade pakai CV Builder di goglobal-ai.app biar lolos standar {country}. mulai gratis',
-  'sebelum ngelamar ke {country}, cek dulu peluang + gaji real-nya di goglobal-ai.app. gratis, ga perlu daftar ribet',
-  'mau interview buat posisi di {country}? ada Interview AI di goglobal-ai.app buat latihan. link di bio 🎯',
-  'info lengkap {country} (visa, gaji, jenis kerja) + tools nyiapin diri ada di goglobal-ai.app. mulai dari yang gratis dulu',
+  // --- score tool (gratis selamanya) ---
+  'mau ke {country}? cek dulu level Bahasa Inggris kamu (estimasi IELTS/TOEFL/CEFR) GRATIS di score.goglobal-ai.app — 2 menit, ga perlu daftar 🎯',
+  'banyak yang gagal ke {country} bukan karena skill, tapi Bahasa Inggris. tes level kamu gratis (selamanya) di score.goglobal-ai.app 📊',
+  'penasaran Inggrismu udah cukup belum buat {country}? assessment gratis di score.goglobal-ai.app, langsung dapet estimasi IELTS & TOEFL',
+  // --- app utama ---
+  'tools lengkap buat nyiapin diri ke {country} (gaji real, visa, CV, scam detector) ada di goglobal-ai.app — mulai gratis 🌏',
+  'aku riset {country} + 14 negara lain lewat goglobal-ai.app. ada Kalkulator Gaji, CV Builder & Interview AI. cek aja 👆',
+  // --- dua-duanya ---
+  'cek peluang + gaji real {country} di goglobal-ai.app, terus tes skor Inggris kamu gratis di score.goglobal-ai.app. dua-duanya gratis buat mulai',
+  'nyiapin diri ke {country}: 1) cek skor Inggris gratis di score.goglobal-ai.app, 2) riset gaji/visa/CV di goglobal-ai.app. step by step 🚀',
 ];
 
 function pickCtaReply(country) {
@@ -66,8 +73,8 @@ function parseArgs() {
     if (a.startsWith('--slot=')) out.slot = Number(a.split('=')[1]);
     if (a === '--dry-run') out.dryRun = true;
   }
-  if (out.slot === null || Number.isNaN(out.slot) || out.slot < 0 || out.slot > 9) {
-    throw new Error('Usage: node generate-and-post.mjs --slot=<0-9> [--dry-run]');
+  if (out.slot === null || Number.isNaN(out.slot) || out.slot < 0 || out.slot >= SLOTS.length) {
+    throw new Error(`Usage: node generate-and-post.mjs --slot=<0-${SLOTS.length - 1}> [--dry-run]`);
   }
   return out;
 }

@@ -2,9 +2,9 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 
+// 6 post/hari, fokus sore–malam. HARUS sama persis dgn SLOTS di generate-and-post.mjs.
 const SLOTS_WIB = [
-  '06.00', '07.30', '09.00', '10.30', '12.00',
-  '13.30', '15.00', '17.00', '19.00', '21.00',
+  '10.00', '12.00', '15.00', '18.00', '20.00', '21.30',
 ];
 
 const LOG_PATH = path.resolve('data/posted-log.json');
@@ -46,7 +46,7 @@ async function main() {
   const nowMin = nowWibMinutes();
 
   console.log(`Today: ${nowWibYmd()}, now: ${Math.floor(nowMin/60)}:${String(nowMin%60).padStart(2,'0')} WIB`);
-  console.log(`Posted today: [${[...postedSlots].sort().join(', ')}] (${postedSlots.size}/10)`);
+  console.log(`Posted today: [${[...postedSlots].sort().join(', ')}] (${postedSlots.size}/${SLOTS_WIB.length})`);
 
   let targetSlot = null;
   for (let i = 0; i < SLOTS_WIB.length; i++) {
