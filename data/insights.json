@@ -1,47 +1,32 @@
 {
-  "updated_at": "2026-08-12T08:39:23.068Z",
+  "updated_at": "2026-08-12T10:19:42.537Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=VmQrl7qdAOUQ7kNvwGtRwjn&_nc_oc=Adqp-77CP5wav6AhP_sfTODAnHeVchJmYggp_XuscYibQbpD-XUVfbwvxScQXRed-9w&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=uKccFtjqQIeB4DCfU8YAIQ&_nc_tpa=Q5bMBQItQnXLVSWfODpztdemc_uzrov32xcgsL1LIte0W-nJhT5wREAkFf4r_1jXZthjkkSdjULHBvBZGQ&oh=00_AQEMHIaDNLOFan0bRVqDw4VLKdJGOt_WOV4ESQkrmnFDJw&oe=6A821EB5"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=VmQrl7qdAOUQ7kNvwFUMz30&_nc_oc=AdrnwqRGOp-rlxaJZ-oAa1pb_Hj-w2ihxbF-prJ-RBfImhxQFnBu3Qup4Th30sDTWtc&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pOU1xyexLeiyctsIeuaahA&_nc_tpa=Q5bMBQKn_iFiz28XWrietuWSf4EU-v1H8W5CY3U_-Eg2bWUIg39vjC6ZKbwygJEAMEKUiVPXXTYRyIXd-A&oh=00_AQH3y2RrKbqi9p9FkQb4hO7Mgfk4YZuPJkaT7wPiPxYYKg&oe=6A821EB5"
   },
   "summary": {
     "followers_count": 298,
-    "views": 70,
+    "views": 102,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 45,
-    "engagement_rate": 2.55,
+    "engagement_total": 35,
+    "engagement_rate": 2.33,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18095376242572484",
-      "text": "Kerja di Jepang itu bukan soal nekat — ada sistem-nya banget 😅\nYang sering kelewat sebelum apply:\n• JLPT: level tergant",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db2v_dnoP3x",
-      "timestamp": "2026-08-10T10:01:14+0000",
-      "metrics": {
-        "views": 282,
-        "likes": 9,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 11
-    },
     {
       "id": "18098134142619292",
       "text": "Kerja di Jepang itu bukan soal punya skill — tapi soal ngebuktiin skill lo dengan cara yang mereka pahami.\nTiga hal yang",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db7hinxFoge",
       "timestamp": "2026-08-12T06:31:10+0000",
       "metrics": {
-        "views": 68,
+        "views": 69,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -94,16 +79,46 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "17865052365642956",
+      "text": "Temen gue akhirnya kerja di Australia setelah gagal 2x karena hal-hal yang sebenernya bisa disiapkan:\n• CV-nya format In",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db5ihxIFkS0",
+      "timestamp": "2026-08-11T12:01:18+0000",
+      "metrics": {
+        "views": 70,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18133093093626704",
+      "text": "CV-mu udah bagus — tapi bagus versi Indonesia 😅\n \n Ternyata format CV Australia beda banget:\n • Foto? Nggak perlu, mala",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db75lptFr4J",
+      "timestamp": "2026-08-12T10:01:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18476407366106748",
       "text": "Di Korea, cara nulis nama di CV bisa nentuin kesan pertama perekrut.\nUrutan, format, bahkan spasi — hal kecil yang serin",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db7r16CFqZQ",
       "timestamp": "2026-08-12T08:01:10+0000",
       "metrics": {
-        "views": 3,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db7hinxFoge",
       "timestamp": "2026-08-12T06:31:10+0000",
       "metrics": {
-        "views": 68,
+        "views": 69,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db64Vz4jv7G",
       "timestamp": "2026-08-12T00:31:09+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18111893663068645",
-      "text": "Honest opinion: banyak orang gagal EPS-TOPIK bukan karena bodoh, tapi karena belajarnya nggak terarah.\nDani, temen gue, ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db5UygMDRNJ",
-      "timestamp": "2026-08-11T10:01:15+0000",
-      "metrics": {
-        "views": 19,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
