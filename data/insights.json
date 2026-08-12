@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-12T06:41:49.601Z",
+  "updated_at": "2026-08-12T08:39:23.068Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=VmQrl7qdAOUQ7kNvwH5o7pN&_nc_oc=AdqoHvqvRiTa0UOvkPVjCXA9vLJ3TyyFu3L1gLKmmSXc_KwAdOcFuId-aRpPawJlNp0&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=amKNZBHMoyzv5eXIOQHdeA&_nc_tpa=Q5bMBQJBHF0caYbwTtNA2qXvx-qrlLE7eqFzUDNP52dJxDMvykwXlDSG1ZJIgX6teKUTcEwwUCG8KbDY0g&oh=00_AQHbjnGrJcTbmEf-p_0efr3So8-rGCyp-rjAzUCpS1zKVQ&oe=6A81E675"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=VmQrl7qdAOUQ7kNvwGtRwjn&_nc_oc=Adqp-77CP5wav6AhP_sfTODAnHeVchJmYggp_XuscYibQbpD-XUVfbwvxScQXRed-9w&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=uKccFtjqQIeB4DCfU8YAIQ&_nc_tpa=Q5bMBQItQnXLVSWfODpztdemc_uzrov32xcgsL1LIte0W-nJhT5wREAkFf4r_1jXZthjkkSdjULHBvBZGQ&oh=00_AQEMHIaDNLOFan0bRVqDw4VLKdJGOt_WOV4ESQkrmnFDJw&oe=6A821EB5"
   },
   "summary": {
     "followers_count": 298,
-    "views": 893,
-    "likes": 4,
+    "views": 70,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 43,
-    "engagement_rate": 2.5,
+    "engagement_total": 45,
+    "engagement_rate": 2.55,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,14 +41,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db7hinxFoge",
       "timestamp": "2026-08-12T06:31:10+0000",
       "metrics": {
-        "views": 0,
-        "likes": 1,
+        "views": 68,
+        "likes": 3,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 4
     },
     {
       "id": "17891279328600926",
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db7XPe0ID5V",
       "timestamp": "2026-08-12T05:01:10+0000",
       "metrics": {
-        "views": 8,
+        "views": 20,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -98,19 +98,34 @@
   ],
   "recent_posts": [
     {
-      "id": "18098134142619292",
-      "text": "Kerja di Jepang itu bukan soal punya skill — tapi soal ngebuktiin skill lo dengan cara yang mereka pahami.\nTiga hal yang",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db7hinxFoge",
-      "timestamp": "2026-08-12T06:31:10+0000",
+      "id": "18476407366106748",
+      "text": "Di Korea, cara nulis nama di CV bisa nentuin kesan pertama perekrut.\nUrutan, format, bahkan spasi — hal kecil yang serin",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db7r16CFqZQ",
+      "timestamp": "2026-08-12T08:01:10+0000",
       "metrics": {
-        "views": 0,
-        "likes": 1,
+        "views": 3,
+        "likes": 0,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 1
+    },
+    {
+      "id": "18098134142619292",
+      "text": "Kerja di Jepang itu bukan soal punya skill — tapi soal ngebuktiin skill lo dengan cara yang mereka pahami.\nTiga hal yang",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Db7hinxFoge",
+      "timestamp": "2026-08-12T06:31:10+0000",
+      "metrics": {
+        "views": 68,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     },
     {
       "id": "17891279328600926",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db7XPe0ID5V",
       "timestamp": "2026-08-12T05:01:10+0000",
       "metrics": {
-        "views": 8,
+        "views": 20,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db7CpH0iv8L",
       "timestamp": "2026-08-12T02:01:11+0000",
       "metrics": {
-        "views": 40,
+        "views": 41,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17904416553526672",
-      "text": "Kadang kalau ada yang bilang kerja ini suah dapatnya di Australia, karena suply nya kebanyakan,balik lagi rezeki orang i",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db5M8sNGSxH",
-      "timestamp": "2026-08-11T08:52:11+0000",
-      "metrics": {
-        "views": 68,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
