@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-15T04:46:37.737Z",
+  "updated_at": "2026-08-15T05:40:51.758Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BVbo7kcvyl8Q7kNvwHAkhHG&_nc_oc=AdqvA0WfnJXUd3nyZ3_ap4j2G7INTBrjO4FaZ3X0u2PWTIAvlbx3vYcB53y7w19QrIE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=n-U01uyz4nl9ejwwid_7VA&_nc_tpa=Q5bMBQI0otMe525gq-7CkuSdlGq1amOCetEuqwBJxFzVy6aCFacmGjMDJxlGQtmTa8xMxvPBn64doaM4iw&oh=00_AQFOgRfZ8gA3fgjCVrlenM8zhfDRj_Nthl9XJFADHAwItA&oe=6A85DAF5"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BVbo7kcvyl8Q7kNvwFaVnsV&_nc_oc=Ado6NKz43-DzEA21_V8yv--QY6MuG14G9_r01uW7dRUrokB5miLkKfn7ngcFNJ4d_Wg&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bzO6Y--lJM8gV22Kz-dyxQ&_nc_tpa=Q5bMBQLAkQro5V8y6SSTHiFnxLrGchZ8vPM6ofq_aKufHbh1xgbFETggD5SDWbYE9uG8QvM3mx6NjelzAA&oh=00_AQFYPjpJmFzW-eg9JUtvd-CCb2NFj_4F1-K_y7VgMvVoJg&oe=6A85DAF5"
   },
   "summary": {
     "followers_count": 311,
-    "views": 4622,
+    "views": 4845,
     "likes": 29,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 120,
-    "engagement_rate": 1.4,
+    "engagement_rate": 1.37,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db-XMDuGfVP",
       "timestamp": "2026-08-13T08:57:52+0000",
       "metrics": {
-        "views": 7009,
+        "views": 7195,
         "likes": 68,
         "replies": 3,
         "reposts": 5,
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcBiDqJoECV",
       "timestamp": "2026-08-14T14:31:07+0000",
       "metrics": {
-        "views": 75,
+        "views": 76,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18081877163661622",
+      "text": "Hampir 60% pekerja kapal pesiar internasional baru pertama kali kerja di lingkungan multibahasa — bukan karena mereka je",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcDFoMPnKcD",
+      "timestamp": "2026-08-15T05:01:11+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18127188805667816",
       "text": "Guru SD, 29 tahun, kirim lamaran remote ke platform AI training — ditolak bukan karena kemampuannya, tapi karena CV-nya ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcC35g5GyOt",
       "timestamp": "2026-08-15T03:01:13+0000",
       "metrics": {
-        "views": 21,
+        "views": 28,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcBiDqJoECV",
       "timestamp": "2026-08-14T14:31:07+0000",
       "metrics": {
-        "views": 75,
+        "views": 76,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17934270153364206",
-      "text": "Lolos ke Amerika itu bukan soal \"kenal orang\" — tapi soal siap apa nggak.\nVisa J1 atau H-2A minta banyak hal sebelum kam",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcATGb1jYz0",
-      "timestamp": "2026-08-14T03:01:11+0000",
-      "metrics": {
-        "views": 50,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
