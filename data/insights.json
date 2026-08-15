@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-15T07:44:11.522Z",
+  "updated_at": "2026-08-15T08:44:59.477Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BVbo7kcvyl8Q7kNvwFGOXSB&_nc_oc=AdpueBX5qctQICaJSNnE0T6DRhiQIkSCSfEydbBNDHo5DcfzGgrXyXDGUMW93oVr0MI&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SCXKA0KuKdx_ittytX5t0A&_nc_tpa=Q5bMBQJRXOc8IvfH9noAnv7iSzz-o7uLJIV7g4KLY9rbwYiPZDKJuDPWeLgGsYfsl3w-dM7ItF5_zeMjlw&oh=00_AQHKS4uXVK3h77Mm1WBXCOG61EF33h_YZsUhFlg1H-gXMA&oe=6A85DAF5"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BVbo7kcvyl8Q7kNvwEkJJgi&_nc_oc=AdpQKKDRcUUUQrI1a-WFHVjXy5B6VC_Yg88smYGg72wxRgdc4bMexSTZ3tumH95wAPI&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lMBppQ8B_w9FnNlPObup9w&_nc_tpa=Q5bMBQI1YCf6S5teIBVu3p82xfNzenTjCllTbGai9OyO45IpSQDMavH36GA221g-U7rSKJGwBMdWMlYhdQ&oh=00_AQGG8WVN4JFSLKeA_LZgzRoGi4nkx7KLrD-TAk_kIx_dyQ&oe=6A861335"
   },
   "summary": {
     "followers_count": 311,
-    "views": 104,
-    "likes": 0,
+    "views": 232,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 121,
-    "engagement_rate": 1.33,
+    "engagement_rate": 1.31,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Db-XMDuGfVP",
       "timestamp": "2026-08-13T08:57:52+0000",
       "metrics": {
-        "views": 7483,
-        "likes": 68,
+        "views": 7589,
+        "likes": 69,
         "replies": 3,
         "reposts": 5,
         "quotes": 0,
-        "shares": 24
+        "shares": 26
       },
-      "engagement": 76
+      "engagement": 77
     },
     {
       "id": "18067851230732918",
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcBiDqJoECV",
       "timestamp": "2026-08-14T14:31:07+0000",
       "metrics": {
-        "views": 81,
+        "views": 83,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18064452647759615",
+      "text": "Myth: kerja di Jepang itu buat yang jago bahasa Jepang aja.\nReality-nya, banyak yang mulai dari nol — belajar JLPT sambi",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcDaOP-Fr7R",
+      "timestamp": "2026-08-15T08:01:08+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18081877163661622",
       "text": "Hampir 60% pekerja kapal pesiar internasional baru pertama kali kerja di lingkungan multibahasa — bukan karena mereka je",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcDFoMPnKcD",
       "timestamp": "2026-08-15T05:01:11+0000",
       "metrics": {
-        "views": 52,
+        "views": 60,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcBiDqJoECV",
       "timestamp": "2026-08-14T14:31:07+0000",
       "metrics": {
-        "views": 81,
+        "views": 83,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcBXxo7FqbW",
       "timestamp": "2026-08-14T13:01:16+0000",
       "metrics": {
-        "views": 46,
+        "views": 48,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-08-14T05:01:07+0000",
       "metrics": {
         "views": 87,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17956219670996252",
-      "text": "Kerja di Australia GRATIS di-sponsor? Sektor ini yang PALING BANYAK kasih visa sponsorship ke WNI sejak 2024 sampai seka",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcAVs8JmQI2",
-      "timestamp": "2026-08-14T03:23:22+0000",
-      "metrics": {
-        "views": 234,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
