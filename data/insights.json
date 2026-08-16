@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-16T22:36:58.832Z",
+  "updated_at": "2026-08-16T23:34:08.937Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwGcVNfz&_nc_oc=Adqhcs0dd2ciE7riCv_-S3gc8eG6PO634uunl6T-E496gr9Vy-qrbHMEnlEenFasZjk&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9oujQUI3yflG4CnROhgyyg&_nc_tpa=Q5bMBQIjp1lzyTFnO932nQBcATuN0rmxvdk7nJwGe9MvR5xX1p9-sTv4fJsqd3XuKBEbHJa9StNNkpQ6DQ&oh=00_AQGUku9AlTRrFtHXMxiqlsp79hvWDjrUZtFBOBGE1gm-hA&oe=6A880D75"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=i2FGSGv79CUQ7kNvwFuegoJ&_nc_oc=AdqiYK4xEIztwYOqMzrmZd_7BcuXaqhWE3EFqM6GU5Eggk5jYFCMUBfLhG4Fi0LEZW0&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MgZda60k0pe4QPXgh84q6Q&_nc_tpa=Q5bMBQIjh1OsBU7HLcAUIukDOU0nhlfYflWfqvtZ-msJMS7UKw4ZxI6zYVuUXRJOHToKzk5maqfZ9tiMpA&oh=00_AQFySyt3OnLPgntshIzmJS1LtkxEnc4O4cfz27tlXg2rcQ&oe=6A880D75"
   },
   "summary": {
     "followers_count": 309,
-    "views": 487,
+    "views": 518,
     "likes": 2,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 49,
-    "engagement_rate": 2.3,
+    "engagement_total": 47,
+    "engagement_rate": 2.23,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
       "timestamp": "2026-08-15T13:01:10+0000",
       "metrics": {
-        "views": 275,
+        "views": 276,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFcsionF-j",
       "timestamp": "2026-08-16T03:01:14+0000",
       "metrics": {
-        "views": 283,
+        "views": 285,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18615999343045249",
+      "text": "Coba test IELTS yuks \n\nFollow dan DM di inbox \"MAU\" Aksesnya akan di kasih FREE",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcHjv_Ukonw",
+      "timestamp": "2026-08-16T22:40:48+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17888384163433856",
       "text": "Ekspektasi: kirim CV format Indonesia, langsung dilirik rekruter Kanada.\nRealita: CV-nya langsung masuk tong sampah digi",
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFqatKjZgh",
       "timestamp": "2026-08-16T05:01:07+0000",
       "metrics": {
-        "views": 191,
+        "views": 200,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFcsionF-j",
       "timestamp": "2026-08-16T03:01:14+0000",
       "metrics": {
-        "views": 283,
+        "views": 285,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17940860280330167",
-      "text": "Rata-rata pekerja Indonesia yang nyoba ke Australia... ditolak bukan karena skill-nya kurang, tapi CVnya ga sesuai forma",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
-      "timestamp": "2026-08-15T13:01:10+0000",
-      "metrics": {
-        "views": 275,
-        "likes": 5,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 6
     }
   ]
 }
