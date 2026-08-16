@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-16T13:44:47.515Z",
+  "updated_at": "2026-08-16T14:38:34.246Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwG87_9i&_nc_oc=AdpreL4a5O64O8apDVbopg_1eNEMxVh4xmPEyl0T-xwPC4nHe73c-hsJ6TOza-HAfKE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=10ZxhKvfpOI_oeEgLeoSrw&_nc_tpa=Q5bMBQJIT3l98-mz5cJ7IL_LBd283CVc5tVUeTm89xBWflA4gIbnIO9kwnLLj0rE3zEPdKgrWV0HiVbnXA&oh=00_AQHfBKli2y0DqqfMdtDZ9-QbfH80GJIjK1nhbxR9Y7Fb1w&oe=6A879CF5"
+    "picture": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwEVSmql&_nc_oc=AdphJZkmXRXGyqkMlSinqvJL6r8EolVIAUnzN1qXQ0wYLi0fYS0vLjB3g3sXi1dIQ4M&_nc_zt=24&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rrpQ6cymy3afqRD4cr2LAA&_nc_tpa=Q5bMBQIsmEZ2rbNvQ9No0WS7x__N0PoVy3IyUigshdXys7LNNJoo-2aJSn4nLBLWh0Zh5_EXh9W5WrXOSw&oh=00_AQHniz1hApPIf4XX1OhFiAlb0dzhswSmJzTZ6g_N8kbilQ&oe=6A879CF5"
   },
   "summary": {
     "followers_count": 309,
-    "views": 267,
+    "views": 309,
     "likes": 2,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 51,
-    "engagement_rate": 2.42,
+    "engagement_total": 49,
+    "engagement_rate": 2.48,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
       "timestamp": "2026-08-15T13:01:10+0000",
       "metrics": {
-        "views": 269,
+        "views": 271,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFcsionF-j",
       "timestamp": "2026-08-16T03:01:14+0000",
       "metrics": {
-        "views": 261,
+        "views": 265,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17888384163433856",
+      "text": "Ekspektasi: kirim CV format Indonesia, langsung dilirik rekruter Kanada.\nRealita: CV-nya langsung masuk tong sampah digi",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcGrpDrHD8N",
+      "timestamp": "2026-08-16T14:31:04+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17863504596659409",
       "text": "Honest opinion: banyak orang gagal kerja ke Jerman bukan karena kurang skill — tapi karena ijazahnya gak diakui di sana.",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcGhW6hFlyr",
       "timestamp": "2026-08-16T13:01:12+0000",
       "metrics": {
-        "views": 8,
+        "views": 23,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcGTngzoLMo",
       "timestamp": "2026-08-16T11:01:09+0000",
       "metrics": {
-        "views": 41,
+        "views": 42,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFqatKjZgh",
       "timestamp": "2026-08-16T05:01:07+0000",
       "metrics": {
-        "views": 138,
+        "views": 148,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFcsionF-j",
       "timestamp": "2026-08-16T03:01:14+0000",
       "metrics": {
-        "views": 261,
+        "views": 265,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -223,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
       "timestamp": "2026-08-15T13:01:10+0000",
       "metrics": {
-        "views": 269,
+        "views": 271,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 1
       },
       "engagement": 6
-    },
-    {
-      "id": "18112606348955311",
-      "text": "Ekspektasi kerja di Korea: langsung apply, langsung diterima 🇰🇷\nRealita: ada ujian bahasa Korea dulu (EPS-TOPIK), doku",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcDu0sXmwc0",
-      "timestamp": "2026-08-15T11:01:08+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
