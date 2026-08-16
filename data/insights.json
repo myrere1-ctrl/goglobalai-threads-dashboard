@@ -1,47 +1,32 @@
 {
-  "updated_at": "2026-08-16T13:00:36.125Z",
+  "updated_at": "2026-08-16T13:44:47.515Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=i2FGSGv79CUQ7kNvwH1_j2E&_nc_oc=Adp20eT49kAN_KcNwS5bIKXZZqNs8XdUoEKDUxu01sgunIxKjep20aN0MOek0kW9qNk&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=aazBdowouJiD9HEZjrZLVw&_nc_tpa=Q5bMBQKCHLkEiBwrCvbGnOJ3CYCYGMpJxHSTTnOtgvx8X5GkTjsm8SS0brAZcN2grUbaWVFlxOqxAqvl4Q&oh=00_AQGXzPHUAXLJjZOmXtQxdKCD7gYUdEKLZ8hNhd77-718_A&oe=6A879CF5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwG87_9i&_nc_oc=AdpreL4a5O64O8apDVbopg_1eNEMxVh4xmPEyl0T-xwPC4nHe73c-hsJ6TOza-HAfKE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=10ZxhKvfpOI_oeEgLeoSrw&_nc_tpa=Q5bMBQJIT3l98-mz5cJ7IL_LBd283CVc5tVUeTm89xBWflA4gIbnIO9kwnLLj0rE3zEPdKgrWV0HiVbnXA&oh=00_AQHfBKli2y0DqqfMdtDZ9-QbfH80GJIjK1nhbxR9Y7Fb1w&oe=6A879CF5"
   },
   "summary": {
     "followers_count": 309,
-    "views": 232,
+    "views": 267,
     "likes": 2,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 128,
-    "engagement_rate": 1.28,
+    "engagement_total": 51,
+    "engagement_rate": 2.42,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18075927860345542",
-      "text": "Fakta yang nggak banyak dibahas soal pasar kerja tech: Jepang kekurangan 790.000+ tenaga IT pada 2030. Indonesia menceta",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Db-XMDuGfVP",
-      "timestamp": "2026-08-13T08:57:52+0000",
-      "metrics": {
-        "views": 7916,
-        "likes": 70,
-        "replies": 3,
-        "reposts": 5,
-        "quotes": 0,
-        "shares": 26
-      },
-      "engagement": 78
-    },
     {
       "id": "17940860280330167",
       "text": "Rata-rata pekerja Indonesia yang nyoba ke Australia... ditolak bukan karena skill-nya kurang, tapi CVnya ga sesuai forma",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
       "timestamp": "2026-08-15T13:01:10+0000",
       "metrics": {
-        "views": 267,
+        "views": 269,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -86,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFcsionF-j",
       "timestamp": "2026-08-16T03:01:14+0000",
       "metrics": {
-        "views": 259,
+        "views": 261,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -94,16 +79,46 @@
         "shares": 1
       },
       "engagement": 3
+    },
+    {
+      "id": "18081877163661622",
+      "text": "Hampir 60% pekerja kapal pesiar internasional baru pertama kali kerja di lingkungan multibahasa — bukan karena mereka je",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcDFoMPnKcD",
+      "timestamp": "2026-08-15T05:01:11+0000",
+      "metrics": {
+        "views": 83,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "17863504596659409",
+      "text": "Honest opinion: banyak orang gagal kerja ke Jerman bukan karena kurang skill — tapi karena ijazahnya gak diakui di sana.",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcGhW6hFlyr",
+      "timestamp": "2026-08-16T13:01:12+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18143005516487150",
       "text": "Honest opinion: kebanyakan orang yang gagal tembus kerja ke Australia bukan karena kurang skill — tapi karena CVnya masi",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcGTngzoLMo",
       "timestamp": "2026-08-16T11:01:09+0000",
       "metrics": {
-        "views": 31,
+        "views": 41,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFqatKjZgh",
       "timestamp": "2026-08-16T05:01:07+0000",
       "metrics": {
-        "views": 135,
+        "views": 138,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFcsionF-j",
       "timestamp": "2026-08-16T03:01:14+0000",
       "metrics": {
-        "views": 259,
+        "views": 261,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
       "timestamp": "2026-08-15T13:01:10+0000",
       "metrics": {
-        "views": 267,
+        "views": 269,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18064452647759615",
-      "text": "Myth: kerja di Jepang itu buat yang jago bahasa Jepang aja.\nReality-nya, banyak yang mulai dari nol — belajar JLPT sambi",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcDaOP-Fr7R",
-      "timestamp": "2026-08-15T08:01:08+0000",
-      "metrics": {
-        "views": 37,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
