@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-16T04:49:50.829Z",
+  "updated_at": "2026-08-16T05:43:01.269Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BVbo7kcvyl8Q7kNvwFa6DLH&_nc_oc=Adp4MmuTe8hNrwdXnvNXx7hV6_CxRUl3HhRP6-WLw9DNfSZE8oh1FVcwfmB83hVX2Is&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eW84NLutTekYYPJZkNXvaw&_nc_tpa=Q5bMBQLYeDYl7TJSxyWUwxgg4vkkNJrjUVO9f_Gq9dQbQhVvXz6tH3PmvfCcK-qTiJblvCUPAi6wJvK9zQ&oh=00_AQErL4Wcc8WmUMKj0d13r-4jB4BBdf1SSLbyW8UGlBgUYw&oe=6A872C75"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=BVbo7kcvyl8Q7kNvwEycYd6&_nc_oc=AdoQ1tfKD-GBdofxpoE_xmbjlOiU5xnVWNR9I-dYdoF0XA7ieuySmRWSyXjdmdLrtdQ&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=q2dgXKqWl0SmldJFqH6fHw&_nc_tpa=Q5bMBQIIdXnzvDWSUiVgkgtbQvHvJaRrbQFZ-whx82YznLMDzZeJFVvfFL0Dt9EFLT8lkTXDXZ7WkroEXQ&oh=00_AQEh-ptBilmAPXodpZuo0GFGe-g5-Xxq2ulOzOyD4Z3ybg&oe=6A872C75"
   },
   "summary": {
     "followers_count": 310,
-    "views": 1436,
+    "views": 1481,
     "likes": 13,
     "replies": 0,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 128,
-    "engagement_rate": 1.29,
+    "engagement_total": 127,
+    "engagement_rate": 1.28,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
       "timestamp": "2026-08-15T13:01:10+0000",
       "metrics": {
-        "views": 223,
+        "views": 225,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18144112606555278",
+      "text": "Dulu gue sempet ngirim lamaran ke Jepang.\nCV gue ditolak bukan karena nggak kompeten — tapi formatnya salah total.\nDi sa",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcFqatKjZgh",
+      "timestamp": "2026-08-16T05:01:07+0000",
+      "metrics": {
+        "views": 19,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18049160051796019",
       "text": "Kerja di kapal pesiar itu unik — kamu dibayar dalam USD, makan & tidur gratis, tapi \"kantor\" lo bisa pindah dari Mediter",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcFcsionF-j",
       "timestamp": "2026-08-16T03:01:14+0000",
       "metrics": {
-        "views": 175,
+        "views": 192,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcEG2c_oLGO",
       "timestamp": "2026-08-15T14:31:06+0000",
       "metrics": {
-        "views": 58,
+        "views": 59,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcD8j5_lNIj",
       "timestamp": "2026-08-15T13:01:10+0000",
       "metrics": {
-        "views": 223,
+        "views": 225,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcDFoMPnKcD",
       "timestamp": "2026-08-15T05:01:11+0000",
       "metrics": {
-        "views": 80,
+        "views": 82,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18067851230732918",
-      "text": "Ekspektasi: kerja di Australia tinggal cari lowongan terus daftar.\nRealita: CV-mu ditolak sebelum sempat dibaca, karena ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcBiDqJoECV",
-      "timestamp": "2026-08-14T14:31:07+0000",
-      "metrics": {
-        "views": 89,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
