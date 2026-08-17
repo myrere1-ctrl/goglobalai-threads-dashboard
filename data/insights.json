@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-17T11:40:40.719Z",
+  "updated_at": "2026-08-17T13:05:10.565Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwFKH_ZH&_nc_oc=Adp5wbkt41YzFhtUedIIfU3CBe7FWz7crA8O4V5BVQ7fUpDR2Hf9gkwnF0eCwFcBVII&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bMlSUf5KqqU_ljrO0ApNRg&_nc_tpa=Q5bMBQIbWoFAgvEmiRwrvs7tC2ykD_rVlXXemzI5UKPHCpJQrUvcICJUTnOrfyD0Pu6m-kXc_BkYyFuOYA&oh=00_AQG3sqBNhRFA6K6IBRwVIrts18aGCeHrCRJw8PgYAppmMw&oe=6A88B635"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwE4q1L8&_nc_oc=AdrQrukGJD8anCv6zT-CcFs8DFS6WECFsYPC89-c9jjf3pxO5RlBIHeMAt70drhNQPE&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QAEhPY5Ro_FRwe77IDszZw&_nc_tpa=Q5bMBQKiAINeJASyaqyRB-KzegaGlWDvrcjjz_P5MQ-Ck4N3gt9rmI2DxRxbew2scf593d7LKa5h3oIY7Q&oh=00_AQEHY41swmO9_lEEh3TcWGZDxgOXklIJbhsB4xlWDZ06eQ&oe=6A88EE75"
   },
   "summary": {
     "followers_count": 309,
-    "views": 192,
-    "likes": 1,
+    "views": 287,
+    "likes": 2,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 51,
-    "engagement_rate": 2.52,
+    "engagement_rate": 2.59,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcHjv_Ukonw",
       "timestamp": "2026-08-16T22:40:48+0000",
       "metrics": {
-        "views": 97,
+        "views": 102,
         "likes": 3,
         "replies": 4,
         "reposts": 0,
@@ -98,12 +98,12 @@
   ],
   "recent_posts": [
     {
-      "id": "18070024010474407",
-      "text": "Dulu gue kira buat kerja di Jerman tinggal kirim CV terus tunggu dipanggil 😂\nTernyata... ijazah gue harus diakui dulu d",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcI4bXJIDlr",
-      "timestamp": "2026-08-17T11:01:17+0000",
+      "id": "18130403533637851",
+      "text": "CV gaya Indonesia vs CV gaya Kanada itu beda banget.\nYang biasa kita bikin: panjang, ada foto, lengkap sampai hobi.\nYang",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcJGKhqjrSm",
+      "timestamp": "2026-08-17T13:01:19+0000",
       "metrics": {
-        "views": 16,
+        "views": 0,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -111,6 +111,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "18070024010474407",
+      "text": "Dulu gue kira buat kerja di Jerman tinggal kirim CV terus tunggu dipanggil 😂\nTernyata... ijazah gue harus diakui dulu d",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcI4bXJIDlr",
+      "timestamp": "2026-08-17T11:01:17+0000",
+      "metrics": {
+        "views": 95,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "17945125602057571",
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcIBfGrkfqy",
       "timestamp": "2026-08-17T03:01:11+0000",
       "metrics": {
-        "views": 49,
+        "views": 50,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcHjv_Ukonw",
       "timestamp": "2026-08-16T22:40:48+0000",
       "metrics": {
-        "views": 97,
+        "views": 102,
         "likes": 3,
         "replies": 4,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcGhW6hFlyr",
       "timestamp": "2026-08-16T13:01:12+0000",
       "metrics": {
-        "views": 73,
+        "views": 74,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcGTngzoLMo",
       "timestamp": "2026-08-16T11:01:09+0000",
       "metrics": {
-        "views": 45,
+        "views": 46,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18144112606555278",
-      "text": "Dulu gue sempet ngirim lamaran ke Jepang.\nCV gue ditolak bukan karena nggak kompeten — tapi formatnya salah total.\nDi sa",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcFqatKjZgh",
-      "timestamp": "2026-08-16T05:01:07+0000",
-      "metrics": {
-        "views": 227,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
