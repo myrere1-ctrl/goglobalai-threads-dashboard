@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-18T13:56:48.314Z",
+  "updated_at": "2026-08-18T14:52:46.921Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwG169Dt&_nc_oc=AdonTtdiHHKyOr6UapAoesdh2SLCrRyH73-KOkfiJIvXnvNhCWDfk_dnMpMd7tI958w&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oa8qgGcuIheNFrun0gosqQ&_nc_tpa=Q5bMBQLXkV3ncPTI66WlUmV-_4etASsqqFECKS1plqR6noE1jWj8rDu23AZFemoXlsBRTsz525EIMLj7uQ&oh=00_AQFSHaXGPRWvn2dLJaQcgjlFE8xWenwdGwz9HPiHd0UKKQ&oe=6A8A3FF5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwEShFT_&_nc_oc=AdpIcTXAlfRyE-hSrw5ZmOKYIdylV-vhAeggYDDevb__ZbVRsFCw_z9-t98OXpnqw8o&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nzWx2S5hKrSJCPz6SZzHRQ&_nc_tpa=Q5bMBQLSUkTI6UEpCAnbr9WlJWcfiIL5jMbsUS1-NqtXTshf-YMvbuCvnrc_Zcs05mv-SsDNTwWCoSdE3A&oh=00_AQGLJPg1qyEFAiaXToC6lhzvv_a1qf2QavWjuGLW67buuw&oe=6A8A3FF5"
   },
   "summary": {
     "followers_count": 309,
-    "views": 409,
+    "views": 423,
     "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 53,
-    "engagement_rate": 2.48,
+    "engagement_rate": 2.51,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcK0AcYDsHC",
       "timestamp": "2026-08-18T05:01:07+0000",
       "metrics": {
-        "views": 106,
+        "views": 107,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18547322128075784",
+      "text": "Honest opinion: banyak yang gagal ke Amerika bukan karena kurang rezeki, tapi kurang siap.\nDokumennya kurang kuat. Bahas",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcL1PYXkX2-",
+      "timestamp": "2026-08-18T14:31:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18107318471016374",
       "text": "Dulu gue kira modal semangat aja cukup buat daftar kerja ke UK.\nEh ternyata skor Bahasa Inggris gue masih B1, sementara ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcLq9J_IBZC",
       "timestamp": "2026-08-18T13:01:17+0000",
       "metrics": {
-        "views": 11,
+        "views": 19,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcK0AcYDsHC",
       "timestamp": "2026-08-18T05:01:07+0000",
       "metrics": {
-        "views": 106,
+        "views": 107,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -223,22 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcI4bXJIDlr",
       "timestamp": "2026-08-17T11:01:17+0000",
       "metrics": {
-        "views": 158,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "17945125602057571",
-      "text": "Recruiter Australia baca CV kamu dalam 6 detik pertama.\nBukan skill-nya yang bikin dia lanjut baca — tapi formatnya.\nCV ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcIj1Lhlv6Y",
-      "timestamp": "2026-08-17T08:01:17+0000",
-      "metrics": {
-        "views": 101,
+        "views": 159,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
