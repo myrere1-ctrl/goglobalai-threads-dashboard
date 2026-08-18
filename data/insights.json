@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-18T04:51:50.349Z",
+  "updated_at": "2026-08-18T05:45:10.173Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwGJbA9k&_nc_oc=AdpheKx0bir_VOqbzPzso99n3DsOYaHiCaHYDGBcz58hJUur7mcA2ex8GJaFHLkm5JI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jxne3yLybT8Ole9d-Q0KVA&_nc_tpa=Q5bMBQIifV6qHf-05JWe0U05vSYkN2Q4BiSQ6_ojaWYLLf7FVdgQpUNHk-E6cNTuwGhBezYmlbA1PGktvQ&oh=00_AQGNZt8AMJeWu0sigXjvVjszjD3Ig4_a7QVayAHK1fPhuA&oe=6A89CF75"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwFz15dE&_nc_oc=AdpPeqeXfchH-QIckv7Uo-LxY_jVg_okck3_XzjjjGH0xFfXAZLtziaqXsmCDGu18rg&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=08NQNSethBNzmlmSMX62ng&_nc_tpa=Q5bMBQK0aj1rdkSQ-I7XgTuQmk8Ah-bvlzODdFFCe_LF1phwycv3ZRXP3HZPwGW1AutBzC-2kXeDhdlMKw&oh=00_AQHMUIW0yGVO62VKqYtg4Iq6TVniqNBPOf5K2LguH6291A&oe=6A89CF75"
   },
   "summary": {
     "followers_count": 309,
-    "views": 968,
-    "likes": 6,
+    "views": 1029,
+    "likes": 7,
     "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 51,
-    "engagement_rate": 2.41,
+    "engagement_total": 52,
+    "engagement_rate": 2.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18259861549307333",
+      "text": "Honest opinion: bukan bahasa Inggris yang bikin orang gagal ke Australia.\nYang bikin gagal itu CV-nya masih format lamar",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcK0AcYDsHC",
+      "timestamp": "2026-08-18T05:01:07+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18011133653746815",
       "text": "Honest opinion: banyak orang gagal lolos EPS-TOPIK bukan karena kurang pintar, tapi karena sok santai soal persiapan bah",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcKmR1sIL0O",
       "timestamp": "2026-08-18T03:01:10+0000",
       "metrics": {
-        "views": 21,
+        "views": 23,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcI4bXJIDlr",
       "timestamp": "2026-08-17T11:01:17+0000",
       "metrics": {
-        "views": 155,
+        "views": 156,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-08-16T14:31:04+0000",
       "metrics": {
         "views": 46,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17863504596659409",
-      "text": "Honest opinion: banyak orang gagal kerja ke Jerman bukan karena kurang skill — tapi karena ijazahnya gak diakui di sana.",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcGhW6hFlyr",
-      "timestamp": "2026-08-16T13:01:12+0000",
-      "metrics": {
-        "views": 75,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
