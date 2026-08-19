@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-19T10:46:01.711Z",
+  "updated_at": "2026-08-19T11:39:54.730Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=i2FGSGv79CUQ7kNvwFRKMze&_nc_oc=AdpWWxDIl7hGgYQH4zFAg4_Zs4vTlmzao-MDLPbCNzrVpBKdZn34lsrZGfDIR3C4_8E&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1bmjX0ztA2HeedyjPdnxrw&_nc_tpa=Q5bMBQKL2fDYPPdcrKNmskTnfBeY0EH5ow-XHi6vHdDfEVN9zrx3PGyfn4hamJSMzSY5GiEhlFOMoGrqgg&oh=00_AQGvBHSuuBz7yVE6-Z0tenXkNedFSTpY5wNiw9NZ8BIc_Q&oe=6A8B5935"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwGhNyjV&_nc_oc=AdqC42yAnF6Tene692QGoRNQEe1opMZ5FMLh3mMHRQ5LNMd1py002bDYK2pQbe7Po84&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FJI6xMRaCRa5bo2o3B-rLw&_nc_tpa=Q5bMBQIeGJAV_vmppARp-p3NOAHXmTUW1lU-Q77_dzvH9US6SNv7XSzedX7PlV84_Y8EFvMP5Ul3PlInPg&oh=00_AQE8ZWJAJxl8Pi2TGZebmDLABljY4bOx-ZvxOm15s7KDAA&oe=6A8B5935"
   },
   "summary": {
     "followers_count": 309,
-    "views": 94,
+    "views": 120,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 44,
-    "engagement_rate": 2.25,
+    "engagement_rate": 2.27,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18032834465831318",
+      "text": "Perawat 29 tahun ini udah IELTS 6.5, CV rapi, pengalaman NHS-ready banget.\nDitolak visa. Skornya kurang 0.5 poin dari sy",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcOCAgZFnBm",
+      "timestamp": "2026-08-19T11:01:11+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18098158817347190",
       "text": "CV kamu yang biasa dipakai di Indonesia, belum tentu lolos screening di Kanada.\nSistem mereka beda — ada Express Entry, ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcNtZ8wFnez",
       "timestamp": "2026-08-19T08:01:10+0000",
       "metrics": {
-        "views": 45,
+        "views": 47,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcNYzlXFBUQ",
       "timestamp": "2026-08-19T05:01:08+0000",
       "metrics": {
-        "views": 20,
+        "views": 21,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 1
       },
       "engagement": 3
-    },
-    {
-      "id": "18011133653746815",
-      "text": "Honest opinion: banyak orang gagal lolos EPS-TOPIK bukan karena kurang pintar, tapi karena sok santai soal persiapan bah",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcKmR1sIL0O",
-      "timestamp": "2026-08-18T03:01:10+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
