@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-19T11:39:54.730Z",
+  "updated_at": "2026-08-19T13:08:06.300Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwGhNyjV&_nc_oc=AdqC42yAnF6Tene692QGoRNQEe1opMZ5FMLh3mMHRQ5LNMd1py002bDYK2pQbe7Po84&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FJI6xMRaCRa5bo2o3B-rLw&_nc_tpa=Q5bMBQIeGJAV_vmppARp-p3NOAHXmTUW1lU-Q77_dzvH9US6SNv7XSzedX7PlV84_Y8EFvMP5Ul3PlInPg&oh=00_AQE8ZWJAJxl8Pi2TGZebmDLABljY4bOx-ZvxOm15s7KDAA&oe=6A8B5935"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwFPpHiT&_nc_oc=AdpN9vFngKLvk_8G-caZrQ5gYZ-SOzDzSdXQ0dR8MnbnR0dOmot2GsX5K7AfKQINUYg&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ADshfqqZOcR6rKcPj4mtVw&_nc_tpa=Q5bMBQJq47GcJlx6H5VBZy4ekr0_94x6go4ujOKbXZ7tb8KN-fioL41ImzwV8r-iP-f-dk56-nbWWQCxaQ&oh=00_AQE40KmucHbJY5RP28omSdj8AFyLvEoG6WCPkcrygt41YA&oe=6A8B9175"
   },
   "summary": {
     "followers_count": 309,
-    "views": 120,
+    "views": 163,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 2.27,
+    "engagement_total": 43,
+    "engagement_rate": 2.32,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17882809290681800",
+      "text": "Myth: yang bikin susah masuk kerja di AS itu bahasa Inggris-nya.\nPadahal banyak yang Inggris-nya oke, tapi tetap mentok ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcOPvIXm55W",
+      "timestamp": "2026-08-19T13:01:09+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18032834465831318",
       "text": "Perawat 29 tahun ini udah IELTS 6.5, CV rapi, pengalaman NHS-ready banget.\nDitolak visa. Skornya kurang 0.5 poin dari sy",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcOCAgZFnBm",
       "timestamp": "2026-08-19T11:01:11+0000",
       "metrics": {
-        "views": 18,
+        "views": 36,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcNYzlXFBUQ",
       "timestamp": "2026-08-19T05:01:08+0000",
       "metrics": {
-        "views": 21,
+        "views": 24,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcL1PYXkX2-",
       "timestamp": "2026-08-18T14:31:08+0000",
       "metrics": {
-        "views": 48,
+        "views": 49,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcLdNpqDABS",
       "timestamp": "2026-08-18T11:01:11+0000",
       "metrics": {
-        "views": 58,
+        "views": 59,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18259861549307333",
-      "text": "Honest opinion: bukan bahasa Inggris yang bikin orang gagal ke Australia.\nYang bikin gagal itu CV-nya masih format lamar",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcK0AcYDsHC",
-      "timestamp": "2026-08-18T05:01:07+0000",
-      "metrics": {
-        "views": 135,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 3
     }
   ]
 }
