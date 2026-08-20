@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-20T15:49:13.379Z",
+  "updated_at": "2026-08-20T16:50:17.011Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwGuNczQ&_nc_oc=Adrm2ecX5AknooAHCf7HKEpMjbAm_x0wRlbhFi_2-69GfDcOwnpyUvDRd7ysFBqutkg&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=WyjaAwFUr4LLqVL9rBB33A&_nc_tpa=Q5bMBQKegLhLjGUtS7TiSC_k_Bde_FSmBpFuUj-BDMJ00_wUwNypplXTsVt8l4mfpt1EBegK-oDaxg8zWQ&oh=00_AQHcIwM30WdDp_uYJlBLCbc3tHHruL09UyPR8Ov8VwYMTg&oe=6A8CE2F5"
+    "picture": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwGf4FvN&_nc_oc=AdpcAiZUgNlUQCyorps_drgDpsVGlIb3_GtFJqW5jdOY6S5yxvvo6rlTPaW1674CFLA&_nc_zt=24&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1T7n84D9dmWTzoqAVsD2tA&_nc_tpa=Q5bMBQKmRA9RqZWzOyhRsS4OLFNpvy6O8Ssrb_6-0a-5Q9jsrpJPnGkW6_4dkXXOjdwtNyTFH03EKGzDOQ&oh=00_AQFJadplBpMwZD2RFQLSR0GMhjrWmOle5sjU9bE7iT0wsA&oe=6A8D1B35"
   },
   "summary": {
-    "followers_count": 309,
-    "views": 220,
+    "followers_count": 310,
+    "views": 290,
     "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 36,
-    "engagement_rate": 2.68,
+    "engagement_total": 37,
+    "engagement_rate": 2.61,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -51,6 +51,21 @@
       "engagement": 3
     },
     {
+      "id": "18121166152851439",
+      "text": "Chef 27 tahun itu ngirim 40 lamaran kapal pesiar — semua ditolak.\nBukan karena nggak jago masak. Tapi CV-nya nggak perna",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcQ-1ZhIM3l",
+      "timestamp": "2026-08-20T14:31:11+0000",
+      "metrics": {
+        "views": 122,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18013504010937873",
       "text": "9 jenis pekerjaan di Kanada terbuka buat WNI — tapi yang lolos Express Entry bukan yang paling jago, melainkan yang pali",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcP9nKpkWnf",
@@ -79,21 +94,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18107318471016374",
-      "text": "Dulu gue kira modal semangat aja cukup buat daftar kerja ke UK.\nEh ternyata skor Bahasa Inggris gue masih B1, sementara ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcLq9J_IBZC",
-      "timestamp": "2026-08-18T13:01:17+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -103,14 +103,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcQ-1ZhIM3l",
       "timestamp": "2026-08-20T14:31:11+0000",
       "metrics": {
-        "views": 50,
-        "likes": 0,
+        "views": 122,
+        "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "17944512135062847",
