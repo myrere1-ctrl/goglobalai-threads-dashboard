@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-20T01:51:26.064Z",
+  "updated_at": "2026-08-20T03:09:42.779Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwExyYKx&_nc_oc=AdpGTryyWU76UGLVwoiLpZe7TlDUB3ew71hPXrJzXbe9gfUFd6MxXuNxVt7ae4uDNUY&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d4XXp7uCboF3Da8RKdaDfQ&_nc_tpa=Q5bMBQIk1BbCDMlfBmO9cqNFLYiq5QKAQeEzh5bDe8txywHak_8RPPsegkYsf0fFylHt3NQn9K0-j9EPOA&oh=00_AQEqkFWdRk-2A8lymuHxmv5WyAFH6Sx4PrEZTBUiiJ52Yg&oe=6A8C3A35"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwFq0DzR&_nc_oc=Ado0k1PlU8aZGMi8u9zvwFhIzF839jlrbpCdqU4_oDcohg2Wvs6sMDkim5o_hrqR6yE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hWfS8nnKxqu_tUiSm83ehQ&_nc_tpa=Q5bMBQJCI4Q_olqkYf6lIvUqQwDdH_uI5HHT7ReU_GgiFFG1xZywo-y2C6TTd5C1GiC-5smkuuJcKyWkDA&oh=00_AQGCBkh7LMWtkyBn6IaSJi0le4okKldld-KsFZRBChTEtw&oe=6A8C3A35"
   },
   "summary": {
     "followers_count": 309,
-    "views": 319,
+    "views": 327,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 41,
-    "engagement_rate": 2.46,
+    "engagement_total": 40,
+    "engagement_rate": 2.81,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,6 +98,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17878265919686083",
+      "text": "Mau nyoba peluang kerja di Jerman? Ada beberapa hal yang sering bikin WNI tersandung:\n• Ijazah harus diakui dulu — prose",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcPv3fejS-S",
+      "timestamp": "2026-08-20T03:01:09+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18031421468840528",
       "text": "Honest opinion: kerja remote bayaran USD itu bukan soal keberuntungan.\nBanyak yang udah punya skill-nya — tapi CV-nya ma",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcOaCIHkxGT",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcOPvIXm55W",
       "timestamp": "2026-08-19T13:01:09+0000",
       "metrics": {
-        "views": 31,
+        "views": 32,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18209186566359562",
-      "text": "Dulu gue pikir bisa kerja di Jerman itu cukup modal semangat doang.\nTernyata yang bikin gue ketolak berkali-kali bukan s",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcLInV6IJhm",
-      "timestamp": "2026-08-18T08:01:12+0000",
-      "metrics": {
-        "views": 95,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
