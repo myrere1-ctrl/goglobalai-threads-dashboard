@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-21T08:57:59.025Z",
+  "updated_at": "2026-08-21T09:52:02.668Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwF9JY8K&_nc_oc=Adop2IF0NdM9mToXDTNSAtIuypo5X79nrM_J6Gc_r4rQaC897OlR8P50KVyrlaU4dt4&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MICavP0r9-iKH-mVzRsT4A&_nc_tpa=Q5bMBQIIaQB_5UkfQwJ05DUviljyX1ZluCvD4Azh7N6zMaMBRoisJ-aRypPa3IJxv9CwQufKj2Fnq2k7-A&oh=00_AQE3bLl3aUOxTM9qe-zIflLviquOWuedJ9oYDAyfEO8MgA&oe=6A8DFC35"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwFujZ1T&_nc_oc=AdqEy3tQ2DrfTlt2B9U1VT-xDrdm8ad91zvmebcoNtKDs7MxMha962Fl5NfiMui1-Do&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OFJkOMZat5RSDZib03UqQw&_nc_tpa=Q5bMBQJ-SbrUHL_btC3vgbaZOUKa3Lyl41hgwpNkRcHZ37TgzSUWE4FMug2rryXqUEbpkbg7qV7cEe5kvw&oh=00_AQFQnAeNDS7s3n1wouM3uS4ksomNPC63ecu4T7squCMWdA&oe=6A8DFC35"
   },
   "summary": {
     "followers_count": 310,
-    "views": 76,
+    "views": 92,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 41,
-    "engagement_rate": 2.76,
+    "engagement_total": 40,
+    "engagement_rate": 3.04,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcSiZGkIJlS",
       "timestamp": "2026-08-21T05:01:08+0000",
       "metrics": {
-        "views": 108,
+        "views": 115,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcQ-1ZhIM3l",
       "timestamp": "2026-08-20T14:31:11+0000",
       "metrics": {
-        "views": 162,
+        "views": 163,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18131783695652442",
+      "text": "Weekend gini coba ini ini yuks . \nLink, username and pasword di bawah ⤵️ GRATIS",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcS_7AFmXwZ",
+      "timestamp": "2026-08-21T09:18:37+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18440455528193451",
       "text": "Honest opinion: banyak orang gagal bukan karena nggak qualified, tapi karena dokumennya nggak bicara bahasa yang sama sa",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcS2_0UlrQx",
       "timestamp": "2026-08-21T08:01:10+0000",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcSiZGkIJlS",
       "timestamp": "2026-08-21T05:01:08+0000",
       "metrics": {
-        "views": 108,
+        "views": 115,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcQ-1ZhIM3l",
       "timestamp": "2026-08-20T14:31:11+0000",
       "metrics": {
-        "views": 162,
+        "views": 163,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18031421468840528",
-      "text": "Honest opinion: kerja remote bayaran USD itu bukan soal keberuntungan.\nBanyak yang udah punya skill-nya — tapi CV-nya ma",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcOaCIHkxGT",
-      "timestamp": "2026-08-19T14:31:09+0000",
-      "metrics": {
-        "views": 57,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
