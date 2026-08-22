@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-22T04:49:05.766Z",
+  "updated_at": "2026-08-22T05:42:17.404Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwH9CcT2&_nc_oc=AdovJu3L7n1Dcm-MqXUUbobjqnhNXzDNcbiet8Gjinrh3RjfbEzlxzW_eyMhHh2Nn_M&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UwX5xWqMOLtpSkaceFGM9g&_nc_tpa=Q5bMBQLuCnSnQqei4v11dQ81lttLQS-g5tlaHvY7kOWpD98K8XO3fWi8gIT1IqcDleOQC0C0KVkfpuTbEA&oh=00_AQG-iPwmWGW2CfjnCnpSHFZwwk1Pgx7gnfGudfcV2r6QkQ&oe=6A8F1575"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwFDf1cp&_nc_oc=AdroFvGF_27z1hq8FRIy_pBk1DdHallWcw5BvL7vsoEgEJyVW9HCbFiH4nbEUeyiTpU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=m3TAjHPogb4hY0CEaT2Efw&_nc_tpa=Q5bMBQIG4QYgULjOyMAL80i__1DMz-EoRwsDNknvF77LsFcf4yA5wWbvSXPwafeLztUS5Vk-ACmeVjQ3Gg&oh=00_AQHRB7d-vugFLWBcFeIaHmsdBQ0qryEBUsrPBZYwZhKWgg&oe=6A8F1575"
   },
   "summary": {
     "followers_count": 312,
-    "views": 868,
+    "views": 901,
     "likes": 5,
     "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 39,
-    "engagement_rate": 2.56,
+    "engagement_total": 38,
+    "engagement_rate": 2.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcTZVndm13Y",
       "timestamp": "2026-08-21T13:01:15+0000",
       "metrics": {
-        "views": 163,
+        "views": 170,
         "likes": 2,
         "replies": 5,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcU5dPfjvvR",
       "timestamp": "2026-08-22T03:01:09+0000",
       "metrics": {
-        "views": 55,
+        "views": 64,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17909105415281380",
+      "text": "Kapan terakhir kali kamu ngecek apakah CV kamu \"terbaca\" oleh recruiter luar negeri — atau cuma keliatan bagus buat stan",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcVHL8PIGga",
+      "timestamp": "2026-08-22T05:01:08+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18140597368579499",
       "text": "Jujur, gue kira level Bahasa Inggris gue udah cukup buat kerja di UK.\nTernyata enggak. Ada threshold B2 yang harus dipen",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcU5dPfjvvR",
       "timestamp": "2026-08-22T03:01:09+0000",
       "metrics": {
-        "views": 55,
+        "views": 64,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcUd9J3gh4X",
       "timestamp": "2026-08-21T23:00:18+0000",
       "metrics": {
-        "views": 116,
+        "views": 117,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcTjnuLFceO",
       "timestamp": "2026-08-21T14:31:06+0000",
       "metrics": {
-        "views": 165,
+        "views": 167,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcTZVndm13Y",
       "timestamp": "2026-08-21T13:01:15+0000",
       "metrics": {
-        "views": 163,
+        "views": 170,
         "likes": 2,
         "replies": 5,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17867620461640079",
-      "text": "Perawat 29 tahun apply ke NHS UK. CV-nya bagus, pengalaman 5 tahun, semua syarat terpenuhi — katanya.\nDitolak di tahap a",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcSiZGkIJlS",
-      "timestamp": "2026-08-21T05:01:08+0000",
-      "metrics": {
-        "views": 146,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
