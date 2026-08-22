@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-22T10:39:52.101Z",
+  "updated_at": "2026-08-22T11:34:54.230Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=WjQ-ylGhnpQQ7kNvwH_DvTa&_nc_oc=AdqFiZrOf-T1vyllYJKw7anS9oyWMNLQUYC6o3t-6WVInyOYWS6bOtJKiKRgUk4GSz4&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Bs6V7BPzrAAXzErQyy8tXw&_nc_tpa=Q5bMBQL2vZYr4d2OU33KbGmzfCDe75ZAxTT8VoCM2fmQLO8YPLBakiRRCL1xAbtx2qdpYXfJEcYt3Pnz6Q&oh=00_AQENavhnLFKEVKGJ51hCEyjzsux--BEsfcEwqUdKsBbCfg&oe=6A8F4DB5"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwHNxqSV&_nc_oc=AdpZJ0jZ5feNAPXgjZoA7mecB5JR2wOr1uz4c7PniHd_rrA9Io-x2hE358eF8Xj0HlI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sHuiWAmO8PJruNOWNdBAew&_nc_tpa=Q5bMBQIZ9E_fskzF92LZWLGPxV9VzjzBn-VpjL7hEoeAnB_EMc16s6j8aECn_-2N968_DuE_HO-WIquBgA&oh=00_AQGbtCXkj8ZQkHVd3ifBEOMu5uXn_dAuXp8VCdA4OfKRXQ&oe=6A8F4DB5"
   },
   "summary": {
     "followers_count": 312,
-    "views": 107,
+    "views": 142,
     "likes": 2,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 42,
-    "engagement_rate": 2.67,
+    "engagement_rate": 2.73,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcTZVndm13Y",
       "timestamp": "2026-08-21T13:01:15+0000",
       "metrics": {
-        "views": 183,
+        "views": 187,
         "likes": 2,
         "replies": 5,
         "reposts": 0,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcVbzePm-Yz",
       "timestamp": "2026-08-22T08:01:16+0000",
       "metrics": {
-        "views": 70,
+        "views": 73,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcSiZGkIJlS",
       "timestamp": "2026-08-21T05:01:08+0000",
       "metrics": {
-        "views": 146,
+        "views": 147,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17954056677210439",
+      "text": "Ekspektasi kerja di kapal pesiar: jalan-jalan sambil digaji, keliling dunia gratis 🚢\nRealita: HR-nya tanya dalam bahasa",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcVwYykm1uB",
+      "timestamp": "2026-08-22T11:01:08+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18117766282935057",
       "text": "90% pelamar remote job dari Indonesia gugur bukan karena skill-nya kurang — tapi CV-nya ga \"berbicara\" dalam bahasa hiri",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcVbzePm-Yz",
       "timestamp": "2026-08-22T08:01:16+0000",
       "metrics": {
-        "views": 70,
+        "views": 73,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcTZVndm13Y",
       "timestamp": "2026-08-21T13:01:15+0000",
       "metrics": {
-        "views": 183,
+        "views": 187,
         "likes": 2,
         "replies": 5,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-08-21T11:01:08+0000",
       "metrics": {
         "views": 18,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18131783695652442",
-      "text": "Weekend gini coba ini ini yuks . \nLink, username and pasword di bawah ⤵️ GRATIS",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcS_7AFmXwZ",
-      "timestamp": "2026-08-21T09:18:37+0000",
-      "metrics": {
-        "views": 28,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
