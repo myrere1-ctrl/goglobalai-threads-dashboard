@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-23T13:46:01.857Z",
+  "updated_at": "2026-08-23T14:39:22.298Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwF6YWmC&_nc_oc=Ado2E1cjlrWdycAG0zoJDfDmky3hkga2osKcwP8usMHd0ympssf9juFI6ijPUw0O6mM&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oM-fJoga1S-YZ2yzUKXblw&_nc_tpa=Q5bMBQKKlrj1zkmN6kL9f8e45KJ3gEv8UjpHWEzfxqnnNYaA8acrEupiNBrt026BjJMXYDKE9XlCULdUeQ&oh=00_AQGgEysmlQv02a_E6ThfBoeMbQq1JCXRl8MWnDo15r8uLw&oe=6A90D775"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwGei2fC&_nc_oc=AdoLMyo0APoylGlk1xXuPFk3OKfK4auKTBeaOT3YBDrkPxtIKlT31MraW4jcL3Bat_U&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=04OOYz6YbA2llmQQriV1Mg&_nc_tpa=Q5bMBQK6JWeSkWjLQMiXREWK6GARn95engLcsQDgDXFgNBKfn5GLfBLIhPvF4-NdAI9CURulVqOyzpPfgw&oh=00_AQE5_NuvbvCzWBlzi3B7O6i_XioUENzIoKlcSea1aWDLew&oe=6A90D775"
   },
   "summary": {
     "followers_count": 313,
-    "views": 545,
+    "views": 584,
     "likes": 18,
     "replies": 1,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 60,
-    "engagement_rate": 3.08,
+    "engagement_rate": 3.06,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYVLi9G9mM",
       "timestamp": "2026-08-23T11:01:07+0000",
       "metrics": {
-        "views": 338,
+        "views": 363,
         "likes": 14,
         "replies": 1,
         "reposts": 2,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcVbzePm-Yz",
       "timestamp": "2026-08-22T08:01:16+0000",
       "metrics": {
-        "views": 96,
+        "views": 97,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18402652486095888",
+      "text": "CV kamu udah bagus versi Indonesia — tapi pernah kepikiran gak, standar CV di Australia itu beda?\nDi sana, recruiter lih",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcYtNbWFeDp",
+      "timestamp": "2026-08-23T14:31:05+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18124406608829204",
       "text": "Ekspektasi: \"Ke Korea tinggal daftar, langsung berangkat.\"\nRealita: ada ujian bahasa Korea dulu (EPS-TOPIK), dokumen har",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYi6nlG6jF",
       "timestamp": "2026-08-23T13:01:09+0000",
       "metrics": {
-        "views": 7,
+        "views": 13,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYVLi9G9mM",
       "timestamp": "2026-08-23T11:01:07+0000",
       "metrics": {
-        "views": 338,
+        "views": 363,
         "likes": 14,
         "replies": 1,
         "reposts": 2,
@@ -223,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcVbzePm-Yz",
       "timestamp": "2026-08-22T08:01:16+0000",
       "metrics": {
-        "views": 96,
+        "views": 97,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17909105415281380",
-      "text": "Kapan terakhir kali kamu ngecek apakah CV kamu \"terbaca\" oleh recruiter luar negeri — atau cuma keliatan bagus buat stan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcVHL8PIGga",
-      "timestamp": "2026-08-22T05:01:08+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
