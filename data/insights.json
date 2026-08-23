@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-23T04:51:58.321Z",
+  "updated_at": "2026-08-23T05:44:51.155Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwGUxqyr&_nc_oc=AdpOlH4TRUZy7Rj8Xk9U9hjwFLS4R5FAyKv6aottVoxL6EPTSC7Gdk_ckFM4PyyUxnk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YdD8RicnlgozaRzLEY37PQ&_nc_tpa=Q5bMBQLfo-R4Zz4OcEinEKVBqGlQ4UIfovjGIgFuyfgqJlK_3yFtYJTHgwvbDNxgDABjD_X6jKC6mRwmog&oh=00_AQHgX4rEWyJ__LKH3G5A-4pU-N225CkjxpbqpwLjqKsNfA&oe=6A9066F5"
+    "picture": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwEYcZJt&_nc_oc=AdpmIBR_zh5buRhs1A12IskU4MggZ72w3b3KM0DjE8ZA7RWFa-U3Haz9kY2j6ayTjmI&_nc_zt=24&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RwT77kv8zQs2IR7vypzcCg&_nc_tpa=Q5bMBQI82PAF7UEUnLbiZQyDdsJG3AcGuSvduFmgLBV0QwoKPldfYgnubQ13DWPKcf85FQVSfGmOxyisqA&oh=00_AQFcHy2jpKls-I_ACCOaM_AIdNCq7o3nm2xIhh1ngLqzHA&oe=6A9066F5"
   },
   "summary": {
     "followers_count": 313,
-    "views": 419,
+    "views": 456,
     "likes": 3,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 43,
-    "engagement_rate": 2.67,
+    "engagement_rate": 2.68,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18147380038536905",
+      "text": "Kerja remote dapat gaji USD itu nyata — tapi banyak yang gagal bukan karena kurang skill, tapi karena gak keliatan profe",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcXr-6QjuiP",
+      "timestamp": "2026-08-23T05:01:08+0000",
+      "metrics": {
+        "views": 19,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18095717828455893",
       "text": "Myth: yang susah itu nyari kerjanya, bukan nyiapin dokumennya.\nPadahal buat visa J-1 atau H-2A ke Amerika, dokumen yang ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcXeQEsoOVl",
       "timestamp": "2026-08-23T03:01:09+0000",
       "metrics": {
-        "views": 31,
+        "views": 41,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -223,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcTjnuLFceO",
       "timestamp": "2026-08-21T14:31:06+0000",
       "metrics": {
-        "views": 174,
+        "views": 175,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17943339207285454",
-      "text": "Mimpi kerja di kapal pesiar — gaji USD, makan gratis, keliling dunia. Tapi banyak yang kandas di tahap awal karena:\n• CV",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcTZVndm13Y",
-      "timestamp": "2026-08-21T13:01:15+0000",
-      "metrics": {
-        "views": 198,
-        "likes": 2,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     }
   ]
 }
