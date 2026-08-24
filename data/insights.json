@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-24T01:57:29.317Z",
+  "updated_at": "2026-08-24T03:16:32.210Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwGVkZtX&_nc_oc=AdqeFzpaItbUm7Y7wlZAdddf8543a2GlmCJ6xo5e9r8Drb48RK0dVBmWmOYP_48dwAA&_nc_zt=24&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OYzfp2AZAaBi3LNBZ2U3XQ&_nc_tpa=Q5bMBQLYrty3gQtoeiIr7dUOLw29EaeHSRzxwMI6Xif0N_PrrBHVov8xeux44kF5zmM465sNGYtxSo799w&oh=00_AQG8rBFtqdWySM22oBtqoky3vNxaShAiEwOlEpY2sH5jxw&oe=6A918035"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwGsRSc2&_nc_oc=Adol1I3yfozfzEFj3RA4J25HBoYjuWY2WialB4Ihy4g8uoGG6UWpKgj0IzqDWo952HI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XECMWGc8DDShDmwM2sh2wA&_nc_tpa=Q5bMBQKHoYiNUe_M4fbAvdPodOhzVXKBiDLltGCbLPl6g0Ru8TWexybFQZ0K-ZIRaxOHcpgatp77no05wg&oh=00_AQEn6cqML-Wv2f_rglrFbfpLnnZNKgVKneDdeAGtN9L-SQ&oe=6A918035"
   },
   "summary": {
     "followers_count": 313,
-    "views": 790,
+    "views": 818,
     "likes": 22,
     "replies": 3,
     "reposts": 2,
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYVLi9G9mM",
       "timestamp": "2026-08-23T11:01:07+0000",
       "metrics": {
-        "views": 449,
+        "views": 457,
         "likes": 16,
         "replies": 2,
         "reposts": 2,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYAlYHG-gE",
       "timestamp": "2026-08-23T08:01:09+0000",
       "metrics": {
-        "views": 114,
+        "views": 115,
         "likes": 2,
         "replies": 3,
         "reposts": 0,
@@ -98,6 +98,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18619807261060117",
+      "text": "Kerja dari rumah, gaji USD, tapi ngerasa CV lo masih \"lokal banget\" — pernah ada di posisi itu?\nBanyak role remote kayak",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcaDDZ_jmbH",
+      "timestamp": "2026-08-24T03:01:13+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18402652486095888",
       "text": "CV kamu udah bagus versi Indonesia — tapi pernah kepikiran gak, standar CV di Australia itu beda?\nDi sana, recruiter lih",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYtNbWFeDp",
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYVLi9G9mM",
       "timestamp": "2026-08-23T11:01:07+0000",
       "metrics": {
-        "views": 449,
+        "views": 457,
         "likes": 16,
         "replies": 2,
         "reposts": 2,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcYAlYHG-gE",
       "timestamp": "2026-08-23T08:01:09+0000",
       "metrics": {
-        "views": 114,
+        "views": 115,
         "likes": 2,
         "replies": 3,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18117766282935057",
-      "text": "90% pelamar remote job dari Indonesia gugur bukan karena skill-nya kurang — tapi CV-nya ga \"berbicara\" dalam bahasa hiri",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcVbzePm-Yz",
-      "timestamp": "2026-08-22T08:01:16+0000",
-      "metrics": {
-        "views": 102,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
