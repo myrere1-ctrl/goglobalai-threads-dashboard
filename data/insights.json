@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-25T01:52:15.054Z",
+  "updated_at": "2026-08-25T03:12:51.761Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwFFyV7V&_nc_oc=Adqq-1NFYsYZF3B-OMCexGbTMM0NOGZ8yAegtkjBa7QmNooaia0xNMvPTW0o2yzkkxI&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=tNx-IBPf4vfk9cE7oEOUhQ&_nc_tpa=Q5bMBQImn5NI4DQZ9anEuf0-D3Z9_urA0w1qKl5x6D5N8pd47YfwuFsoj969aqe0voGSthMl9iLawb3dhg&oh=00_AQGjEzhwyLzHGhU4UHk8O7nPDzypGR2a3Vt_yuwY4k9x5g&oe=6A92D1B5"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=hi_xKG0XhZkQ7kNvwEofW2-&_nc_oc=AdppJkdpA_N-QnkCV3T9QHUOpw_YtwD-iVTlm49L8WDA1VBWeynpJA5kDBQ9VtUPmHE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=b-AvihYriQrdP8TnXcE3kQ&_nc_tpa=Q5bMBQIWv8__Rals8dZZrdLSmLEJmMVOEE7oYjX-2LroplpVyMmFYOxU_Db_PBZXmtsP-RlWZo0SzEw7dg&oh=00_AQFQ8f9antmSwU4WsDguPzcI0fP5hSWntT6ibEDHtN3XsA&oe=6A92D1B5"
   },
   "summary": {
     "followers_count": 313,
-    "views": 453,
+    "views": 460,
     "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 65,
-    "engagement_rate": 3.11,
+    "engagement_rate": 3.14,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcbSAyEjcAx",
       "timestamp": "2026-08-24T14:31:10+0000",
       "metrics": {
-        "views": 145,
+        "views": 146,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcVbzePm-Yz",
       "timestamp": "2026-08-22T08:01:16+0000",
       "metrics": {
-        "views": 117,
+        "views": 119,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18118468981709619",
+      "text": "Honest opinion: kerja di kapal pesiar itu bukan soal skill-nya yang susah — tapi persiapan dokumennya yang sering bikin ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dccn2NNALVj",
+      "timestamp": "2026-08-25T03:01:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18091925072441456",
       "text": "Honest opinion: belajar bahasa Jerman itu lebih penting dari ngejar skill teknis buat kerja di sana.\nBanyak orang fokus ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcbSAyEjcAx",
       "timestamp": "2026-08-24T14:31:10+0000",
       "metrics": {
-        "views": 145,
+        "views": 146,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 1
       },
       "engagement": 21
-    },
-    {
-      "id": "17867505165637070",
-      "text": "Hampir 60% kandidat kapal pesiar Indonesia gugur bukan karena kemampuan kerja — tapi karena CV dan interview bahasa Ingg",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcYAlYHG-gE",
-      "timestamp": "2026-08-23T08:01:09+0000",
-      "metrics": {
-        "views": 118,
-        "likes": 2,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
