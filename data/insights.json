@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-26T11:44:55.020Z",
+  "updated_at": "2026-08-26T13:16:12.211Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=D50OPtCLwmIQ7kNvwGYxoXU&_nc_oc=AdpOx8JtHJDXH9HJ6uT8Bl_HYClmACGZGZopJ73PNKnnmBoheVvdJaWAIBdE0KPSKfs&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zYORp4D5pQ-7ga4T6-5XVw&_nc_tpa=Q5bMBQJhhsoS-1IpwybU9amDm2vCPVYRiJ_TkyJ9wbumj8dRRaFV_NWwW8_3LRkwDGHJcFVvMr06DAyWOg&oh=00_AQH2bwSrjUDUbjVtw1rcN-uXKUsggEQgSPDWE0yr4MhyGQ&oe=6A9493B5"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=D50OPtCLwmIQ7kNvwFRMiMt&_nc_oc=AdpDL_5mqvkoRYeHQNwTSvGt7y4_ukKRX6ME1ZEHBI8lBTBqp4DObaeEzavn0DGyh4g&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Qq86Nq67jHP2JBMVsGYzhA&_nc_tpa=Q5bMBQKrhGwJ266mM3oI9lR4t8tU9mckb8wWWRLbdPK-jg53tisTBiTAK86eOlpdjzFXYaSsdDvsgcwwmQ&oh=00_AQE7_t18NJDXtUaOy2ja2LO4qCks7jzzA46MHv66GA2FSw&oe=6A94CBF5"
   },
   "summary": {
     "followers_count": 314,
-    "views": 128,
+    "views": 206,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 68,
-    "engagement_rate": 3.34,
+    "engagement_rate": 3.32,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcdexoTFsze",
       "timestamp": "2026-08-25T11:01:10+0000",
       "metrics": {
-        "views": 205,
+        "views": 209,
         "likes": 7,
         "replies": 1,
         "reposts": 0,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcfMonOFhmj",
       "timestamp": "2026-08-26T03:01:08+0000",
       "metrics": {
-        "views": 143,
+        "views": 166,
         "likes": 2,
         "replies": 1,
         "reposts": 1,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18011165621943269",
+      "text": "Honest opinion: banyak yang ngebayangin kerja di Kanada terus fokus cari \"lowongannya\" — padahal itu bukan bagian yang s",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcgRTkQmqVV",
+      "timestamp": "2026-08-26T13:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17911307595456025",
       "text": "Ekspektasi kerja di Jerman: lancar bahasa Inggris, beres.\nRealita: HR-nya nanya pake bahasa Jerman, ijazahmu perlu diaku",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcgDkhUmz7x",
       "timestamp": "2026-08-26T11:01:11+0000",
       "metrics": {
-        "views": 9,
+        "views": 42,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcfMonOFhmj",
       "timestamp": "2026-08-26T03:01:08+0000",
       "metrics": {
-        "views": 143,
+        "views": 166,
         "likes": 2,
         "replies": 1,
         "reposts": 1,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcdshTmEhMj",
       "timestamp": "2026-08-25T13:01:18+0000",
       "metrics": {
-        "views": 101,
+        "views": 102,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcdexoTFsze",
       "timestamp": "2026-08-25T11:01:10+0000",
       "metrics": {
-        "views": 205,
+        "views": 209,
         "likes": 7,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-08-25T05:01:08+0000",
       "metrics": {
         "views": 58,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18118468981709619",
-      "text": "Honest opinion: kerja di kapal pesiar itu bukan soal skill-nya yang susah — tapi persiapan dokumennya yang sering bikin ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dccn2NNALVj",
-      "timestamp": "2026-08-25T03:01:12+0000",
-      "metrics": {
-        "views": 65,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
