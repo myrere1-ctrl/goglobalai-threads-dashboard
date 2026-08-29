@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-08-28T18:42:18.317Z",
+  "updated_at": "2026-08-29T02:11:34.965Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=f22Jrec36YwQ7kNvwHv0xVc&_nc_oc=Adq4g8l8o_aLnIijGJDd28AePrfQ2926cO1gPTbVPMbXCo1L-tjWrgVi-nCizebGMjM&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2K6tkvTYB5ObqIzL38aqgw&_nc_tpa=Q5bMBQK0jPDFAgdYGPbA2reaQ-ZBsT3cfmDNy1WgCeNNewnz99J7bgiTGeELN4j0Kr3yrxY7DL9foDWMYw&oh=00_AQGm0o9tha0scj4qRXHlYTIQg4tGpLcADNcC-ysLgU3THQ&oe=6A97A735"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=f22Jrec36YwQ7kNvwGQLwwV&_nc_oc=AdpmmkJMRnMARSCgvwtFl0mp6vDaAkDMiyzZNniamuf3Rpzf5rWkxdxsybkF2mdU_nM&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UxZmd4R8QxTWphcqBuuAvg&_nc_tpa=Q5bMBQLKJKGj_F34rXwlZzzxr-HVFY3Ioc85j2XipIxIF-zIm_G9hHwsObTrUczxT7fwvExelxyWSsNx0A&oh=00_AQLKszwlThlZz2tnDGkpV5KeDM5-relN7vfdfEGyc6TM8A&oe=6A9817B5"
   },
   "summary": {
-    "followers_count": 314,
-    "views": 306,
-    "likes": 1,
-    "replies": 0,
+    "followers_count": 315,
+    "views": 946,
+    "likes": 5,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 2.48,
+    "engagement_total": 55,
+    "engagement_rate": 2.7,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17898357138595655",
+      "text": "5 kerja di Australia yang TIDAK butuh ijazah(buat visa WHV & Kerja tetap butuh Ijasah) pengalaman, atau Bahasa Inggris s",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcmmWQCgfej",
+      "timestamp": "2026-08-28T23:59:57+0000",
+      "metrics": {
+        "views": 312,
+        "likes": 4,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 12
+    },
     {
       "id": "17903951343507878",
       "text": "Pernah kirim CV ke perusahaan Australia tapi nggak pernah dibalas sama sekali?\nDani juga gitu. 3x apply, 3x ghosting.\nTe",
@@ -56,7 +71,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcknAidFXxp",
       "timestamp": "2026-08-28T05:27:15+0000",
       "metrics": {
-        "views": 139,
+        "views": 146,
         "likes": 0,
         "replies": 3,
         "reposts": 0,
@@ -79,6 +94,23 @@
         "shares": 0
       },
       "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17898357138595655",
+      "text": "5 kerja di Australia yang TIDAK butuh ijazah(buat visa WHV & Kerja tetap butuh Ijasah) pengalaman, atau Bahasa Inggris s",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcmmWQCgfej",
+      "timestamp": "2026-08-28T23:59:57+0000",
+      "metrics": {
+        "views": 312,
+        "likes": 4,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 12
     },
     {
       "id": "18188039101355252",
@@ -86,24 +118,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcllMGPFAJ0",
       "timestamp": "2026-08-28T14:31:07+0000",
       "metrics": {
-        "views": 66,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18188039101355252",
-      "text": "Honest opinion: skill lo udah cukup buat kerja remote bergaji USD.\nMasalahnya bukan kemampuan — tapi cara lo \"ngepaket\" ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcllMGPFAJ0",
-      "timestamp": "2026-08-28T14:31:07+0000",
-      "metrics": {
-        "views": 66,
+        "views": 68,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcknAidFXxp",
       "timestamp": "2026-08-28T05:27:15+0000",
       "metrics": {
-        "views": 139,
+        "views": 146,
         "likes": 0,
         "replies": 3,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dckj94nFSpN",
       "timestamp": "2026-08-28T05:01:13+0000",
       "metrics": {
-        "views": 100,
+        "views": 102,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18337246111280332",
-      "text": "Mau coba Express Entry ke Kanada tapi bingung mulai dari mana? Wajar, sistemnya emang punya \"lore\" sendiri 😅\n• CV harus",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcioXNiIG1R",
-      "timestamp": "2026-08-27T11:01:10+0000",
-      "metrics": {
-        "views": 44,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 1
     }
   ]
 }
