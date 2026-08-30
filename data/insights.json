@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-30T00:20:15.131Z",
+  "updated_at": "2026-08-30T06:39:42.058Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=f22Jrec36YwQ7kNvwHQ2Dev&_nc_oc=AdoNsTmQK2zVCtsK52rFzUotqkVs7kzG0qg_VbgoqY0eZq0htsom9o4-08k9f0gaOhE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NGwKTCZQzbwgJVV3EQ0FxQ&_nc_tpa=Q5bMBQJDIWtXv2O9cO649twXWlztUwY4qDsrgMqKesPP0DQfeG2v7z4BOjvrfZn05qmGzQKgy-OL59SvdQ&oh=00_AQIgdLR2PGbf4StjC6lwOFITrqOzgBYnpsELbZbY-YHe5w&oe=6A9930F5"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=f22Jrec36YwQ7kNvwGPg80l&_nc_oc=AdoUCA6RqcpQcjL_FsaNgTt9DWafKfnhWhkKIbEnPAFu6C3hKWSdKojT_J8tj9bKZG0&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zpY_l70zyztNL6N08Janew&_nc_tpa=Q5bMBQLVOb9CSFA-4bNGqd__Q3gh--ANeP0QmPtuggHFbZJ_s7naZQop-X73bFsnjrU6b2wwrx_ELH0H8g&oh=00_AQJVu-v74MRAJh2zR7zWW7Yyt3G3M4xIMGo8n3A6N-hZjg&oe=6A99A175"
   },
   "summary": {
     "followers_count": 321,
-    "views": 361,
-    "likes": 4,
+    "views": 470,
+    "likes": 5,
     "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 51,
-    "engagement_rate": 2.36,
+    "engagement_rate": 2.39,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcmmWQCgfej",
       "timestamp": "2026-08-28T23:59:57+0000",
       "metrics": {
-        "views": 897,
+        "views": 900,
         "likes": 7,
         "replies": 10,
         "reposts": 2,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcknAidFXxp",
       "timestamp": "2026-08-28T05:27:15+0000",
       "metrics": {
-        "views": 157,
+        "views": 159,
         "likes": 0,
         "replies": 3,
         "reposts": 0,
@@ -98,12 +98,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18025008593857539",
+      "text": "Myth: Bahasa Inggris B1 udah cukup buat kerja di UK.\nReality-nya? Sejak awal 2026, standar minimum naik ke B2 — upper-in",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcptjIRjp13",
+      "timestamp": "2026-08-30T05:01:09+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18093823169190388",
+      "text": "Dulu gue pikir CV gue udah oke — udah kerja 5 tahun, achievement ada, desain rapi.\nEh pas dicek sama orang yang ngerti s",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dcpf0iVINin",
+      "timestamp": "2026-08-30T03:01:12+0000",
+      "metrics": {
+        "views": 38,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17861895420675810",
       "text": "Myth: kerja di kapal pesiar itu gampang asal mau.\nReality-nya? Bukan soal mau atau nggak — tapi soal siap atau belum.\nCV",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcoJ_Llm17k",
       "timestamp": "2026-08-29T14:31:10+0000",
       "metrics": {
-        "views": 63,
+        "views": 68,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dcnx9TgHN4t",
       "timestamp": "2026-08-29T11:01:12+0000",
       "metrics": {
-        "views": 33,
+        "views": 35,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -208,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcmmWQCgfej",
       "timestamp": "2026-08-28T23:59:57+0000",
       "metrics": {
-        "views": 897,
+        "views": 900,
         "likes": 7,
         "replies": 10,
         "reposts": 2,
@@ -216,36 +246,6 @@
         "shares": 1
       },
       "engagement": 19
-    },
-    {
-      "id": "18188039101355252",
-      "text": "Honest opinion: skill lo udah cukup buat kerja remote bergaji USD.\nMasalahnya bukan kemampuan — tapi cara lo \"ngepaket\" ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcllMGPFAJ0",
-      "timestamp": "2026-08-28T14:31:07+0000",
-      "metrics": {
-        "views": 70,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18149731771471679",
-      "text": "Honest opinion: banyak orang gagal apply kerja ke AS bukan karena kurang pintar — tapi karena dokumennya gak sesuai stan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dcla5VDFFqN",
-      "timestamp": "2026-08-28T13:01:12+0000",
-      "metrics": {
-        "views": 21,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
