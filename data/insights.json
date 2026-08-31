@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-30T23:29:43.024Z",
+  "updated_at": "2026-08-31T05:34:54.678Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=f22Jrec36YwQ7kNvwGoRXLb&_nc_oc=AdqrnUY5IBz1_tpp1ADn0f8G-PrhDsYzhHCGoTQppJQsaFXglQiP-iljAERiOEbaMs4&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Mui8J8XTmB7WYyiNAubMNA&_nc_tpa=Q5bMBQLtqV14-xFw0Rn643LEpAf_MhUbnKNTUQkL8BZGjJZeKDraFN1M59MvBvC-vG2_meCTJbgYUaQ_-A&oh=00_AQKjBtqM5nC79su8eAC0KfmtMMc4Rb9GLpnhNGiasH4K4w&oe=6A9A8275"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=f22Jrec36YwQ7kNvwFQXqaf&_nc_oc=AdryqEO2xb0fxQp3jmy-HijpRzfYCHlj4WEXAWIfWuK0bL2o9BKl-eajWuqhHSq8ozc&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1cLn4ZJ0C-gXEutdmm_mQA&_nc_tpa=Q5bMBQIJzd9qdp_IyijpDroFUBU3UHFg3obL1VZHigZEJtYF4HAAOuPrjxim-SFkJexoztNm0BUs4WoI-w&oh=00_AQJwiTIV1yfBHLmcabcNucEtxAAehvnZp03wSr_n0Anj6A&oe=6A9AF2F5"
   },
   "summary": {
     "followers_count": 321,
-    "views": 301,
-    "likes": 3,
+    "views": 400,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 53,
-    "engagement_rate": 2.39,
+    "engagement_total": 54,
+    "engagement_rate": 2.45,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,12 +36,27 @@
       "engagement": 19
     },
     {
+      "id": "18089715467414288",
+      "text": "Dulu gue kira Bahasa Inggris gue udah cukup buat ngelamar kerja di UK.\nTernyata pas gue cek lebih dalam, standar yang di",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcsGTy3kSKn",
+      "timestamp": "2026-08-31T03:16:00+0000",
+      "metrics": {
+        "views": 47,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "17982440100119604",
       "text": "Mau kerja di Kanada? Sistemnya ketat — persiapan lo yang nentuin.\n• CV harus gaya Kanada, bukan format Indo biasa\n• Skil",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcnIwx7oKcD",
       "timestamp": "2026-08-29T05:01:13+0000",
       "metrics": {
-        "views": 150,
+        "views": 151,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -79,31 +94,46 @@
         "shares": 0
       },
       "engagement": 3
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18099188885628126",
-      "text": "Hampir 60% yang lolos kerja di kapal pesiar itu bukan dari background perhotelan atau pariwisata.\nYang bikin mereka lolo",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcqkfGLFl1n",
-      "timestamp": "2026-08-30T13:01:12+0000",
+      "id": "17956332324226974",
+      "text": "Dulu gue kira punya mimpi kerja di Amerika itu udah cukup.\nTernyata nggak.\nYang bikin kesempatan itu nyata bukan semanga",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcsSWkKDnV0",
+      "timestamp": "2026-08-31T05:01:15+0000",
       "metrics": {
-        "views": 51,
-        "likes": 1,
+        "views": 0,
+        "likes": 0,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
+    {
+      "id": "18089715467414288",
+      "text": "Dulu gue kira Bahasa Inggris gue udah cukup buat ngelamar kerja di UK.\nTernyata pas gue cek lebih dalam, standar yang di",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcsGTy3kSKn",
+      "timestamp": "2026-08-31T03:16:00+0000",
+      "metrics": {
+        "views": 47,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "17972477858931112",
       "text": "Mau kerja di Jepang tapi ngerasa belum siap? Wajar — persiapannya memang spesifik.\n• CV Jepang (rirekisho) beda format t",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcquyBgm9lZ",
       "timestamp": "2026-08-30T14:31:09+0000",
       "metrics": {
-        "views": 56,
+        "views": 57,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcqkfGLFl1n",
       "timestamp": "2026-08-30T13:01:12+0000",
       "metrics": {
-        "views": 51,
+        "views": 56,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DcqWwA8lgJG",
       "timestamp": "2026-08-30T11:01:10+0000",
       "metrics": {
-        "views": 71,
+        "views": 75,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -209,36 +239,6 @@
       "timestamp": "2026-08-29T13:01:13+0000",
       "metrics": {
         "views": 21,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18108579404037443",
-      "text": "Suka bingung kalo ada yang comment kaya gini … Pasti ga baca dari awal  krn di awal text kan sdh di infokan Visa nya. \n\n",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcnziBbm9j5",
-      "timestamp": "2026-08-29T11:14:24+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17918562939223826",
-      "text": "Mahasiswi 23 tahun jurusan agribisnis yang apply program J1 ke AS — ditolak bukan karena nilai, tapi karena dokumennya \"",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dcnx9TgHN4t",
-      "timestamp": "2026-08-29T11:01:12+0000",
-      "metrics": {
-        "views": 35,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
