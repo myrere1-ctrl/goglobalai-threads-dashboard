@@ -3,9 +3,10 @@ import path from 'node:path';
 import { generatePost } from './lib/claude.mjs';
 import { postThread, postReply, verifyToken } from './lib/threads.mjs';
 
-// 6 post/hari, fokus sore–malam (prime-time engagement).
+// 12 post/hari, sebar seharian (06.00–22.00). Konten mix acak semua negara di COUNTRIES.
 const SLOTS = [
-  '10.00', '12.00', '15.00', '18.00', '20.00', '21.30',
+  '06.00', '08.00', '10.00', '11.30', '13.00', '14.30',
+  '16.00', '17.30', '19.00', '20.00', '21.00', '22.00',
 ];
 
 // Rotasi auto — fokus 9 destinasi utama app. Arab Saudi, Belanda, Polandia,

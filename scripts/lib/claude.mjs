@@ -63,6 +63,36 @@ const ANGLES = [
     instruction:
       'Observasi tentang detail kecil yang menarik dari topik (kebiasaan, budaya, hal yang ga-obvious). Bikin orang nodding "iya juga ya".',
   },
+  {
+    name: 'day_in_life',
+    instruction:
+      'Gambarkan POV sehari-hari orang Indonesia yang udah kerja/tinggal di negara itu — jam bangun, ritme kerja, hal kecil yang beda dari Indonesia. Konkret & relatable, bukan brosur. Tutup dengan insight soal PERSIAPAN mental/skill.',
+  },
+  {
+    name: 'reverse_advice',
+    instruction:
+      'Angle kontrarian: hal yang JUSTRU ga usah dilakuin / buang-buang waktu pas nyiapin diri. Format "berhenti [X], mending [Y]". Bikin orang re-think prioritas persiapan.',
+  },
+  {
+    name: 'reader_scenario',
+    instruction:
+      'Skenario langsung ke pembaca: "kalau kamu [situasi spesifik: fresh grad / udah kerja 5 th / bahasa pas-pasan], ini yang paling worth disiapin duluan". Praktis, 1 fokus.',
+  },
+  {
+    name: 'skill_gap',
+    instruction:
+      'Angkat 1 skill/hal yang sering keteteran orang Indonesia (mis. CV format, interview STAR, small talk, dokumen) + cara nutupnya. Spesifik, actionable, bukan umum.',
+  },
+  {
+    name: 'before_after',
+    instruction:
+      'Kontras transformasi PROSES: "beberapa bulan lalu [kondisi awal] → sekarang [kondisi siap]" tentang persiapan (skill/dokumen/mindset), BUKAN janji hasil. Fokus effort yang bikin beda.',
+  },
+  {
+    name: 'micro_checklist',
+    instruction:
+      'Checklist super singkat 3 langkah konkret buat 1 aspek persiapan (mis. "3 hal biar CV kamu lolos screening"). Pakai pipe | tiap poin. Padat, langsung bisa dipraktekin.',
+  },
 ];
 
 function pickAngle() {
@@ -93,6 +123,7 @@ Format:
 - 3-5 baris pendek (bisa lebih kalau format list)
 - Bahasa santai seperti ngobrol sama teman
 - JANGAN pakai pembukaan klise seperti "Banyak yang...", "Tau gak...", "Pernah ga..."
+- VARIASIKAN gaya buka & struktur tiap post — jangan formula yang itu-itu terus (biar ga kerasa template/jenuh). Segar & spontan.
 - JANGAN pakai kata menakutkan atau terlalu jualan
 - HINDARI klaim fakta absolut yang time-sensitive (mis. "100% pakai bahasa Inggris", "gampang masuk", "pasti diterima"). Kalau nyebut fakta, kasih nuance/konteks — jangan hitam-putih yang gampang dibantah.
 - Akhiri dengan CTA ngegantung natural (variasi: "mau cerita?", "pernah ngerasain?", "lanjut?", "ada yang relate?", "gimana menurut lo?", "share dong pengalaman lo?")

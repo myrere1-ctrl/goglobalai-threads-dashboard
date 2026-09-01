@@ -2,9 +2,10 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 
-// 6 post/hari, fokus sore–malam. HARUS sama persis dgn SLOTS di generate-and-post.mjs.
+// 12 post/hari, sebar seharian. HARUS sama persis dgn SLOTS di generate-and-post.mjs.
 const SLOTS_WIB = [
-  '10.00', '12.00', '15.00', '18.00', '20.00', '21.30',
+  '06.00', '08.00', '10.00', '11.30', '13.00', '14.30',
+  '16.00', '17.30', '19.00', '20.00', '21.00', '22.00',
 ];
 
 const LOG_PATH = path.resolve('data/posted-log.json');

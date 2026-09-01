@@ -1,0 +1,15 @@
+{
+  "account": "goglobal",
+  "niche": "Gear persiapan kerja/kuliah ke luar negeri — koper, laptop, buku IELTS/TOEFL, headset, dll",
+  "affiliate_platform": "Shopee/Amazon",
+  "link_mode": "comment",
+  "min_affiliate_posts_per_day": 2,
+  "status": "DRAFT — belum aktif. goglobal udah punya izin reply, jadi tinggal isi 'products' + aktifin wiring. Maks 10 item.",
+  "product_format_example": {
+    "name": "nama produk singkat",
+    "link": "https://... (link affiliate)",
+    "blurb": "1 kalimat kenapa produk ini worth buat yang lagi nyiapin diri ke LN",
+    "for": "persiapan | study | travel | umum"
+  },
+  "products": []
+}
