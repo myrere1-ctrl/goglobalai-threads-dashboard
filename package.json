@@ -12,6 +12,6 @@
     "refresh": "node scripts/refresh-token.mjs"
   },
   "dependencies": {
-    "libsodium-wrappers": "^0.7.13"
+    "libsodium-wrappers": "^0.8.0"
   }
 }
