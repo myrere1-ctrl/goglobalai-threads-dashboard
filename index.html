@@ -518,9 +518,13 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
 
       const jsonStr = rawText.slice(start, end + 1);
       const posts = JSON.parse(jsonStr);
+      if (!Array.isArray(posts) || posts.length === 0) {
+        throw new Error('AI balas array kosong — klik Generate sekali lagi ya');
+      }
 
+      showingDraft = true;
       renderPosts(posts);
-      showToast('✅ 10 post berhasil digenerate!');
+      showToast(`✅ ${posts.length} post berhasil digenerate!`);
     } catch(err) {
       console.error('Generate error:', err);
       showToast('❌ ' + err.message.slice(0, 80));
@@ -609,11 +613,14 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
       const log = await res.json();
       cachedLog = log;
       renderBotStats(log);
-      renderBotQueue(log);
+      // Jangan timpa draft manual yang lagi ditampilin — user harus klik "Kembali ke queue live" dulu.
+      if (!showingDraft) renderBotQueue(log);
     } catch(err) {
       console.error('Failed to load bot data:', err);
-      document.getElementById('queueList').innerHTML =
-        '<div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Belum ada data — bot belum pernah posting.</div>';
+      if (!showingDraft) {
+        document.getElementById('queueList').innerHTML =
+          '<div style="font-size:12px;color:var(--muted);text-align:center;padding:20px">Belum ada data — bot belum pernah posting.</div>';
+      }
     }
   }
 
@@ -631,6 +638,9 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
   }
 
   let cachedLog = [];
+  // true saat "Queue hari ini" lagi nampilin draft hasil Generate manual —
+  // biar auto-refresh 60 detik (loadBotData) ga nimpa draft yang lagi dibaca/di-copy user.
+  let showingDraft = false;
 
   async function loadInsights() {
     try {
@@ -984,9 +994,18 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
 
   // ============ END BOT LIVE DATA ============
 
+  function returnToLiveQueue() {
+    showingDraft = false;
+    loadBotData();
+  }
+
   function renderPosts(posts) {
     const list = document.getElementById('queueList');
-    list.innerHTML = '';
+    list.innerHTML = `
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:8px;background:var(--blue-light,#eef2ff);border-radius:8px;padding:8px 12px;margin-bottom:10px;font-size:12px">
+        <span>📝 Draft hasil generate (bukan queue live) — copy dulu sebelum ditinggal</span>
+        <button class="btn-xs" onclick="returnToLiveQueue()">🔄 Kembali ke live</button>
+      </div>`;
     posts.forEach((p, i) => {
       // Convert pipe separators to newlines for display
       const displayText = (p.teks || '').replace(/\|/g, '\n');
