@@ -204,7 +204,7 @@
     <div class="stats-grid" style="margin-bottom:1rem">
       <div class="stat-card">
         <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-file-text"></i></div><span class="trend trend-up" id="statTodayTrend">—</span></div>
-        <div class="stat-value" id="statToday">—</div><div class="stat-label">Post hari ini · target 10</div>
+        <div class="stat-value" id="statToday">—</div><div class="stat-label" id="statTodayLabel">Post hari ini · target 10</div>
       </div>
       <div class="stat-card">
         <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-calendar-week"></i></div><span class="trend trend-neutral" id="statWeekTrend">—</span></div>
@@ -275,7 +275,7 @@ insight yang bikin mikir.</div>
           <div class="tpl-cta">mau cerita?</div>
         </div>
 
-        <button class="btn-generate" onclick="generatePosts()">
+        <button class="btn-generate" onclick="generatePosts()" id="btnGenerate">
           <i class="ti ti-bolt"></i>Generate 10 post
         </button>
       </div>
@@ -467,7 +467,7 @@ insight yang bikin mikir.</div>
 
     const prompt = `Kamu content creator Threads untuk GoGlobal AI, app untuk orang Indonesia yang mau kerja di luar negeri.
 
-Buat 10 post Threads Bahasa Indonesia:
+Buat ${times.length} post Threads Bahasa Indonesia:
 - Tipe: ${typeMap[type]}
 - Negara/destinasi: ${negara}
 - Tone: ${tone}
@@ -529,7 +529,28 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     }
   }
 
-  const times = ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'];
+  const times = ['06.00','08.00','10.00','11.30','13.00','14.30','16.00','17.30','19.00','20.00','21.00','22.00'];
+
+  // Hitung ulang kartu "Jadwal posting harian" (Pagi/Siang/Malam) dari `times`
+  // biar ga stale lagi tiap kali frekuensi/jam slot berubah.
+  function renderSchedCard() {
+    const toMin = (t) => { const [h, m] = t.split('.').map(Number); return h * 60 + m; };
+    const buckets = { pagi: 0, siang: 0, malam: 0 };
+    for (const t of times) {
+      const min = toMin(t);
+      if (min < 11 * 60) buckets.pagi++;
+      else if (min < 17 * 60) buckets.siang++;
+      else buckets.malam++;
+    }
+    const grid = document.querySelector('.sched-grid');
+    if (!grid) return;
+    grid.innerHTML = `
+      <div class="time-slot"><div><div class="time-name">Pagi</div><div class="time-sub">05.00 — 11.00</div></div><div class="time-count">${buckets.pagi}</div></div>
+      <div class="time-slot"><div><div class="time-name">Siang</div><div class="time-sub">11.00 — 17.00</div></div><div class="time-count">${buckets.siang}</div></div>
+      <div class="time-slot"><div><div class="time-name">Malam</div><div class="time-sub">17.00 — 24.00</div></div><div class="time-count">${buckets.malam}</div></div>`;
+  }
+  renderSchedCard();
+  document.getElementById('btnGenerate').innerHTML = `<i class="ti ti-bolt"></i>Generate ${times.length} post`;
 
   // ============ BOT LIVE DATA ============
 
@@ -855,7 +876,8 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     const weekPosts = log.filter(p => postIsWithinDays(p.timestamp, 7));
 
     document.getElementById('statToday').textContent = todayPosts.length;
-    document.getElementById('statTodayTrend').textContent = `${todayPosts.length}/10`;
+    document.getElementById('statTodayTrend').textContent = `${todayPosts.length}/${times.length}`;
+    document.getElementById('statTodayLabel').textContent = `Post hari ini · target ${times.length}`;
 
     document.getElementById('statWeek').textContent = weekPosts.length;
     document.getElementById('statWeekTrend').textContent = `${(weekPosts.length / 7).toFixed(1)}/hari`;
