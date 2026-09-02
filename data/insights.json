@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-01T21:46:56.381Z",
+  "updated_at": "2026-09-02T00:14:31.557Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=0OTs9ar4jDgQ7kNvwEpsu_h&_nc_oc=AdrGcAlTQD484KY6lte2WTYGEpBJxnpajzyJRYLWqV69gFK804wx75YCNCEfkTswc0A&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Q2-9Y_GpSeOOGzBU1C-yqg&_nc_tpa=Q5bMBQJFgTVDZwY_0LgzNi6ElHTFhD1JvLGpa8mGt_jtzXpAj7aOH4APelAR8K8thmvWJqWWBAJcpvDKJA&oh=00_AQKr9YaKCPVZMG74IIYQLD-Ee26VzGPuoEPkTJnVR3XdPA&oe=6A9D2575"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=0OTs9ar4jDgQ7kNvwEXAWrn&_nc_oc=AdqfvKiV-CHsWKAGq7Yk4C7R1LDzIBVsZSklcHAJGsyw8qF4gcPhpeHDQfcAfez0OY4&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=N3gigS4eKi3crMgbZARCBA&_nc_tpa=Q5bMBQLRjTaD4v8eZFXvOqDO_bjVY_YAiUMZeClu4WQh1IrJz3UXMOvt6zilODC0jMeBQvpiyeXQS6rn1g&oh=00_AQLXCG8LR1D2SS7g1Du8ZehbS18yeM9m_cUdvlUo-cZaXg&oe=6A9D2575"
   },
   "summary": {
     "followers_count": 322,
-    "views": 573,
+    "views": 594,
     "likes": 5,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 45,
-    "engagement_rate": 2.91,
+    "engagement_rate": 3.02,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dcu3VSzjY3d",
       "timestamp": "2026-09-01T05:02:50+0000",
       "metrics": {
-        "views": 527,
+        "views": 529,
         "likes": 6,
         "replies": 5,
         "reposts": 1,
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18126388345790576",
+      "text": "Fresh grad, bahasa Inggris masih pas-pasan, tapi pengen coba exchange atau magang ke Amerika?\nHal pertama yang paling wo",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DcwywH5kXiY",
+      "timestamp": "2026-09-01T23:01:18+0000",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17907319242532881",
       "text": "Fresh grad bahasa Inggris pas-pasan, tapi nekat daftar kapal pesiar — ini yang paling worth disiapin duluan:\nCV-nya. Buk",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18016373606731774",
-      "text": "Pernah kepikiran gak — apa bedanya CV kamu sama orang yang udah lolos kerja di kapal pesiar?\nSeorang teman coba 3x gagal",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DcvLxDxm_kq",
-      "timestamp": "2026-09-01T08:01:24+0000",
-      "metrics": {
-        "views": 52,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
