@@ -1,32 +1,77 @@
 {
-  "updated_at": "2026-09-05T12:42:51.455Z",
+  "updated_at": "2026-09-05T16:04:25.194Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=yhp68kxiuW0Q7kNvwGxb8xH&_nc_oc=AdrMre4Y6vXyvgFWGpfvdVQZlzItlLGlmX3lFsfqRVuuDPCgm_4ckTYZUH_eXxD6GkU&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=s8EbpUf5de2rcZjHFn1IkQ&_nc_tpa=Q5bMBQI4kLWAV2O0g5pf_YOX_wJP88sPgrg5kvN1CMfg5bmK8d2XGGK0TSaD6b8ZfQCiW14XrKjfWuyx1Q&oh=00_AQJgJgyzdtkCIPwZoPaCcEExUhOeHNPvheImkPJl02aw7Q&oe=6AA1FAF5"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=yhp68kxiuW0Q7kNvwF-tNjB&_nc_oc=AdrjNlRrI45c-y67OXVveBZJkz6yNaYU5WcMDQV8orqxvOivSRONVnAh0itTYNB-wuo&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=dzeybQvn3kBIJ2klW1Lf3g&_nc_tpa=Q5bMBQLTMxIFw94VZwcMleyREpJJFVduozrJ2dCP-hWt7cuJWGPZUYgTGRjpU9y355vXGECUs4FYnXBtxQ&oh=00_AQIdVbJ2N376Wpc2Y8AYORI9BSwYJOl8pVOFfj5KL-HDZA&oe=6AA1FAF5"
   },
   "summary": {
-    "followers_count": 323,
-    "views": 238,
-    "likes": 2,
+    "followers_count": 320,
+    "views": 550,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 4.44,
+    "engagement_total": 37,
+    "engagement_rate": 4.09,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17907886188497950",
+      "text": "Kerja di Jerman itu bukan soal \"nunggu rezeki dateng\" — ada PR-nya dulu. 😅\n • Bahasa Jerman? minimal dasar, makin lanca",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc6PA07Gw9b",
+      "timestamp": "2026-09-05T15:01:24+0000",
+      "metrics": {
+        "views": 56,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "17981722854098679",
+      "text": "Jujur ya, JLPT itu bukan halangan terbesar buat kerja di Jepang.\nYang lebih sering bikin gagal: format CV-nya salah.\nDi ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc56ZuYIF3t",
+      "timestamp": "2026-09-05T12:01:18+0000",
+      "metrics": {
+        "views": 89,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18047345882663188",
+      "text": "Dulu gue kira kerja remote = freelance serabutan.\nEh ternyata ada role tetap — AI trainer, data annotator, digital roles",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5lzhREdMH",
+      "timestamp": "2026-09-05T09:01:20+0000",
+      "metrics": {
+        "views": 119,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "18085607900260029",
       "text": "Dulu gue kira bahasa Inggris cukup buat kerja di Jerman.\nEh, ternyata banyak perusahaan di sana — terutama di luar kota ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dc48mzCkdXK",
       "timestamp": "2026-09-05T03:01:19+0000",
       "metrics": {
-        "views": 75,
+        "views": 77,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -49,61 +94,31 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18047345882663188",
-      "text": "Dulu gue kira kerja remote = freelance serabutan.\nEh ternyata ada role tetap — AI trainer, data annotator, digital roles",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5lzhREdMH",
-      "timestamp": "2026-09-05T09:01:20+0000",
-      "metrics": {
-        "views": 110,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18047841311615490",
-      "text": "Bayangin bangun jam 6.30 pagi, di luar masih gelap, udara dingin menusuk — tapi kamu udah harus siap shift NHS jam 7.\nTe",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5RNDplX3q",
-      "timestamp": "2026-09-05T06:01:19+0000",
-      "metrics": {
-        "views": 40,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18113165900084610",
-      "text": "CV Indonesia vs Rirekisho Jepang — dua hal yang beda banget.\nDi sini biasa tulis hobi & foto senyum. Di sana, format & f",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc0-kCjm71q",
-      "timestamp": "2026-09-03T14:01:28+0000",
-      "metrics": {
-        "views": 38,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
     {
-      "id": "17981722854098679",
-      "text": "Jujur ya, JLPT itu bukan halangan terbesar buat kerja di Jepang.\nYang lebih sering bikin gagal: format CV-nya salah.\nDi ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc56ZuYIF3t",
-      "timestamp": "2026-09-05T12:01:18+0000",
+      "id": "17907886188497950",
+      "text": "Kerja di Jerman itu bukan soal \"nunggu rezeki dateng\" — ada PR-nya dulu. 😅\n • Bahasa Jerman? minimal dasar, makin lanca",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc6PA07Gw9b",
+      "timestamp": "2026-09-05T15:01:24+0000",
       "metrics": {
-        "views": 5,
+        "views": 56,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18051788297799960",
+      "text": "Honest opinion: banyak orang gagal kerja di Australia bukan karena kurang skill — tapi karena CVnya masih pakai format I",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc6IIvqHLZQ",
+      "timestamp": "2026-09-05T14:01:20+0000",
+      "metrics": {
+        "views": 63,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -113,40 +128,10 @@
       "engagement": 1
     },
     {
-      "id": "18072214193459521",
-      "text": "Kerja di kapal pesiar itu unik — kamu tidur di tempat kerja, makan di tempat kerja, dan \"pulang\" ke port yang beda tiap ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5wFnpm-bZ",
-      "timestamp": "2026-09-05T10:31:11+0000",
-      "metrics": {
-        "views": 42,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18047345882663188",
-      "text": "Dulu gue kira kerja remote = freelance serabutan.\nEh ternyata ada role tetap — AI trainer, data annotator, digital roles",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5lzhREdMH",
-      "timestamp": "2026-09-05T09:01:20+0000",
-      "metrics": {
-        "views": 110,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18443177800192913",
-      "text": "Ekspektasi: \"Kerja di Amerika pasti gampang asal mau usaha.\"\nRealita: sponsor visa, dokumen tebal, bahasa Inggris yang b",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5bfTNlewH",
-      "timestamp": "2026-09-05T07:31:11+0000",
+      "id": "17880005424523141",
+      "text": "Berhenti hafal kosakata Korea sembarangan, mending fokus ke materi EPS-TOPIK dulu.\nUjian itu yang jadi gerbang utama, bu",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc6BRguD2jB",
+      "timestamp": "2026-09-05T13:01:22+0000",
       "metrics": {
         "views": 7,
         "likes": 0,
@@ -158,12 +143,72 @@
       "engagement": 1
     },
     {
+      "id": "17981722854098679",
+      "text": "Jujur ya, JLPT itu bukan halangan terbesar buat kerja di Jepang.\nYang lebih sering bikin gagal: format CV-nya salah.\nDi ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc56ZuYIF3t",
+      "timestamp": "2026-09-05T12:01:18+0000",
+      "metrics": {
+        "views": 89,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18072214193459521",
+      "text": "Kerja di kapal pesiar itu unik — kamu tidur di tempat kerja, makan di tempat kerja, dan \"pulang\" ke port yang beda tiap ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5wFnpm-bZ",
+      "timestamp": "2026-09-05T10:31:11+0000",
+      "metrics": {
+        "views": 57,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18047345882663188",
+      "text": "Dulu gue kira kerja remote = freelance serabutan.\nEh ternyata ada role tetap — AI trainer, data annotator, digital roles",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5lzhREdMH",
+      "timestamp": "2026-09-05T09:01:20+0000",
+      "metrics": {
+        "views": 119,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18443177800192913",
+      "text": "Ekspektasi: \"Kerja di Amerika pasti gampang asal mau usaha.\"\nRealita: sponsor visa, dokumen tebal, bahasa Inggris yang b",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5bfTNlewH",
+      "timestamp": "2026-09-05T07:31:11+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18047841311615490",
       "text": "Bayangin bangun jam 6.30 pagi, di luar masih gelap, udara dingin menusuk — tapi kamu udah harus siap shift NHS jam 7.\nTe",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5RNDplX3q",
       "timestamp": "2026-09-05T06:01:19+0000",
       "metrics": {
-        "views": 40,
+        "views": 41,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dc5G5RznK8C",
       "timestamp": "2026-09-05T04:31:14+0000",
       "metrics": {
-        "views": 86,
+        "views": 92,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dc48mzCkdXK",
       "timestamp": "2026-09-05T03:01:19+0000",
       "metrics": {
-        "views": 75,
+        "views": 77,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17973574791135177",
-      "text": "Berhenti hafal daftar gaji Australia — itu ga bikin lo siap.\nYang sering kelewat: CV lo masih format Indonesia, bahasa I",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc4u3jfGkeU",
-      "timestamp": "2026-09-05T01:01:17+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18115705298069876",
-      "text": "Berhenti hafal kosakata acak dulu — kalau rirekisho-mu masih format Indonesia, HR Jepang bisa skip CV-mu sebelum sempet ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc4hJhcn4kX",
-      "timestamp": "2026-09-04T23:01:25+0000",
-      "metrics": {
-        "views": 15,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18344136673249459",
-      "text": "6 bulan lalu CV-ku masih format Indonesia banget — foto 3x4, kolom hobi, tujuan hidup segala. 😭\nSekarang udah pakai for",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dc3qNolnFS0",
-      "timestamp": "2026-09-04T15:01:22+0000",
-      "metrics": {
-        "views": 28,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
