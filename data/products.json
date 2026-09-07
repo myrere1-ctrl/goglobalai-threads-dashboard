@@ -4,7 +4,7 @@
   "affiliate_platform": "Shopee/Amazon",
   "link_mode": "comment",
   "min_affiliate_posts_per_day": 2,
-  "status": "DRAFT — belum aktif. goglobal udah punya izin reply, jadi tinggal isi 'products' + aktifin wiring. Maks 10 item.",
+  "status": "ACTIVE sejak 2026-09-07 — slot 3 & 9 (11.30 & 20.00 WIB) generate + auto-komen link. Diatur di scripts/generate-and-post.mjs (AFFILIATE_SLOTS). Masih 7/10 produk, bisa +3 lagi.",
   "product_format_example": {
     "name": "nama produk singkat",
     "link": "https://... (link affiliate)",
