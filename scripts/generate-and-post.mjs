@@ -71,10 +71,10 @@ function pickCtaReply(country) {
 const AFFILIATE_SLOTS = [3, 9]; // 11.30 & 20.00 WIB
 
 const AFFILIATE_REPLY_TEMPLATES = [
-  '{blurb}\n\nlink: {link}',
-  'buat yang mau langsung cek, ini link-nya: {link}\n({blurb})',
-  '{blurb} — cek link: {link}',
-  'link-nya di sini: {link}',
+  '{blurb}\n\nlink: {link}\n#ad',
+  'buat yang mau langsung cek, ini link-nya: {link}\n({blurb})\n#ad',
+  '{blurb} — cek link: {link}\n#ad',
+  'link-nya di sini: {link}\n#ad',
 ];
 
 const PRODUCTS_PATH = path.resolve('data/products.json');
