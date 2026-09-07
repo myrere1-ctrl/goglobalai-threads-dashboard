@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { generatePost } from './lib/claude.mjs';
+import { generatePost, generateAffiliatePost } from './lib/claude.mjs';
 import { postThread, postReply, verifyToken } from './lib/threads.mjs';
 
 // 12 post/hari, sebar seharian (06.00–22.00). Konten mix acak semua negara di COUNTRIES.
@@ -66,6 +66,39 @@ function pickCtaReply(country) {
   return t.replace(/\{country\}/g, country);
 }
 
+// Affiliate: min 2 slot/hari (dari 12 total) rekomendasiin gear persiapan LN nyata
+// (data/products.json), bukan konten karir/visa biasa. Sisanya tetap normal.
+const AFFILIATE_SLOTS = [3, 9]; // 11.30 & 20.00 WIB
+
+const AFFILIATE_REPLY_TEMPLATES = [
+  '{blurb}\n\nlink: {link}',
+  'buat yang mau langsung cek, ini link-nya: {link}\n({blurb})',
+  '{blurb} — cek link: {link}',
+  'link-nya di sini: {link}',
+];
+
+const PRODUCTS_PATH = path.resolve('data/products.json');
+
+async function loadProducts() {
+  try {
+    const raw = await fs.readFile(PRODUCTS_PATH, 'utf8');
+    const data = JSON.parse(raw);
+    return Array.isArray(data.products) ? data.products : [];
+  } catch {
+    return [];
+  }
+}
+
+function pickAffiliateItem({ products, dayIndex, positionInSlots }) {
+  if (!products.length) return null;
+  return products[(dayIndex + positionInSlots) % products.length];
+}
+
+function buildAffiliateReply(item) {
+  const t = AFFILIATE_REPLY_TEMPLATES[Math.floor(Math.random() * AFFILIATE_REPLY_TEMPLATES.length)];
+  return t.replace(/\{blurb\}/g, item.blurb).replace(/\{link\}/g, item.link).replace(/\{name\}/g, item.name);
+}
+
 const LOG_PATH = path.resolve('data/posted-log.json');
 
 function parseArgs() {
@@ -94,12 +127,16 @@ function pickContent({ slot }) {
   };
 }
 
-async function appendLog(entry) {
-  let log = [];
+async function loadLog() {
   try {
-    const raw = await fs.readFile(LOG_PATH, 'utf8');
-    log = JSON.parse(raw);
-  } catch {}
+    return JSON.parse(await fs.readFile(LOG_PATH, 'utf8'));
+  } catch {
+    return [];
+  }
+}
+
+async function appendLog(entry) {
+  const log = await loadLog();
   log.push(entry);
   await fs.writeFile(LOG_PATH, JSON.stringify(log, null, 2) + '\n');
 }
@@ -115,16 +152,41 @@ async function main() {
   if (!token) throw new Error('THREADS_ACCESS_TOKEN missing');
   if (!userId) throw new Error('THREADS_USER_ID missing');
 
-  const choice = pickContent({ slot });
-  console.log('Slot:', slot, SLOTS[slot], 'WIB');
-  console.log('Pick:', choice);
+  const now = new Date();
+  const dayIndex = Math.floor(now.getTime() / 86400000);
+  const isAffiliateSlot = AFFILIATE_SLOTS.includes(slot);
 
-  const post = await generatePost({ apiKey, ...choice });
-  const ctaReply = pickCtaReply(choice.country);
+  let post = null;
+  let item = null;
+  let choice = null;
+
+  if (isAffiliateSlot) {
+    const products = await loadProducts();
+    if (products.length) {
+      const positionInSlots = AFFILIATE_SLOTS.indexOf(slot);
+      item = pickAffiliateItem({ products, dayIndex, positionInSlots });
+      console.log('Slot:', slot, SLOTS[slot], 'WIB · AFFILIATE');
+      console.log('Produk:', item.name);
+      const log = await loadLog();
+      const recentPosts = log.slice(-12).map((e) => e.body || e.text || '');
+      post = await generateAffiliatePost({ apiKey, item, recentPosts });
+    } else {
+      console.log('Slot affiliate tapi products.json kosong — fallback ke konten normal.');
+    }
+  }
+
+  if (!post) {
+    choice = pickContent({ slot });
+    console.log('Slot:', slot, SLOTS[slot], 'WIB');
+    console.log('Pick:', choice);
+    post = await generatePost({ apiKey, ...choice });
+  }
+
+  const reply = item ? buildAffiliateReply(item) : pickCtaReply(choice.country);
   console.log('--- MAIN POST ---');
   console.log(post.full);
-  console.log('--- REPLY (CTA + link) ---');
-  console.log(ctaReply);
+  console.log('--- REPLY', item ? '(affiliate link)' : '(CTA + link)', '---');
+  console.log(reply);
   console.log('---');
 
   if (dryRun) {
@@ -136,10 +198,10 @@ async function main() {
   const threadId = await postThread({ userId, token, text: post.full });
   console.log('Posted main:', threadId);
 
-  // Auto-reply CTA+link. Kalau gagal, JANGAN batalin main post — log aja.
+  // Auto-reply CTA/affiliate+link. Kalau gagal, JANGAN batalin main post — log aja.
   let replyThreadId = null;
   try {
-    replyThreadId = await postReply({ userId, token, text: ctaReply, replyToId: threadId });
+    replyThreadId = await postReply({ userId, token, text: reply, replyToId: threadId });
     console.log('Posted reply:', replyThreadId);
   } catch (e) {
     console.error('Reply gagal (main post tetap aman):', e.message);
@@ -149,15 +211,17 @@ async function main() {
     timestamp: new Date().toISOString(),
     slot,
     slotTimeWib: SLOTS[slot],
-    type: choice.type,
-    country: choice.country,
-    tone: choice.tone,
+    isAffiliate: !!item,
+    affiliateProduct: item ? item.name : null,
+    type: choice?.type ?? null,
+    country: choice?.country ?? null,
+    tone: choice?.tone ?? null,
     angle: post.angle,
     body: post.text,
     cta: post.cta,
     text: post.full,
     threadId,
-    ctaReply,
+    ctaReply: reply,
     replyThreadId,
   });
   console.log('Logged');

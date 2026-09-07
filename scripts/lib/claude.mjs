@@ -222,3 +222,63 @@ export async function generatePost({ apiKey, type, country, tone, note, countryC
   const truncated = lastFull.slice(0, THREADS_LIMIT - 3) + '...';
   return { text: truncated, cta: '', angle: angle.name, full: truncated };
 }
+
+// ===== AFFILIATE POST (rekomendasi gear asli dari data/products.json) =====
+// Beda dari generatePost: bukan konten karir/visa, tapi rekomendasi gear persiapan
+// LN yang nyata (Shopee/Amazon). Link taruh di REPLY (auto), bukan di post ini.
+export function buildAffiliatePrompt({ item, recentPosts = [] }) {
+  const history = recentPosts?.length
+    ? `RIWAYAT POST TERAKHIR (JANGAN ulang topik/struktur yang sama persis):\n${recentPosts.slice(-12).map((t, i) => `${i + 1}. "${(t || '').replace(/\n/g, ' ').slice(0, 160)}"`).join('\n')}`
+    : '';
+  return `Kamu content creator Threads untuk GoGlobal AI — persona yang bantu orang Indonesia NYIAPIN DIRI kerja/kuliah ke luar negeri.
+
+Buat 1 post Threads Bahasa Indonesia yang REKOMENDASIIN barang ini secara personal & natural (BUKAN iklan/brosur):
+- Barang: ${item.name}
+- Kenapa worth: ${item.blurb}
+
+MODE: cerita personal singkat kenapa barang ini kepake pas nyiapin diri / pas di perjalanan (2-3 baris) — kayak share tips ke temen yang senasib. JANGAN listing spek kayak brosur. JANGAN bahasa hard-sell ("beli sekarang", "diskon", "buruan").
+
+${history}
+
+Format:
+- 2-4 baris pendek
+- Bahasa santai seperti ngobrol sama teman
+- BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter.
+- CTA WAJIB kasih tau link ada di KOMEN (bukan bio) — variasikan kalimatnya tiap kali.
+
+JANGAN tulis URL apapun di teks/cta. JANGAN sebut nama brand "GoGlobal AI" di post ini.
+
+PENTING - format output WAJIB persis seperti ini (pakai tag, BUKAN JSON):
+<teks>baris1|baris2|baris3</teks>
+<cta>link di komen ya (contoh — variasikan kalimatnya)</cta>
+
+Gunakan pipe | untuk jeda baris dalam teks. JANGAN pakai newline asli di dalam teks. JANGAN pakai quote dobel. JANGAN tulis apapun di luar tag.`;
+}
+
+export async function generateAffiliatePost({ apiKey, item, recentPosts = [] }) {
+  let lastFull = '';
+  let attempt = 0;
+
+  while (attempt < MAX_RETRIES) {
+    attempt++;
+    const retryNote = attempt > 1
+      ? `\n\n[RETRY ${attempt}: post sebelumnya ${lastFull.length} karakter — LEBIH PENDEK, max 400 total]`
+      : '';
+    const prompt = buildAffiliatePrompt({ item, recentPosts }) + retryNote;
+    const raw = await callClaude({ apiKey, prompt });
+    const { teks, cta } = parseResponse(raw);
+    const text = teks.replace(/\|/g, '\n');
+    const full = `${text}\n\n${cta}`;
+    lastFull = full;
+
+    if (full.length <= THREADS_LIMIT) {
+      if (attempt > 1) console.log(`Retry ${attempt} succeeded (${full.length} chars)`);
+      return { text, cta, angle: 'affiliate', full };
+    }
+    console.log(`Attempt ${attempt}: affiliate post too long (${full.length} chars > ${THREADS_LIMIT}), retrying...`);
+  }
+
+  console.warn(`All ${MAX_RETRIES} retries exceeded limit. Hard truncating.`);
+  const truncated = lastFull.slice(0, THREADS_LIMIT - 3) + '...';
+  return { text: truncated, cta: '', angle: 'affiliate', full: truncated };
+}
