@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-09-09T09:45:38.441Z",
+  "updated_at": "2026-09-09T14:36:00.051Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=SDT1OV_n6HsQ7kNvwGVIaFC&_nc_oc=AdqGnc-TowEi2dchxNxLzArrZZ_bSfO4TX9zNKgEodaFhj5oNkln32HLURY055A8YOc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YZJQqXn9Vwz77R3C0BoeDA&_nc_tpa=Q5bMBQK-kzxAYtPeKguiirBzBMqgAoFGsu6fmJnLSYuNYCtkDxnZNxdaubeoa171nJi9u5pCWoQcReOuAg&oh=00_AQJPwgksT71kZkqR9dicqtXMcpoSRaKh6CjcWY0zWTaUeA&oe=6AA708B5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=3rY19stJZXQQ7kNvwE0bz_q&_nc_oc=AdqarCnrPxiKYZLNGdAqE09Cfh9v0xdlfKJeIsDjHR8Ra7CNmCQZyfVwZj2ciC3qbzQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rI3pZ2hKDPcyOzCAliZAbw&_nc_tpa=Q5bMBQIxPaHW-76q1WhmIYixp6TbGoyGYaIF0-r3RCsQWqpKCKXcK5KLf1dC1i_ZuceXLpg7_2mEIDccsg&oh=00_AQKjso71VrLNsssxEdy1s5W3JupT01zYsWEEZWIDH2t9tg&oe=6AA740F5"
   },
   "summary": {
     "followers_count": 320,
-    "views": 32,
-    "likes": 0,
+    "views": 241,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 28,
-    "engagement_rate": 4.26,
+    "engagement_total": 30,
+    "engagement_rate": 4.35,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18090005198187589",
+      "text": "Orang Jerman itu serius soal pengakuan ijazah.\nDokter, insinyur, perawat — semua dicek ulang, disetarakan dulu sebelum b",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdEDR0vG6dC",
+      "timestamp": "2026-09-09T10:31:17+0000",
+      "metrics": {
+        "views": 99,
+        "likes": 1,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "17906244246513137",
       "text": "Insinyur sipil, 31 tahun, ngirim 40+ lamaran ke Kanada — gak ada yang nyangkut.\nMasalahnya bukan skill-nya. CV-nya masih",
@@ -51,12 +66,12 @@
       "engagement": 2
     },
     {
-      "id": "18473447083112307",
-      "text": "CV kamu udah oke di Indonesia — tapi pernah kepikiran, apa yang bikin recruiter Australia langsung skip tanpa baca lebih",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdD4_Q8m9Wu",
-      "timestamp": "2026-09-09T09:01:21+0000",
+      "id": "17904554151559726",
+      "text": "Dulu gue kira kendala terbesar masuk program kerja ke AS itu soal koneksi atau uang.\nTernyata bukan.\nYang bikin banyak o",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdEbVG7Fr2K",
+      "timestamp": "2026-09-09T14:01:26+0000",
       "metrics": {
-        "views": 4,
+        "views": 1,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -66,27 +81,12 @@
       "engagement": 1
     },
     {
-      "id": "18109882442161199",
-      "text": "Satu hal yang sering bikin orang gagal tes EPS-TOPIK bukan karena kurang belajar — tapi belajar hal yang salah.\nMereka h",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdDurq3m1Eg",
-      "timestamp": "2026-09-09T07:31:19+0000",
+      "id": "18470347738113043",
+      "text": "Dulu gue kira bisa andelin feeling doang buat IELTS — ternyata nggak.\nBuku latihan IELTS/TOEFL itu yang bantu gue ngerti",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdEUekFnEKT",
+      "timestamp": "2026-09-09T13:01:36+0000",
       "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18115126870989199",
-      "text": "Mau kerja di Jepang? Mulai dari rirekisho dulu — ini 3 hal yang sering dilewatin:\n1. Format foto: harus formal, backgrou",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdDkZqMG7-I",
-      "timestamp": "2026-09-09T06:01:29+0000",
-      "metrics": {
-        "views": 30,
+        "views": 8,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,72 @@
   ],
   "recent_posts": [
     {
+      "id": "17904554151559726",
+      "text": "Dulu gue kira kendala terbesar masuk program kerja ke AS itu soal koneksi atau uang.\nTernyata bukan.\nYang bikin banyak o",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdEbVG7Fr2K",
+      "timestamp": "2026-09-09T14:01:26+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18470347738113043",
+      "text": "Dulu gue kira bisa andelin feeling doang buat IELTS — ternyata nggak.\nBuku latihan IELTS/TOEFL itu yang bantu gue ngerti",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdEUekFnEKT",
+      "timestamp": "2026-09-09T13:01:36+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18163566979470814",
+      "text": "Honest opinion: banyak orang gagal Express Entry Kanada bukan karena kurang pintar — tapi karena CV-nya masih gaya Indon",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdENmealUMW",
+      "timestamp": "2026-09-09T12:01:28+0000",
+      "metrics": {
+        "views": 35,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18090005198187589",
+      "text": "Orang Jerman itu serius soal pengakuan ijazah.\nDokter, insinyur, perawat — semua dicek ulang, disetarakan dulu sebelum b",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdEDR0vG6dC",
+      "timestamp": "2026-09-09T10:31:17+0000",
+      "metrics": {
+        "views": 99,
+        "likes": 1,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18473447083112307",
       "text": "CV kamu udah oke di Indonesia — tapi pernah kepikiran, apa yang bikin recruiter Australia langsung skip tanpa baca lebih",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdD4_Q8m9Wu",
       "timestamp": "2026-09-09T09:01:21+0000",
       "metrics": {
-        "views": 4,
+        "views": 6,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,66 +239,6 @@
       "timestamp": "2026-09-09T01:01:22+0000",
       "metrics": {
         "views": 21,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17906244246513137",
-      "text": "Insinyur sipil, 31 tahun, ngirim 40+ lamaran ke Kanada — gak ada yang nyangkut.\nMasalahnya bukan skill-nya. CV-nya masih",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdC0VkplR09",
-      "timestamp": "2026-09-08T23:01:28+0000",
-      "metrics": {
-        "views": 133,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18095769890104121",
-      "text": "Ekspektasi: kirim CV → dapat sponsor → terbang ke Amerika 🇺🇸\nRealita Reza: CV-nya ditolak 3x karena format salah semua",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdB9ZdKFtYT",
-      "timestamp": "2026-09-08T15:01:24+0000",
-      "metrics": {
-        "views": 54,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18006800813968376",
-      "text": "Ada yang menarik soal UK sekarang — syarat bahasa Inggrisnya baru naik level, dari B1 ke B2 sejak awal 2026.\nArtinya, or",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdB2iqDG9Pq",
-      "timestamp": "2026-09-08T14:01:30+0000",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18122161672676300",
-      "text": "Hari pertama di hostel London, colokan bentuknya aneh banget — beda sama yang gue bawa dari Indo.\nUntung temen gue kasih",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdBvrPtm7Pd",
-      "timestamp": "2026-09-08T13:01:30+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
