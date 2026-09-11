@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-10T21:38:04.019Z",
+  "updated_at": "2026-09-11T00:10:54.633Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=3rY19stJZXQQ7kNvwHPmVGi&_nc_oc=AdrOAeUp8RbYRnISz5Rn4013uby1Et9MTn7pOYyeo5vqMdLe01eSliYCGRsPIH-Ppvc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=71zySPqzfHW6MX8GNKxc-w&_nc_tpa=Q5bMBQIgZ5SsfdCvq2zqDN_-dilt85APR1amBM4YZvmua78JOYAhTFrrZfq3boTQBWPTmQCj87CNVeRPAw&oh=00_AQJsEVu238Hd476Qa4rEBVFmoTpebpXz7j70PeA4s3VHvg&oe=6AA902F5"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=3rY19stJZXQQ7kNvwEK39Iz&_nc_oc=Ado0nCCLuFwZQGSC6_xyrucsGF1N-5Ebj2lPJz9IVLGgoB6FTePgGTRfm-8vBa63ohE&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DsyxOoAU38aMqpRRLTchxg&_nc_tpa=Q5bMBQLB4narRsmKNL-QSqY7gjJ_vWHiRqh15CQqMbUZrWGsDCRutgiPmMrlUS_ihWYLbQK49S2wHNZyKA&oh=00_AQKM-Z3NOCla0G8fDe9XXAmCuZ2q5oQslsqP7W-ZHFc-Ng&oe=6AA902F5"
   },
   "summary": {
     "followers_count": 320,
-    "views": 363,
+    "views": 378,
     "likes": 3,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 42,
-    "engagement_rate": 4.74,
+    "engagement_rate": 4.97,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18126595033695093",
+      "text": "Ekspektasi: \"Pokoknya nyoba dulu, nanti beres di sana.\"\nRealita: sponsor H-2A atau J-1 butuh dokumen kuat, Inggris yang ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdH96QMIAqa",
+      "timestamp": "2026-09-10T23:01:20+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18024502262917246",
       "text": "Myth: kerja di kapal pesiar itu yang penting modal nekat sama muka bersih 😂\nReality-nya? CV kamu dinilai pakai standar ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdHHAM5m5B6",
       "timestamp": "2026-09-10T15:01:33+0000",
       "metrics": {
-        "views": 39,
+        "views": 46,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdGoEQeIGwv",
       "timestamp": "2026-09-10T10:31:13+0000",
       "metrics": {
-        "views": 41,
+        "views": 42,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18121726166492305",
-      "text": "6 bulan lalu CV-ku berantakan, interview bahasa Inggris ngos-ngosan.\nSekarang? CV udah sesuai standar rekrutmen kapal pe",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdF0nYajd0q",
-      "timestamp": "2026-09-10T03:01:38+0000",
-      "metrics": {
-        "views": 61,
-        "likes": 1,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
