@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-11T14:26:13.883Z",
+  "updated_at": "2026-09-11T18:33:25.884Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=3rY19stJZXQQ7kNvwFk1JPp&_nc_oc=Adokfb2gGzYBzEqnw6TfF0kuNInwZ0_4nXTIft-BAP7rjQfPfJjPZDHIDpu_E-IFN-Q&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=obyuWIqDBbaon4Xwabl0hA&_nc_tpa=Q5bMBQJa0ALzQ3xMVRR0fgbqsEK6kLtF7rfDVbHQ9w4TKFeJq9rhJTVpQQy4rUv_iz8jKuZBCY3KztCl8A&oh=00_AQJwHAtD2f0FCQ_RnwUua_KhQLodoupuwhtPFtOW7NFFRA&oe=6AA9E3F5"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=3rY19stJZXQQ7kNvwF2IN3K&_nc_oc=Adrs8tRXquPl1l5epfqahh3UoDcOuSzo6r9QxSxqqXt6T8hfTxBTn7bBh9zWy3HHNhU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xT6yZXHCASRyhfHaTWdWtw&_nc_tpa=Q5bMBQJQkn1zv0ugBG8SzwlL200hb6zB2ZdHHcaLWDD0rK28L671QlyCNh7vVxVvLPjQeiPcRqgqVh7alQ&oh=00_AQLG6hSMtsUp55aZy7dWLcmVBQnO2tLRjt1zCsnton1u5g&oe=6AAA1C35"
   },
   "summary": {
     "followers_count": 319,
-    "views": 112,
-    "likes": 0,
+    "views": 205,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 36,
-    "engagement_rate": 5.89,
+    "engagement_total": 37,
+    "engagement_rate": 5.65,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -51,6 +51,21 @@
       "engagement": 3
     },
     {
+      "id": "18018373979920267",
+      "text": "Dulu gue kira CV tinggal translate ke Bahasa Inggris terus kirim ke Jepang.\nTernyata mereka punya format sendiri namanya",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdJryUimzKK",
+      "timestamp": "2026-09-11T15:01:27+0000",
+      "metrics": {
+        "views": 41,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18125847196693147",
       "text": "Kalau kamu udah kerja tapi ngerasa skill-nya cukup buat remote — yang sering jadi batu sandungan bukan kemampuannya, tap",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdHAIuVoO41",
@@ -79,14 +94,16 @@
         "shares": 1
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18342173281270457",
-      "text": "Graphic designer 27 tahun, freelance lokal, bayaran pas-pasan — iseng apply AI trainer remote bayaran USD.\nDitolak bukan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdFm4fVEvYZ",
-      "timestamp": "2026-09-10T01:01:39+0000",
+      "id": "18018373979920267",
+      "text": "Dulu gue kira CV tinggal translate ke Bahasa Inggris terus kirim ke Jepang.\nTernyata mereka punya format sendiri namanya",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdJryUimzKK",
+      "timestamp": "2026-09-11T15:01:27+0000",
       "metrics": {
-        "views": 18,
+        "views": 41,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18242836468314528",
       "text": "CV buat kapal pesiar itu beda sama CV kerja kantoran biasa.\nDi sana, recruiter nyari bukti kamu bisa kerja dalam tim mul",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdJk60Um607",
       "timestamp": "2026-09-11T14:01:26+0000",
       "metrics": {
-        "views": 2,
+        "views": 16,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdJXLOtlp3r",
       "timestamp": "2026-09-11T12:01:21+0000",
       "metrics": {
-        "views": 6,
+        "views": 8,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdJM3AylneJ",
       "timestamp": "2026-09-11T10:31:12+0000",
       "metrics": {
-        "views": 16,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdI4Q4Dm7e3",
       "timestamp": "2026-09-11T07:31:14+0000",
       "metrics": {
-        "views": 12,
+        "views": 13,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -223,22 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdIZYiuG3_0",
       "timestamp": "2026-09-11T03:01:23+0000",
       "metrics": {
-        "views": 91,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17955748431015779",
-      "text": "Honest opinion: bukan kurang rejeki, tapi kurang siap.\nBanyak yang ngidam kerja di kapal pesiar — gaji USD, makan gratis",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdILp4lG43d",
-      "timestamp": "2026-09-11T01:01:26+0000",
-      "metrics": {
-        "views": 13,
+        "views": 96,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
