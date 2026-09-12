@@ -1,40 +1,25 @@
 {
-  "updated_at": "2026-09-12T00:18:30.715Z",
+  "updated_at": "2026-09-12T05:47:17.490Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=3rY19stJZXQQ7kNvwHQ--sG&_nc_oc=Adp0DwW7nnQLunwjZ2OZEsuypMpOYqtcnl6k7Fg-DmgVNtF3vW_QVVLxaQtFK1U-3P8&_nc_zt=24&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MmizzrHKr9wm9BsXd5OvvQ&_nc_tpa=Q5bMBQKcARu1Wk5xIc8QpME6u8BT42FUnDjN94RIcZHRcq-FuChIx_367gvQZvD-foFppipVuyZdL8TPiQ&oh=00_AQLYon2h1w-QjTygcSk0aaoob5S_p4EpmAEzC5EjRSWfmA&oe=6AAA5475"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=3rY19stJZXQQ7kNvwFddhqS&_nc_oc=AdrTX8LIGp8B3TklLbjFjK7kFfNctQVOr9UdEDpP3iGg5igWRNkff4XtJG-YNe5a8BU&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rSwiZ8_nYEgeLzYpjAL9rA&_nc_tpa=Q5bMBQL4BfLpxA2ggSy3nJMwXQRQPY-Fa16b7lZCt4KKgIFC3F2XnVCJjYDQEEGAkChmbB0EDk_WPNKR6Q&oh=00_AQIH_ldui_KelqRPD1TW-PRQdb_iEwW9Z88UiS_qtBuKrw&oe=6AAAC4F5"
   },
   "summary": {
     "followers_count": 319,
-    "views": 258,
-    "likes": 1,
+    "views": 338,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 37,
-    "engagement_rate": 5.61,
+    "engagement_total": 31,
+    "engagement_rate": 5.07,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18121726166492305",
-      "text": "6 bulan lalu CV-ku berantakan, interview bahasa Inggris ngos-ngosan.\nSekarang? CV udah sesuai standar rekrutmen kapal pe",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdF0nYajd0q",
-      "timestamp": "2026-09-10T03:01:38+0000",
-      "metrics": {
-        "views": 61,
-        "likes": 1,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
     {
       "id": "18112999142084502",
       "text": "Gue pernah ngirim CV ke perusahaan di Jerman — ditolak tanpa balasan.\nBelakangan baru tau, format CV di sana beda banget",
@@ -51,12 +36,27 @@
       "engagement": 3
     },
     {
+      "id": "18093914957552968",
+      "text": "CV-mu udah oke, tapi LinkedIn-nya masih sepi — padahal recruiter remote biasanya ngecek sana dulu.\nBanyak yang skill-nya",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdKit63D7fZ",
+      "timestamp": "2026-09-11T23:01:28+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18018373979920267",
       "text": "Dulu gue kira CV tinggal translate ke Bahasa Inggris terus kirim ke Jepang.\nTernyata mereka punya format sendiri namanya",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdJryUimzKK",
       "timestamp": "2026-09-11T15:01:27+0000",
       "metrics": {
-        "views": 47,
+        "views": 48,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,12 @@
   ],
   "recent_posts": [
     {
-      "id": "18093914957552968",
-      "text": "CV-mu udah oke, tapi LinkedIn-nya masih sepi — padahal recruiter remote biasanya ngecek sana dulu.\nBanyak yang skill-nya",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdKit63D7fZ",
-      "timestamp": "2026-09-11T23:01:28+0000",
+      "id": "18125299318823418",
+      "text": "Interview kerja remote pertama gue, suara interviewer putus-putus karena earphone murahan.\nPanik langsung ganti pakai he",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdLIdN9EUdy",
+      "timestamp": "2026-09-12T04:31:12+0000",
       "metrics": {
-        "views": 33,
+        "views": 4,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -113,12 +113,57 @@
       "engagement": 1
     },
     {
+      "id": "17907528174472815",
+      "text": "Honest opinion: banyak orang gagal seleksi kerja ke Korea bukan karena kurang skill — tapi karena nganggep bahasa Korea ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdK-MCzEbKq",
+      "timestamp": "2026-09-12T03:01:29+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18338210530283140",
+      "text": "Kapan terakhir kamu mikir: \"kayaknya aku udah siap kerja di Jepang\" — tapi belum tahu rirekisho itu beda banget sama CV ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdKwcuPoJ-t",
+      "timestamp": "2026-09-12T01:01:26+0000",
+      "metrics": {
+        "views": 13,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18093914957552968",
+      "text": "CV-mu udah oke, tapi LinkedIn-nya masih sepi — padahal recruiter remote biasanya ngecek sana dulu.\nBanyak yang skill-nya",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdKit63D7fZ",
+      "timestamp": "2026-09-11T23:01:28+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18018373979920267",
       "text": "Dulu gue kira CV tinggal translate ke Bahasa Inggris terus kirim ke Jepang.\nTernyata mereka punya format sendiri namanya",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdJryUimzKK",
       "timestamp": "2026-09-11T15:01:27+0000",
       "metrics": {
-        "views": 47,
+        "views": 48,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -199,51 +244,6 @@
         "reposts": 0,
         "quotes": 0,
         "shares": 1
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18093874859552422",
-      "text": "Ekspektasi: \"Jerman? Harus jago Bahasa Inggris dulu.\"\nRealita: yang lebih dibutuhkan justru Bahasa Jerman — dan pengakua",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdI4Q4Dm7e3",
-      "timestamp": "2026-09-11T07:31:14+0000",
-      "metrics": {
-        "views": 13,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18107546297589075",
-      "text": "Dulu gue kirim lamaran ke Australia modal CV yang sama persis gue pakai buat daftar kerja di Jakarta.\nDitolak berkali-ka",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdIt_pmlRMk",
-      "timestamp": "2026-09-11T06:01:30+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18077730290360065",
-      "text": "Gue dulu sering salah — koper gede dibawa ke kabin, repot sendiri.\nSemenjak pake koper kabin khusus, dokumen penting lan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdIjq1skSX8",
-      "timestamp": "2026-09-11T04:31:16+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
       },
       "engagement": 1
     }
