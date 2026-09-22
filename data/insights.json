@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-21T23:16:50.932Z",
+  "updated_at": "2026-09-22T04:56:04.352Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=olB4t3OB8MMQ7kNvwFt-W0s&_nc_oc=Adqfs3EPgd9LtaeDfK5C0MW5xUwqxLUhvYk2-2FcQdqYdseYwDVQxFAUvFzwIvHxdxM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Pbv8f-FonEsCXXmirH9-pQ&_nc_tpa=Q5bMBQIc1L9lw7MCH17wYTBsNBxBpsz3uRxF2Q-zEsbJkUkTYFJKlV4BzMsy40rCnVFjAPQOY46oDM7aUA&oh=00_AQIlls63U_6xBI_hLZgcjc8-6vhCp5aGgQUeYp52k2MsFA&oe=6AB78375"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=olB4t3OB8MMQ7kNvwG3EJSO&_nc_oc=AdqK5MLTiukLUu2bb3YMLwjMnjPUeYj3kmFJaW12OON4acgfhFefQD-hMpj9Sq_WFss&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=6WTFvjjrT3hovy2HM83Y7Q&_nc_tpa=Q5bMBQLw-Y7fYq34yWP2UsgGMAvTF1Ocl0pKYtqV0fCqrHK_TJ_0p1LQgURstFFlmzQSFy45mhXIvT-R3g&oh=00_AQIf9sEKjb1vUHgRRSlLaa50pLD83GAX8Waa69NWbXSqWQ&oe=6AB7F3F5"
   },
   "summary": {
     "followers_count": 321,
-    "views": 236,
-    "likes": 1,
+    "views": 355,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 38,
-    "engagement_rate": 2.87,
+    "engagement_total": 39,
+    "engagement_rate": 3.21,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,6 +36,21 @@
       "engagement": 6
     },
     {
+      "id": "17956460286250505",
+      "text": "70% orang yang sekarang kerja di Jepang dulu nggak kepikiran bisa — bukan karena nggak mampu, tapi karena nggak tahu har",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Ddh7mCxFs7w",
+      "timestamp": "2026-09-21T01:01:20+0000",
+      "metrics": {
+        "views": 217,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 1,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18120473752937627",
       "text": "Mau kerja di Korea? Satu hal yang sering diremehkan:\n• Bahasa Korea bukan bonus — di jalur EPS-TOPIK, ini syarat wajib\n•",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdiJU9JDaxI",
@@ -46,21 +61,6 @@
         "replies": 1,
         "reposts": 1,
         "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17956460286250505",
-      "text": "70% orang yang sekarang kerja di Jepang dulu nggak kepikiran bisa — bukan karena nggak mampu, tapi karena nggak tahu har",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Ddh7mCxFs7w",
-      "timestamp": "2026-09-21T01:01:20+0000",
-      "metrics": {
-        "views": 214,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 1,
         "shares": 0
       },
       "engagement": 3
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdjU3RrIA76",
       "timestamp": "2026-09-21T14:01:24+0000",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18165820090470941",
+      "text": "Dulu gue kira tas ransel biasa cukup buat bolak-balik ngurusin keperluan keluar negeri.\nTernyata salah — pas transit ant",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Ddk4aPalakO",
+      "timestamp": "2026-09-22T04:31:14+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18093962960129548",
+      "text": "Berhenti hafalan kosakata random, mending benerin format CV dulu.\nCV lo keliatan \"Indonesia banget\" di mata HRD Australi",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdkuIZWG0zq",
+      "timestamp": "2026-09-22T03:01:26+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18008904872986461",
+      "text": "Jam 6 pagi, Dani udah di pabrik sebelum matahari keliatan.\nDingin? Iya. Tapi gaji masuk tiap bulan, dan dia tau persis h",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdkgZvRjTyZ",
+      "timestamp": "2026-09-22T01:01:28+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17935234266128049",
       "text": "Fresh grad hospitality, ini buat kamu — kapal pesiar itu salah satu tempat yang nilai pengalaman kerja kamu serius, buka",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdkSq1rCVC7",
       "timestamp": "2026-09-21T23:01:27+0000",
       "metrics": {
-        "views": 0,
+        "views": 61,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdjbvPVkZWq",
       "timestamp": "2026-09-21T15:01:28+0000",
       "metrics": {
-        "views": 17,
+        "views": 21,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdjU3RrIA76",
       "timestamp": "2026-09-21T14:01:24+0000",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -194,51 +239,6 @@
       "timestamp": "2026-09-21T09:01:25+0000",
       "metrics": {
         "views": 17,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18106114093907086",
-      "text": "Berhenti hafalan semua aturan imigrasi Kanada dulu — itu bisa berubah kapan aja.\nYang lebih worth it: benerin CV-mu biar",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdioNq7m89P",
-      "timestamp": "2026-09-21T07:31:14+0000",
-      "metrics": {
-        "views": 46,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17945707911324095",
-      "text": "Jam 7 pagi, udah di kantor. Bukan karena lembur — emang budayanya gitu.\nSiang istirahat beneran, gak ada chat kerjaan ma",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Ddid8h3GyMh",
-      "timestamp": "2026-09-21T06:01:31+0000",
-      "metrics": {
-        "views": 14,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17989291863027159",
-      "text": "Pas lagi masa-masa sibuk — belajar online, revisi dokumen, ikut webinar — gue sadar laptop itu bukan soal merk.\nYang pen",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdiTnH3lCsi",
-      "timestamp": "2026-09-21T04:31:12+0000",
-      "metrics": {
-        "views": 10,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
