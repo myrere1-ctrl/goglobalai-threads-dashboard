@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-23T20:21:48.797Z",
+  "updated_at": "2026-09-23T23:42:13.026Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=olB4t3OB8MMQ7kNvwGrAINR&_nc_oc=Adr8p7Um938yEFoO7wBPWiotpjipArrXalTImfnNpUgIQDXeKZnqmrlADCDhWIRdx7k&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NiltR2GIYiRERvKwkVk4fg&_nc_tpa=Q5bMBQJ5gDBxD3yFgpXc3mxjeYBIuz0I8bPHLvp63ah3CTkw-CZUx3tWghgngxQ4sPBDhgDDKg31oh0i2A&oh=00_AQJE59obRDjqCUI6qBlKxu19ti2uJUzAlQgVluXurgtmcw&oe=6AB9EE35"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=olB4t3OB8MMQ7kNvwFNPcti&_nc_oc=Adp-O5_e27F0BzPXRk7FxGxW56qKWNMQ7hwuvlVNWil42I8NgarisbAyvS3-oXkjvfU&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_HU94i6GWXvZkzy9CDb6XQ&_nc_tpa=Q5bMBQJHC3iaI2CkTEatyVzRVK4pEnOBu9E5biazbbxvyv1XofNGvt1X-0tGEEnRfIKuLk3j3vwhmr_T1Q&oh=00_AQJarMJ0K-4A6MUpNtfc04-bWinr3kppQxmZ4MQmdy_C-w&oe=6ABA2675"
   },
   "summary": {
     "followers_count": 320,
-    "views": 280,
+    "views": 300,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 29,
-    "engagement_rate": 4.11,
+    "engagement_rate": 4.14,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Ddm3d_To5Xk",
       "timestamp": "2026-09-22T23:01:31+0000",
       "metrics": {
-        "views": 123,
+        "views": 124,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -66,6 +66,21 @@
       "engagement": 2
     },
     {
+      "id": "18061255466792337",
+      "text": "90% orang yang lolos kerja ke Korea lewat jalur EPS-TOPIK mulai dari nol — bukan dari koneksi atau pengalaman luar neger",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdpcP8Vmhvf",
+      "timestamp": "2026-09-23T23:01:22+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18151287205548064",
       "text": "Honest opinion: belajar bahasa Jerman tuh bukan hambatan — itu justru filter alami yang bikin saingan lo lebih sedikit.\n",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdolVdGkQ-P",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 1
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18016564337955294",
-      "text": "CV-mu udah siap standar Australia, atau masih format Indonesia?\nIni yang sering bikin lamaran tenggelam sebelum dibaca:\n",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdoedV6Fpqg",
-      "timestamp": "2026-09-23T14:01:29+0000",
+      "id": "18061255466792337",
+      "text": "90% orang yang lolos kerja ke Korea lewat jalur EPS-TOPIK mulai dari nol — bukan dari koneksi atau pengalaman luar neger",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DdpcP8Vmhvf",
+      "timestamp": "2026-09-23T23:01:22+0000",
       "metrics": {
-        "views": 18,
+        "views": 12,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 1
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18151287205548064",
       "text": "Honest opinion: belajar bahasa Jerman tuh bukan hambatan — itu justru filter alami yang bikin saingan lo lebih sedikit.\n",
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DdoQudXoF_i",
       "timestamp": "2026-09-23T12:01:26+0000",
       "metrics": {
-        "views": 28,
+        "views": 30,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-09-23T04:31:12+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18044590910818389",
-      "text": "Ijazah kamu valid — tapi di Jerman, ijazah perlu diakui dulu secara resmi sebelum bisa dipake melamar.\nProses ini namany",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DdnS6m5FQyo",
-      "timestamp": "2026-09-23T03:01:21+0000",
-      "metrics": {
-        "views": 27,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
