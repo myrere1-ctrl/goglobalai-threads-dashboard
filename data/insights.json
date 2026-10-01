@@ -1,47 +1,47 @@
 {
-  "updated_at": "2026-10-01T05:53:27.864Z",
+  "updated_at": "2026-10-01T13:14:23.560Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=g28928w_I3AQ7kNvwEP4pkZ&_nc_oc=AdqlW-p80H8U_QLOzRc8at58IMiakzOOnyf3q5s7V6nHprIKtOklzDTHdrBuGjKuoOo&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ziV4NdjfAp-zsuRrRtwykQ&_nc_tpa=Q5bMBQIQ8uj_0pU8QvdOpM1Ta1vVgOg3DOp8wCyalBpEFRV0EfklUQ73BKl17ybnJ4eDMbVJffrjO-152A&oh=00_AQMphprA68gnMw-wzIQR_xQeYt8Crz4TbK-uErPg6MC_4g&oe=6AC3D175"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=g28928w_I3AQ7kNvwGVOfSM&_nc_oc=AdqDTiECwwQfLObQlY2Q_ksdMjaLZpGoasnMF-creJ-CmWOQc6NXI86rari3kCZ2Bq8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SFU5r_7x6OgN5MA7YT4LhA&_nc_tpa=Q5bMBQI7KEOzQulDBKmhuywu3DPsXf8SOXDY8sTDJIdalziXZtAQatMJwjNdRQlklE8RR6S7OxCGsBo8HA&oh=00_AQNMnpcvJPKHrdt0S7gdKLr9CBXPuLk0AuZbeayBB8sNGg&oe=6AC441F5"
   },
   "summary": {
     "followers_count": 322,
-    "views": 248,
-    "likes": 4,
+    "views": 80,
+    "likes": 0,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 31,
-    "engagement_rate": 6.03,
+    "engagement_total": 30,
+    "engagement_rate": 6.7,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17905724418579654",
-      "text": "6 bulan lalu: CV-nya masih format Indonesia, JLPT belum ada, rirekisho itu apa aja ga tau.\nSekarang: udah paham bedanya ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6gBj3G6su",
-      "timestamp": "2026-09-30T14:01:28+0000",
-      "metrics": {
-        "views": 39,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
     {
       "id": "18114267647466352",
       "text": "Remote job itu bukan cuma soal \"ada koneksi internet\" — ada yang sering kelupaan:\n• CV-mu harus keliatan \"international-",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6SSSnG3CR",
       "timestamp": "2026-09-30T12:01:24+0000",
       "metrics": {
-        "views": 36,
+        "views": 37,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "17905724418579654",
+      "text": "6 bulan lalu: CV-nya masih format Indonesia, JLPT belum ada, rirekisho itu apa aja ga tau.\nSekarang: udah paham bedanya ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6gBj3G6su",
+      "timestamp": "2026-09-30T14:01:28+0000",
+      "metrics": {
+        "views": 41,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6H9noljwS",
       "timestamp": "2026-09-30T10:31:12+0000",
       "metrics": {
-        "views": 42,
+        "views": 44,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -81,29 +81,119 @@
       "engagement": 2
     },
     {
-      "id": "18096146369555017",
-      "text": "Dinda, 26 tahun, awalnya ngerasa CV-nya \"udah bagus\" — sampai dia bandingin sama standar Jerman.\nTernyata ada 3 hal yang",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd3OkVBFQnu",
-      "timestamp": "2026-09-29T07:31:12+0000",
+      "id": "17949957870275336",
+      "text": "Hari keberangkatan itu chaos banget — boarding pass, paspor, dokumen sponsor, semua harus dalam jangkauan tangan.\nSejak ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd898hukTYz",
+      "timestamp": "2026-10-01T13:01:24+0000",
       "metrics": {
-        "views": 56,
-        "likes": 1,
+        "views": 0,
+        "likes": 0,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 1
     }
   ],
   "recent_posts": [
+    {
+      "id": "17949957870275336",
+      "text": "Hari keberangkatan itu chaos banget — boarding pass, paspor, dokumen sponsor, semua harus dalam jangkauan tangan.\nSejak ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd898hukTYz",
+      "timestamp": "2026-10-01T13:01:24+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18171931777459058",
+      "text": "CV kapal pesiar versi \"asal jadi\" vs CV yang lolos seleksi awal — bedanya bukan di pengalaman, tapi di cara nulis & form",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd83E1zHBl5",
+      "timestamp": "2026-10-01T12:01:21+0000",
+      "metrics": {
+        "views": 19,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17954868732081262",
+      "text": "Kalau kamu udah kerja 2–3 tahun tapi belum punya portofolio yang bisa \"dibaca\" recruiter luar negeri — ini yang worth di",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd8swjaFsSE",
+      "timestamp": "2026-10-01T10:31:13+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18370870810213799",
+      "text": "Mau apply kerja di AS? Dokumennya harus kuat — terutama kalau lewat jalur visa J-1 atau H-2A yang butuh sponsor.\n \n3 hal",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd8ien6EUxV",
+      "timestamp": "2026-10-01T09:01:24+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18121888087905886",
+      "text": "Udah kerja 5+ tahun tapi ngerasa skill lo \"cukup\" buat UK — coba cek dulu standar bahasa Inggrisnya.\nMulai 2026, syarat ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd8YKHUFcWL",
+      "timestamp": "2026-10-01T07:31:12+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17906596053569332",
+      "text": "Express Entry ke Kanada itu 70% gagal bukan di kualifikasi — tapi di cara ngepakin dokumennya.\nCV Indonesia dan CV gaya ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd8N37Qm0ld",
+      "timestamp": "2026-10-01T06:01:20+0000",
+      "metrics": {
+        "views": 19,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18138496132617896",
       "text": "Dulu gue kira latihan IELTS cukup dari soal-soal random di internet.\nEh pas beneran ngerjain, pola soalnya beda banget —",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dd8DkcVEVAM",
       "timestamp": "2026-10-01T04:31:18+0000",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -149,96 +239,6 @@
       "timestamp": "2026-09-30T23:01:21+0000",
       "metrics": {
         "views": 15,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18144376489586114",
-      "text": "6 bulan lalu: \"annyeonghaseyo\" aja masih kagok.\nSekarang: udah nyicil hafalin dokumen EPS-TOPIK sambil latihan ngomong K",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6m5UxmxAF",
-      "timestamp": "2026-09-30T15:01:30+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17905724418579654",
-      "text": "6 bulan lalu: CV-nya masih format Indonesia, JLPT belum ada, rirekisho itu apa aja ga tau.\nSekarang: udah paham bedanya ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6gBj3G6su",
-      "timestamp": "2026-09-30T14:01:28+0000",
-      "metrics": {
-        "views": 39,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18061438295549357",
-      "text": "Waktu nyiapin IELTS, gue kira cukup modal nonton YouTube doang 😅\nTernyata salah — soal reading & writing-nya beda bange",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6ZJ-bm3AV",
-      "timestamp": "2026-09-30T13:01:28+0000",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18114267647466352",
-      "text": "Remote job itu bukan cuma soal \"ada koneksi internet\" — ada yang sering kelupaan:\n• CV-mu harus keliatan \"international-",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6SSSnG3CR",
-      "timestamp": "2026-09-30T12:01:24+0000",
-      "metrics": {
-        "views": 36,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18143239885583915",
-      "text": "CV buat apply kerja di AS itu beda banget sama CV Indonesia — nggak ada foto, nggak ada TTL, bahkan nggak ada agama.\nKed",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd6H9noljwS",
-      "timestamp": "2026-09-30T10:31:12+0000",
-      "metrics": {
-        "views": 42,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18007337934002437",
-      "text": "Mulai 8 Januari 2026, syarat bahasa Inggris buat Skilled Worker Visa UK naik satu level — dari B1 ke B2.\nArtinya yang ke",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd59rYAG3gZ",
-      "timestamp": "2026-09-30T09:01:19+0000",
-      "metrics": {
-        "views": 19,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
