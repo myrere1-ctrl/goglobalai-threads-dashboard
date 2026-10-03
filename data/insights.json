@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-10-03T01:11:59.751Z",
+  "updated_at": "2026-10-03T06:34:50.277Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nCerita Aku, Dia & Next Kamu ya?\n❓️➡️ inbox",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=g28928w_I3AQ7kNvwF3ptJV&_nc_oc=AdoJA4kwEVqOU3zU1Nwgz-o4uEkYe9l4723xeLvxDLPIBsFpwLQKkfE5TWsaQD2SZZU&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nBFVFuzUS1iEKpPKx-83gQ&_nc_tpa=Q5bMBQIhH1q5bTrAecg1rVYQCu_MqCjf9PZlxgVVnQCoMogOSudlglDxMBpt3ojuYay7AFVflIZoAMraVg&oh=00_AQMzTjljeL2zLDUKwhAGMc9JotVa-1ONvsABZkZgCP2VEg&oe=6AC63C35"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=g28928w_I3AQ7kNvwFIX6mo&_nc_oc=Adp0dMtlxC2HEKdnYjpmI-b5HeReEgN-z8rECu-EBfR0ypYJjGjjMHLy4SwU52HQVUA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jdbDnUUToFRJxOGEDC971Q&_nc_tpa=Q5bMBQI6T9ugeEFsppAgM8TMHOlsG99pOstsd-V-kZpgO-5N-6JEqu6Py0iupOzR0p_9wUVKk0PukIdKxQ&oh=00_AQNjpTpSUa7XiHZEkBYhRRiSTnCVsUGCicH9lYv3wSTl2w&oe=6AC67475"
   },
   "summary": {
     "followers_count": 321,
-    "views": 191,
+    "views": 316,
     "likes": 1,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 26,
-    "engagement_rate": 5.84,
+    "engagement_total": 27,
+    "engagement_rate": 5.22,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18116674444801820",
+      "text": "Honest opinion: ngirim CV ke Kanada tanpa tahu sistem mereka itu kayak nembak tanpa bidik.\nExpress Entry bukan cuma soal",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeBC4UMDRCp",
+      "timestamp": "2026-10-03T03:01:28+0000",
+      "metrics": {
+        "views": 41,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "17892427584435967",
       "text": "Mimpi kerja di kapal pesiar, gaji USD, makan gratis, keliling dunia — tapi CV-nya masih format lamaran kerja di keluraha",
@@ -36,57 +51,42 @@
       "engagement": 2
     },
     {
+      "id": "17911155663545870",
+      "text": "Myth: yang penting skill-nya bagus, dokumen mah urusan belakangan.\nKenyataannya, visa ke AS kayak J-1 atau H-2A itu butu",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeBXd2QG9co",
+      "timestamp": "2026-10-03T06:01:22+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18093993119404935",
+      "text": "Pas lagi simulasi interview kerja online, suara interviewer-nya putus-putus dan gue panik.\nSejak pakai headset Lenovo, l",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeBNJdvG6AL",
+      "timestamp": "2026-10-03T04:31:12+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18086701079315180",
       "text": "Ijazah kamu mungkin bagus — tapi di Jerman, ijazah itu harus diakui resmi dulu sebelum bisa dipake melamar.\nProses ini n",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeA1IveFDdN",
       "timestamp": "2026-10-03T01:01:23+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18023786321921635",
-      "text": "Berhenti hafal kosakata random dulu, mending fokus ke materi EPS-TOPIK yang emang jadi penentu lolos atau enggaknya.\nBer",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeAnZysj1ph",
-      "timestamp": "2026-10-02T23:01:23+0000",
-      "metrics": {
-        "views": 14,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18092146367262463",
-      "text": "Jam 6 pagi, udah di tram — bukan karena rajin, tapi emang begitu ritmenya di Jerman.\nSiang, kolega ngomong sesuatu... ka",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd_wgtUm8RF",
-      "timestamp": "2026-10-02T15:01:43+0000",
-      "metrics": {
-        "views": 28,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18047733386817040",
-      "text": "Alarm bunyi jam 5 pagi, langit Perth udah terang.\nSarapan cepat, lalu nyetir sendiri ke site — nggak ada ojek, nggak ada",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd_pnDLm3nL",
-      "timestamp": "2026-10-02T14:01:25+0000",
-      "metrics": {
-        "views": 26,
+        "views": 31,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "17911155663545870",
+      "text": "Myth: yang penting skill-nya bagus, dokumen mah urusan belakangan.\nKenyataannya, visa ke AS kayak J-1 atau H-2A itu butu",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeBXd2QG9co",
+      "timestamp": "2026-10-03T06:01:22+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18093993119404935",
+      "text": "Pas lagi simulasi interview kerja online, suara interviewer-nya putus-putus dan gue panik.\nSejak pakai headset Lenovo, l",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeBNJdvG6AL",
+      "timestamp": "2026-10-03T04:31:12+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18116674444801820",
+      "text": "Honest opinion: ngirim CV ke Kanada tanpa tahu sistem mereka itu kayak nembak tanpa bidik.\nExpress Entry bukan cuma soal",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeBC4UMDRCp",
+      "timestamp": "2026-10-03T03:01:28+0000",
+      "metrics": {
+        "views": 41,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18086701079315180",
       "text": "Ijazah kamu mungkin bagus — tapi di Jerman, ijazah itu harus diakui resmi dulu sebelum bisa dipake melamar.\nProses ini n",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeA1IveFDdN",
       "timestamp": "2026-10-03T01:01:23+0000",
       "metrics": {
-        "views": 0,
+        "views": 31,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18111340901143753",
-      "text": "Skill-mu udah cukup buat kerja remote — tapi CV dan LinkedIn-mu masih \"format lokal\"?\nItu yang sering bikin lamaran ngga",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd_HRJSFUf9",
-      "timestamp": "2026-10-02T09:01:21+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17915801232262014",
-      "text": "Mimpi kerja di Amerika tapi ngerasa belum siap? Wajar banget.\nSoalnya kompetitif banget di sana — butuh:\n• Sponsor yang ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd-89JAFUEY",
-      "timestamp": "2026-10-02T07:31:13+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17908922094552592",
-      "text": "Dulu gue kira bahasa Inggris gue udah cukup buat apply kerja di UK.\nTernyata standar visa-nya baru naik — sekarang minim",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dd-yq5eG93Y",
-      "timestamp": "2026-10-02T06:01:20+0000",
-      "metrics": {
-        "views": 16,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
