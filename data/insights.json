@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-04T21:24:39.158Z",
+  "updated_at": "2026-10-05T00:55:28.892Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=R5PmnOg-UmYQ7kNvwHNk9Vo&_nc_oc=AdpjrGauwB5dF9m34UG_eE0BUmTnRjlbGCbGN08iiyS9mqd1shCQ7-YKZc1hyezx-Rw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qJjAeKPli7wHdasgGPWtcw&_nc_tpa=Q5bMBQKp5-oyJ5DmT3R5AnRRI59b7q52LjN3fKhSnnALOYeK5DDZ64w9Pge2uBE3vmyGYUcOdWbDFaqvWQ&oh=00_AQNHIg9FBT1n4b85uc9iX5pICjuLO7rBXK23-DOf4tcjeA&oe=6AC8A6F5"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=R5PmnOg-UmYQ7kNvwHYRJIm&_nc_oc=Ado1uQN5O7fiEJmr_85Zy3ur9jwPVZXtyCxcZclXPSlrKouOku-IZcEYPgQ7F_YfHC4&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GSU3W-aicidvY5-CXu5E3g&_nc_tpa=Q5bMBQLbZstghzD3S2agxvJkkSZ1tas53f5MnlGdeQ7MmO1Qb2_WvCkJLr4RilBXIA9Q3hoxjbS5Q9QKyA&oh=00_AQNbv3mMXv3RnauAN3SiEkkQrYCvwU41r5eCcK6z836kSg&oe=6AC8DF35"
   },
   "summary": {
     "followers_count": 322,
-    "views": 291,
+    "views": 328,
     "likes": 3,
     "replies": 0,
-    "reposts": 1,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 31,
-    "engagement_rate": 4.51,
+    "engagement_total": 32,
+    "engagement_rate": 4.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeEGijslXc4",
       "timestamp": "2026-10-04T07:31:10+0000",
       "metrics": {
-        "views": 94,
+        "views": 95,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18014897150752972",
+      "text": "Jam 7 pagi, udah di kantor. Bukan karena dipaksa — emang budayanya gitu.\nMakan siang 30 menit, tepat. Nggak ada \"sebenta",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeFw_KZD60P",
+      "timestamp": "2026-10-04T23:01:19+0000",
+      "metrics": {
+        "views": 31,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18018650096735121",
@@ -79,24 +94,24 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18116472730780200",
-      "text": "Seorang desainer grafis 29 tahun apply ke Kanada pakai CV yang sama persis kayak lamaran kerja di Jakarta.\nDitolak berka",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeEzMQIkXdT",
-      "timestamp": "2026-10-04T14:01:22+0000",
-      "metrics": {
-        "views": 29,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ],
   "recent_posts": [
+    {
+      "id": "18014897150752972",
+      "text": "Jam 7 pagi, udah di kantor. Bukan karena dipaksa — emang budayanya gitu.\nMakan siang 30 menit, tepat. Nggak ada \"sebenta",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeFw_KZD60P",
+      "timestamp": "2026-10-04T23:01:19+0000",
+      "metrics": {
+        "views": 31,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18018650096735121",
       "text": "Udah niat banget mau kerja di UK, eh ternyata syarat bahasa Inggrisnya naik mulai 2026 — dari B1 ke B2.\nBukan lebay, tap",
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeEGijslXc4",
       "timestamp": "2026-10-04T07:31:10+0000",
       "metrics": {
-        "views": 94,
+        "views": 95,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-10-04T04:31:14+0000",
       "metrics": {
         "views": 8,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18419892835154451",
-      "text": "Mulai 8 Januari 2026, syarat bahasa Inggris buat Skilled Worker Visa UK naik dari B1 ke B2.\nSatu level doang — tapi beda",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeDnqLjjfHE",
-      "timestamp": "2026-10-04T03:01:22+0000",
-      "metrics": {
-        "views": 6,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
