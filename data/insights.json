@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-05T22:37:16.479Z",
+  "updated_at": "2026-10-06T02:58:26.096Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=R5PmnOg-UmYQ7kNvwFqOAD4&_nc_oc=AdpGlmzBM9dWiUEUVh5BzQgjj6TlzeGMNJk06jn5-_GzdPpXr53FtASROQqchrtbaVc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UWF_RJvScEe757Z6_x-Zqg&_nc_tpa=Q5bMBQL8l2O7uFDcSRY0vWYsjKBgpPgtC9HhSuPjrYNBC_VW-zziaFmIJlaD0rOPf3zCDnjcgeGnSEXjFg&oh=00_AQMeBg7swcxgYmY-CuwLdxKeLoiH337UV0EgS8xLQV7Q8A&oe=6AC9F875"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=R5PmnOg-UmYQ7kNvwGAA4LN&_nc_oc=Ado3EzBTYJ9LQK1tiY1aLMp8R58hgkZXcDCUHi6hW_PrLGM01PoojF-JTcnSc2PkYsA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=90cU01_oKZNLj-7A-roUtA&_nc_tpa=Q5bMBQKYH_gOoF0aANQyEQc_CLIJUySueyUEu5TR3126ZJhCTeK0vhvEZWhaZByxhVyA9u7T2GB57Rxw1A&oh=00_AQMr7HyJH--d2GPYiRgMrFWF6UT4DvaGDBRvo8FwNRYEMQ&oe=6ACA30B5"
   },
   "summary": {
     "followers_count": 321,
-    "views": 232,
+    "views": 341,
     "likes": 4,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 35,
-    "engagement_rate": 5.24,
+    "engagement_total": 36,
+    "engagement_rate": 5.4,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeHKQwrlUx7",
       "timestamp": "2026-10-05T12:01:26+0000",
       "metrics": {
-        "views": 92,
+        "views": 98,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -66,6 +66,21 @@
       "engagement": 3
     },
     {
+      "id": "18158597509502933",
+      "text": "Myth: yang lolos ke Amerika itu pasti kebetulan beruntung atau punya koneksi orang dalem.\nReality-nya? Temen gue yang da",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeIjg5ADb9Y",
+      "timestamp": "2026-10-06T01:01:19+0000",
+      "metrics": {
+        "views": 37,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18069435626769484",
       "text": "Fresh grad mau coba peruntungan ke Australia?\nHal pertama yang worth disiapin bukan tiket pesawat — tapi CV-mu.\nFormat C",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeG_8h_m-LN",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18018650096735121",
-      "text": "Udah niat banget mau kerja di UK, eh ternyata syarat bahasa Inggrisnya naik mulai 2026 — dari B1 ke B2.\nBukan lebay, tap",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeE6D2wEZ5y",
-      "timestamp": "2026-10-04T15:01:22+0000",
+      "id": "18158597509502933",
+      "text": "Myth: yang lolos ke Amerika itu pasti kebetulan beruntung atau punya koneksi orang dalem.\nReality-nya? Temen gue yang da",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeIjg5ADb9Y",
+      "timestamp": "2026-10-06T01:01:19+0000",
       "metrics": {
-        "views": 18,
+        "views": 37,
         "likes": 0,
         "replies": 1,
         "reposts": 1,
@@ -94,16 +111,29 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
+    },
+    {
+      "id": "18165296506471897",
+      "text": "Mau nyoba peruntungan di Kanada via Express Entry? Cek dulu 3 hal ini sebelum apply:\n✅ CV-mu udah pakai format ATS-frien",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeIVykXjx0Y",
+      "timestamp": "2026-10-05T23:01:26+0000",
+      "metrics": {
+        "views": 56,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18419875867153639",
       "text": "6 bulan lalu: ngirim CV ke US, ditolak bahkan sebelum interview.\nSekarang: CV-nya udah pakai format ATS, bahasa Inggrisn",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeHe3Vhm9C5",
       "timestamp": "2026-10-05T15:01:27+0000",
       "metrics": {
-        "views": 28,
+        "views": 29,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeHKQwrlUx7",
       "timestamp": "2026-10-05T12:01:26+0000",
       "metrics": {
-        "views": 92,
+        "views": 98,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -209,36 +239,6 @@
       "timestamp": "2026-10-05T06:01:21+0000",
       "metrics": {
         "views": 19,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18117014332989134",
-      "text": "Waktu ngurusin semua dokumen keberangkatan, gue butuh laptop yang bisa dibawa ke mana-mana tanpa bikin punggung mati.\nLe",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeGWv9hlJnl",
-      "timestamp": "2026-10-05T04:31:17+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18107215577212185",
-      "text": "Myth: kalau bahasa Inggris lo udah oke, dokumen tinggal ikutin template aja.\nReality-nya? Sponsor di Amerika baca CV dan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeGMdPbkVr_",
-      "timestamp": "2026-10-05T03:01:22+0000",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
