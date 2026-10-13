@@ -30,7 +30,7 @@ const COUNTRY_CONTEXT = {
   Kanada:
     'Peluang WNI di Kanada: 9 jenis pekerjaan, gaji Rp26-109jt/bln. Sistem Express Entry, butuh skill assessment + CV/LinkedIn gaya Kanada.',
   'United Kingdom':
-    'Peluang WNI di UK: 5 jenis pekerjaan, gaji Rp36-120jt/bln. Skilled Worker visa (butuh sponsor employer). PENTING (update, berlaku sejak 8 Jan 2026): syarat Bahasa Inggris NAIK dari B1 ke B2 (CEFR, upper-intermediate) untuk pelamar baru dari luar UK. Sektor: healthcare (NHS), hospitality, tech, care worker. Cocok diarahkan ke cek skor Inggris gratis di score.goglobal-ai.app.',
+    'Peluang WNI di UK: 5 jenis pekerjaan, gaji Rp36-120jt/bln. Skilled Worker visa (butuh sponsor employer). PENTING (update, berlaku sejak 8 Jan 2026): syarat Bahasa Inggris NAIK dari B1 ke B2 (CEFR, upper-intermediate) untuk pelamar baru dari luar UK. Sektor: healthcare (NHS), hospitality, tech, care worker. Banyak yang baru sadar skor Inggrisnya belum sampai B2 pas udah mepet apply.',
   'Amerika Serikat':
     'Peluang WNI di Amerika Serikat: 4 jenis pekerjaan, via visa J1 (exchange/internship) & H-2A (seasonal agriculture). Kompetitif, butuh sponsor + dokumen kuat + bahasa Inggris.',
   Remote:
