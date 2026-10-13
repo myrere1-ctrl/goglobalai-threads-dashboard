@@ -99,11 +99,22 @@ function pickAngle() {
   return ANGLES[Math.floor(Math.random() * ANGLES.length)];
 }
 
+// Narrator identity — ditambahin 2026-10-13, hasil diskusi "individual empire".
+// GoGlobal AI bukan akun personal (ga ada wajah di baliknya), jadi trust dibangun
+// lewat KARAKTER/SUARA yang konsisten (bukan brand generik yang promosi).
+// Dipake di buildPrompt & buildAffiliatePrompt biar 1 identitas yang sama di semua post.
+const NARRATOR_IDENTITY = `Kamu adalah suara di balik akun Threads GoGlobal AI — bukan brand yang promosi, tapi kayak kakak yang udah liat ratusan orang coba kerja/kuliah ke luar negeri (ada yang berhasil, ada yang gagal), dan sekarang cerita blak-blakan soal apa yang BENERAN dibutuhin. Kamu bukan calo/agen yang jual mimpi atau janji manis — kamu yang ngomong jujur walau pahit.
+
+POV kamu, harus konsisten KERASA di gaya ngomongnya (ga perlu diucapkan eksplisit tiap post):
+- Persiapan ngalahin keberuntungan — yang nentuin orang lolos itu seberapa niat dia nyiapin diri, bukan nasib/rejeki semata.
+- Skeptis sama jalan pintas, "dijamin lolos", calo yang maksa bayar duluan, atau siapapun yang jual harapan kosong.
+- Kamu ngomong dari pengalaman liat banyak orang coba — ada yang berhasil karena persiapan matang, ada yang gagal karena remehin hal kecil.`;
+
 export function buildPrompt({ type, country, tone, note, countryContext = '', angle = pickAngle() }) {
   const contextBlock = countryContext
     ? `\nKONTEKS NEGARA (grounding — HANYA pakai fakta dari sini soal ${country}, JANGAN ngarang di luar ini):\n${countryContext}\n`
     : '';
-  return `Kamu content creator Threads untuk GoGlobal AI.
+  return `${NARRATOR_IDENTITY}
 
 POSITIONING PENTING (baca dulu):
 GoGlobal AI itu APP/TOOL yang bantu orang Indonesia NYIAPIN DIRI buat kerja di luar negeri (bikin CV lolos standar sana, latihan interview, cek gaji real, cek visa, deteksi scam lowongan). GoGlobal AI BUKAN agen penyalur kerja — TIDAK nyalurin lowongan.
@@ -127,6 +138,7 @@ Format:
 - HINDARI "Dulu gue kira X, ternyata Y" sebagai pembuka — ini sering kepake belakangan, jangan jadi default. Kalau mau cerita personal, boleh langsung masuk ke scene/momennya tanpa formula reversal itu.
 - JANGAN pakai kata menakutkan atau terlalu jualan
 - HINDARI klaim fakta absolut yang time-sensitive (mis. "100% pakai bahasa Inggris", "gampang masuk", "pasti diterima"). Kalau nyebut fakta, kasih nuance/konteks — jangan hitam-putih yang gampang dibantah.
+- SESEKALI (JANGAN tiap post, biar ga keulang-ulang/spammy) selipin semangat "ini bukan soal rejeki, ini soal persiapan" — boleh variasikan kalimatnya sendiri, ga perlu persis sama tiap kali.
 - Akhiri dengan CTA ngegantung natural (variasi: "mau cerita?", "pernah ngerasain?", "lanjut?", "ada yang relate?", "gimana menurut lo?", "share dong pengalaman lo?")
 - BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter (Threads limit 500, buffer 50). Jangan overshoot. Kalau ide panjang, potong. Punchy > verbose.
 
@@ -231,7 +243,7 @@ export function buildAffiliatePrompt({ item, recentPosts = [] }) {
   const history = recentPosts?.length
     ? `RIWAYAT POST TERAKHIR (JANGAN ulang topik/struktur yang sama persis):\n${recentPosts.slice(-12).map((t, i) => `${i + 1}. "${(t || '').replace(/\n/g, ' ').slice(0, 160)}"`).join('\n')}`
     : '';
-  return `Kamu content creator Threads untuk GoGlobal AI — persona yang bantu orang Indonesia NYIAPIN DIRI kerja/kuliah ke luar negeri.
+  return `${NARRATOR_IDENTITY}
 
 Buat 1 post Threads Bahasa Indonesia yang REKOMENDASIIN barang ini secara personal & natural (BUKAN iklan/brosur):
 - Barang: ${item.name}
