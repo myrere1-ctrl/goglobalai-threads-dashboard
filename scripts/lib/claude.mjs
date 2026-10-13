@@ -124,6 +124,7 @@ Format:
 - Bahasa santai seperti ngobrol sama teman
 - JANGAN pakai pembukaan klise seperti "Banyak yang...", "Tau gak...", "Pernah ga..."
 - VARIASIKAN gaya buka & struktur tiap post — jangan formula yang itu-itu terus (biar ga kerasa template/jenuh). Segar & spontan.
+- HINDARI "Dulu gue kira X, ternyata Y" sebagai pembuka — ini sering kepake belakangan, jangan jadi default. Kalau mau cerita personal, boleh langsung masuk ke scene/momennya tanpa formula reversal itu.
 - JANGAN pakai kata menakutkan atau terlalu jualan
 - HINDARI klaim fakta absolut yang time-sensitive (mis. "100% pakai bahasa Inggris", "gampang masuk", "pasti diterima"). Kalau nyebut fakta, kasih nuance/konteks — jangan hitam-putih yang gampang dibantah.
 - Akhiri dengan CTA ngegantung natural (variasi: "mau cerita?", "pernah ngerasain?", "lanjut?", "ada yang relate?", "gimana menurut lo?", "share dong pengalaman lo?")

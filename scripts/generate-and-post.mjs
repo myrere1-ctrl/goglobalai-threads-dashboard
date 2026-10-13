@@ -44,21 +44,14 @@ const DAILY_TYPES = ['pain', 'tips', 'story', 'hook', 'promo', 'pain', 'tips'];
 const TONES = ['santai', 'inspiratif', 'edukatif', 'humor'];
 
 // CTA reply pool — ditaruh di REPLY (bukan post utama) biar post utama bersih dari link = reach tinggi.
-// Positioning: TOOL buat nyiapin diri, bukan agen kerja. {country} diisi otomatis.
-// 2 tool: score.goglobal-ai.app (cek skor Inggris IELTS/TOEFL/CEFR GRATIS selamanya)
-// + goglobal-ai.app (gaji real, visa, CV Builder, Scam Detector, Interview AI).
-// Mix seimbang, score tool menonjol karena relevan buat hampir semua destinasi.
+// Sejak 2026-10-13: TANPA link. Upgrade akses lewat DM / WA (nomornya ada di app),
+// bukan self-serve link lagi — {country} diisi otomatis.
 const CTA_REPLIES = [
-  // --- score tool (gratis selamanya) ---
-  'mau ke {country}? cek dulu level Bahasa Inggris kamu (estimasi IELTS/TOEFL/CEFR) GRATIS di score.goglobal-ai.app — 2 menit, ga perlu daftar 🎯',
-  'banyak yang gagal ke {country} bukan karena skill, tapi Bahasa Inggris. tes level kamu gratis (selamanya) di score.goglobal-ai.app 📊',
-  'penasaran Inggrismu udah cukup belum buat {country}? assessment gratis di score.goglobal-ai.app, langsung dapet estimasi IELTS & TOEFL',
-  // --- app utama ---
-  'tools lengkap buat nyiapin diri ke {country} (gaji real, visa, CV, scam detector) ada di goglobal-ai.app — mulai gratis 🌏',
-  'aku riset {country} + 14 negara lain lewat goglobal-ai.app. ada Kalkulator Gaji, CV Builder & Interview AI. cek aja 👆',
-  // --- dua-duanya ---
-  'cek peluang + gaji real {country} di goglobal-ai.app, terus tes skor Inggris kamu gratis di score.goglobal-ai.app. dua-duanya gratis buat mulai',
-  'nyiapin diri ke {country}: 1) cek skor Inggris gratis di score.goglobal-ai.app, 2) riset gaji/visa/CV di goglobal-ai.app. step by step 🚀',
+  'mau upgrade akses buat {country}? DM aja, atau WA ke nomor yang ada di app 📲',
+  'yang mau akses lebih lengkap soal {country} — DM aku ya, atau langsung WA (no-nya ada di dalam app)',
+  'DM aku kalau mau upgrade & akses penuh buat persiapan ke {country}. bisa juga WA ke nomor di app',
+  'penasaran lebih jauh soal {country}? DM aja buat upgrade akses — atau WA ke nomor di app, lebih cepet aku bales',
+  'buat yang mau nyiapin diri ke {country} lebih serius — DM aku buat upgrade, atau WA ke nomor di app ya',
 ];
 
 function pickCtaReply(country) {
