@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-13T21:14:26.194Z",
+  "updated_at": "2026-10-14T00:20:20.789Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=hPoxCN6NoE0Q7kNvwHb5C3e&_nc_oc=AdpI3jo1MD7GBC5OCGrZvZH298lbg5zg6QuKf_0Pxw5qstNUI3Ald-Kqm0mmZR2X-y8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PVJL-y6miVWdX-w7kiqRyw&_nc_tpa=Q5bMBQJpBSoCZH3r1v8j2uyiPeoU_IWN98DAZG4xMKfT6GDVu4VfEB8eToHWRJzAlxjH8GVR7DYn-Ggiww&oh=00_AQPq_P5IopHdcseLP4MmizlL3pRbBM3Rb9st04QASWCh4A&oe=6AD48475"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=hPoxCN6NoE0Q7kNvwHad8h6&_nc_oc=AdpIlwBSuYEjJOukBF08Ipv9VgjHbQ9Blu2qOVZGEcBvFmexswWhCXrL-Ky99j4efXE&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=wZYik2i6suoskQB8kkDtOg&_nc_tpa=Q5bMBQJ8flBGk5L9ZItTVXuQZKDTI7b_gcHMUDl9o7ksqwX4D4RICvdlNK0fgjpxm1mLLcNqspI75O0Rkg&oh=00_AQO8k0BHsVfvM8jHFChxoocAjS8QpwTWCz80mZQhwt9Oqg&oe=6AD48475"
   },
   "summary": {
     "followers_count": 323,
-    "views": 187,
+    "views": 195,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 31,
-    "engagement_rate": 4.38,
+    "engagement_total": 32,
+    "engagement_rate": 4.55,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 1
       },
       "engagement": 4
+    },
+    {
+      "id": "18119238073962524",
+      "text": "Fresh grad, bahasa Jerman A2, ijazah belum diakui resmi — kondisi dia waktu mulai nyiapin diri buat program Ausbildung d",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dec8Jq3Dxdd",
+      "timestamp": "2026-10-13T23:01:24+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "17912508105494493",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18194304199403247",
-      "text": "Kerja di Jerman ekspektasi vs realita:\nEkspektasi: bisa modal bahasa Inggris doang.\nRealita: bahasa Jerman + ijazah yang",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeYASZQFLvo",
-      "timestamp": "2026-10-12T01:01:21+0000",
+      "id": "18119238073962524",
+      "text": "Fresh grad, bahasa Jerman A2, ijazah belum diakui resmi — kondisi dia waktu mulai nyiapin diri buat program Ausbildung d",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dec8Jq3Dxdd",
+      "timestamp": "2026-10-13T23:01:24+0000",
       "metrics": {
-        "views": 39,
+        "views": 5,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18142523146608344",
       "text": "3 dari 5 orang Indonesia yang kerja di NHS UK — awalnya skornya belum B2.\nMereka bukan jenius bahasa. Tapi mereka nyiapi",
@@ -224,21 +239,6 @@
       "timestamp": "2026-10-13T04:31:10+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18144713818597993",
-      "text": "Dulu skor Inggrisku B1 — dan itu udah cukup.\nSekarang UK naikin syaratnya ke B2 buat pelamar baru (berlaku 2026).\nSatu l",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Deay1fllPKT",
-      "timestamp": "2026-10-13T03:01:31+0000",
-      "metrics": {
-        "views": 28,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
