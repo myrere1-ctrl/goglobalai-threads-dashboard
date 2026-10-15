@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-15T04:38:28.020Z",
+  "updated_at": "2026-10-15T09:54:17.519Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=hPoxCN6NoE0Q7kNvwEIk5-7&_nc_oc=AdrXbVG-pbr2DUbmocGkFZ5aFi7Cen-FRBh-An6puNIphHP7I27ZhDfkdB9t5UTxYtw&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xI0ApuMugOB0YV5qHraNlg&_nc_tpa=Q5bMBQL2CjfY2jOjG_ExWKbW6zDQHCO1kqwYDn-eYseqmQzSNjmXD6tDLccfv_GIc3GkA57R6sTNRdnn2g&oh=00_AQPCCp-rranHaONqEE460Yr8ovX5zZh9S1XRZgk-CwL36w&oe=6AD64675"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=hPoxCN6NoE0Q7kNvwE6JEWR&_nc_oc=Ado9eMusI-QbsnSPDO8QM31igYuxQwZjja0gYkqBi4-8HTiNMP7PXyiPDjW3O1gWUiA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7LvB_utiajTCduBHUA7iDg&_nc_tpa=Q5bMBQIFenA5ppK0aaOjF_hTz1xYly3tDRHXhDQxJqlEnDgH0uoBBXm28r54LW-DEHxmJhrlpZF79zgnHw&oh=00_AQOKTUvBEkysziGf4AnV6MAEoUaOMAHcRzPiG0kI-4r5pg&oe=6AD67EB5"
   },
   "summary": {
     "followers_count": 323,
-    "views": 305,
-    "likes": 1,
-    "replies": 2,
+    "views": 30,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 30,
-    "engagement_rate": 6.86,
+    "engagement_rate": 6.7,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18199538563383127",
+      "text": "CV lo udah sesuai format Australia belum?\nBukan soal bagus atau jelek — tapi format yang recruiter sana expect itu beda ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeglniGG9vK",
+      "timestamp": "2026-10-15T09:01:28+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18011407613973052",
+      "text": "Berhenti hafal vocab Korea dari Google Translate acak-acakan.\nMending fokus ke materi EPS-TOPIK — ujiannya spesifik, buk",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DegbSsYG734",
+      "timestamp": "2026-10-15T07:31:14+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18135495061734537",
+      "text": "Dari 10 jenis kerja yang terbuka buat WNI di Jepang — mayoritas yang lolos bukan karena \"kebetulan\". Mereka nyiapin rire",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DegRCGeFCk6",
+      "timestamp": "2026-10-15T06:01:35+0000",
+      "metrics": {
+        "views": 26,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18025090259877633",
       "text": "Latihan dari YouTube doang itu kayak belajar nyetir dari nonton video — ngerti teorinya, tapi pas ujian beneran, panik.\n",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DegGsEAnADA",
       "timestamp": "2026-10-15T04:31:12+0000",
       "metrics": {
-        "views": 0,
+        "views": 8,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Def8altjRfX",
       "timestamp": "2026-10-15T03:01:26+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18057143318796699",
-      "text": "Mau ke Jerman tapi bingung mulai dari mana? Coba cek 3 hal ini dulu:\n1. Sertifikat bahasa Jerman — minimal A2 buat Ausbi",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeeVgEAm87G",
-      "timestamp": "2026-10-14T12:02:09+0000",
-      "metrics": {
-        "views": 97,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18335186134262616",
-      "text": "CV lo di Indonesia bisa 2 halaman, punya foto, ada deskripsi panjang. Di Australia? Beda standar, beda ekspektasi.\n• For",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeeLGYEmnAK",
-      "timestamp": "2026-10-14T10:31:16+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18130816132701899",
-      "text": "Stop hafal kosakata random dulu.\nYang nentuin lolos EPS-TOPIK bukan hafalin 2000 kata — tapi latihan soal tipe ujian yan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeeA0KRm7vB",
-      "timestamp": "2026-10-14T09:01:24+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
