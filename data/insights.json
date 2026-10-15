@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-14T23:54:59.478Z",
+  "updated_at": "2026-10-15T04:38:28.020Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=hPoxCN6NoE0Q7kNvwFq4h5I&_nc_oc=AdrtHJmo9MNeniwBNUsWxwKq9pQNgzDV1RcOKbBsxlBN4Mth38A28yQY5EPsYqbvAGA&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B3C5exrznQLBOWJt1qdrRA&_nc_tpa=Q5bMBQJJhehhohLNht8OrhKHIns2qYPYSXjXeVZi-8MCFq4zZ3_EMA-z4qy8Eu7AGA4oFXySvar-ucUs3g&oh=00_AQPMhzR1fZCYzMscRXHWNG9uBSWOfGv39Dn4ZB1mQMmLZQ&oe=6AD5D5F5"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=hPoxCN6NoE0Q7kNvwEIk5-7&_nc_oc=AdrXbVG-pbr2DUbmocGkFZ5aFi7Cen-FRBh-An6puNIphHP7I27ZhDfkdB9t5UTxYtw&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xI0ApuMugOB0YV5qHraNlg&_nc_tpa=Q5bMBQL2CjfY2jOjG_ExWKbW6zDQHCO1kqwYDn-eYseqmQzSNjmXD6tDLccfv_GIc3GkA57R6sTNRdnn2g&oh=00_AQPCCp-rranHaONqEE460Yr8ovX5zZh9S1XRZgk-CwL36w&oe=6AD64675"
   },
   "summary": {
     "followers_count": 323,
-    "views": 264,
+    "views": 305,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 30,
-    "engagement_rate": 6.36,
+    "engagement_rate": 6.86,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeeVgEAm87G",
       "timestamp": "2026-10-14T12:02:09+0000",
       "metrics": {
-        "views": 92,
+        "views": 97,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18025090259877633",
+      "text": "Latihan dari YouTube doang itu kayak belajar nyetir dari nonton video — ngerti teorinya, tapi pas ujian beneran, panik.\n",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DegGsEAnADA",
+      "timestamp": "2026-10-15T04:31:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18076483748737034",
+      "text": "Fresh grad skill digital tapi CV-nya masih gaya lokal?\nItu yang sering bikin lamaran remote stuck di screening pertama.\n",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Def8altjRfX",
+      "timestamp": "2026-10-15T03:01:26+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18031233344909635",
+      "text": "Dokumen lo udah siap kalau besok ada perusahaan AS yang minta apply visa H-2A atau J-1?\nBukan nanya buat nakut-nakutin —",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Defuq-XGqSU",
+      "timestamp": "2026-10-15T01:01:20+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18111993080126393",
       "text": "Arsitek 29 tahun, CV-nya bagus, portfolionya keren — ngelamar ke Kanada berkali-kali, ga ada yang nyaut.\nSetelah dicek, ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Defg8u_Dzlq",
       "timestamp": "2026-10-14T23:01:26+0000",
       "metrics": {
-        "views": 5,
+        "views": 12,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeeVgEAm87G",
       "timestamp": "2026-10-14T12:02:09+0000",
       "metrics": {
-        "views": 92,
+        "views": 97,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17958614271014324",
-      "text": "Rirekisho itu bukan sekadar CV versi Jepang.\nFormat-nya ketat, urutannya spesifik, bahkan cara nulis hurufnya ada aturan",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Ded2f1pG0bA",
-      "timestamp": "2026-10-14T07:31:15+0000",
-      "metrics": {
-        "views": 12,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18129993763777220",
-      "text": "Yang bikin orang gagal apply kapal pesiar tuh bukan kurang pengalaman — tapi CV-nya masih pakai format Indonesia.\nDi san",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DedsNxPGyBI",
-      "timestamp": "2026-10-14T06:01:23+0000",
-      "metrics": {
-        "views": 49,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18632869273013300",
-      "text": "Pelajaran mahal yang banyak orang baru sadar pas udah di bandara: colokan negara tujuan beda, dan charger kamu nggak mua",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dedh5rMm1GN",
-      "timestamp": "2026-10-14T04:31:16+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
