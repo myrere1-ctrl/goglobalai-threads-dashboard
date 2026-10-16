@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-16T01:20:20.003Z",
+  "updated_at": "2026-10-16T07:09:15.303Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=DPEz5Z-mTTMQ7kNvwFebqtA&_nc_oc=AdpESFtx8g6ngnxikS9rkpv2OlmdGw74f4pWtXQU0CQZ3pQbBt9K25Qbl5crhijq1WI&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BvWa82BfbSY5_h3Z1vPg5g&_nc_tpa=Q5bMBQI9W20U0uDHe3zzDOVf6K4d4NGB_sSAEY2TM2PjVC3RNbIe-kZ6g6QuFCYxJ9zW5hI_URmhQtG2WQ&oh=00_AQNLykA3wZajLFX7AK91bmEjfhfimaBNNU3jR9ZVVbkcQw&oe=6AD75FB5"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=DPEz5Z-mTTMQ7kNvwFo1EH8&_nc_oc=Ado0gxZtMWSommYve7xVIHsaCQmNDqhbfJWtvr7O0N5lOjZZL49uP4P0OZ2YeTH1ZrY&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Yv1EpKr5Wv9BF2sdZZat1g&_nc_tpa=Q5bMBQLCZomueJ5pIvGZTewIOl3lVNpvRSh2eHKmxMaGByen2QrYZSl6KtwwBVV1W2OX2n11d7MSz3W1ag&oh=00_AQOvwl-vcgprhkuip4LAVDbEUvefizHOrIBCQa1PYi3y4Q&oe=6AD797F5"
   },
   "summary": {
     "followers_count": 323,
-    "views": 154,
-    "likes": 2,
+    "views": 1,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 30,
-    "engagement_rate": 7.61,
+    "engagement_rate": 7.43,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18129375478829658",
+      "text": "Bahasa Korea-mu level A1 tapi pengen kerja di sana via EPS-TOPIK?\nFokus ke satu hal dulu: ujian bahasanya.\nBukan ngerti ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dei1y_gjtOd",
+      "timestamp": "2026-10-16T06:01:19+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18106671557214354",
+      "text": "Dokumen visa, paspor, surat sponsor — semua gue masukin satu tempat di koper kabin.\nGa perlu bongkar koper besar di band",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Deire4cjYY2",
+      "timestamp": "2026-10-16T04:31:13+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18630902533004911",
+      "text": "CV kapal pesiar itu bukan CV biasa — recruiter sana nyari format spesifik: foto formal, seafarer experience, dan skill h",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeihPBqDj2D",
+      "timestamp": "2026-10-16T03:01:39+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18429876433197584",
       "text": "Jam 8 pagi, buka laptop dari kamar sendiri.\nKerja buat klien luar negeri, dibayar USD, sambil nunggu kopi.\nKedengarannya",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeiTe_GGGKM",
       "timestamp": "2026-10-16T01:01:30+0000",
       "metrics": {
-        "views": 0,
+        "views": 21,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18199538563383127",
-      "text": "CV lo udah sesuai format Australia belum?\nBukan soal bagus atau jelek — tapi format yang recruiter sana expect itu beda ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeglniGG9vK",
-      "timestamp": "2026-10-15T09:01:28+0000",
-      "metrics": {
-        "views": 16,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18011407613973052",
-      "text": "Berhenti hafal vocab Korea dari Google Translate acak-acakan.\nMending fokus ke materi EPS-TOPIK — ujiannya spesifik, buk",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DegbSsYG734",
-      "timestamp": "2026-10-15T07:31:14+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18135495061734537",
-      "text": "Dari 10 jenis kerja yang terbuka buat WNI di Jepang — mayoritas yang lolos bukan karena \"kebetulan\". Mereka nyiapin rire",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DegRCGeFCk6",
-      "timestamp": "2026-10-15T06:01:35+0000",
-      "metrics": {
-        "views": 26,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
