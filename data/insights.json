@@ -1,32 +1,62 @@
 {
-  "updated_at": "2026-10-16T12:24:47.532Z",
+  "updated_at": "2026-10-16T17:23:36.745Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=DPEz5Z-mTTMQ7kNvwFF9Zto&_nc_oc=Adovdm00laJ8A8VN8w9qLYCL_DYy4CwHGrxbrK31R2Z8MjsZviBvOJaGc-gq4tEkrwM&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IhN2Ww24ZlX1qIRngHyypw&_nc_tpa=Q5bMBQJZdHCWl2ZCVsxG3gcbGDbVj5qGR59wUJQsA4Cfn5gUjscsQcW9Mw-YPqKU_ZP2GNX7Rzb2kZ5BvA&oh=00_AQMuWo40ddhqLPp8vRkn-RVNdmLrneFGD1tQPH5tudVlKQ&oe=6AD7D035"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=DPEz5Z-mTTMQ7kNvwGlWA6y&_nc_oc=AdoziqJffSa20Jz-JMQuhmCA62hZXO2cZirPMsXJcErWkdK_fo07tjgPjMt9YP25Mns&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xTMLjQLK9dmom-vj1Xce5w&_nc_tpa=Q5bMBQJ2Yp0JsuPqx8P4aAnOM6S8BVzidoqTDP49pa5UlUpHq6KLuQC0kC1vJr51bP15JRgrqxcJDDF0YQ&oh=00_AQPMoFN0sjOHuJhjrh93gcMzB_WCnfwGU9ZMfWsktPctsg&oe=6AD840B5"
   },
   "summary": {
     "followers_count": 323,
-    "views": 123,
-    "likes": 1,
-    "replies": 0,
+    "views": 276,
+    "likes": 3,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 29,
-    "engagement_rate": 7.38,
+    "engagement_total": 31,
+    "engagement_rate": 7.47,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18108331133192107",
+      "text": "Mau kerja di UK? Cek 3 hal ini dulu sebelum apply:\n1. Skor bahasa Inggris kamu — syaratnya sekarang B2 (upper-intermedia",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DejfAyLm9xN",
+      "timestamp": "2026-10-16T12:01:28+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18334900366276103",
+      "text": "Ekspektasi kerja di kapal pesiar: keliling dunia, foto di depan Eiffel.\nRealita: CV-mu ditolak bahkan sebelum sampai ke ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DejzmorFQPC",
+      "timestamp": "2026-10-16T15:01:24+0000",
+      "metrics": {
+        "views": 60,
+        "likes": 0,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18113651876125279",
       "text": "CV Kanada itu beda banget sama CV Indonesia — ga ada foto, ga ada umur, ga ada status nikah.\n Rekruter sana malah aneh k",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DejUrvGoMkB",
       "timestamp": "2026-10-16T10:31:13+0000",
       "metrics": {
-        "views": 23,
+        "views": 26,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -64,14 +94,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18057143318796699",
-      "text": "Mau ke Jerman tapi bingung mulai dari mana? Coba cek 3 hal ini dulu:\n1. Sertifikat bahasa Jerman — minimal A2 buat Ausbi",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeeVgEAm87G",
-      "timestamp": "2026-10-14T12:02:09+0000",
+      "id": "18334900366276103",
+      "text": "Ekspektasi kerja di kapal pesiar: keliling dunia, foto di depan Eiffel.\nRealita: CV-mu ditolak bahkan sebelum sampai ke ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DejzmorFQPC",
+      "timestamp": "2026-10-16T15:01:24+0000",
       "metrics": {
-        "views": 98,
+        "views": 60,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -81,29 +113,12 @@
       "engagement": 2
     },
     {
-      "id": "18108331133192107",
-      "text": "Mau kerja di UK? Cek 3 hal ini dulu sebelum apply:\n1. Skor bahasa Inggris kamu — syaratnya sekarang B2 (upper-intermedia",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DejfAyLm9xN",
-      "timestamp": "2026-10-16T12:01:28+0000",
+      "id": "17976145607935930",
+      "text": "Berhenti nunggu \"ada yang mau bantu\" — mending benerin CV lo dulu.\nRemote job itu seleksinya dari dokumen. Kalau CV lo m",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DejswcXEZ_x",
+      "timestamp": "2026-10-16T14:01:34+0000",
       "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18108331133192107",
-      "text": "Mau kerja di UK? Cek 3 hal ini dulu sebelum apply:\n1. Skor bahasa Inggris kamu — syaratnya sekarang B2 (upper-intermedia",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DejfAyLm9xN",
-      "timestamp": "2026-10-16T12:01:28+0000",
-      "metrics": {
-        "views": 2,
+        "views": 24,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -113,12 +128,42 @@
       "engagement": 1
     },
     {
+      "id": "18107550326191613",
+      "text": "Waktu latihan IELTS listening di rumah, suara keluarga bocor terus — akhirnya nyerah pake headset Lenovo yang harganya m",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Dejl4xem3_S",
+      "timestamp": "2026-10-16T13:01:33+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18108331133192107",
+      "text": "Mau kerja di UK? Cek 3 hal ini dulu sebelum apply:\n1. Skor bahasa Inggris kamu — syaratnya sekarang B2 (upper-intermedia",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DejfAyLm9xN",
+      "timestamp": "2026-10-16T12:01:28+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18113651876125279",
       "text": "CV Kanada itu beda banget sama CV Indonesia — ga ada foto, ga ada umur, ga ada status nikah.\n Rekruter sana malah aneh k",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DejUrvGoMkB",
       "timestamp": "2026-10-16T10:31:13+0000",
       "metrics": {
-        "views": 23,
+        "views": 26,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -194,51 +239,6 @@
       "timestamp": "2026-10-16T03:01:39+0000",
       "metrics": {
         "views": 7,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18429876433197584",
-      "text": "Jam 8 pagi, buka laptop dari kamar sendiri.\nKerja buat klien luar negeri, dibayar USD, sambil nunggu kopi.\nKedengarannya",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeiTe_GGGKM",
-      "timestamp": "2026-10-16T01:01:30+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18158105011504792",
-      "text": "Udah semangat mau apply kerja di UK, eh baru tau skor bahasa Inggrisnya harus B2 — bukan B1 lagi sejak awal 2026?\nIni ya",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeiFvbeESnq",
-      "timestamp": "2026-10-15T23:01:24+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18141048322604613",
-      "text": "Jam 8 pagi, masih pake kaos tidur, udah ngerjain task buat klien US.\nGaji masuk USD, bayar kopi di warung Rp5.000.\nKeden",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DehO0IdlrmX",
-      "timestamp": "2026-10-15T15:01:28+0000",
-      "metrics": {
-        "views": 34,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
