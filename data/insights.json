@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-19T01:18:17.172Z",
+  "updated_at": "2026-10-19T07:45:55.153Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwHgWhBn&_nc_oc=AdpmCTe3E0Cd5eGaprUvcorrGol7hhIQdfKbBTSFR8Jh_rOZWljT1IGHSXIKN9Hv9mE&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AZU_Ym6gkmrUI6fYqC2Vlg&_nc_tpa=Q5bMBQISdcep76NDQEgaYPF9ZatyabR9uih3zPjy3_Ey0iVuswhkc0hvlUrETRL_Cjw5StdpUhZpzm1WiA&oh=00_AQO8sjdtp2piNtcFEWCVFY2kCKNRIpjha927MDNIOA96Ww&oe=6ADB5435"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwFxMq04&_nc_oc=AdrAuFKXM3wnsRI2bQ9Eys8vNd19YaGuxH7RiNRXr6Y5YvpJN2qT3EROWHRBzNt84Rs&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_FXGS44ECmKZIvN0eZ-BiA&_nc_tpa=Q5bMBQI2C_jraBueVnnbHbaALe__ARSr0TIo7yAF0QAkY6aMR_-lG4X10EGZGZDS1LsFbhSWfhjoeMJg3w&oh=00_AQNXAM1GSRwTUtnKp3_Xf62wCRujSPJpD2xeX7IFor5Ozg&oe=6ADB8C75"
   },
   "summary": {
     "followers_count": 323,
-    "views": 209,
-    "likes": 3,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 7.1,
+    "engagement_total": 34,
+    "engagement_rate": 7.46,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,36 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "18120008165280840",
+      "text": "Express Entry Kanada itu sistem poin — bukan antrian siapa cepat dia dapat.\nYang nilainya tinggi bukan yang paling lama ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqkNYIEeX0",
+      "timestamp": "2026-10-19T06:01:34+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18131511532750803",
+      "text": "Perawat 29 tahun, pengalaman 5 tahun di RS swasta Jakarta — ditolak 3 kali apply ke Australia bukan karena skill-nya kur",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqPmRVG_n5",
+      "timestamp": "2026-10-19T03:01:27+0000",
+      "metrics": {
+        "views": 49,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18636239890032117",
@@ -64,14 +94,61 @@
         "shares": 0
       },
       "engagement": 2
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18113089247141765",
+      "text": "Perawat 29 tahun, 3 tahun ngumpulin dokumen buat UK. Pas hampir apply, baru ketauan: skor IELTS-nya B1, sementara sejak ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DequeYLFuJE",
+      "timestamp": "2026-10-19T07:31:15+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
-      "id": "18074401499758075",
-      "text": "Ekspektasi: \"Jerman itu butuh tenaga kerja, pasti gampang masuk.\"\nRealita: Ijazahmu harus diakui dulu. Bahasa Jerman-mu ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Den_Y4BG2z_",
-      "timestamp": "2026-10-18T06:01:20+0000",
+      "id": "18120008165280840",
+      "text": "Express Entry Kanada itu sistem poin — bukan antrian siapa cepat dia dapat.\nYang nilainya tinggi bukan yang paling lama ",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqkNYIEeX0",
+      "timestamp": "2026-10-19T06:01:34+0000",
       "metrics": {
-        "views": 21,
+        "views": 9,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "17972506977165005",
+      "text": "Waktu mode intense nyiapin semua — latihan soal, revisi CV, belajar bahasa — gue bawa laptop kemana-mana.\nLenovo IdeaPad",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqZ3uGG0IZ",
+      "timestamp": "2026-10-19T04:31:13+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18131511532750803",
+      "text": "Perawat 29 tahun, pengalaman 5 tahun di RS swasta Jakarta — ditolak 3 kali apply ke Australia bukan karena skill-nya kur",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqPmRVG_n5",
+      "timestamp": "2026-10-19T03:01:27+0000",
+      "metrics": {
+        "views": 49,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -81,29 +158,12 @@
       "engagement": 2
     },
     {
-      "id": "17991195921052020",
-      "text": "Honest opinion: orang yang JLPT N3-nya pas-pasan tapi rirekisho-nya rapi, lebih dilirik HR Jepang daripada yang N2 tapi ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DemYZrWnDo0",
-      "timestamp": "2026-10-17T15:01:25+0000",
-      "metrics": {
-        "views": 16,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
       "id": "18033573428909881",
       "text": "Dari sekian banyak WNI yang lolos EPS-TOPIK, sebagian besar bukan orang yang \"bakat bahasa\" — mereka cuma yang paling ra",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeqB2iQmq6O",
       "timestamp": "2026-10-19T01:01:21+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dep0HbID_Qx",
       "timestamp": "2026-10-18T23:01:20+0000",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,66 +239,6 @@
       "timestamp": "2026-10-18T12:01:23+0000",
       "metrics": {
         "views": 36,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18138243886721683",
-      "text": "CV buat Amerika itu beda banget — mereka ga mau foto, ga mau umur, ga mau status pernikahan.\nOrang Indonesia sering masu",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeoeRpHlr7J",
-      "timestamp": "2026-10-18T10:31:14+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18177626275447946",
-      "text": "Syarat bahasa Inggris UK naik ke B2 per Januari 2026 — dan banyak pelamar baru sadar ini pas udah di tahap apply.\nB2 itu",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeoUABpmwu5",
-      "timestamp": "2026-10-18T09:01:27+0000",
-      "metrics": {
-        "views": 11,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18094299851169609",
-      "text": "CV lo udah oke — tapi buat standar Kanada, belum tentu.\nDi sana, CV yang lolos screening itu harus pakai format spesifik",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeoJrQTFsav",
-      "timestamp": "2026-10-18T07:31:13+0000",
-      "metrics": {
-        "views": 19,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18074401499758075",
-      "text": "Ekspektasi: \"Jerman itu butuh tenaga kerja, pasti gampang masuk.\"\nRealita: Ijazahmu harus diakui dulu. Bahasa Jerman-mu ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Den_Y4BG2z_",
-      "timestamp": "2026-10-18T06:01:20+0000",
-      "metrics": {
-        "views": 21,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
