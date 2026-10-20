@@ -1,25 +1,55 @@
 {
-  "updated_at": "2026-10-20T00:19:43.815Z",
+  "updated_at": "2026-10-20T06:00:20.707Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwHNCAXc&_nc_oc=AdrvT0NlSgaWKmtBHvgl6j55hu1oxX13HYf_LC2Fxl7KHwxUA0A1IjKr1O1IFieFid4&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MCuXwPNVGer82eOwZUi1Kw&_nc_tpa=Q5bMBQK7VLQrvpcK67dp0-PzJeMu7JsVdOG1jdVpA82BJZ9ScGw9Hm_9D52GuBjgrz7o9LjzmCFcC9qc7A&oh=00_AQPn2fwHzlDXbV2XWnnz3ZrJpFodtlzvbht0NH5sdEKAQA&oe=6ADC6D75"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwFnQDKX&_nc_oc=AdpO3wInH8qJATCK6YnzSUW0jhF92BLIwxCeak2f7UntNx1XdsQvNnCZi-l41qwbxp8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pNn9rJjMB8iGwxeRZvcfMQ&_nc_tpa=Q5bMBQJT809lo_utEuK3VGHF5ENJrP2b-fFRlB97PYuCK1fatJHtcL7FMA0-e834CB0FTJx71h2xRVA55Q&oh=00_AQOBr1aXBF-cWkIE7Y31wup77xeoh95QFUgeGwL2aaZ5jg&oe=6ADCDDF5"
   },
   "summary": {
-    "followers_count": 324,
-    "views": 203,
-    "likes": 1,
+    "followers_count": 326,
+    "views": 409,
+    "likes": 9,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 7.24,
+    "engagement_total": 40,
+    "engagement_rate": 7.02,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18103004399248773",
+      "text": "Fresh grad jurusan teknik, bahasa Jerman nol, tapi sekarang ikut Ausbildung di Stuttgart.\nYang dia lakuin duluan: belaja",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Des0ZSZFeQ8",
+      "timestamp": "2026-10-20T03:01:29+0000",
+      "metrics": {
+        "views": 139,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 6
+    },
+    {
+      "id": "18018941936944119",
+      "text": "Myth: yang bisa kerja di Australia itu yang bahasa Inggrisnya udah lancar dari sono.\nKenyataannya? Banyak yang fluent ta",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DesmplnDUc7",
+      "timestamp": "2026-10-20T01:01:22+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "18018220748740963",
       "text": "Jam 6 pagi udah di dapur, laut masih gelap di luar jendela kapal.\nShift kerja 8–10 jam, tapi makan gratis, tidur gratis,",
@@ -36,6 +66,21 @@
       "engagement": 3
     },
     {
+      "id": "18395332519205938",
+      "text": "Kalau bahasa Korea kamu masih nol tapi pengen kerja di sana — ini yang paling worth disiapin duluan: ujian EPS-TOPIK.\nBu",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DerbHqcFPt_",
+      "timestamp": "2026-10-19T14:01:23+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18120008165280840",
       "text": "Express Entry Kanada itu sistem poin — bukan antrian siapa cepat dia dapat.\nYang nilainya tinggi bukan yang paling lama ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DeqkNYIEeX0",
@@ -49,61 +94,61 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18131511532750803",
-      "text": "Perawat 29 tahun, pengalaman 5 tahun di RS swasta Jakarta — ditolak 3 kali apply ke Australia bukan karena skill-nya kur",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqPmRVG_n5",
-      "timestamp": "2026-10-19T03:01:27+0000",
-      "metrics": {
-        "views": 54,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18636239890032117",
-      "text": "Waktu pertama kali nyoba apply remote job luar negeri, gue kirim CV sama kayak ngelamar di perusahaan lokal.\nHasilnya? G",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeooltXmyC7",
-      "timestamp": "2026-10-18T12:01:23+0000",
-      "metrics": {
-        "views": 36,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18177626275447946",
-      "text": "Syarat bahasa Inggris UK naik ke B2 per Januari 2026 — dan banyak pelamar baru sadar ini pas udah di tahap apply.\nB2 itu",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeoUABpmwu5",
-      "timestamp": "2026-10-18T09:01:27+0000",
-      "metrics": {
-        "views": 11,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "17902439535377616",
+      "text": "Dulu pernah bawa ransel gede buat perjalanan interview, eh malah harus masuk bagasi — telat, panik, mood ancur sebelum k",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Des-qr3lGhh",
+      "timestamp": "2026-10-20T04:31:13+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18103004399248773",
+      "text": "Fresh grad jurusan teknik, bahasa Jerman nol, tapi sekarang ikut Ausbildung di Stuttgart.\nYang dia lakuin duluan: belaja",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Des0ZSZFeQ8",
+      "timestamp": "2026-10-20T03:01:29+0000",
+      "metrics": {
+        "views": 139,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 6
+    },
+    {
+      "id": "18018941936944119",
+      "text": "Myth: yang bisa kerja di Australia itu yang bahasa Inggrisnya udah lancar dari sono.\nKenyataannya? Banyak yang fluent ta",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DesmplnDUc7",
+      "timestamp": "2026-10-20T01:01:22+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "17970134765960999",
       "text": "Jam 06.15, udah di stasiun. Kereta penuh tapi senyap — ga ada yang telpon, ga ada yang ribut.\nMasuk kerja, semua orang b",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DesY6jvmgjB",
       "timestamp": "2026-10-19T23:01:21+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Derh_culL2t",
       "timestamp": "2026-10-19T15:01:25+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,14 +178,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DerbHqcFPt_",
       "timestamp": "2026-10-19T14:01:23+0000",
       "metrics": {
-        "views": 19,
-        "likes": 0,
+        "views": 22,
+        "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18113665295158731",
@@ -194,51 +239,6 @@
       "timestamp": "2026-10-19T09:01:23+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18113089247141765",
-      "text": "Perawat 29 tahun, 3 tahun ngumpulin dokumen buat UK. Pas hampir apply, baru ketauan: skor IELTS-nya B1, sementara sejak ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DequeYLFuJE",
-      "timestamp": "2026-10-19T07:31:15+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18120008165280840",
-      "text": "Express Entry Kanada itu sistem poin — bukan antrian siapa cepat dia dapat.\nYang nilainya tinggi bukan yang paling lama ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqkNYIEeX0",
-      "timestamp": "2026-10-19T06:01:34+0000",
-      "metrics": {
-        "views": 12,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "17972506977165005",
-      "text": "Waktu mode intense nyiapin semua — latihan soal, revisi CV, belajar bahasa — gue bawa laptop kemana-mana.\nLenovo IdeaPad",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqZ3uGG0IZ",
-      "timestamp": "2026-10-19T04:31:13+0000",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
