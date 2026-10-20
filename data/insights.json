@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-20T20:34:49.172Z",
+  "updated_at": "2026-10-20T23:52:31.573Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwFoPUZ_&_nc_oc=Adqyqj3p6YwcZtEHyjVeoNTa4rqeKgFclHqvL3H6qMUf2FNV60zC-Zg3_E3hZTjeU2M&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NP4_9lQn6kUesDg5NVSogQ&_nc_tpa=Q5bMBQLrzQtqV98KMGVGeMyHnqpddiGMXMHqhMlfhXsqN9mU_77kpr3zubr7uvrTLgbTu-xHVQo8pRj3_g&oh=00_AQPzETUjoet0MeX9j1D1oXNix64Vo9uNoo6cpMwToSozrQ&oe=6ADDBEF5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwHbRnYK&_nc_oc=AdqgJTPG1zOk7saHiD_Q8ulrKm0wXO4EPwedbr_j9L_O2MSV2DR9Hr4B9hczqnEd2cs&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lA0lSTEBTJtXfQNArBL4og&_nc_tpa=Q5bMBQKyKUC2ZcEgAO6MZcgJxH7_GWc8vgAO3dCYfKw-Z6cYZAWAZc_d9p4G2H9Awb-PGLhhk1WIyYWOhQ&oh=00_AQPfi898dDqc3yi-qi1DkJ8aM4K2RjwzcwCj90U5lNZ4mw&oe=6ADDBEF5"
   },
   "summary": {
     "followers_count": 327,
-    "views": 390,
-    "likes": 5,
+    "views": 417,
+    "likes": 6,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 5.71,
+    "engagement_total": 45,
+    "engagement_rate": 5.81,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Des0ZSZFeQ8",
       "timestamp": "2026-10-20T03:01:29+0000",
       "metrics": {
-        "views": 230,
+        "views": 236,
         "likes": 8,
         "replies": 1,
         "reposts": 0,
@@ -81,22 +81,37 @@
       "engagement": 3
     },
     {
-      "id": "18166036960483617",
-      "text": "Mitos: yang lolos WHV ke Australia itu yang nasibnya lagi bagus.\nKenyataannya? Yang gue liat justru yang paling rajin ng",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Det_6vklRTV",
-      "timestamp": "2026-10-20T14:01:26+0000",
+      "id": "18105573434205250",
+      "text": "Katanya kerja di Korea itu soal nasib — eh, pas gue liat orang-orang yang beneran lolos EPS-TOPIK, polanya jelas banget.",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Deu9txej9sp",
+      "timestamp": "2026-10-20T23:01:24+0000",
       "metrics": {
-        "views": 76,
+        "views": 15,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
-        "shares": 1
+        "shares": 0
       },
       "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18105573434205250",
+      "text": "Katanya kerja di Korea itu soal nasib — eh, pas gue liat orang-orang yang beneran lolos EPS-TOPIK, polanya jelas banget.",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/Deu9txej9sp",
+      "timestamp": "2026-10-20T23:01:24+0000",
+      "metrics": {
+        "views": 15,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18098732561430005",
       "text": "Berhenti hafalin kosakata Jerman dari YouTube doang, mending cari tahu dulu ijazahmu diakui ga di sana.\nBerhenti nunggu ",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Det_6vklRTV",
       "timestamp": "2026-10-20T14:01:26+0000",
       "metrics": {
-        "views": 76,
+        "views": 79,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18103004399248773",
-      "text": "Fresh grad jurusan teknik, bahasa Jerman nol, tapi sekarang ikut Ausbildung di Stuttgart.\nYang dia lakuin duluan: belaja",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Des0ZSZFeQ8",
-      "timestamp": "2026-10-20T03:01:29+0000",
-      "metrics": {
-        "views": 230,
-        "likes": 8,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 9
     }
   ]
 }
