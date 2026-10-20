@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-19T21:02:47.792Z",
+  "updated_at": "2026-10-20T00:19:43.815Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwER4PLb&_nc_oc=AdpaL3zNHMGN6T1w-5CaNEx2xxhGY7mWq1V9qL0VAZvdkv982r-NxIZYwOsUFbdhNaw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=h18CGQsTWCIXkeHg4vG_9w&_nc_tpa=Q5bMBQIGVmcXunkyfCMp0O_5lB4p2QguJspIcM-pRrZoktynC1dTJDo-BGWt9IqOtsUBSlLtPGgHp4KzbQ&oh=00_AQOjsl6v9GA5xsriiOmHUU4M1Plj1cNl-5WyrwvncqWm-g&oe=6ADC6D75"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nXhBYsNQ0cQQ7kNvwHNCAXc&_nc_oc=AdrvT0NlSgaWKmtBHvgl6j55hu1oxX13HYf_LC2Fxl7KHwxUA0A1IjKr1O1IFieFid4&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MCuXwPNVGer82eOwZUi1Kw&_nc_tpa=Q5bMBQK7VLQrvpcK67dp0-PzJeMu7JsVdOG1jdVpA82BJZ9ScGw9Hm_9D52GuBjgrz7o9LjzmCFcC9qc7A&oh=00_AQPn2fwHzlDXbV2XWnnz3ZrJpFodtlzvbht0NH5sdEKAQA&oe=6ADC6D75"
   },
   "summary": {
     "followers_count": 324,
-    "views": 197,
+    "views": 203,
     "likes": 1,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 33,
-    "engagement_rate": 7.27,
+    "engagement_total": 32,
+    "engagement_rate": 7.24,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DerNaOXGyzz",
       "timestamp": "2026-10-19T12:01:35+0000",
       "metrics": {
-        "views": 88,
+        "views": 90,
         "likes": 1,
         "replies": 2,
         "reposts": 0,
@@ -98,6 +98,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17970134765960999",
+      "text": "Jam 06.15, udah di stasiun. Kereta penuh tapi senyap — ga ada yang telpon, ga ada yang ribut.\nMasuk kerja, semua orang b",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DesY6jvmgjB",
+      "timestamp": "2026-10-19T23:01:21+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18114886043136296",
       "text": "9 dari 10 orang yang gagal apply kerja ke Australia bukan karena bahasa Inggrisnya jelek — tapi karena CV-nya masih paka",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Derh_culL2t",
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DerNaOXGyzz",
       "timestamp": "2026-10-19T12:01:35+0000",
       "metrics": {
-        "views": 88,
+        "views": 90,
         "likes": 1,
         "replies": 2,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18131511532750803",
-      "text": "Perawat 29 tahun, pengalaman 5 tahun di RS swasta Jakarta — ditolak 3 kali apply ke Australia bukan karena skill-nya kur",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DeqPmRVG_n5",
-      "timestamp": "2026-10-19T03:01:27+0000",
-      "metrics": {
-        "views": 54,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
