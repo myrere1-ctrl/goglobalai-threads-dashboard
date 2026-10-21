@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-21T15:14:00.473Z",
+  "updated_at": "2026-10-21T19:20:07.424Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=kganq7uMbLAQ7kNvwFCgCl5&_nc_oc=AdrO-YIVkFhJ15hZimyocA4lutyezbfX-nWALgw4IYiMRUTXbtL5RH4gHnN0cjtG_ws&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mqVxIknYB_jl9lQNRfp6-Q&_nc_tpa=Q5bMBQKPpdbduznqBfLJspsT8D-60sSPwgo9ghNwSJ0kvJ9BqbHnAY59joYrJgs50h2tp3b5ifKzNm3Snw&oh=00_AQNZpnrCISYd9MZSM6yGuAE6TXXGJqp79M6z0RrowhNmOg&oe=6ADE9FF5"
+    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=kganq7uMbLAQ7kNvwFX7sfa&_nc_oc=AdpruODREubuoLgG0gm0i30n_2fgcCgPnh2076HM6xB22lXvsrtYvgX5hFlXgxjW0lY&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1gMCu8EIama0LxWf5TrN8w&_nc_tpa=Q5bMBQIqAVUcTx4MMpkIbqBaJyfLvednD2jbLHuSh3TlMqgun0f-wC-hjUC6texFFPh-211J5us2Bl3cEQ&oh=00_AQNkrg1-jPBwKs2Hsw9h2xDOhSAZ7UEf4LJIDmusjo4czA&oe=6ADED835"
   },
   "summary": {
     "followers_count": 329,
-    "views": 230,
-    "likes": 3,
+    "views": 768,
+    "likes": 10,
     "replies": 1,
-    "reposts": 1,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 54,
-    "engagement_rate": 6.16,
+    "engagement_total": 62,
+    "engagement_rate": 4.71,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,12 +36,27 @@
       "engagement": 9
     },
     {
+      "id": "18009639741002411",
+      "text": "9 jenis pekerjaan di Kanada buat WNI, gaji sampai 109 juta/bulan.\nYang bikin kaget? Bukan soal susah masuknya — tapi ban",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DewrmGkm20R",
+      "timestamp": "2026-10-21T15:01:33+0000",
+      "metrics": {
+        "views": 401,
+        "likes": 6,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 3
+      },
+      "engagement": 8
+    },
+    {
       "id": "18122345836732215",
       "text": "Jerman itu bukan soal 'siap atau nggak kerja keras' — tapi soal SIAP atau nggak ngikutin sistemnya.\n• Bahasa Jerman jadi",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DevLcdUm__m",
       "timestamp": "2026-10-21T01:01:23+0000",
       "metrics": {
-        "views": 91,
+        "views": 99,
         "likes": 7,
         "replies": 1,
         "reposts": 0,
@@ -79,21 +94,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18186557665409606",
-      "text": "Bangun jam 6, langsung shift sarapan 800 tamu. Kapal masih goyang pelan, laut masih gelap.\nJam 2 siang bebas — duduk di ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Detn3SmEcMt",
-      "timestamp": "2026-10-20T10:31:14+0000",
-      "metrics": {
-        "views": 28,
-        "likes": 1,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ],
   "recent_posts": [
@@ -103,14 +103,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DewrmGkm20R",
       "timestamp": "2026-10-21T15:01:33+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
+        "views": 401,
+        "likes": 6,
         "replies": 1,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
-        "shares": 0
+        "shares": 3
       },
-      "engagement": 1
+      "engagement": 8
     },
     {
       "id": "18129727219895338",
@@ -118,7 +118,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dewkuj6Fh0L",
       "timestamp": "2026-10-21T14:01:32+0000",
       "metrics": {
-        "views": 13,
+        "views": 32,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +133,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dewd3zdkeCp",
       "timestamp": "2026-10-21T13:01:40+0000",
       "metrics": {
-        "views": 12,
+        "views": 15,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -148,14 +148,14 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DewW_u0keYp",
       "timestamp": "2026-10-21T12:01:33+0000",
       "metrics": {
-        "views": 21,
-        "likes": 0,
+        "views": 25,
+        "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18116760356101459",
@@ -163,7 +163,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DewOXFgG-YG",
       "timestamp": "2026-10-21T10:46:05+0000",
       "metrics": {
-        "views": 10,
+        "views": 12,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DewCYFvGwvh",
       "timestamp": "2026-10-21T09:01:22+0000",
       "metrics": {
-        "views": 47,
+        "views": 48,
         "likes": 0,
         "replies": 1,
         "reposts": 1,
@@ -238,7 +238,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DevZLbLFB5k",
       "timestamp": "2026-10-21T03:01:22+0000",
       "metrics": {
-        "views": 34,
+        "views": 36,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
