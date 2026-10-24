@@ -1,40 +1,25 @@
 {
-  "updated_at": "2026-10-23T22:14:03.002Z",
+  "updated_at": "2026-10-24T00:45:49.100Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=kganq7uMbLAQ7kNvwHZsQmI&_nc_oc=AdrOLIZkFEetcMyMZd9d-aHLMPSue8DkfdLMot19euM95AhqA65j4aol4TvaZxEAYWg&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=w5lhWvNF_bl8UlDDt244zg&_nc_tpa=Q5bMBQJ5nz-oGl6uqQgbFoqPR2GgP2SXoz2sQVtF93SvCzPWyTtaaUVm2RVbC_YZjcxS6DgQgMt8IubJNg&oh=00_AQNXMk5Vd7cg2M4pA1YEbto87WiMn5KcoPH5cTiHsXJrbg&oe=6AE1B375"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=kganq7uMbLAQ7kNvwGliU8P&_nc_oc=Ado2cn_ZooKtJ7MOq9Ti02gTIQ-kxdpcO_PQsu7Yz2-FeZ-VjddYg5uWAKbiWdcX4z8&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NTYeW-cSXVNvOvPN5-Jnsg&_nc_tpa=Q5bMBQKZ2Ybu6f2ahlN26N4Q5HLB4z0gXWgnw3ebnWnZY3n2vEijKdPRz3ARcpqvqaLK5kGeOxLYpnZO0g&oh=00_AQMTfA3ThitmdtNzwudLTj6ExKyE8f2GGgKpMjS2nONB5A&oe=6AE1EBB5"
   },
   "summary": {
     "followers_count": 342,
-    "views": 316,
-    "likes": 5,
+    "views": 336,
+    "likes": 6,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 79,
-    "engagement_rate": 2.56,
+    "engagement_total": 37,
+    "engagement_rate": 4.85,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18009639741002411",
-      "text": "9 jenis pekerjaan di Kanada buat WNI, gaji sampai 109 juta/bulan.\nYang bikin kaget? Bukan soal susah masuknya — tapi ban",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DewrmGkm20R",
-      "timestamp": "2026-10-21T15:01:33+0000",
-      "metrics": {
-        "views": 2342,
-        "likes": 34,
-        "replies": 3,
-        "reposts": 8,
-        "quotes": 0,
-        "shares": 20
-      },
-      "engagement": 45
-    },
     {
       "id": "18052865894807108",
       "text": "Orang Indonesia ngirim CV ke Amerika, isinya \"responsible, hardworking, team player\" — persis sama kayak 40.000 pelamar ",
@@ -51,12 +36,27 @@
       "engagement": 3
     },
     {
+      "id": "18130740869492961",
+      "text": "CV standar Indonesia vs rirekisho Jepang — beda banget formatnya.\nDi sini kita terbiasa nulis achievement panjang-panjan",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/De1BpyLljZw",
+      "timestamp": "2026-10-23T07:31:15+0000",
+      "metrics": {
+        "views": 72,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "17955326289295533",
       "text": "Honest opinion: banyak yang terlalu fokus ngejar visa Amerika, tapi lupa yang dinilai pertama bukan dokumennya — tapi se",
       "permalink": "https://www.threads.com/@goglobal.ai/post/De0ixr2EVfQ",
       "timestamp": "2026-10-23T03:01:29+0000",
       "metrics": {
-        "views": 23,
+        "views": 24,
         "likes": 1,
         "replies": 1,
         "reposts": 1,
@@ -81,12 +81,12 @@
       "engagement": 3
     },
     {
-      "id": "18135945247734710",
-      "text": "Jam 6 pagi, gelap. Dingin. Shift NHS mulai jam 7.\nSarapan cepat, jalan kaki ke bus stop, earphone masuk.\nBahasa Inggrisn",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/De1uU1-lnYb",
-      "timestamp": "2026-10-23T14:01:36+0000",
+      "id": "18134121529707355",
+      "text": "CV kamu udah bagus — tapi format-nya bikin recruiter Kanada skip dalam 6 detik.\nDi sana, CV harus satu halaman, tanpa fo",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/De2sGIsCXlp",
+      "timestamp": "2026-10-23T23:01:22+0000",
       "metrics": {
-        "views": 18,
+        "views": 13,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18134121529707355",
+      "text": "CV kamu udah bagus — tapi format-nya bikin recruiter Kanada skip dalam 6 detik.\nDi sana, CV harus satu halaman, tanpa fo",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/De2sGIsCXlp",
+      "timestamp": "2026-10-23T23:01:22+0000",
+      "metrics": {
+        "views": 13,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18052865894807108",
       "text": "Orang Indonesia ngirim CV ke Amerika, isinya \"responsible, hardworking, team player\" — persis sama kayak 40.000 pelamar ",
@@ -196,11 +211,11 @@
         "views": 72,
         "likes": 1,
         "replies": 1,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     },
     {
       "id": "18640692784023918",
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/De03YFFkQJ5",
       "timestamp": "2026-10-23T06:01:27+0000",
       "metrics": {
-        "views": 65,
+        "views": 67,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17955326289295533",
-      "text": "Honest opinion: banyak yang terlalu fokus ngejar visa Amerika, tapi lupa yang dinilai pertama bukan dokumennya — tapi se",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/De0ixr2EVfQ",
-      "timestamp": "2026-10-23T03:01:29+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
