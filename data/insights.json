@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-24T20:49:20.174Z",
+  "updated_at": "2026-10-24T23:14:07.859Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses Pro Plan",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U6p2GbVdkwQQ7kNvwGnmjRf&_nc_oc=AdrvQ1HhKE2-A48qrUzKcF63t_T7OPj0WIsojW0LOAp6EtDhni6jkTuUtxxYBjqErSg&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TBiPbWnc04MNn5QGlLhxOQ&_nc_tpa=Q5bMBQJAR4dNzGkn6fyVj_163yqad18HOFSKjjarMlbOApKrxvX8A57-QYvm6WLchWFgRnY7uaSp80-V7g&oh=00_AQPsrgHYSQkFIXyzylZlhPjwc56WjPKrzDMt_HyhT0KmUg&oe=6AE304F5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U6p2GbVdkwQQ7kNvwGwTzZ5&_nc_oc=AdpcIgU3h44ZxmlUGT9NyfkB4Av3-QruWLLPN0n-T6ak3ni5TOu7g056lIOv0I6b4hU&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=srwwKy29GsS8qeZmshAlKw&_nc_tpa=Q5bMBQIrZk4IcXPOGhFicuum-VKmbvwk9k_edl400ypnfk3Zn-US_ygGVChkyXJSB9GNjkkVsquP1VT4sw&oh=00_AQOTZYHCfYc1Z_QcD7UFldds3e-uUQyW59-OdFSomG7nHw&oe=6AE304F5"
   },
   "summary": {
     "followers_count": 342,
-    "views": 183,
+    "views": 190,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 42,
-    "engagement_rate": 6.39,
+    "engagement_total": 41,
+    "engagement_rate": 6.41,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18152565592527409",
+      "text": "Udah niat apply ke UK tahun ini — tapi skor IELTS atau bahasa Inggris kamu masih di level B1?\nSejak Januari 2026, syarat",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/De5Q4-9Hz4P",
+      "timestamp": "2026-10-24T23:01:22+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17876264541588303",
       "text": "6 bulan lalu CV-nya masih format lamaran BUMN — foto 3x4, kolom TTL, tanda tangan basah 😭\nSekarang? LinkedIn-nya udah n",
       "permalink": "https://www.threads.com/@goglobal.ai/post/De4Z9R-kXAG",
       "timestamp": "2026-10-24T15:01:22+0000",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/De3mcLLFrpk",
       "timestamp": "2026-10-24T07:31:11+0000",
       "metrics": {
-        "views": 18,
+        "views": 20,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18136316152655370",
-      "text": "Mau kerja remote gajian USD dari Indonesia? 3 hal yang sering dilupain:\n→ CV kamu masih format lamaran lokal — ubah ke g",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/De3Hj7Jlr79",
-      "timestamp": "2026-10-24T03:01:22+0000",
-      "metrics": {
-        "views": 67,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
