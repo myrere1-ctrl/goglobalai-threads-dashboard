@@ -1,47 +1,32 @@
 {
-  "updated_at": "2026-10-29T14:18:39.147Z",
+  "updated_at": "2026-10-29T20:17:15.635Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses IELTS FREE & \nAkses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PpUTM1SYLmoQ7kNvwFMCVFN&_nc_oc=AdolKR2o4bk3w7Tsaucj-z2mgJ1HXMgGITS7FUYhX_FyR1kuxa5M9uTgMzX2a3NkLTs&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=wF7SrhaIMQRg4N-p4yQcig&_nc_tpa=Q5bMBQI0h5XMyHWmnEwx-tap-ly85IcE9ksDuzpOa5uJowaN5a1o9XumzDtsu5Iz5dWDv0qKczAeJBozoQ&oh=00_AQSxOQFabvf5AoCOSYUgqmmgTgdEClDbmOh_k7C6HiS-GA&oe=6AE92BF5"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PpUTM1SYLmoQ7kNvwFfI0S5&_nc_oc=AdoOH_qgLpew9i1TXH6-ilTV624mgwF2tpPZUJhiv6391bm2n87UHvEuX38kaFQ6jXs&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=G2MB89igXlYt8plxX6AaBw&_nc_tpa=Q5bMBQKGxlzFblVcDC_julX6opwrXMY5ppWOk5pv50wSUzx6igrE5LHDgJMG6bRDykUzMsBtVn0GtqevnQ&oh=00_AQRg4uCvNuZ0ATEau1bxNRkI3doW5R3zVx2PuXj0yvxy5Q&oe=6AE96435"
   },
   "summary": {
     "followers_count": 344,
-    "views": 154,
+    "views": 214,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 40,
-    "engagement_rate": 6.24,
+    "engagement_total": 34,
+    "engagement_rate": 6.95,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17971018764176373",
-      "text": "Ada temen gue yang 3 tahun ngejar Jepang.\nBukan karena dia paling pinter — tapi dia yang paling serius belajar JLPT dari",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DfABfGcFpyN",
-      "timestamp": "2026-10-27T14:01:26+0000",
-      "metrics": {
-        "views": 196,
-        "likes": 6,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 7
-    },
     {
       "id": "18105963773201655",
       "text": "Express Entry Kanada itu sistemnya kayak nilai rapor — ada skornya, bisa dipelajari.\nYang sering diremehkan orang:\n• CV ",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DfBvVo5lpMd",
       "timestamp": "2026-10-28T06:01:20+0000",
       "metrics": {
-        "views": 126,
+        "views": 127,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -94,16 +79,46 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "17980414131149822",
+      "text": "Ada momen gue duduk bareng seseorang yang baru balik dari Australia — dia mining FIFO, gaji bulanannya bikin gue bengong",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfBavrHDSMG",
+      "timestamp": "2026-10-28T03:01:24+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18035563922892931",
+      "text": "Myth: ke Jerman harus jago bahasa Jerman dulu, baru boleh nyiapin dokumen lain.\nReality-nya? Orang yang paralel — belaja",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfFR8kcoOfl",
+      "timestamp": "2026-10-29T15:01:28+0000",
+      "metrics": {
+        "views": 35,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 1
+    },
     {
       "id": "18123383735009944",
       "text": "Jam 5.30 pagi udah di jalan, langit masih gelap.\nRekan kerja nyapa singkat, langsung fokus — nggak ada basa-basi panjang",
       "permalink": "https://www.threads.com/@goglobal.ai/post/DfFLF4_m--9",
       "timestamp": "2026-10-29T14:01:35+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DfE9W5AoODR",
       "timestamp": "2026-10-29T12:01:34+0000",
       "metrics": {
-        "views": 55,
+        "views": 59,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DfEowSzFXOT",
       "timestamp": "2026-10-29T09:01:32+0000",
       "metrics": {
-        "views": 17,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@goglobal.ai/post/DfEebWoG6FI",
       "timestamp": "2026-10-29T07:31:18+0000",
       "metrics": {
-        "views": 20,
+        "views": 21,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-10-29T03:01:25+0000",
       "metrics": {
         "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18371522794247690",
-      "text": "Jam 5.30 pagi, langit Perth masih abu-abu, tapi shift tambang udah nunggu.\nSarapan cepet, helm dicek, radio perusahaan n",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DfDx0E1FAet",
-      "timestamp": "2026-10-29T01:01:26+0000",
-      "metrics": {
-        "views": 11,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
