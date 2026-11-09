@@ -110,14 +110,25 @@ POV kamu, harus konsisten KERASA di gaya ngomongnya (ga perlu diucapkan eksplisi
 - Skeptis sama jalan pintas, "dijamin lolos", calo yang maksa bayar duluan, atau siapapun yang jual harapan kosong.
 - Kamu ngomong dari pengalaman liat banyak orang coba — ada yang berhasil karena persiapan matang, ada yang gagal karena remehin hal kecil.`;
 
+// Data Pro plan — HARGA & FITUR WAJIB AKURAT, verified dari pricing page 2026-11-10.
+// JANGAN pernah sebut angka lain (299rb/promo lama sudah berakhir, BUKAN 6 jutaan).
+const PRO_PLAN_INFO = `GoGlobal AI Pro — harga SEKARANG: Rp616.800, SEKALI BAYAR, akses SELAMANYA (bukan langganan). Harga promo lama (Rp299rb) sudah BERAKHIR, JANGAN pernah sebut angka itu lagi.
+Fitur Pro: semua fitur Starter (unlimited) + Visa Pathway AI (unlimited), CV Builder AI, Interview AI + Voice, Cover Letter Generator, Job Finder AI, Roadmap Generator, prioritas support.
+Fitur Starter (gratis): Explore Countries (unlimited), Ask GoGlobal AI (10x/hari), Kalkulator Gaji (unlimited), cek skor IELTS/TOEFL, belajar Bahasa Jepang & Bahasa Arab (BETA).
+Value point yang boleh dipakai (variasikan, JANGAN list semua fitur tiap post, pilih 1-2 aja per post):
+- Dibanding pakai jasa agen/sponsor konvensional yang bisa Rp25-60 juta, Pro cuma Rp616.800 sekali bayar buat akses selamanya.
+- CV & Cover Letter bisa langsung jadi dalam BAHASA NEGARA TUJUAN (auto-translate bawaan) — ga perlu translate manual atau beli template CV terpisah.
+- Semua fitur (CV Builder, Interview AI + Voice, Cover Letter, Job Finder, Roadmap, Visa Pathway) dalam 1 harga sekali bayar, bukan beli satuan, bukan langganan bulanan.`;
+
 export function buildPrompt({ type, country, tone, note, countryContext = '', angle = pickAngle() }) {
   const contextBlock = countryContext
     ? `\nKONTEKS NEGARA (grounding — HANYA pakai fakta dari sini soal ${country}, JANGAN ngarang di luar ini):\n${countryContext}\n`
     : '';
+  const isPromo = type === 'promo';
   return `${NARRATOR_IDENTITY}
 
 POSITIONING PENTING (baca dulu):
-GoGlobal AI itu APP/TOOL yang bantu orang Indonesia NYIAPIN DIRI buat kerja di luar negeri (bikin CV lolos standar sana, latihan interview, cek gaji real, cek visa, deteksi scam lowongan). GoGlobal AI BUKAN agen penyalur kerja — TIDAK nyalurin lowongan.
+GoGlobal AI itu APP/TOOL yang bantu orang Indonesia NYIAPIN DIRI buat kerja/kuliah di luar negeri — jelajahi peluang, tanya AI, kalkulator gaji, cek skor IELTS/TOEFL, belajar Bahasa Jepang & Arab, plus fitur Pro (CV Builder, Cover Letter, Interview AI+Voice, Job Finder, Roadmap, Visa Pathway). GoGlobal AI BUKAN agen penyalur kerja — TIDAK nyalurin lowongan.
 Konten harus bikin orang mikir "aku harus NYIAPIN DIRI", BUKAN "mana lowongannya, salurin aku". HINDARI framing "ada lowongan X gaji Y" yang bikin orang ngira kamu penyalur kerja. Fokus ke PERSIAPAN, skill gap, dan cara bikin diri layak — bukan janji kerjaan.
 
 Buat 1 post Threads Bahasa Indonesia:
@@ -126,10 +137,9 @@ Buat 1 post Threads Bahasa Indonesia:
 - Tone: ${TONE_LABEL[tone] || tone}
 - Catatan: ${note || '-'}
 ${contextBlock}
-
-ANGLE WAJIB (ini paling penting — jangan default ke formula umum):
+${isPromo ? '' : `ANGLE WAJIB (ini paling penting — jangan default ke formula umum):
 **${angle.name}** — ${angle.instruction}
-
+`}
 Format:
 - 3-5 baris pendek (bisa lebih kalau format list)
 - Bahasa santai seperti ngobrol sama teman
@@ -138,15 +148,19 @@ Format:
 - HINDARI "Dulu gue kira X, ternyata Y" sebagai pembuka — ini sering kepake belakangan, jangan jadi default. Kalau mau cerita personal, boleh langsung masuk ke scene/momennya tanpa formula reversal itu.
 - JANGAN pakai kata menakutkan atau terlalu jualan
 - HINDARI klaim fakta absolut yang time-sensitive (mis. "100% pakai bahasa Inggris", "gampang masuk", "pasti diterima"). Kalau nyebut fakta, kasih nuance/konteks — jangan hitam-putih yang gampang dibantah.
-- SESEKALI (JANGAN tiap post, biar ga keulang-ulang/spammy) selipin semangat "ini bukan soal rejeki, ini soal persiapan" — boleh variasikan kalimatnya sendiri, ga perlu persis sama tiap kali.
-- Akhiri dengan CTA ngegantung natural (variasi: "mau cerita?", "pernah ngerasain?", "lanjut?", "ada yang relate?", "gimana menurut lo?", "share dong pengalaman lo?")
-- BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter (Threads limit 500, buffer 50). Jangan overshoot. Kalau ide panjang, potong. Punchy > verbose.
+${isPromo ? '' : '- SESEKALI (JANGAN tiap post, biar ga keulang-ulang/spammy) selipin semangat "ini bukan soal rejeki, ini soal persiapan" — boleh variasikan kalimatnya sendiri, ga perlu persis sama tiap kali.\n'}- BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter (Threads limit 500, buffer 50). Jangan overshoot. Kalau ide panjang, potong. Punchy > verbose.
 
-JANGAN sebut nama brand "GoGlobal AI" dan JANGAN taruh link apapun di post ini. Link + CTA ke app ditaruh di REPLY terpisah (otomatis). Post ini murni VALUE/cerita/insight biar reach-nya maksimal.
+${isPromo ? `INI POST PROMO FITUR PRO — beda dari tipe lain:
+- BOLEH dan WAJIB sebut nama "GoGlobal AI Pro" secara natural di body post (tipe lain dilarang, tipe ini sengaja beda).
+- SOFT-SELL: value-comparison yang jujur, BUKAN hard-sell. JANGAN "buru-buru beli sekarang!", JANGAN urgency palsu ("promo terbatas", "cuma hari ini") — promo emang udah berakhir, harga sekarang flat.
+- Pilih 1-2 value point aja dari info Pro di bawah (JANGAN list semua fitur kayak brosur, variasikan yang di-highlight antar post — kadang harga/value, kadang fitur translate otomatis, kadang sekali-bayar-vs-agen).
+${PRO_PLAN_INFO}
+- Tutup dengan pertanyaan natural yang ngundang reply/opini (bukan "DM sekarang" atau CTA transaksional) — contoh gaya: "worth it ga menurut kamu?", "lumayan kan buat sekali bayar?", "kalian lebih milih mana?"
+- JANGAN taruh link apapun di post ini (bio udah ada link, cukup).` : 'JANGAN sebut nama brand "GoGlobal AI" dan JANGAN taruh link apapun di post ini. Link + CTA ke app ditaruh di REPLY terpisah (otomatis). Post ini murni VALUE/cerita/insight biar reach-nya maksimal.'}
 
 PENTING - format output WAJIB persis seperti ini (pakai tag, BUKAN JSON):
 <teks>baris1|baris2|baris3</teks>
-<cta>mau cerita?</cta>
+<cta>${isPromo ? 'worth it ga menurut kamu?' : 'mau cerita?'}</cta>
 
 Gunakan pipe | untuk jeda baris dalam teks. JANGAN pakai newline asli di dalam teks. JANGAN pakai quote dobel. JANGAN tulis apapun di luar tag.`;
 }
@@ -234,64 +248,4 @@ export async function generatePost({ apiKey, type, country, tone, note, countryC
   console.warn(`All ${MAX_RETRIES} retries exceeded limit. Hard truncating.`);
   const truncated = lastFull.slice(0, THREADS_LIMIT - 3) + '...';
   return { text: truncated, cta: '', angle: angle.name, full: truncated };
-}
-
-// ===== AFFILIATE POST (rekomendasi gear asli dari data/products.json) =====
-// Beda dari generatePost: bukan konten karir/visa, tapi rekomendasi gear persiapan
-// LN yang nyata (Shopee/Amazon). Link taruh di REPLY (auto), bukan di post ini.
-export function buildAffiliatePrompt({ item, recentPosts = [] }) {
-  const history = recentPosts?.length
-    ? `RIWAYAT POST TERAKHIR (JANGAN ulang topik/struktur yang sama persis):\n${recentPosts.slice(-12).map((t, i) => `${i + 1}. "${(t || '').replace(/\n/g, ' ').slice(0, 160)}"`).join('\n')}`
-    : '';
-  return `${NARRATOR_IDENTITY}
-
-Buat 1 post Threads Bahasa Indonesia yang REKOMENDASIIN barang ini secara personal & natural (BUKAN iklan/brosur):
-- Barang: ${item.name}
-- Kenapa worth: ${item.blurb}
-
-MODE: cerita personal singkat kenapa barang ini kepake pas nyiapin diri / pas di perjalanan (2-3 baris) — kayak share tips ke temen yang senasib. JANGAN listing spek kayak brosur. JANGAN bahasa hard-sell ("beli sekarang", "diskon", "buruan").
-
-${history}
-
-Format:
-- 2-4 baris pendek
-- Bahasa santai seperti ngobrol sama teman
-- BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter.
-- CTA WAJIB kasih tau link ada di KOMEN (bukan bio) — variasikan kalimatnya tiap kali.
-
-JANGAN tulis URL apapun di teks/cta. JANGAN sebut nama brand "GoGlobal AI" di post ini.
-
-PENTING - format output WAJIB persis seperti ini (pakai tag, BUKAN JSON):
-<teks>baris1|baris2|baris3</teks>
-<cta>link di komen ya (contoh — variasikan kalimatnya)</cta>
-
-Gunakan pipe | untuk jeda baris dalam teks. JANGAN pakai newline asli di dalam teks. JANGAN pakai quote dobel. JANGAN tulis apapun di luar tag.`;
-}
-
-export async function generateAffiliatePost({ apiKey, item, recentPosts = [] }) {
-  let lastFull = '';
-  let attempt = 0;
-
-  while (attempt < MAX_RETRIES) {
-    attempt++;
-    const retryNote = attempt > 1
-      ? `\n\n[RETRY ${attempt}: post sebelumnya ${lastFull.length} karakter — LEBIH PENDEK, max 400 total]`
-      : '';
-    const prompt = buildAffiliatePrompt({ item, recentPosts }) + retryNote;
-    const raw = await callClaude({ apiKey, prompt });
-    const { teks, cta } = parseResponse(raw);
-    const text = teks.replace(/\|/g, '\n');
-    const full = `${text}\n\n${cta}`;
-    lastFull = full;
-
-    if (full.length <= THREADS_LIMIT) {
-      if (attempt > 1) console.log(`Retry ${attempt} succeeded (${full.length} chars)`);
-      return { text, cta, angle: 'affiliate', full };
-    }
-    console.log(`Attempt ${attempt}: affiliate post too long (${full.length} chars > ${THREADS_LIMIT}), retrying...`);
-  }
-
-  console.warn(`All ${MAX_RETRIES} retries exceeded limit. Hard truncating.`);
-  const truncated = lastFull.slice(0, THREADS_LIMIT - 3) + '...';
-  return { text: truncated, cta: '', angle: 'affiliate', full: truncated };
 }

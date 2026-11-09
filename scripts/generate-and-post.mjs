@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { generatePost, generateAffiliatePost } from './lib/claude.mjs';
+import { generatePost } from './lib/claude.mjs';
 import { postThread, postReply, verifyToken } from './lib/threads.mjs';
 
 // 12 post/hari, sebar seharian (06.00–22.00). Konten mix acak semua negara di COUNTRIES.
@@ -39,13 +39,21 @@ const COUNTRY_CONTEXT = {
     'Peluang kapal pesiar: 5+ posisi, gaji USD + akomodasi & makan gratis, keliling dunia. Kompetitif — butuh CV & interview bahasa Inggris yang kuat.',
 };
 
-const DAILY_TYPES = ['pain', 'tips', 'story', 'hook', 'promo', 'pain', 'tips'];
+// Tipe konten dipilih PER-SLOT (bukan per-hari lagi) via sequence deterministic 10-slot:
+// 4/10 = 40% promo fitur Pro, sisanya kebagi rata pain/tips/story/hook. dayIndex+slot
+// biar variasi antar hari (slot yang sama ga selalu dapet tipe yang sama tiap hari).
+const TYPE_SEQUENCE = ['promo', 'pain', 'tips', 'promo', 'story', 'hook', 'promo', 'pain', 'tips', 'promo'];
+
+function pickType({ dayIndex, slot }) {
+  return TYPE_SEQUENCE[(dayIndex + slot) % TYPE_SEQUENCE.length];
+}
 
 const TONES = ['santai', 'inspiratif', 'edukatif', 'humor'];
 
 // CTA reply pool — ditaruh di REPLY (bukan post utama) biar post utama bersih dari link = reach tinggi.
 // Sejak 2026-10-13: TANPA link. Upgrade akses lewat DM / WA (nomornya ada di app),
-// bukan self-serve link lagi — {country} diisi otomatis.
+// bukan self-serve link lagi — {country} diisi otomatis. Khusus tipe NON-promo — post
+// promo (2026-11-10) udah self-contained, pitch-nya ada di body jadi ga perlu reply lagi.
 const CTA_REPLIES = [
   'mau upgrade akses buat {country}? DM aja, atau WA ke nomor yang ada di app 📲',
   'yang mau akses lebih lengkap soal {country} — DM aku ya, atau langsung WA (no-nya ada di dalam app)',
@@ -57,39 +65,6 @@ const CTA_REPLIES = [
 function pickCtaReply(country) {
   const t = CTA_REPLIES[Math.floor(Math.random() * CTA_REPLIES.length)];
   return t.replace(/\{country\}/g, country);
-}
-
-// Affiliate: min 2 slot/hari (dari 12 total) rekomendasiin gear persiapan LN nyata
-// (data/products.json), bukan konten karir/visa biasa. Sisanya tetap normal.
-const AFFILIATE_SLOTS = [3, 9]; // 11.30 & 20.00 WIB
-
-const AFFILIATE_REPLY_TEMPLATES = [
-  '{blurb}\n\nlink: {link}\n#ad',
-  'buat yang mau langsung cek, ini link-nya: {link}\n({blurb})\n#ad',
-  '{blurb} — cek link: {link}\n#ad',
-  'link-nya di sini: {link}\n#ad',
-];
-
-const PRODUCTS_PATH = path.resolve('data/products.json');
-
-async function loadProducts() {
-  try {
-    const raw = await fs.readFile(PRODUCTS_PATH, 'utf8');
-    const data = JSON.parse(raw);
-    return Array.isArray(data.products) ? data.products : [];
-  } catch {
-    return [];
-  }
-}
-
-function pickAffiliateItem({ products, dayIndex, positionInSlots }) {
-  if (!products.length) return null;
-  return products[(dayIndex + positionInSlots) % products.length];
-}
-
-function buildAffiliateReply(item) {
-  const t = AFFILIATE_REPLY_TEMPLATES[Math.floor(Math.random() * AFFILIATE_REPLY_TEMPLATES.length)];
-  return t.replace(/\{blurb\}/g, item.blurb).replace(/\{link\}/g, item.link).replace(/\{name\}/g, item.name);
 }
 
 const LOG_PATH = path.resolve('data/posted-log.json');
@@ -109,10 +84,9 @@ function parseArgs() {
 function pickContent({ slot }) {
   const now = new Date();
   const dayIndex = Math.floor(now.getTime() / 86400000);
-  const dow = now.getUTCDay();
   const country = COUNTRIES[(dayIndex + slot) % COUNTRIES.length];
   return {
-    type: DAILY_TYPES[dow],
+    type: pickType({ dayIndex, slot }),
     country,
     tone: TONES[slot % TONES.length],
     note: '',
@@ -145,41 +119,22 @@ async function main() {
   if (!token) throw new Error('THREADS_ACCESS_TOKEN missing');
   if (!userId) throw new Error('THREADS_USER_ID missing');
 
-  const now = new Date();
-  const dayIndex = Math.floor(now.getTime() / 86400000);
-  const isAffiliateSlot = AFFILIATE_SLOTS.includes(slot);
+  const choice = pickContent({ slot });
+  console.log('Slot:', slot, SLOTS[slot], 'WIB');
+  console.log('Pick:', choice);
+  const post = await generatePost({ apiKey, ...choice });
 
-  let post = null;
-  let item = null;
-  let choice = null;
+  // Promo fitur Pro = pitch-nya udah self-contained di body, ga perlu reply lagi.
+  // Tipe lain tetep reach-preserving: body bersih, CTA/upgrade-ask di reply.
+  const isPromo = choice.type === 'promo';
+  const reply = isPromo ? null : pickCtaReply(choice.country);
 
-  if (isAffiliateSlot) {
-    const products = await loadProducts();
-    if (products.length) {
-      const positionInSlots = AFFILIATE_SLOTS.indexOf(slot);
-      item = pickAffiliateItem({ products, dayIndex, positionInSlots });
-      console.log('Slot:', slot, SLOTS[slot], 'WIB · AFFILIATE');
-      console.log('Produk:', item.name);
-      const log = await loadLog();
-      const recentPosts = log.slice(-12).map((e) => e.body || e.text || '');
-      post = await generateAffiliatePost({ apiKey, item, recentPosts });
-    } else {
-      console.log('Slot affiliate tapi products.json kosong — fallback ke konten normal.');
-    }
-  }
-
-  if (!post) {
-    choice = pickContent({ slot });
-    console.log('Slot:', slot, SLOTS[slot], 'WIB');
-    console.log('Pick:', choice);
-    post = await generatePost({ apiKey, ...choice });
-  }
-
-  const reply = item ? buildAffiliateReply(item) : pickCtaReply(choice.country);
-  console.log('--- MAIN POST ---');
+  console.log('--- MAIN POST ---', isPromo ? '(PROMO)' : '');
   console.log(post.full);
-  console.log('--- REPLY', item ? '(affiliate link)' : '(CTA + link)', '---');
-  console.log(reply);
+  if (reply) {
+    console.log('--- REPLY (CTA upgrade) ---');
+    console.log(reply);
+  }
   console.log('---');
 
   if (dryRun) {
@@ -191,24 +146,24 @@ async function main() {
   const threadId = await postThread({ userId, token, text: post.full });
   console.log('Posted main:', threadId);
 
-  // Auto-reply CTA/affiliate+link. Kalau gagal, JANGAN batalin main post — log aja.
+  // Auto-reply CTA (kalau ada). Kalau gagal, JANGAN batalin main post — log aja.
   let replyThreadId = null;
-  try {
-    replyThreadId = await postReply({ userId, token, text: reply, replyToId: threadId });
-    console.log('Posted reply:', replyThreadId);
-  } catch (e) {
-    console.error('Reply gagal (main post tetap aman):', e.message);
+  if (reply) {
+    try {
+      replyThreadId = await postReply({ userId, token, text: reply, replyToId: threadId });
+      console.log('Posted reply:', replyThreadId);
+    } catch (e) {
+      console.error('Reply gagal (main post tetap aman):', e.message);
+    }
   }
 
   await appendLog({
     timestamp: new Date().toISOString(),
     slot,
     slotTimeWib: SLOTS[slot],
-    isAffiliate: !!item,
-    affiliateProduct: item ? item.name : null,
-    type: choice?.type ?? null,
-    country: choice?.country ?? null,
-    tone: choice?.tone ?? null,
+    type: choice.type,
+    country: choice.country,
+    tone: choice.tone,
     angle: post.angle,
     body: post.text,
     cta: post.cta,
