@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-14T10:37:36.888Z",
+  "updated_at": "2026-11-14T17:07:26.550Z",
   "profile": {
     "username": "goglobal.ai",
     "name": "Go Global AI",
     "biography": "Aplikasi Yang Bantu Kamu Yang Mau Kerja Di Luar Negri - GRATIS (basic plan)\n(Bukan Agen Tenaga Kerja)\nInbox -> Akses IELTS FREE & \nAkses Pro Plan",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GNWQ4Sraawg8TFpAAF5Ic7lrz7sVbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=tXHLFqfo4MoQ7kNvwFlYY_r&_nc_oc=AdoTIJM7RQVZN3jKSHOrhtCSUZNw02GMY8VSnXrOcn5ocYK7eijGu05YvHv08nGjsJk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=BZwP3F_wcpZQl2_ipbSqzg&_nc_tpa=Q5bMBQKPJNwICgsqcr0EzlV7mMoYkaE_q83DhqaAUfQGK5ZBsf3rAZVC551o3fc2hfqvZwv_Xsj0A4y3bg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTy_c4zRrJ132jJp5HaL1C1ZUlfrtDSXElbQzHqMlu5ZA&oe=6AFE0BB5"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/719425749_18113681980681178_1566073357021169758_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GNWQ4Sraawg8TFpAAF5Ic7lrz7sVbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=9ikLq5E-IvgQ7kNvwFfzhNT&_nc_oc=Adpf3bkeBEZSmn4g9NphD6NsJuvDEPP6eCEYOs0j4EEMJcpXW0Q8PsuQIq96xNUCXpU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=couoyGw9vcPVozj9uKwXvw&_nc_tpa=Q5bMBQJo0LV0HjXKHAcH9Gql0M_L5EYm5G48hlDbxKUOdjHhBkbzAKE0Kh81PsSN1F_o1-etIsHTipumdA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQRQV0QaIN1reDwKrGGuNuBhSHsjDYJvOCTzPqaEd7Qkw&oe=6AFE7C35"
   },
   "summary": {
     "followers_count": 360,
-    "views": 9,
+    "views": 32,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 18,
-    "engagement_rate": 1.46,
+    "engagement_total": 17,
+    "engagement_rate": 2.19,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,12 +36,42 @@
       "engagement": 2
     },
     {
+      "id": "18010932686989778",
+      "text": "Ekspektasi: Korea itu negeri K-pop, pasti gampang masuk.\nRealita: ada ujian bahasa Korea (EPS-TOPIK) yang bikin banyak o",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfueqZ5IGm2",
+      "timestamp": "2026-11-14T15:01:27+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18111185603618668",
+      "text": "Berhenti hafal vocab Jepang random dari internet, mending langsung fokus ke JLPT N4/N3 — itu yang perusahaan Jepang liha",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfuXzYJkXVs",
+      "timestamp": "2026-11-14T14:01:30+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17921853129246027",
       "text": "90% orang yang akhirnya lolos visa J-1 AS itu bukan yang paling jago — tapi yang paling siap dokumennya. 😅\nSponsor form",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dft_vMnoDBq",
       "timestamp": "2026-11-14T10:31:13+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -64,12 +94,29 @@
         "shares": 0
       },
       "engagement": 1
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18010932686989778",
+      "text": "Ekspektasi: Korea itu negeri K-pop, pasti gampang masuk.\nRealita: ada ujian bahasa Korea (EPS-TOPIK) yang bikin banyak o",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfueqZ5IGm2",
+      "timestamp": "2026-11-14T15:01:27+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
-      "id": "18082752638430719",
-      "text": "Waktu pertama denger kata Ausbildung, gue pikir itu nama orang.\nTernyata itu program di Jerman — kerja sambil belajar, d",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dftg2mkjof_",
-      "timestamp": "2026-11-14T06:01:21+0000",
+      "id": "18111185603618668",
+      "text": "Berhenti hafal vocab Jepang random dari internet, mending langsung fokus ke JLPT N4/N3 — itu yang perusahaan Jepang liha",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfuXzYJkXVs",
+      "timestamp": "2026-11-14T14:01:30+0000",
       "metrics": {
         "views": 4,
         "likes": 0,
@@ -81,29 +128,42 @@
       "engagement": 1
     },
     {
-      "id": "17888222511502458",
-      "text": "Pernah kepikiran gak — temen sekelas yang nilai Inggrisnya biasa aja, sekarang udah kerja di Brisbane?\nTernyata dia lati",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DftWicFHHpz",
-      "timestamp": "2026-11-14T04:31:13+0000",
+      "id": "18234768910336100",
+      "text": "CV + interview kapal pesiar itu kompetitif — pelamar dari mana-mana bersaing untuk posisi yang sama.\nGoGlobal AI Pro ban",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfuQ9v_Gw_v",
+      "timestamp": "2026-11-14T13:01:45+0000",
       "metrics": {
-        "views": 7,
+        "views": 2,
         "likes": 0,
-        "replies": 1,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
+    {
+      "id": "17913790395590206",
+      "text": "Kerja remote dari Indonesia, dibayar USD — kedengarannya oke, tapi saingannya global.\nCV lo harus bisa ngomong sendiri d",
+      "permalink": "https://www.threads.com/@goglobal.ai/post/DfuKEG2FOdU",
+      "timestamp": "2026-11-14T12:01:29+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17921853129246027",
       "text": "90% orang yang akhirnya lolos visa J-1 AS itu bukan yang paling jago — tapi yang paling siap dokumennya. 😅\nSponsor form",
       "permalink": "https://www.threads.com/@goglobal.ai/post/Dft_vMnoDBq",
       "timestamp": "2026-11-14T10:31:13+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -186,66 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18122315713983329",
-      "text": "Mau kerja di Jepang? Rirekisho kamu yang ngomong duluan — dan recruiter sana cukup strict soal format.\n3 hal yang sering",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dfs-hbZgELM",
-      "timestamp": "2026-11-14T01:01:22+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18119924371815240",
-      "text": "CV lo udah siap dikirim ke klien remote luar negeri?\nKebanyakan orang stuck di sini — CVnya masih gaya lokal, LinkedIn s",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DfswzFiEaaa",
-      "timestamp": "2026-11-13T23:01:27+0000",
-      "metrics": {
-        "views": 24,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18193303105406685",
-      "text": "Jam 6 pagi, stasiun udah penuh. Semua jalan cepat, ga ada yang senderan di eskalator kiri.\nMakan siang 45 menit — benera",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/Dfr53lFEYgL",
-      "timestamp": "2026-11-13T15:01:28+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18148412308572291",
-      "text": "CV kapal pesiar itu beda — format, bahasa, sampai cara nulis pengalaman kerja.\nGoGlobal AI Pro bisa generate CV + Cover ",
-      "permalink": "https://www.threads.com/@goglobal.ai/post/DfrzJFhmzD7",
-      "timestamp": "2026-11-13T14:02:41+0000",
-      "metrics": {
-        "views": 90,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
